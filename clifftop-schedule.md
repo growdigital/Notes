@@ -1,6 +1,6 @@
 # Clifftop schedule 📆
 
-[Home](https://www.grwd.uk/clifftop) • [Schedule](https://www.grwd.uk/clifftop-schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants)
+[Home](https://notes.grwd.uk/clifftop) • [Schedule](https://notes.grwd.uk/clifftop-schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants)
 
 1. Design - November
 2. Plant purchase - December
@@ -10,4 +10,4 @@
 6. Pergola - April
 7. Bench - April
 
-This page online: <https://www.grwd.uk/clifftop-schedule>
+This page online: <https://notes.grwd.uk/clifftop-schedule>
