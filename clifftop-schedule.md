@@ -10,4 +10,4 @@
 6. Pergola - April
 7. Bench - April
 
-This page online: <https://grwd.uk/clifftop-schedule>
+This page online: <https://www.grwd.uk/clifftop-schedule>
