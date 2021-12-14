@@ -21,11 +21,11 @@ The colour scheme is pinks, purples, reds and white.
 
 ![color palette](https://res.cloudinary.com/growdigital/image/upload/v1638358952/clifftop/palette.png)
 
-There’s no access to the lower level, so it is covered with low-maintenance and shrubs, with a small specimen ornamental tree. The rock face is laid with [erosion control roll](https://www.green-tech.co.uk/ground-reinforcement/erosion-control/covamat-plus-erosion-control-rolls) and planted with non-competitive fescue grass for binding the soil and native wild flowers, both as plugs
+There’s no access to the lower level, so it is covered with low-maintenance and shrubs, with a small specimen ornamental tree. The rock face is laid with [erosion control roll](https://www.green-tech.co.uk/ground-reinforcement/erosion-control/covamat-plus-erosion-control-rolls) and planted with non-competitive fescue grass for binding the soil and native wild flowers.
 
 ![Cornus kousa flowers](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638360597/clifftop/cornus-kousa-munich.jpg)
 
-Below the house is a steep slope, covering an area of about 8m by 3m. Replacing the Buddleia at the top will be colourful hedge for privacy, with relaxed planting below of ferns and other woodland plants.
+Below the house is a steep slope, covering an area of about 8m by 3m. Replacing the Buddleia at the top will be a colourful hedge for privacy, with relaxed planting below of ferns and other woodland plants.
 
 ![Tapestry Lawn](https://res.cloudinary.com/growdigital/image/upload/w_640/v1638361818/clifftop/tapestry-lawn-avondale.jpg)
 
