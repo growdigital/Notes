@@ -1,6 +1,6 @@
 # Clifftop schedule 📆
 
-[Home](https://bit.ly/clifftop-garden) • [Schedule](https://bit.ly/clifftop-schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) 
+[Home](https://www.grwd.uk/clifftop) • [Schedule](https://www.grwd.uk/clifftop-schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants)
 
 1. Design - November
 2. Plant purchase - December
