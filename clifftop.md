@@ -51,7 +51,7 @@ Below the house is a steep slope, covering an area of about 8m by 3m. Replacing 
 ![Wooden bench](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638359898/clifftop/211116-bench.jpg)
 ![Erosion control roll on bank on stream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1639481528/clifftop/erosion-control-roll.jpg)
 
-## Tapestry Lawn species
+## Tapestry Lawn species
 
 Scented, full sun or part shade.
 
