@@ -106,4 +106,4 @@ _Sketch of Clifftop Garden from the road_
 * [OS map](https://github.com/growdigital/clifftop/blob/main/os.png)
 * [GitHub repository](https://github.com/growdigital/clifftop)
 
-This page online: <https://bit.ly/clifftop-garden>
+This page online: <https://grwd.uk/clifftop>
