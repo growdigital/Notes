@@ -20,7 +20,7 @@ Colourful, fruitful, delightful & useful forest garden for school children and t
 
 ![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
 
-[Nature Works livestream playlist!](https://www.youtube.com/c/natureworksgarden)
+I will make the occasional livestream video about the work in progress, and there will be a link here when I do that. In the meantime, here’s my [YouTube channel](https://www.youtube.com/c/natureworksgarden)!
 
 ## Files
 
