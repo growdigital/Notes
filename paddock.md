@@ -24,9 +24,7 @@ Aims of the project.
 
 ## Files
 
-* [Latest PDF](paddock.pdf)
-* [Latest CAD](paddock.dxf)
-* [Satellite](satellite.jpg)
-* [GitHub repository](https://github.com/growdigital/Notes)
+* [Latest PDF](https://github.com/growdigital/paddock/blob/main/paddock.pdf)
+* [GitHub repository](https://github.com/growdigital/paddock)
 
 This page online: <https://notes.grwd.uk/paddock>
