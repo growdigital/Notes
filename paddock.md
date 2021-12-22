@@ -2,13 +2,13 @@
 
 [Home](https://notes.grwd.uk/paddock) • [Schedule](https://notes.grwd.uk/paddock-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/) • [Plants↗](https://bit.ly/natureworks-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1640208551/paddock/paddock-screenshot-begin.jpg)
 
-Description of the site.
+1½ acre south-facing paddock on clay, converted to an ornamental, low maintenance, wildlife, food forest garden.
 
 ## Aim
 
-Aims of the project.
+Create an abundance of habitat and species in an aesthetically pleasing fashion, and definitely low maintenance.
 
 ## Features
 
@@ -20,7 +20,7 @@ Aims of the project.
 
 ![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
 
-[Nature Works livestream playlist!](https://www.youtube.com/c/natureworksgarden)
+[Progress videos online](https://bit.ly/paddock-playlist)
 
 ## Files
 
