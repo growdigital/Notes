@@ -1,4 +1,4 @@
-# Template home 🏡
+# Paddock home 🏡
 
 [Home](https://notes.grwd.uk/paddock) • [Schedule](https://notes.grwd.uk/paddock-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/) • [Plants↗](https://bit.ly/natureworks-plants)
 
