@@ -89,8 +89,9 @@ Fragrant plants, evergreen shrubs, perennial insect-friendly wild flowers…
 * [Cornus kousa](https://pfaf.org/user/plant.aspx?latinname=Cornus+kousa)
 * [Bloody Dogwood](https://pfaf.org/user/plant.aspx?latinname=Cornus+sanguinea)
 
-![Pen sketch of cartoon trees & shrubs](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)<br>
-_Sketch of Clifftop Garden from the road_
+![Pen sketch of cartoon trees & shrubs from road](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)
+![Pen sketch of view of garden from upstairs window](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1639671308/clifftop/sketch-view-window.jpg)
+![Pen sketch of view from pergola](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1639770289/clifftop/pergoal-view-sketch.jpg)
 
 ## Videos
 
