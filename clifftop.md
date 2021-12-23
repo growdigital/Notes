@@ -89,9 +89,14 @@ Fragrant plants, evergreen shrubs, perennial insect-friendly wild flowers…
 * [Cornus kousa](https://pfaf.org/user/plant.aspx?latinname=Cornus+kousa)
 * [Bloody Dogwood](https://pfaf.org/user/plant.aspx?latinname=Cornus+sanguinea)
 
-![Pen sketch of cartoon trees & shrubs from road](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)
-![Pen sketch of view of garden from upstairs window](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1639671308/clifftop/sketch-view-window.jpg)
-![Pen sketch of view from pergola](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1639770289/clifftop/pergoal-view-sketch.jpg)
+## Sketches
+
+![Pen sketch of cartoon trees & shrubs from road](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)<br>
+_View of garden from road_
+![Pen sketch of view of garden from upstairs window](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639671308/clifftop/sketch-view-window.jpg)<br>
+_View east from upstairs window_
+![Pen sketch of view from pergola](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639770289/clifftop/pergoal-view-sketch.jpg)<br>
+_View down valley from pergola_
 
 ## Videos
 
