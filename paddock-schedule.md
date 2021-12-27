@@ -1,4 +1,4 @@
-# Paddock home 🏡
+# Paddock schedule 📆
 
 [Home](https://notes.grwd.uk/paddock) • [Schedule](https://notes.grwd.uk/paddock-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/paddock) • [Plants↗](https://bit.ly/paddock-plants)
 
