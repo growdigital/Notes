@@ -129,7 +129,7 @@ Site is south-facing with clay soil, woodland scrub to the north, neighbours to 
 * Mowing & pruning
 * Sketch road map ahead
 
-## Questions
+## Questions & Answers
 
 * to optimise wildlife (fauna and flora)
 > diversity of habitat & species, native where possible for _biomass_ ie hedging
