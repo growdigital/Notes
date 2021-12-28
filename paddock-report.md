@@ -12,7 +12,7 @@ Site is east-facing with clay soil, woodland scrub to the north, neighbours to t
 2. Low maintenance & sustainable
 3. Optimise aesthetics & screening
 
-[![Sketch with highlighters on map](https://res.cloudinary.com/growdigital/image/upload/w_481/v1640646954/paddock/paddock-highlighter.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1640646954/paddock/paddock-highlighter.jpg)
+[![Sketch with highlighters on map](https://res.cloudinary.com/growdigital/image/upload/w_520/v1640646954/paddock/paddock-highlighter.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1640646954/paddock/paddock-highlighter.jpg)
 
 ## 2. Features
 
