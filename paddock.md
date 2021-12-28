@@ -4,7 +4,7 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1640208551/paddock/paddock-screenshot-begin.jpg)
 
-1½ acre south-facing paddock on clay, converted to an ornamental, low maintenance, wildlife, food forest garden.
+1½ acre east-facing paddock on clay, converted to an ornamental, low maintenance, wildlife, food forest garden.
 
 ## Aim
 
