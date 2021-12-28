@@ -4,27 +4,10 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1640208551/paddock/paddock-screenshot-begin.jpg)
 
-1½ acre south-facing paddock on clay, converted to an ornamental, low maintenance, wildlife, food forest garden.
+* Wk 01 - Mon 3 Jan
+    * Do one thing
+    * Do another thing
+* Wk 02 - Mon 10 Jan
+    * Second week thing
 
-## Aim
-
-Create an abundance of habitat and species in an aesthetically pleasing fashion, and definitely low maintenance.
-
-## Features
-
-* Wildlife pond
-* “Coffee & Cocktails” seating areas
-* Rainwater harvesting
-
-## Videos
-
-![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
-
-[Progress videos online](https://bit.ly/paddock-playlist)
-
-## Files
-
-* [Latest PDF](https://github.com/growdigital/paddock/blob/main/paddock.pdf)
-* [GitHub repository](https://github.com/growdigital/paddock)
-
-This page online: <https://notes.grwd.uk/paddock>
+This page online: <https://notes.grwd.uk/paddock-schedule>
