@@ -4,7 +4,7 @@
 
 Create a wildlife, ornamental and food forest garden design from a 1½ acre paddock with a £10,000 budget. Provide a foundational road map, including detailed planting plans, species list and budget breakdown. Naturalistic planting with subtle symmetry & well-situated seating.
 
-Site is south-facing with clay soil, woodland scrub to the north, neighbours to the east, road to the south, house to the west.  
+Site is east-facing with clay soil, woodland scrub to the north, neighbours to the east, road to the south, house to the west.  
 
 ## 1. Key requirements
 
