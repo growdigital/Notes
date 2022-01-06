@@ -1,5 +1,24 @@
 # Clifftop notes 🗓
 
+## Electric breaker
+
+* https://www.jewson.co.uk/p/electric-road-demolition-breaker-with-trolley-JTH02710
+
+## Burncoose guides
+
+* https://www.burncoose.co.uk/site/content.cfm?ref=Hamamelis+Growing+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Arbutus+-+Care+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Mahonia+-+Growing+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Myrtus+-+Growing+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Rosmarinus+-+Care+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Shrubby%29+-+Care+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Aronia+-+Growing+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Climbing%29+-+Care+Guide
+* https://www.burncoose.co.uk/site/content.cfm?ref=Vaccinium+-+Growing+Guide
+* 
+
+## David Austen roses
+
 * https://www.davidaustinroses.co.uk/products/silas-marner
 * https://www.davidaustinroses.co.uk/products/wild-edric
 * https://www.davidaustinroses.co.uk/products/harlow-carr
