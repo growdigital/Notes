@@ -91,9 +91,9 @@ Fragrant plants, evergreen shrubs, perennial insect-friendly wild flowers…
 
 ## Sketches
 
-![Pen sketch of cartoon trees & shrubs from road](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)
-![Pen sketch of view of garden from upstairs window](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639671308/clifftop/sketch-view-window.jpg)
-![Pen sketch of view from pergola](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639770289/clifftop/pergoal-view-sketch.jpg)
+![Pen sketch of cartoon trees & shrubs from road](https://res.cloudinary.com/growdigital/image/upload/w_478,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)
+![Pen sketch of view of garden from upstairs window](https://res.cloudinary.com/growdigital/image/upload/w_478,bo_1px_solid_gray/v1639671308/clifftop/sketch-view-window.jpg)
+![Pen sketch of view from pergola](https://res.cloudinary.com/growdigital/image/upload/w_478,bo_1px_solid_gray/v1639770289/clifftop/pergoal-view-sketch.jpg)
 
 ## Videos
 
