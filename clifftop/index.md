@@ -1,6 +1,6 @@
 # Clifftop Garden 🏡
 
-[Home](https://notes.grwd.uk/clifftop) • [Schedule](https://notes.grwd.uk/clifftop-schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) 
+[Home](https://notes.grwd.uk/clifftop/) • [Schedule](https://notes.grwd.uk/clifftop/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) 
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 ![Pink rose](https://res.cloudinary.com/growdigital/image/upload/w_320/v1631308259/rhug/rose-james-galway.jpg)  
