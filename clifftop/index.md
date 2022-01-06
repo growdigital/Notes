@@ -3,7 +3,7 @@
 [Home](https://notes.grwd.uk/clifftop/) • [Schedule](https://notes.grwd.uk/clifftop/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) 
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
-![Pink rose](https://res.cloudinary.com/growdigital/image/upload/w_320/v1631308259/rhug/rose-james-galway.jpg)  
+![Pink rose](https://res.cloudinary.com/growdigital/image/upload/w_320/v1641465235/clifftop/harlow-carr-david-austen-flower.jpg)  
 
 The modern detached house is hewn out of the steeply sloping valley, with a steep cliff edge to the north and east.
 
@@ -91,12 +91,9 @@ Fragrant plants, evergreen shrubs, perennial insect-friendly wild flowers…
 
 ## Sketches
 
-![Pen sketch of cartoon trees & shrubs from road](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)<br>
-_View of garden from road_
-![Pen sketch of view of garden from upstairs window](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639671308/clifftop/sketch-view-window.jpg)<br>
-_View east from upstairs window_
-![Pen sketch of view from pergola](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639770289/clifftop/pergoal-view-sketch.jpg)<br>
-_View down valley from pergola_
+![Pen sketch of cartoon trees & shrubs from road](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1638886105/clifftop/clifftop-sketch-from-road.png)
+![Pen sketch of view of garden from upstairs window](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639671308/clifftop/sketch-view-window.jpg)
+![Pen sketch of view from pergola](https://res.cloudinary.com/growdigital/image/upload/w_480,bo_1px_solid_gray/v1639770289/clifftop/pergoal-view-sketch.jpg)
 
 ## Videos
 
