@@ -9,5 +9,3 @@
 5. Fencing - April
 6. Pergola - April
 7. Bench - April
-
-This page online: <https://notes.grwd.uk/clifftop-schedule>
