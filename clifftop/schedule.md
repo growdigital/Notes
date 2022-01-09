@@ -6,18 +6,19 @@
 
 * Wk 02 - Mon 10 Jan
     1. Mon 10
+        * Phone Oly
         * Order plants
         * Order breaker
         * Debramble
         * Scythe grass
-        * Dig paths
+        * Deturf paths
     2. Tue 11
         * Spread turf grass
         * Line path
         * Pick up breaker
     3. Wed 12
         * Crush concrete
-        * Concrete on path
+        * Store concrete on pergola
         * Order top soil & bark
     4. Thu 13
         * Get cardboard
@@ -26,9 +27,8 @@
         * Bark on soil
         * Plant out
 * Wk 03 - Mon 17 Jan
-    1. Mon 17
-        * Plant out
-        * Weed bank
+    * Plant out
+    * Weed bank
 
 ## Original outline
 
