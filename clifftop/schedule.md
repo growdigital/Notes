@@ -14,18 +14,17 @@
         * Deturf paths
     2. Tue 11
         * Spread turf grass
-        * Line path
         * Pick up breaker
-    3. Wed 12
-        * Crush concrete
+        * Break concrete
         * Store concrete on pergola
-        * Order top soil & bark
-    4. Thu 13
+    3. Wed 12
+        * Order top soil & bark? Depends
         * Get cardboard
         * Top soil on cardboard
-    5. Fri 14
+    4. Thu 13
         * Bark on soil
         * Plant out
+    5. Fri 14
 * Wk 03 - Mon 17 Jan
     * Plant out
     * Weed bank
