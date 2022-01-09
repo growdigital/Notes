@@ -6,29 +6,30 @@
 
 * Wk 02 - Mon 10 Jan
     1. Mon 10
-        * Phone Oly
-        * Order plants
-        * Order breaker
-        * Debramble
-        * Scythe grass
-        * Deturf paths
+        * [ ] Phone Oly
+        * [ ] Order plants
+        * [ ] Order breaker
+        * [ ] Debramble
+        * [ ] Scythe grass
+        * [ ] Deturf paths
     2. Tue 11
-        * Spread turf grass
-        * Pick up breaker
-        * Break concrete
-        * Store concrete on pergola
+        * [ ] Spread turf grass
+        * [ ] Pick up breaker
+        * [ ] Break concrete
+        * [ ] Store concrete on pergola
     3. Wed 12
-        * Order top soil & bark? Depends on soil mound, path soil & mulch from Leylandii & Buddleia
-        * Get cardboard
-        * Dig paths
-        * Top soil on cardboard
+        * [ ] Order top soil & bark? Depends on soil mound, path soil & mulch from Leylandii & Buddleia
+        * [ ] Get cardboard
+        * [ ] Dig paths
+        * [ ] Top soil on cardboard
     4. Thu 13
-        * Bark on soil
-        * Plant out
+        * [ ] Bark on soil
+        * [ ] Plant out
     5. Fri 14
 * Wk 03 - Mon 17 Jan
-    * Plant out
-    * Weed bank
+    * [ ] Clear slope
+    * [ ] Plant out
+    * [ ] Weed bank
 
 ## Original outline
 
