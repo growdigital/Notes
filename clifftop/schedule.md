@@ -18,8 +18,9 @@
         * Break concrete
         * Store concrete on pergola
     3. Wed 12
-        * Order top soil & bark? Depends
+        * Order top soil & bark? Depends on soil mound, path soil & mulch from Leylandii & Buddleia
         * Get cardboard
+        * Dig paths
         * Top soil on cardboard
     4. Thu 13
         * Bark on soil
