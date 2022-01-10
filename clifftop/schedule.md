@@ -9,9 +9,9 @@
         * [x] Phone Oly
         * [x] Order plants
         * [x] Order breaker
-        * [ ] Debramble
-        * [ ] Scythe grass
-        * [ ] Deturf paths
+        * [x] Debramble
+        * [x] Scythe grass
+        * [x] Deturf paths
         * [ ] Spread turf grass
     2. Tue 11
         * [ ] Pick up breaker
