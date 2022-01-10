@@ -6,9 +6,9 @@
 
 * Wk 02 - Mon 10 Jan
     1. Mon 10
-        * [ ] Phone Oly
+        * [x] Phone Oly
         * [x] Order plants
-        * [ ] Order breaker
+        * [x] Order breaker
         * [ ] Debramble
         * [ ] Scythe grass
         * [ ] Deturf paths
