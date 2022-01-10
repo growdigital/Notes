@@ -12,9 +12,11 @@
         * [ ] Debramble
         * [ ] Scythe grass
         * [ ] Deturf paths
-    2. Tue 11
         * [ ] Spread turf grass
+    2. Tue 11
         * [ ] Pick up breaker
+        * [ ] Pick up cardboard
+        * [ ] Penrallt nursery remaining plants
         * [ ] Break concrete
         * [ ] Store concrete on pergola
     3. Wed 12
