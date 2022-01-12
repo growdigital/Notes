@@ -14,20 +14,26 @@
         * [x] Deturf paths
         * [ ] Spread turf grass
     2. Tue 11
-        * [ ] Pick up breaker
-        * [ ] Pick up cardboard
-        * [ ] Penrallt nursery remaining plants
-        * [ ] Break concrete
-        * [ ] Store concrete on pergola
+        * [x] Pick up breaker
+        * [x] Pick up cardboard
+        * [x] Penrallt nursery remaining plants
+        * [x] Break concrete
+        * [x] Store concrete on pergola
     3. Wed 12
-        * [ ] Order top soil & bark? Depends on soil mound, path soil & mulch from Leylandii & Buddleia
-        * [ ] Get cardboard
-        * [ ] Dig paths
-        * [ ] Top soil on cardboard
+        * [x] Move turf
+        * [x] Break concrete
+        * [x] Return breaker
     4. Thu 13
+        * [ ] Move concrete
+        * [ ] Move turf
+        * [ ] Drive down cardboard
+        * [ ] Order top soil & bark?
+        * [ ] Top soil on cardboard
+        * [ ] Dig paths
         * [ ] Bark on soil
         * [ ] Plant out
     5. Fri 14
+        * [ ] Plant out
 * Wk 03 - Mon 17 Jan
     * [ ] Clear slope
     * [ ] Plant out
