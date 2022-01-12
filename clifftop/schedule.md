@@ -12,27 +12,27 @@
         * [x] Debramble
         * [x] Scythe grass
         * [x] Deturf paths
-        * [ ] Spread turf grass
     2. Tue 11
         * [x] Pick up breaker
         * [x] Pick up cardboard
         * [x] Penrallt nursery remaining plants
         * [x] Break concrete
         * [x] Store concrete on pergola
+        * [x] Spread turf grass
     3. Wed 12
         * [x] Move turf
         * [x] Break concrete
         * [x] Return breaker
     4. Thu 13
-        * [ ] Move concrete
-        * [ ] Move turf
         * [ ] Drive down cardboard
-        * [ ] Order top soil & bark?
+        * [ ] Move concrete
+        * [ ] Spread turf grass
+        * [ ] Spread cardboard
         * [ ] Top soil on cardboard
         * [ ] Dig paths
-        * [ ] Bark on soil
-        * [ ] Plant out
     5. Fri 14
+        * [ ] Bark delivery
+        * [ ] Bark on soil
         * [ ] Plant out
 * Wk 03 - Mon 17 Jan
     * [ ] Clear slope
