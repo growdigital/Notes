@@ -24,17 +24,18 @@
         * [x] Break concrete
         * [x] Return breaker
     4. Thu 13
-        * [ ] Drive down cardboard
-        * [ ] Move concrete
-        * [ ] Spread turf grass
-        * [ ] Spread cardboard
-        * [ ] Top soil on cardboard
-        * [ ] Dig paths
+        * [x] Drive down cardboard
+        * [x] Move concrete
+        * [x] Spread turf grass
+        * [x] Spread cardboard
+        * [ ] ~~Dig paths~~
     5. Fri 14
-        * [ ] Bark delivery
+        * [ ] Top soil compost mix deliver home
+        * [ ] Top soil on cardboard
         * [ ] Bark on soil
         * [ ] Plant out
 * Wk 03 - Mon 17 Jan
+    * [ ] Bark delivery
     * [ ] Clear slope
     * [ ] Plant out
     * [ ] Weed bank
