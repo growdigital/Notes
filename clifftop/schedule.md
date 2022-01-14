@@ -31,18 +31,18 @@
         * [ ] ~~Dig paths~~
     5. Fri 14
         * [x] Clear space delivery
-        * [ ] Sort stones
-        * [ ] Debramble Shelf
-        * [ ] Deturf Tapestry Lawn
-        * [ ] Top soil mix deliver home
-        * [ ] Move top soil mix onsite
-        * [ ] Top soil mix on cardboard
+        * [x] Sort stones
+        * [x] Debramble Shelf
+        * [x] Top soil mix deliver home
 * Wk 03 - Mon 17 Jan
     1. Mon 17
+        * [ ] Move top soil mix onsite
+        * [ ] Top soil mix on cardboard
+        * [ ] Deturf Tapestry Lawn
         * [ ] Cardboard on Shelf
+    2. Tue 18
         * [ ] Bark delivery
         * [ ] Bark on soil
-    2. Tue 18
         * [ ] Clear Bank
         * [ ] Clear Slope Buddleia
         * [ ] Weed slope
