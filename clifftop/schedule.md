@@ -30,15 +30,44 @@
         * [x] Spread cardboard
         * [ ] ~~Dig paths~~
     5. Fri 14
-        * [ ] Top soil compost mix deliver home
-        * [ ] Top soil on cardboard
-        * [ ] Bark on soil
-        * [ ] Plant out
+        * [x] Clear space delivery
+        * [ ] Sort stones
+        * [ ] Debramble Shelf
+        * [ ] Deturf Tapestry Lawn
+        * [ ] Top soil mix deliver home
+        * [ ] Move top soil mix onsite
+        * [ ] Top soil mix on cardboard
 * Wk 03 - Mon 17 Jan
-    * [ ] Bark delivery
-    * [ ] Clear slope
-    * [ ] Plant out
-    * [ ] Weed bank
+    1. Mon 17
+        * [ ] Cardboard on Shelf
+        * [ ] Bark delivery
+        * [ ] Bark on soil
+    2. Tue 18
+        * [ ] Clear Bank
+        * [ ] Clear Slope Buddleia
+        * [ ] Weed slope
+        * [ ] Plant out Mahonia
+    3. Wed 19
+        * [ ] Paul Onsite
+            * [ ] Fell Leylandii
+            * [ ] Saw trunk for Slope retainer
+            * [ ] Saw stumps x3
+            * [ ] Mulch Leylandii & Buddleia (Shelf?)
+        * [ ] Slope
+            * [ ] Build up Slope for 'Big Apple'
+            * [ ] Metal pegs for retainer?
+            * [ ] Fill retainer top soil mix
+            * [ ] Plant out Slope Dogwood
+    4. Thu 20
+        * [ ] Weed bank
+        * [ ] Plant out Main Garden
+    5. Fri 21
+        * [ ] Plant out Main Garden
+* Wk 04 - Mon 24 Jan
+    1. Mon 24
+        * [ ] Plant out Bank
+    2. Tue 25
+        * [ ] Weed Cliff
 
 ## Original outline
 
