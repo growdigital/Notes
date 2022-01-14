@@ -24,9 +24,9 @@ Aims of the project.
 
 ## Files
 
-* [Latest PDF](template.pdf)
-* [Latest CAD](template.dxf)
-* [Satellite](satellite.jpg)
-* [GitHub repository](https://github.com/growdigital/Notes)
+* [Download latest PDF](https://github.com/growdigital/template/blob/main/template.pdf)
+* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/template/blob/main/template.dxf)
+* [Satellite image](https://github.com/growdigital/template/blob/main/satellite.jpg)
+* [GitHub repository](https://github.com/growdigital/template)
 
 This page online: <https://notes.grwd.uk/template>

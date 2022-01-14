@@ -103,10 +103,10 @@ Fragrant plants, evergreen shrubs, perennial insect-friendly wild flowers…
 
 ## Files
 
-* [Latest PDF](https://github.com/growdigital/clifftop/blob/main/clifftop.pdf)
-* [Latest CAD](https://downgit.github.io/#/home?url=https://github.com/growdigital/clifftop/blob/main/clifftop.dxf)
-* [Satellite](https://github.com/growdigital/clifftop/blob/main/satellite.jpg)
-* [OS map](https://github.com/growdigital/clifftop/blob/main/os.png)
+* [Download latest PDF](https://github.com/growdigital/clifftop/blob/main/clifftop.pdf)
+* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/clifftop/blob/main/clifftop.dxf)
+* [Satellite image](https://github.com/growdigital/clifftop/blob/main/satellite.jpg)
+* [OS map image](https://github.com/growdigital/clifftop/blob/main/os.png)
 * [GitHub repository](https://github.com/growdigital/clifftop)
 
 This page online: <https://notes.grwd.uk/clifftop>
