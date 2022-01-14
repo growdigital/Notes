@@ -60,14 +60,15 @@
             * [ ] Plant out Slope Dogwood
     4. Thu 20
         * [ ] Weed bank
-        * [ ] Plant out Main Garden
+        * [ ] Plant out Bank
     5. Fri 21
-        * [ ] Plant out Main Garden
+        * [ ] Weed Cliff
 * Wk 04 - Mon 24 Jan
     1. Mon 24
-        * [ ] Plant out Bank
+        * [ ] Pick up plants Swansea
+        * [ ] Plant out Main Garden
     2. Tue 25
-        * [ ] Weed Cliff
+        * [ ] Plant out Main Garden
 
 ## Original outline
 
