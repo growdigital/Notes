@@ -36,9 +36,11 @@
         * [x] Top soil mix deliver home
 * Wk 03 - Mon 17 Jan
     1. Mon 17
+        * [ ] Chop & move Buddleia
+        * [ ] Add cardboard Main
         * [ ] Move top soil mix onsite
         * [ ] Top soil mix on cardboard
-        * [ ] Deturf Tapestry Lawn
+        * [ ] Deturf Tapestry Lawn?
         * [ ] Cardboard on Shelf
     2. Tue 18
         * [ ] Bark delivery
@@ -59,6 +61,7 @@
             * [ ] Fill retainer top soil mix
             * [ ] Plant out Slope Dogwood
     4. Thu 20
+        * Away morning
         * [ ] Weed bank
         * [ ] Plant out Bank
     5. Fri 21
@@ -68,6 +71,8 @@
         * [ ] Pick up plants Swansea
         * [ ] Plant out Main Garden
     2. Tue 25
+        * [ ] Plant out Main Garden
+    3. Wed 26
         * [ ] Plant out Main Garden
 
 ## Original outline
