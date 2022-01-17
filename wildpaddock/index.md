@@ -1,4 +1,4 @@
-# Paddock home 🏡
+# Wild Paddock home 🏡
 
 [Home](https://notes.grwd.uk/wildpaddock/) • [Schedule](https://notes.grwd.uk/wildpaddock/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildpaddock) • [Plants↗](https://bit.ly/wildpaddock-plants)
 
