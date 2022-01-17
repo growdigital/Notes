@@ -1,6 +1,6 @@
 # Wild Paddock schedule 📆
 
-[Home](https://notes.grwd.uk/paddock/) • [Schedule](https://notes.grwd.uk/paddock/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/paddock) • [Plants↗](https://bit.ly/paddock-plants)
+[Home](https://notes.grwd.uk/paddock/) • [Schedule](https://notes.grwd.uk/paddock/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/wild-paddock/) • [Plants↗](https://bit.ly/paddock-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1640208551/paddock/paddock-screenshot-begin.jpg)
 
