@@ -33,28 +33,28 @@
         * [x] Clear space delivery
         * [x] Sort stones
         * [x] Debramble Shelf
+        * [x] Chop & move Buddleia
         * [x] Top soil mix deliver home
 * Wk 03 - Mon 17 Jan
     1. Mon 17
-        * [ ] Chop & move Buddleia
-        * [ ] Add cardboard Main
-        * [ ] Move top soil mix onsite
-        * [ ] Top soil mix on cardboard
-        * [ ] Deturf Tapestry Lawn?
-        * [ ] Cardboard on Shelf
+        * [x] Add cardboard Main
+        * [x] Move top soil mix onsite
+        * [x] Top soil mix on cardboard
     2. Tue 18
-        * [ ] Bark delivery
-        * [ ] Bark on soil
-        * [ ] Clear Bank
-        * [ ] Clear Slope Buddleia
-        * [ ] Weed slope
-        * [ ] Plant out Mahonia
+        * [x] Add cardboard Main
+        * [x] Move top soil mix onsite
+        * [x] Top soil mix on cardboard
     3. Wed 19
+        * [ ] Deturf Tapestry Lawn
+        * [ ] Pick up trailer top soil mix
+        * [ ] Clear Slope Buddleia
         * [ ] Paul Onsite
             * [ ] Fell Leylandii
             * [ ] Saw trunk for Slope retainer
             * [ ] Saw stumps x3
             * [ ] Mulch Leylandii & Buddleia (Shelf?)
+        * [ ] Bark delivery
+        * [ ] Bark on soil
         * [ ] Slope
             * [ ] Build up Slope for 'Big Apple'
             * [ ] Metal pegs for retainer?
@@ -62,7 +62,10 @@
             * [ ] Plant out Slope Dogwood
     4. Thu 20
         * Away morning
-        * [ ] Weed bank
+        * [ ] Weed slope
+        * [ ] Plant out Mahonia
+        * [ ] Cardboard on Shelf
+        * [ ] Weed Bank
         * [ ] Plant out Bank
     5. Fri 21
         * [ ] Weed Cliff
