@@ -1,6 +1,6 @@
 # Wild Paddock report 📝
 
-[Home](https://notes.grwd.uk/paddock/) • [Schedule](https://notes.grwd.uk/paddock/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/wild-paddock/) • [Plants↗](https://bit.ly/paddock-plants)
+[Home](https://notes.grwd.uk/wildpaddock/) • [Schedule](https://notes.grwd.uk/wildpaddock/schedule/) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/wildpaddock/) • [Plants↗](https://bit.ly/wildpaddock-plants)
 
 Create a wildlife, ornamental and food forest garden design from a 1½ acre paddock with a £10,000 budget. Provide a foundational road map, including detailed planting plans, species list and budget breakdown. Naturalistic planting with subtle symmetry & well-situated seating.
 

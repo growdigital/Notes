@@ -4,6 +4,49 @@
 
 ## Landscaping
 
+* Wk 04 - Mon 24 Jan
+    1. Mon 24
+        * [ ] Pick up plants Swansea
+        * [ ] Trailer, move Buddleia cuttings
+    2. Tue 25
+        * [ ] Pick up trailer top soil mix
+        * [ ] Extra sleeper from Bernie
+        * [ ] Bark on soil
+        * [ ] Cardboard on Shelf
+        * [ ] Deturf bank
+    3. Wed 26
+        * [ ] Plant out Bank hedge
+        * [ ] Plant out Bank ground cover
+        * [ ] Plant out Slope Mahonia
+    4. Thu 27
+        * [ ] Plant out Main Garden
+    5. Fri 28
+        * [ ] Deturf Tapestry Lawn
+        * [ ] Weed Cliff
+        * [ ] Who’s building Slope retainer for Dogwood?
+* Wk 03 - Mon 17 Jan
+    1. Mon 17
+        * [x] Add cardboard Main
+        * [x] Move top soil mix onsite
+        * [x] Top soil mix on cardboard
+    2. Tue 18
+        * [x] Add cardboard Main
+        * [x] Move top soil mix onsite
+        * [x] Top soil mix on cardboard
+    3. Wed 19
+        * [x] Paul Onsite
+            * [x] Fell Leylandii
+            * [x] Saw trunk for Slope retainer
+            * [x] Saw stumps x3
+            * [ ] ~~Mulch Leylandii & Buddleia (Shelf?)~~
+        * [x] Bark delivery
+    4. Thu 20
+        * Away morning
+        * [x] Weed Bank
+    5. Fri 21
+        * [x] Weed slope
+        * [x] Clear Slope Buddleia
+        * [x] Kill Buddleia
 * Wk 02 - Mon 10 Jan
     1. Mon 10
         * [x] Phone Oly
@@ -35,48 +78,7 @@
         * [x] Debramble Shelf
         * [x] Chop & move Buddleia
         * [x] Top soil mix deliver home
-* Wk 03 - Mon 17 Jan
-    1. Mon 17
-        * [x] Add cardboard Main
-        * [x] Move top soil mix onsite
-        * [x] Top soil mix on cardboard
-    2. Tue 18
-        * [x] Add cardboard Main
-        * [x] Move top soil mix onsite
-        * [x] Top soil mix on cardboard
-    3. Wed 19
-        * [ ] Deturf Tapestry Lawn
-        * [ ] Pick up trailer top soil mix
-        * [ ] Clear Slope Buddleia
-        * [ ] Paul Onsite
-            * [ ] Fell Leylandii
-            * [ ] Saw trunk for Slope retainer
-            * [ ] Saw stumps x3
-            * [ ] Mulch Leylandii & Buddleia (Shelf?)
-        * [ ] Bark delivery
-        * [ ] Bark on soil
-        * [ ] Slope
-            * [ ] Build up Slope for 'Big Apple'
-            * [ ] Metal pegs for retainer?
-            * [ ] Fill retainer top soil mix
-            * [ ] Plant out Slope Dogwood
-    4. Thu 20
-        * Away morning
-        * [ ] Weed slope
-        * [ ] Plant out Mahonia
-        * [ ] Cardboard on Shelf
-        * [ ] Weed Bank
-        * [ ] Plant out Bank
-    5. Fri 21
-        * [ ] Weed Cliff
-* Wk 04 - Mon 24 Jan
-    1. Mon 24
-        * [ ] Pick up plants Swansea
-        * [ ] Plant out Main Garden
-    2. Tue 25
-        * [ ] Plant out Main Garden
-    3. Wed 26
-        * [ ] Plant out Main Garden
+
 
 ## Original outline
 
