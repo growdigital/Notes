@@ -20,7 +20,7 @@ Aims of the project.
 
 ![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
 
-[Nature Works livestream playlist!](https://www.youtube.com/c/natureworksgarden)
+[Nature Works livestream playlist!](https://www.youtube.com/natureworksgarden)
 
 ## Files
 
