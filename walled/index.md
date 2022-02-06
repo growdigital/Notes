@@ -2,7 +2,7 @@
 
 [Home](https://notes.grwd.uk/walled/) • [Schedule](https://notes.grwd.uk/walled/schedule/) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644150159/walled/satellite-initial.jpg)
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644150159/walled/satellite.jpg)
 
 Description of the site.
 
@@ -26,7 +26,7 @@ Aims of the project.
 
 * [Download latest PDF](https://github.com/growdigital/walled/blob/main/walled.pdf)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/walled/blob/main/walled.dxf)
-* [Satellite image](https://github.com/growdigital/template/blob/main/satellite.jpg)
-* [GitHub repository](https://github.com/growdigital/template)
+* [Satellite image](https://github.com/growdigital/walled/blob/main/satellite.jpg)
+* [GitHub repository](https://github.com/growdigital/walled/)
 
 This page online: <https://notes.grwd.uk/template>
