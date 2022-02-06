@@ -29,4 +29,4 @@ Aims of the project.
 * [Satellite image](https://github.com/growdigital/walled/blob/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/walled/)
 
-This page online: <https://notes.grwd.uk/template>
+This page online: <https://notes.grwd.uk/walled>
