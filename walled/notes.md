@@ -1,6 +1,6 @@
-# Clifftop notes 🗓
+# Walled notes 🗓
 
-[Home](https://notes.grwd.uk/walled/) • [Schedule](https://notes.grwd.uk/walled/schedule/) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
+[Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
 ## Maps
 
@@ -8,3 +8,17 @@ National Library of Scotland
 * <https://maps.nls.uk/geo/explore/#zoom=16.950043159634873&lat=55.21576&lon=-3.72178&layers=5&b=1>
 * <https://maps.nls.uk/view/74426662>
 
+## Other
+
+* Rick Hudson, <https://cresswater.co.uk> reed beds & wetlands
+
+## Schedule
+
+* Winter 2022/23 - plant windbreaks & canopy
+* Spring 2028 - Lee moves to UK
+
+## List of things to survey
+
+1. Measurements
+2. Check where paths are
+3. 

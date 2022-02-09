@@ -1,6 +1,6 @@
 # Walled Garden 🏡
 
-[Home](https://notes.grwd.uk/walled/) • [Schedule](https://notes.grwd.uk/walled/schedule/) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
+[Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644150159/walled/satellite.jpg)
 
@@ -29,4 +29,4 @@ Aims of the project.
 * [Satellite image](https://github.com/growdigital/walled/blob/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/walled/)
 
-This page online: <https://notes.grwd.uk/walled>
+This page online: [notes.grwd.uk/walled](https://notes.grwd.uk/walled/)
