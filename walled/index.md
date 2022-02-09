@@ -27,6 +27,8 @@ Aims of the project.
 * [Download latest PDF](https://github.com/growdigital/walled/blob/main/walled.pdf)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/walled/blob/main/walled.dxf)
 * [Satellite image](https://github.com/growdigital/walled/blob/main/satellite.jpg)
+* [Old map](https://github.com/growdigital/walled/blob/main/map-old.jpg)
+* [Contour map](https://github.com/growdigital/walled/blob/main/map-contour.jpg)
 * [GitHub repository](https://github.com/growdigital/walled/)
 
 This page online: [notes.grwd.uk/walled](https://notes.grwd.uk/walled/)
