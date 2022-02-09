@@ -2,6 +2,9 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Instructions for client site visit
+
+
 ## History
 
 > probably created by Thomas Kirkpatrick 1st baronet when he had Closeburn mansion built sometime in the mid 1600’s
