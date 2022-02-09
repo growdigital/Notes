@@ -4,8 +4,6 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644150159/walled/satellite.jpg)
 
-Description of the site.
-
 ## Aim
 
 Create a modern day, wild flower, food forest garden in a 17th century 2 acre walled garden in Scotland. Naturalistic planting designed in sympathy with and softening the edges of the original formal structure. Create wildlife pond and different rooms/areas. The main goal is food and beauty.
