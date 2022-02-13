@@ -4,6 +4,25 @@
 
 ## Landscaping
 
+* Wk 15 - Mon 11 Apr
+    1. Mon 11
+        * [ ] Plant remaining herbacious perennials
+        * [ ] Plant rose for pergola
+* Wk 14 - Mon 04 Apr
+    1. David installs fencing
+    2. David installs pergola
+* Wk 10 - Mon 07 Mar
+    1. Mon 07
+        * [ ] Plant herbaceous perennials
+    3. Tue 08
+        * [ ] De-grass Shelf bank
+        * [ ] De-grass entrance bank
+    2. Wed 09
+        * [ ] Mulch Shelf with bark
+        * [ ] Plant Periwinkle ground cover
+        * [ ] Plant Blackcurrant, Dogwood, Aronia on Shelf
+* Wk 09 - Mon 28 Feb
+    1. Oly creates paths
 * Wk 04 - Mon 24 Jan
     1. Mon 24
         * [ ] Pick up plants Swansea

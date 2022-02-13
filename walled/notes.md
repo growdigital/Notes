@@ -9,6 +9,11 @@
 
 > probably created by Thomas Kirkpatrick 1st baronet when he had Closeburn mansion built sometime in the mid 1600’s
 
+<https://en.wikipedia.org/wiki/Kirkpatrick_baronets>
+
+<https://web.archive.org/web/20070319214029/http://www.myclan.com/clans/Kirkpatrick_238/default.php>
+
+
 ## Maps
 
 National Library of Scotland 
