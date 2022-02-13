@@ -12,13 +12,15 @@ Colourful, fruitful, delightful & useful. A wildlife food forest garden for my l
 
 * Autumn colour for art projects
 * Native wild flowers for wildlife
+* Recycled, low fertility substrates for low maintenance wild flowers
+* Recycled substrates for paths
 * Rainwater harvesting
 
 ## Videos
 
-![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
+![![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)](https://bit.ly/primary-playlist)
 
-I will make the occasional livestream video about the work in progress, and there will be a link here when I do that. In the meantime, here’s my [YouTube channel](https://www.youtube.com/c/natureworksgarden)!
+Occasional livestream video about the work in progress, here’s the [YouTube playlist](https://bit.ly/primary-playlist)!
 
 ## Files
 
