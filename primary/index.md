@@ -4,11 +4,9 @@
 
 ![Screenshot of satellite photo](https://res.cloudinary.com/growdigital/image/upload/w_320/v1639577757/primary/satellite.jpg)
 
-Primary school
-
 ## Aim
 
-Colourful, fruitful, delightful & useful forest garden for school children and teachers.
+Colourful, fruitful, delightful & useful. A wildlife food forest garden for my local primary school, for the children and teachers. 
 
 ## Features
 
