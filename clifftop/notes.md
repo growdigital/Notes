@@ -5,42 +5,42 @@
 
 ## Electric breaker
 
-* https://www.jewson.co.uk/p/electric-road-demolition-breaker-with-trolley-JTH02710
+* <https://www.jewson.co.uk/p/electric-road-demolition-breaker-with-trolley-JTH02710>
 
 ## Burncoose guides
 
-* https://www.burncoose.co.uk/site/content.cfm?ref=Hamamelis+Growing+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Arbutus+-+Care+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Mahonia+-+Growing+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Myrtus+-+Growing+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Rosmarinus+-+Care+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Shrubby%29+-+Care+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Aronia+-+Growing+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Climbing%29+-+Care+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Vaccinium+-+Growing+Guide 
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Hamamelis+Growing+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Arbutus+-+Care+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Mahonia+-+Growing+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Myrtus+-+Growing+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Rosmarinus+-+Care+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Shrubby%29+-+Care+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Aronia+-+Growing+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Climbing%29+-+Care+Guide>
+* <https://www.burncoose.co.uk/site/content.cfm?ref=Vaccinium+-+Growing+Guide >
 
 ## David Austen roses
 
-* https://www.davidaustinroses.co.uk/products/silas-marner
-* https://www.davidaustinroses.co.uk/products/wild-edric
-* https://www.davidaustinroses.co.uk/products/harlow-carr
-* https://www.davidaustinroses.co.uk/products/eustacia-vye
-* https://www.davidaustinroses.co.uk/products/centifolia
-* https://www.davidaustinroses.co.uk/products/ispahan
-* https://www.davidaustinroses.co.uk/products/maiden-s-blush
+* <https://www.davidaustinroses.co.uk/products/silas-marner>
+* <https://www.davidaustinroses.co.uk/products/wild-edric>
+* <https://www.davidaustinroses.co.uk/products/harlow-carr>
+* <https://www.davidaustinroses.co.uk/products/eustacia-vye>
+* <https://www.davidaustinroses.co.uk/products/centifolia>
+* <https://www.davidaustinroses.co.uk/products/ispahan>
+* <https://www.davidaustinroses.co.uk/products/maiden-s-blush>
 
 
 Grasses
-* https://www.knollgardens.co.uk/product/sesleria-caerulea/
+* <https://www.knollgardens.co.uk/product/sesleria-caerulea/>
 
 Hemp Agrimony 1.5m x 1m
 
 Sage for cooking!
 
-* https://bit.ly/tapestry-lawn-natives
-* https://bit.ly/clifftop-garden
-* https://www.wikihow.com/Bend-Wood
-* https://www.instagram.com/gaininggroundnursery/
+* <https://bit.ly/tapestry-lawn-natives>
+* <https://bit.ly/clifftop-garden>
+* <https://www.wikihow.com/Bend-Wood>
+* <https://www.instagram.com/gaininggroundnursery/>
 
 Bank 30m²
 
@@ -58,19 +58,16 @@ Drea
 * White Clover
 
 
-https://www.monarchgard.com/thedeepmiddle/the-not-so-fine-art-of-mixing-plugs-with-seeds
-
-Erosion control roll
-https://www.green-tech.co.uk/ground-reinforcement/erosion-control/covamat-plus-erosion-control-rolls
-
-Forbs
-Grass, sedge, rush
-
+* <https://www.monarchgard.com/thedeepmiddle/the-not-so-fine-art-of-mixing-plugs-with-seeds>
+* Erosion control roll
+* <https://www.green-tech.co.uk/ground-reinforcement/erosion-control/covamat-plus-erosion-control-rolls>
+* Forbs
+* Grass, sedge, rush
 
 Ornamental blueberry! x3
 
 £16.99 for 3 x 9cm pots 
-https://www.onbuy.com/gb/myrtus-communis-tarentina-myrtle-young-plant-sent-in-9cm-pot-x-3-pots~c13975~p24970537/
+<https://www.onbuy.com/gb/myrtus-communis-tarentina-myrtle-young-plant-sent-in-9cm-pot-x-3-pots~c13975~p24970537/>
 x 4 = 12 plants, £68
 
 
@@ -79,7 +76,7 @@ burnoose £12 each 7 * £84 + postage = £100
 
 
 £16.99 for 3 x 9cm pots 
-https://www.onbuy.com/gb/myrtus-communis-tarentina-myrtle-young-plant-sent-in-9cm-pot-x-3-pots~c13975~p24970537/
+<https://www.onbuy.com/gb/myrtus-communis-tarentina-myrtle-young-plant-sent-in-9cm-pot-x-3-pots~c13975~p24970537/>
 x 4 = 12 plants, £68
 
 
@@ -90,7 +87,7 @@ burnoose £12 each 7 * £84 + postage = £100
 Desert Mint - Mentha longifolia subsp. schimperi
 
 Fuchsia (Hardy) magellanica 'Logan Woods' 1.2m - something 1.5m 
-https://www.farmyardnurseries.co.uk/shop/Fuchsia-Hardy-magellanica-Logan-Woods-M21699
+<https://www.farmyardnurseries.co.uk/shop/Fuchsia-Hardy-magellanica-Logan-Woods-M21699>
 
 F. 'Thompsonii' 1.5m
 F. 'Floriade' 1.5m
@@ -104,10 +101,10 @@ Fennel
 Low hedge:
 Honeyberry
 Myrtus communis subsp. tarentina 
-https://www.burncoose.co.uk/site/plants.cfm?pl_id=2979
+<https://www.burncoose.co.uk/site/plants.cfm?pl_id=2979>
 Fuchsia magellanica 'Floriade'
 Aronia x prunifolia 'Aron'
-https://www.thompson-morgan.com/p/aronia-x-prunifolia-aron/T66055TM
+<https://www.thompson-morgan.com/p/aronia-x-prunifolia-aron/T66055TM>
 
 Aronia x prunifolia 'Autumn Magic' 1.5 x 2m
 
@@ -133,15 +130,15 @@ Hedge Woundwort
 Valerian
 
 Giant Hyssop
-https://hayloft.co.uk/product/agastache-blue-boa/yp205c13
+<https://hayloft.co.uk/product/agastache-blue-boa/yp205c13>
 Nepeta
 Creeping Dogwood - for slope?
-https://hayloft.co.uk/product/cornus-canadensis/pt308e17
+<https://hayloft.co.uk/product/cornus-canadensis/pt308e17>
 Sweet Woodruff
-https://hayloft.co.uk/product/galium-odoratum/pt316f19
+<https://hayloft.co.uk/product/galium-odoratum/pt316f19>
 Chinese Jasmine
 Hamamelis Feuerzauber
-https://hayloft.co.uk/product/hamamelis-intermedia-feuerzauber/pt27hif01-in21
+<https://hayloft.co.uk/product/hamamelis-intermedia-feuerzauber/pt27hif01-in21>
 
 Snowdrops
 Crocus
@@ -151,16 +148,16 @@ Arbutus unedo - corner tree
 February - Oly
 April - David
 
-https://www.hedgingplantsdirect.co.uk/hedging-plants/dogwood-hedging
+<https://www.hedgingplantsdirect.co.uk/hedging-plants/dogwood-hedging>
 
 wood chip mulch
-https://s3.wp.wsu.edu/uploads/sites/403/2015/03/wood-chips.pdf
+<https://s3.wp.wsu.edu/uploads/sites/403/2015/03/wood-chips.pdf>
 
 £136 25m²
-https://www.britishhardwood.co.uk/biodegradable-jute-and-hessian-weed-mat-rolls
+<https://www.britishhardwood.co.uk/biodegradable-jute-and-hessian-weed-mat-rolls>
 
 £120 40 m²
-https://fabricland.co.uk/product/hessian-fabric-thick/
+<https://fabricland.co.uk/product/hessian-fabric-thick/>
 
 Paul Toft, tree felling
 chip branches & leaves
@@ -184,12 +181,12 @@ lawn private
 * Hang on wire
 * Water via 
 
-## Lawn
+## Lawn
 
 * Tapestry lawn
-* Bee Friendly Lawn, Growing Greener podcast https://www.arboretum.umn.edu/UserFiles/File/Bee%20Lawn%20info%20for%20Arb%20website%20.pdf
+* Bee Friendly Lawn, Growing Greener podcast <https://www.arboretum.umn.edu/UserFiles/File/Bee%20Lawn%20info%20for%20Arb%20website%20.pdf>
 
-## Plants
+## Plants
 
 3 x cornus kousa 100
 60 x bare root hedging 120
