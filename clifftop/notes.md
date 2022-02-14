@@ -17,8 +17,7 @@
 * https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Shrubby%29+-+Care+Guide
 * https://www.burncoose.co.uk/site/content.cfm?ref=Aronia+-+Growing+Guide
 * https://www.burncoose.co.uk/site/content.cfm?ref=Lonicera+%28Climbing%29+-+Care+Guide
-* https://www.burncoose.co.uk/site/content.cfm?ref=Vaccinium+-+Growing+Guide
-* 
+* https://www.burncoose.co.uk/site/content.cfm?ref=Vaccinium+-+Growing+Guide 
 
 ## David Austen roses
 
