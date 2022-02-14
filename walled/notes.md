@@ -29,8 +29,4 @@ National Library of Scotland
 * Winter 2022/23 - plant windbreaks & canopy
 * Spring 2028 - Lee moves to UK
 
-## List of things to survey
 
-1. Measurements
-2. Check where paths are
-3. 
