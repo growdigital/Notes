@@ -1,5 +1,8 @@
 # Clifftop notes 🗓
 
+* Crushed concrete for creeping Thyme'Russetings', less weeding
+* Collect water in water butt from Bernie's garage roof, for watering with hose
+
 ## Electric breaker
 
 * https://www.jewson.co.uk/p/electric-road-demolition-breaker-with-trolley-JTH02710
