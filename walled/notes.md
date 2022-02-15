@@ -18,6 +18,7 @@
 
 National Library of Scotland 
 * <https://maps.nls.uk/geo/explore/#zoom=16.950043159634873&lat=55.21576&lon=-3.72178&layers=5&b=1>
+* <https://maps.nls.uk/geo/explore/#zoom=18&lat=55.21534&lon=-3.71743&layers=5&b=1>
 * <https://maps.nls.uk/view/74426662>
 
 ## Other

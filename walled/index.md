@@ -35,7 +35,7 @@ Create a modern day, wild flower, food forest garden in a 17th century 2 acre wa
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)](https://bit.ly/walled-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644954115/walled/introducing-screenshot.jpg)](https://bit.ly/walled-playlist)
 
 [Walled Garden YouTube playlist](https://bit.ly/walled-playlist)
 

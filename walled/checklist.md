@@ -30,19 +30,22 @@
 
 ## 2. Elements
 
-* [ ] Water
-* [ ] [Earth](https://www.gardenersworld.com/plants/find-out-your-soil-type/) — soil type, soil acidity  
-[Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
-* [ ] Wind, prevailing
-* [ ] Sun
-* [ ] Climate
+* [ ] Water — running water, collecting water, natural ponds, 
+* [ ] [Earth](https://www.gardenersworld.com/plants/find-out-your-soil-type/) — soil type, soil acidity
+    * [ ] [Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
+    * [ ] [Scotland's Soils](https://soils.environment.gov.scot/)
+* [ ] Wind, prevailing - south-westerly? [Meteoblue](https://www.meteoblue.com/en/weather/archive/windrose/closeburn_united-kingdom_2652788), [Weather Underground (Dunscore Snade Station)](https://www.wunderground.com/weather/gb/thornhill)
+* [ ] Sun — [SunSurveyor](https://www.sunsurveyor.com/) photos from centre, North, East & West doorways, at equinox & winter solstice
+* [ ] Climate on [Meteoblue](https://www.meteoblue.com/en/climate-change/closeburn_united-kingdom_2652788)
 
 ## 3. Features
 
 * [ ] Existing plants 
-* [ ] Utilities
-* [ ] Structures
-* [ ] Access
+* [ ] Utilities — water, sew
+* [ ] Structures — house, outbuildings, to the north
+* [ ] Listed building! <https://portal.historicenvironment.scot/designation/LB4010>
+* [ ] [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts)
+* [ ] Access — 4 gates into garden
 
 ## 4. Situation
 
@@ -64,3 +67,7 @@ _Click for full size image_
 * **Alluvial_pal** series belongs to the peaty alluvial soils major soil subgroup. It is a poorly drained alluvial soil with a peaty surface layer. This series covers 30 % of the unit.
 * **Yarrow** series belongs to the brown earths major soil subgroup. It is a well drained soil with bright colours and a mineral topsoil, generally sandy. This series covers 35 % of the unit.
 * Information from [Know Your Soils](https://www.fas.scot/downloads/dumfries-soil-nutrient-network-meeting-soil-texture-presentation-joanna-cloy-sruc/) presentation
+
+### Wind rose from [Meteoblue](https://www.meteoblue.com/en/weather/archive/windrose/closeburn_united-kingdom_2652788)
+
+![Wind rose](https://res.cloudinary.com/growdigital/image/upload/w_420v1644936986/walled/wind-rose.png)
