@@ -6,6 +6,9 @@
 * [Surveyors tape 100m](https://www.amazon.co.uk/Draper-Tools-51091-Fibreglass-Surveyors/dp/B00UNJTP2W/)
 * [Tree spade](https://www.amazon.co.uk/Spear-Jackson-Agricultural-Planting-Rabbiting/dp/B000KKQW48/)
 * [Sun Surveyor app](https://www.sunsurveyor.com/) - screenshots from key points at equinox & winter solstice
+* Jam jars for soil test!
+* Soil acidity kit
+* Local farmers co-op for [NPK]() test
 * Paths - locate them!
 * Measurements
 * Photos - mark up on map position!
@@ -28,7 +31,8 @@
 ## 2. Elements
 
 * [ ] Water
-* [ ] Earth
+* [ ] [Earth](https://www.gardenersworld.com/plants/find-out-your-soil-type/) — soil type, soil acidity  
+[Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
 * [ ] Wind, prevailing
 * [ ] Sun
 * [ ] Climate
@@ -47,3 +51,16 @@
 * [ ] Smell
 * [ ] Pollution
 
+## Notes
+
+### Soil Information for Scottish Soils results
+
+[![Screenshot of soil test results](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644934948/walled/soil-information-for-scottish-soils.png)](https://res.cloudinary.com/growdigital/image/upload/v1644934948/walled/soil-information-for-scottish-soils.png)  
+_Click for full size image_
+
+#### Cultivated soils:
+
+* **Basin Peat** is a type of peat. It is a poorly drained lowland peat soil with no mineral layer within 50 cm of the surface. This series covers 35 % of the unit.
+* **Alluvial_pal** series belongs to the peaty alluvial soils major soil subgroup. It is a poorly drained alluvial soil with a peaty surface layer. This series covers 30 % of the unit.
+* **Yarrow** series belongs to the brown earths major soil subgroup. It is a well drained soil with bright colours and a mineral topsoil, generally sandy. This series covers 35 % of the unit.
+* Information from [Know Your Soils](https://www.fas.scot/downloads/dumfries-soil-nutrient-network-meeting-soil-texture-presentation-joanna-cloy-sruc/) presentation
