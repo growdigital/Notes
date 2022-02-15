@@ -41,7 +41,7 @@
 ## 3. Features
 
 * [ ] Existing plants 
-* [ ] Utilities — water, sew
+* [ ] Utilities — water, sewage, telephone, electricity
 * [ ] Structures — house, outbuildings, to the north
 * [ ] Listed building! <https://portal.historicenvironment.scot/designation/LB4010>
 * [ ] [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts)
