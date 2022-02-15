@@ -70,4 +70,4 @@ _Click for full size image_
 
 ### Wind rose from [Meteoblue](https://www.meteoblue.com/en/weather/archive/windrose/closeburn_united-kingdom_2652788)
 
-![Wind rose](https://res.cloudinary.com/growdigital/image/upload/w_420v1644936986/walled/wind-rose.png)
+![Wind rose](https://res.cloudinary.com/growdigital/image/upload/w_420/v1644936986/walled/wind-rose.png)
