@@ -13,8 +13,8 @@
 * [Sun Surveyor app](https://www.sunsurveyor.com/) - screenshots from key points at equinox & winter solstice
 * Jam jars for soil test!
 * [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
-* Soil acidity kit
-* Local farmers co-op for [NPK]() test
+* Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
+* Local farmers co-op for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
 * Paths - locate them!
 * Measurements
 * Photos - mark up on map position!
@@ -30,21 +30,26 @@
 ## 3. Elements
 
 * [ ] Water — running water, collecting water, natural ponds, 
-* [ ] [Earth](https://www.gardenersworld.com/plants/find-out-your-soil-type/) — soil type, soil acidity
-    * [ ] [Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
-    * [ ] [Scotland's Soils](https://soils.environment.gov.scot/)
-* [ ] Wind, prevailing - south-westerly? [Meteoblue](https://www.meteoblue.com/en/weather/archive/windrose/closeburn_united-kingdom_2652788), [Weather Underground (Dunscore Snade Station)](https://www.wunderground.com/weather/gb/thornhill)
+* [ ] [Soil](https://www.gardenersworld.com/plants/find-out-your-soil-type/), different locations
+    * [ ] Soil type ([Jar Test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/)) & [Texture Test](https://www.the-compost-gardener.com/soil-texture-testing.html)
+    * [ ] Soil pH test
+    * [ ] Soil nutrient profile
+    * [Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
+    * [Scotland's Soils](https://soils.environment.gov.scot/)
+* [ ] Wind — prevailing south-westerly?
+    * [Meteoblue](https://www.meteoblue.com/en/weather/archive/windrose/closeburn_united-kingdom_2652788)
+    * [Weather Underground (Dunscore Snade Station)](https://www.wunderground.com/weather/gb/thornhill)
 * [ ] Sun — [SunSurveyor](https://www.sunsurveyor.com/) photos from centre, North, East & West doorways, at equinox & winter solstice
 * [ ] Climate on [Meteoblue](https://www.meteoblue.com/en/climate-change/closeburn_united-kingdom_2652788)
 
 ## 4. Features
 
-* [ ] Existing plants 
+* [ ] Existing plants — identify different species, good indicator of conditions
 * [ ] Utilities — water, sewage, telephone, electricity
 * [ ] Structures — house, outbuildings, to the north
-* [ ] Listed building! <https://portal.historicenvironment.scot/designation/LB4010>
-* [ ] [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts)
-* [ ] Access — 4 gates into garden
+* Listed building! <https://portal.historicenvironment.scot/designation/LB4010>
+* [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts)
+* [ ] Access — mark access points
 
 ## 5. Situation
 
