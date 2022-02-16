@@ -41,7 +41,9 @@ Create a modern day, wild flower, food forest garden in a 17th century 2 acre wa
 
 ## Files
 
-* [Download latest PDF](https://github.com/growdigital/walled/blob/main/walled.pdf)
+* [PDF latest](https://github.com/growdigital/walled/blob/main/walled.pdf)
+* [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf)
+* [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/walled/blob/main/walled.dxf)
 * [Satellite image](https://github.com/growdigital/walled/blob/main/satellite.jpg)
 * [Old map](https://github.com/growdigital/walled/blob/main/map-old.jpg)

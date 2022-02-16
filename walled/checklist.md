@@ -11,7 +11,7 @@
 * [Surveyors tape 100m](https://www.amazon.co.uk/Draper-Tools-51091-Fibreglass-Surveyors/dp/B00UNJTP2W/)
 * [Tree spade](https://www.amazon.co.uk/Spear-Jackson-Agricultural-Planting-Rabbiting/dp/B000KKQW48/)
 * [Sun Surveyor app](https://www.sunsurveyor.com/) - screenshots from key points at equinox & winter solstice
-* Jam jars for soil test!
+* Jam jars for soil test & for soil samples
 * [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
 * Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
 * Local farmers co-op for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
@@ -27,9 +27,19 @@
 * [x] Altitude: 90m
 * [x] Slope, 6m/120m from NE corner to SW corner? See [map](https://github.com/growdigital/walled/blob/main/map-contour.jpg). Wood to E rises 30m/30m
 
+## 3. Measurements
+
+* Use [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf)
+* Length & width of walls
+* Dimensions of glasshouse
+* Position & width of doors
+* Position & width of paths. See [old garden map](https://github.com/growdigital/walled/blob/main/map-old.jpg) and [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf)
+. May require digging. 
+* Position & dimensions of buildings
+
 ## 3. Elements
 
-* [ ] Water — running water, collecting water, natural ponds, 
+* [ ] Water — running water, run-off, natural springs, pooling water, natural ponds etc
 * [ ] [Soil](https://www.gardenersworld.com/plants/find-out-your-soil-type/), different locations
     * [ ] Soil type ([Jar Test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/)) & [Texture Test](https://www.the-compost-gardener.com/soil-texture-testing.html)
     * [ ] Soil pH test
@@ -48,7 +58,7 @@
 * [ ] Utilities — water, sewage, telephone, electricity
 * [ ] Structures — house, outbuildings, to the north
 * Listed building! <https://portal.historicenvironment.scot/designation/LB4010>
-* [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts)
+* [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts), Dr Alastair Gair <president@dgnhas.org.uk>
 * [ ] Access — mark access points
 
 ## 5. Situation
