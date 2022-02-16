@@ -15,10 +15,6 @@
 * [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
 * Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
 * Local farmers co-op for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
-* Paths - locate them!
-* Measurements
-* Photos - mark up on map position!
-* Video
 
 ## 2. Position
 
@@ -29,7 +25,9 @@
 
 ## 3. Measurements
 
-* Use [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf)
+* Photos from access points & key features, all directions
+* Short 360 video clips of all locations
+* Use printout of [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf) for marking measurements
 * Length & width of walls
 * Dimensions of glasshouse
 * Position & width of doors
