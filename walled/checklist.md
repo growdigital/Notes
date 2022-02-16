@@ -2,9 +2,7 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
----
-
-## Contents
+### _Contents_
 
 [1. Kit](#1-kit) [2. Position](#2-position) [3. Elements](#3-elements) [4. Features](#4-features) [5. Situation](#5-situation)
 
