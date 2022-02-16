@@ -47,7 +47,7 @@
 * [ ] Wind — prevailing south-westerly?
     * [Meteoblue](https://www.meteoblue.com/en/weather/archive/windrose/closeburn_united-kingdom_2652788)
     * [Weather Underground (Dunscore Snade Station)](https://www.wunderground.com/weather/gb/thornhill)
-* [ ] Sun — [SunSurveyor](https://www.sunsurveyor.com/) photos from centre, North, East & West doorways, at equinox & winter solstice
+* [ ] Sun — [SunSurveyor](https://www.sunsurveyor.com/) photos from centre, N, E & W doorways, at equinox & winter solstice
 * [ ] Climate on [Meteoblue](https://www.meteoblue.com/en/climate-change/closeburn_united-kingdom_2652788)
 
 ## 4. Features
