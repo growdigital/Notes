@@ -8,13 +8,13 @@
 
 ## 1. Kit
 
-* [Surveyors tape 100m](https://www.amazon.co.uk/Draper-Tools-51091-Fibreglass-Surveyors/dp/B00UNJTP2W/)
-* [Tree spade](https://www.amazon.co.uk/Spear-Jackson-Agricultural-Planting-Rabbiting/dp/B000KKQW48/)
-* [Sun Surveyor app](https://www.sunsurveyor.com/) - screenshots from key points at equinox & winter solstice
-* Jam jars for soil test & for soil samples
-* [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
-* Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
-* [Tarff Agricultural Merchants](http://www.tarffvalley.co.uk/branches/) for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
+* [ ] [Surveyors tape 100m](https://www.amazon.co.uk/Draper-Tools-51091-Fibreglass-Surveyors/dp/B00UNJTP2W/)
+* [ ] [Tree spade](https://www.amazon.co.uk/Spear-Jackson-Agricultural-Planting-Rabbiting/dp/B000KKQW48/)
+* [ ] [Sun Surveyor app](https://www.sunsurveyor.com/) - screenshots from key points at equinox & winter solstice
+* [ ] Jam jars for soil test & for soil samples
+* [ ] [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
+* [ ] Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
+* [ ] [Tarff Agricultural Merchants](http://www.tarffvalley.co.uk/branches/) for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
 
 ## 2. Position
 
@@ -25,15 +25,15 @@
 
 ## 3. Measurements
 
-* Photos from access points & key features, all directions
-* Short 360 video clips of all locations
-* Use printout of [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf) for marking measurements
-* Length & width of walls
-* Dimensions of glasshouse
-* Position & width of doors
-* Position & width of paths. See [old garden map](https://github.com/growdigital/walled/blob/main/map-old.jpg) and [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf)
+* [ ] Photos from access points & key features, all directions
+* [ ] Short 360 video clips of all locations
+* [ ] Use printout of [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf) for marking measurements
+* [ ] Length & width of walls
+* [ ] Dimensions of glasshouse
+* [ ] Position & width of doors
+* [ ] Position & width of paths. See [old garden map](https://github.com/growdigital/walled/blob/main/map-old.jpg) and [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf)
 . May require digging. 
-* Position & dimensions of buildings
+* [ ] Position & dimensions of buildings
 
 ## 3. Elements
 
