@@ -10,7 +10,7 @@
 
 * [ ] [Surveyors tape 100m](https://www.amazon.co.uk/Draper-Tools-51091-Fibreglass-Surveyors/dp/B00UNJTP2W/)
 * [ ] [Tree spade](https://www.amazon.co.uk/Spear-Jackson-Agricultural-Planting-Rabbiting/dp/B000KKQW48/)
-* [ ] [Sun Surveyor app](https://www.sunsurveyor.com/) - screenshots from key points at equinox & winter solstice
+* [ ] [Sun Surveyor app](https://www.sunsurveyor.com/)
 * [ ] Jam jars for soil test & for soil samples
 * [ ] [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
 * [ ] Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
