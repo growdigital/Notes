@@ -4,7 +4,7 @@
 
 ### _Contents_
 
-[1. Kit](#1-kit) [2. Position](#2-position) [3. Elements](#3-elements) [4. Features](#4-features) [5. Situation](#5-situation)
+[1. Kit](#1-kit) • [2. Position](#2-position) • [3. Elements](#3-elements) • [4. Features](#4-features) • [5. Situation](#5-situation)
 
 ## 1. Kit
 
