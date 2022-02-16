@@ -2,11 +2,19 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+---
+
+## Contents
+
+[1. Kit](#1-kit) [2. Position](#2-position) [3. Elements](#3-elements) [4. Features](#4-features) [5. Situation](#5-situation)
+
+## 1. Kit
 
 * [Surveyors tape 100m](https://www.amazon.co.uk/Draper-Tools-51091-Fibreglass-Surveyors/dp/B00UNJTP2W/)
 * [Tree spade](https://www.amazon.co.uk/Spear-Jackson-Agricultural-Planting-Rabbiting/dp/B000KKQW48/)
 * [Sun Surveyor app](https://www.sunsurveyor.com/) - screenshots from key points at equinox & winter solstice
 * Jam jars for soil test!
+* [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
 * Soil acidity kit
 * Local farmers co-op for [NPK]() test
 * Paths - locate them!
@@ -14,21 +22,14 @@
 * Photos - mark up on map position!
 * Video
 
----
-
-1. Position
-2. Elements
-3. Features
-4. Situation
-
-## 1. Position
+## 2. Position
 
 * [x] Aspect: South facing
 * [x] Lat,Long: 55.216478, -3.717484
 * [x] Altitude: 90m
 * [x] Slope, 6m/120m from NE corner to SW corner? See [map](https://github.com/growdigital/walled/blob/main/map-contour.jpg). Wood to E rises 30m/30m
 
-## 2. Elements
+## 3. Elements
 
 * [ ] Water — running water, collecting water, natural ponds, 
 * [ ] [Earth](https://www.gardenersworld.com/plants/find-out-your-soil-type/) — soil type, soil acidity
@@ -38,7 +39,7 @@
 * [ ] Sun — [SunSurveyor](https://www.sunsurveyor.com/) photos from centre, North, East & West doorways, at equinox & winter solstice
 * [ ] Climate on [Meteoblue](https://www.meteoblue.com/en/climate-change/closeburn_united-kingdom_2652788)
 
-## 3. Features
+## 4. Features
 
 * [ ] Existing plants 
 * [ ] Utilities — water, sewage, telephone, electricity
@@ -47,14 +48,14 @@
 * [ ] [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts)
 * [ ] Access — 4 gates into garden
 
-## 4. Situation
+## 5. Situation
 
 * [ ] Privacy
 * [ ] Noise
 * [ ] Smell
 * [ ] Pollution
 
-## Notes
+## 6. Notes
 
 ### Soil Information for Scottish Soils results
 
