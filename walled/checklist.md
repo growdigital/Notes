@@ -37,14 +37,15 @@
 
 ## 3. Elements
 
-* [ ] Water — running water, run-off, natural springs, pooling water, natural ponds etc
 * [ ] [Soil](https://www.gardenersworld.com/plants/find-out-your-soil-type/), different locations
     * [ ] Soil type ([Jar Test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/)) & [Texture Test](https://www.the-compost-gardener.com/soil-texture-testing.html)
     * [ ] Soil pH test
     * [ ] Soil nutrient profile
     * [Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
     * [Scotland's Soils](https://soils.environment.gov.scot/)
-* [ ] Wind — prevailing south-westerly?
+* [ ] Water — running water, run-off, natural springs, pooling water, natural ponds etc
+* [ ] Wind & rainfall 
+    * [ ] prevailing south-westerly?
     * [Meteoblue](https://www.meteoblue.com/en/weather/archive/windrose/closeburn_united-kingdom_2652788)
     * [Weather Underground (Dunscore Snade Station)](https://www.wunderground.com/weather/gb/thornhill)
 * [ ] Sun — [SunSurveyor](https://www.sunsurveyor.com/) photos from centre, N, E & W doorways, at equinox & winter solstice
