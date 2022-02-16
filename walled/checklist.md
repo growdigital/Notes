@@ -14,7 +14,7 @@
 * Jam jars for soil test & for soil samples
 * [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
 * Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
-* Local farmers co-op for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
+* [Tarff Agricultural Merchants](http://www.tarffvalley.co.uk/branches/) for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
 
 ## 2. Position
 
