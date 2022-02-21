@@ -14,7 +14,7 @@
 * [ ] Jam jars for soil test & for soil samples
 * [ ] [Harrap’s Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472966483) book
 * [ ] Soil acidity [pH testing kit](https://www.amazon.co.uk/Testing-Moisture-acidity-Outdoor-Battery/dp/B09NVFX9RD)
-* [ ] [Tarff Agricultural Merchants](http://www.tarffvalley.co.uk/branches/) for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test
+* [ ] [Tarff Agricultural Merchants](http://www.tarffvalley.co.uk/branches/) for soil nutrient [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) test. £20 per test. They use [Lancrop](https://www.lancrop.com/#/analysisSoil)
 
 ## 2. Position
 
@@ -43,6 +43,7 @@
     * [ ] Soil nutrient profile
     * [Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
     * [Scotland's Soils](https://soils.environment.gov.scot/)
+    * [Valuing Your Soils](https://www.farmingandwaterscotland.org/downloads/valuing-your-soils-booklet-pdf/) PDF booklet — good overview
 * [ ] Water — running water, run-off, natural springs, pooling water, natural ponds etc
 * [ ] Wind & rainfall 
     * [ ] prevailing south-westerly?
@@ -59,6 +60,10 @@
 * Listed building! <https://portal.historicenvironment.scot/designation/LB4010>
 * [Dumfriesshire and Galloway Natural History and Antiquarian Society](http://www.dgnhas.org.uk/contacts), Dr Alastair Gair <president@dgnhas.org.uk> for possible history
 * [ ] Access — mark access points
+* [ ] Greenhouse
+    * [ ]  [Historic Environment Scotland](https://www.historicenvironment.scot/grants-and-funding/our-grants/) for grants
+    * [The Forest Garden Greenhouse](https://www.chelseagreen.com/product/the-forest-garden-greenhouse/) by Jerome Osentowski 
+    * Martin Crawford's [Online Forest Garden Greenhouse course](https://www.agroforestry.co.uk/online-forest-garden-greenhouse-course/)
 
 ## 5. Situation
 

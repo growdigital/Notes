@@ -3,9 +3,25 @@
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
 
+## Canmore historical photos
+
+* <https://canmore.org.uk>
+* [Closeburn Walled Garden](https://canmore.org.uk/search/image?SIMPLE_KEYWORD=closeburn%20walled%20garden)
+* [Closeburn Hall](https://canmore.org.uk/search/image?SIMPLE_KEYWORD=closeburn%20hall)
+* [Closeburn Mains](https://canmore.org.uk/search/image?SIMPLE_KEYWORD=closeburn%20mains)
+
+## Deer
+
+* <https://awaytogarden.com/dealing-with-deer-in-the-garden-with-brad-roeller/>
+
+## Soil analysis
+
+* Direct ProGreen <https://www.progreen.co.uk/fertilisers/soil-analysis> £40
+
 ## Greenhouse
 
 * Martin Crawford's [Online Forest Garden Greenhouse course](https://www.agroforestry.co.uk/online-forest-garden-greenhouse-course/)
+* [The Forest Garden Greenhouse](https://www.chelseagreen.com/product/the-forest-garden-greenhouse/) by Jerome Osentowski 
 
 ## History
 
@@ -22,6 +38,7 @@ National Library of Scotland
 * <https://maps.nls.uk/geo/explore/#zoom=16.950043159634873&lat=55.21576&lon=-3.72178&layers=5&b=1>
 * <https://maps.nls.uk/geo/explore/#zoom=18&lat=55.21534&lon=-3.71743&layers=5&b=1>
 * <https://maps.nls.uk/view/74426662>
+* [OS 25 inch 1892-1905](https://maps.nls.uk/geo/explore/#zoom=18&lat=55.21488&lon=-3.71684&layers=168&b=1)
 
 ## Other
 
@@ -32,4 +49,6 @@ National Library of Scotland
 * Winter 2022/23 - plant windbreaks & canopy
 * Spring 2028 - Lee moves to UK
 
+---
 
+* [Rewilding in Scotland](https://www.theguardian.com/travel/2022/feb/14/cairngorms-valley-scotland-rewilding-holiday)
