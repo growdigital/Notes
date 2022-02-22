@@ -52,10 +52,12 @@ _The well-read client!_ ☺️
 
 * [PDF latest](https://github.com/growdigital/walled/blob/main/walled.pdf)
 * [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf)
-* [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf)
+* [PDF 1843-1882 garden outline](https://github.com/growdigital/walled/blob/main/walled-1843-1882.pdf)
+* [PDF 1888-1913 garden outline](https://github.com/growdigital/walled/blob/main/walled-1888-1913.pdf)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/walled/blob/main/walled.dxf)
 * [Satellite image](https://github.com/growdigital/walled/blob/main/satellite.jpg)
-* [Old map](https://github.com/growdigital/walled/blob/main/map-old.jpg)
+* [1843-1882 map](https://github.com/growdigital/walled/blob/main/map-1843-1882.jpg)
+* [1888-1913 map](https://github.com/growdigital/walled/blob/main/map-1888-1913.jpg)
 * [Contour map](https://github.com/growdigital/walled/blob/main/map-contour.jpg)
 * [GitHub repository](https://github.com/growdigital/walled/)
 
