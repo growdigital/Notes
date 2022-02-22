@@ -10,6 +10,11 @@
 * [Closeburn Hall](https://canmore.org.uk/search/image?SIMPLE_KEYWORD=closeburn%20hall)
 * [Closeburn Mains](https://canmore.org.uk/search/image?SIMPLE_KEYWORD=closeburn%20mains)
 
+## Historical
+
+* Listed building! <https://portal.historicenvironment.scot/designation/LB4010>
+* [Historic Environment Scotland grants & funding](https://www.historicenvironment.scot/grants-and-funding/)
+
 ## Deer
 
 * <https://awaytogarden.com/dealing-with-deer-in-the-garden-with-brad-roeller/>

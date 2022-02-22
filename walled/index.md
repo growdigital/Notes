@@ -6,7 +6,7 @@
 
 ## Aim
 
-Create a low-maintenance, wild flower, food forest garden in an 18th century 2-acre walled garden in Scotland. Naturalistic planting designed in sympathy within the original formal structure. Create wildlife pond and different rooms and areas. The main goal is food and beauty.
+Create a low-maintenance, wild flower, food forest garden in an 18th century 2-acre walled garden in Scotland. Naturalistic planting designed in sympathy with the original formal structure. Create wildlife pond and different rooms and areas. The main goal is food and beauty.
 
 ## Site
 
