@@ -22,6 +22,10 @@
 
 * Martin Crawford's [Online Forest Garden Greenhouse course](https://www.agroforestry.co.uk/online-forest-garden-greenhouse-course/)
 * [The Forest Garden Greenhouse](https://www.chelseagreen.com/product/the-forest-garden-greenhouse/) by Jerome Osentowski 
+* [Climate Battery design](http://www.ecosystems-design.com/climate-batteries.html) on Jerome's website
+* [Climate Battery FAQ](http://www.ecosystems-design.com/faq.html)
+* [Climate Battery calculator](http://www.ecosystems-design.com/climate-battery-calculator.html)
+* [Copy of Climate Battery Calculator](https://bit.ly/climate-battery-calculator) on Google Sheets
 
 ## History
 
