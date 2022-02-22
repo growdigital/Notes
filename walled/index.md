@@ -35,6 +35,9 @@ Create a low-maintenance, wild flower, food forest garden in an 18th century 2-a
 
 ## Maintenance
 
+![15 forest garden books laid out on the floor](https://res.cloudinary.com/growdigital/image/upload/w_240/v1645539761/walled/the-well-read-client.jpg)  
+_The well-read client!_ ☺️
+
 * 3-4 times per year for 3 years
 * Increasing for 3 years
 * Full maintenance & creation at 6 years
