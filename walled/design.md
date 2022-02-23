@@ -15,5 +15,8 @@ The idea is to use the structure of the existing main paths, and then have circu
 * **Outbuildings** — for storage & processing.
 * **Slip gardens** — for more planting. Deer?
 
-![Old map](https://res.cloudinary.com/growdigital/image/upload/w_420/v1645568741/walled/map-1888-1913.jpg)
+![Simple isometric sketch of different areas in walled garden](https://res.cloudinary.com/growdigital/image/upload/w_480/v1645648085/walled/isometric-light-areas.png)  
+_Possible lighter areas, 1 to 4 is light to dark_
 
+![Old map](https://res.cloudinary.com/growdigital/image/upload/w_420/v1645568741/walled/map-1888-1913.jpg)
+_Old map 1888-1913, showing greater detail_
