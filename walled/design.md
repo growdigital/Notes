@@ -12,7 +12,7 @@ The idea is to use the structure of the existing main paths, and then have circu
 * **Veg beds** — because of the vastness of the site for one family, I’d recommend keeping a relatively small portion under more intensive cultivation, whether annual or perennial veg. Generally, it would be sited nearer to the dwelling, so it depends on where that's sited, either the existing house or the new build to the east.
 * **Central feature** — on the sketch, I've added a wildlife pond where the “dipping pond” would have been. This was a traditional feature for dipping watering cans. Alternatively, it could be a small tree, like a Strawberry Tree or a Stone Pine. Personally, I'm more drawn to the water as a central feature, as there’s more going on and it ties in with the history. If there’s the budget, I’d make a platform for wildlife pond dipping!
 * **Climate Battery Glasshouse** — question over cost. [Climate Battery Calculator](http://www.ecosystems-design.com/climate-battery-calculator.html)
-* **Outbuildings** — for storage & processing.
+* **Outbuildings** — for potting, storage & processing.
 * **Slip gardens** — for more planting. Deer?
 
 ![Simple isometric sketch of different areas in walled garden](https://res.cloudinary.com/growdigital/image/upload/w_480/v1645648085/walled/isometric-light-areas.png)  
