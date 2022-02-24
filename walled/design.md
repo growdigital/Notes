@@ -14,6 +14,7 @@ The idea is to use the structure of the existing main paths, and then have circu
 * **Climate Battery Glasshouse** — question over cost. [Climate Battery Calculator](http://www.ecosystems-design.com/climate-battery-calculator.html)
 * **Outbuildings** — for potting, storage & processing.
 * **Slip gardens** — for more planting. Deer?
+* **Maintenance** — mown grass paths, trees & shrubs plant for final size, permanent ground cover.
 
 ![Simple isometric sketch of different areas in walled garden](https://res.cloudinary.com/growdigital/image/upload/w_480/v1645648085/walled/isometric-light-areas.png)  
 _Possible lighter areas, 1 to 4 is light to dark_
