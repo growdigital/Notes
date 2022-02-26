@@ -31,9 +31,9 @@
 * [ ] Length & width of walls
 * [ ] Dimensions of glasshouse
 * [ ] Position & width of doors
-* [ ] Position & width of paths. See [old garden map](https://github.com/growdigital/walled/blob/main/map-old.jpg) and [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf)
-. May require digging. 
+* [ ] Position & width of paths. See [old garden map](https://github.com/growdigital/walled/blob/main/map-old.jpg) and [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf). May require digging. 
 * [ ] Position & dimensions of buildings
+* [ ] [Name the weeds!](https://www.agroecologynow.com/weeds-what-can-they-tell-us-about-our-soils/)
 
 ## 3. Elements
 
@@ -41,6 +41,7 @@
     * [ ] Soil type ([Jar Test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/)) & [Texture Test](https://www.the-compost-gardener.com/soil-texture-testing.html)
     * [ ] Soil pH test
     * [ ] Soil nutrient profile
+    * [ ] Check supply of local stone for stone features
     * [Soil Information for Scottish Soils](http://sifss.hutton.ac.uk/SSKIB_Stats.php)
     * [Scotland's Soils](https://soils.environment.gov.scot/)
     * [Valuing Your Soils](https://www.farmingandwaterscotland.org/downloads/valuing-your-soils-booklet-pdf/) PDF booklet — good overview
