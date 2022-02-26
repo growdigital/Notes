@@ -40,7 +40,7 @@ Below the house is a steep slope, covering an area of about 8m by 3m. Replacing 
 * Post and rail fence
 * Crafted 2 seater bench
 * Secret, east-facing seating area
-* Water feature (bowl?)
+* [Water feature (bowl?)](https://www.thepotco.com/shop/features/water-features/water-bowls/corten-steel-curved-water-bowl/)
 * [Tapestry Lawn](https://en.wikipedia.org/wiki/Tapestry_lawn), using [native species](https://bit.ly/tapestry-lawn-natives
 )
 * Slate stone piles
