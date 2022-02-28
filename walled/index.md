@@ -23,7 +23,7 @@ Create a low-maintenance, wild flower, food forest garden in an 18th century 2-a
 * Renovated glasshouse
 * Rectangular wildlife pond
 * Sunny socialising area
-* Bee hives
+* Bee hives (skeps?!)
 * Fire pit & star watching
 * Garden open in the middle
 * Central feature
@@ -32,6 +32,7 @@ Create a low-maintenance, wild flower, food forest garden in an 18th century 2-a
 * Mediterranean area
 * Sequence of windbreak hedges and “rooms”
 * Rainwater harvesting
+* Experiential seating areas, 6-10 of!
 
 ## Maintenance
 
