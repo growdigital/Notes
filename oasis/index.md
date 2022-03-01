@@ -2,6 +2,8 @@
 
 [Home](https://notes.grwd.uk/oasis/) • [Schedule](https://notes.grwd.uk/oasis/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/Oasis) • [Plants↗](https://bit.ly/oasis-plants)
 
+## “Wildlife Oasis Bordering on a Green Desert”
+
 ![Plan sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1646130870/oasis/oasis-plan-sketch.jpg)
 
 Concept entry for the [Countryside Borders Competition](https://www.lcgd.org.uk/belvoir-competition/) at [The Belvoir Castle Flower & Garden Show 2022](https://belvoircastleflowerandgardenshow.co.uk/), sponsored by the [London College of Garden Design](https://www.lcgd.org.uk/).
