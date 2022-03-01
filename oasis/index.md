@@ -12,6 +12,8 @@ Species extinction is driven by habitat loss, climate change and monocultural fa
 
 “Oasis Bordering a Green Desert’ attempts to include as many habitats & wild flowers as possible into a 2.4m² space.
 
+[![Montage of flowers](https://res.cloudinary.com/growdigital/image/upload/w_420/v1646130870/oasis/montage-0.2.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1646130870/oasis/montage-0.2.jpg)
+
 ## Habitats & food source
 
 * Native plants throughout
