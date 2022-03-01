@@ -3,6 +3,11 @@
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
 
+## Gabion
+
+* Gabion kits <https://www.gabion1.com.au/gabion-curved-wall-2/>
+* [How to build a CURVED gabion wall](https://gardendrum.com/2015/04/14/how-to-build-a-curved-gabion-wall/)
+
 ## Canmore historical photos
 
 * <https://canmore.org.uk>
