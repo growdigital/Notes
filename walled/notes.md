@@ -2,6 +2,20 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Footpaths
+
+* [Footpath widths](https://simp.ly/p/YSZNZB)
+    * 0.6m — 1 person only
+    * 0.9m — 2 people just
+    * 0.8m —1 pram only
+    * 1.15m — pram + child
+    * 1.2m — 2 people comfortably
+    * 1.7m — 2 prams or wheelchairs comfortably
+* Mowing width
+    * Oleo-Mac wheeled brush cutter **50cm** cutting width
+    * Main paths **1m** width
+    * With **1m** “verge“ of long grass
+    * **3m** total
 
 ## Gabion
 
