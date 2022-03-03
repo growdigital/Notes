@@ -2,6 +2,16 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Find My Shadow!
+
+* <https://findmyshadow.com/>
+* [Pinon Pine](https://pfaf.org/user/Plant.aspx?LatinName=Pinus+cembroides) 8m high alternative
+
+## Lat long
+
+Latitude 55.2154
+Longitude -3.7175
+
 ## Footpaths
 
 * [Footpath widths](https://simp.ly/p/YSZNZB)
