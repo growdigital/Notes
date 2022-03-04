@@ -12,7 +12,7 @@ Create a low-maintenance, wild flower, food forest garden in an 18th century 2-a
 
 ![Old map](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644428487/walled/map-old-169.jpg)
 
-* The walled garden is approx 90m x 90m, with 4m high walls
+* The walled garden is approx 90m x 90m, with 5m high walls
 * There is a house on the south west boundary of the site
 * An old glasshouse on the north boundary has potential for renovation
 
@@ -21,18 +21,20 @@ Create a low-maintenance, wild flower, food forest garden in an 18th century 2-a
 ![Old glasshouse against wall](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644428275/walled/glasshouse-frame-169.jpg)
 
 * Renovated glasshouse
-* Rectangular wildlife pond
+* Potting shed in frame yard?
+* Geometric wildlife pond
 * Sunny socialising area
-* Bee hives (skeps?!)
+* Bee hives
 * Fire pit & star watching
 * Garden open in the middle
 * Central feature
 * “Coffee & Cocktails” seating areas
-* No-dig annual vegetable plot, in front of greenhouse
+* Experiential seating areas, 6-10 of!
+* No-dig annual & perennial vegetable plot
 * Mediterranean area
+* Japanese Garden
 * Sequence of windbreak hedges and “rooms”
 * Rainwater harvesting
-* Experiential seating areas, 6-10 of!
 
 ## Maintenance
 
