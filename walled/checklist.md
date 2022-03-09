@@ -26,12 +26,13 @@
 ## 3. Measurements
 
 * [ ] Photos from access points & key features, all directions
-* [ ] Short 360° video clips of all locations
+* [ ] Photos of buildings (house, outbuildings, glasshouse, back sheds)
+* [ ] Short 360° video clips from major locations
 * [ ] Use printout of [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf) for marking measurements
-* [ ] Length & width of walls
+* [ ] Length, height & width of walls
 * [ ] Dimensions of glasshouse
-* [ ] Position & width of doors. Photos & video of doors, from both sides.
-* [ ] Position & width of paths. See [old garden map](https://github.com/growdigital/walled/blob/main/map-old.jpg) and [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf). May require digging. 
+* [ ] Position & width of doors. Photos & video of doors, from both sides. **NB** important for machinery.
+* [ ] Position & width of paths. See [old garden map](https://github.com/growdigital/walled/blob/main/map-old.jpg) and [PDF old garden outline](https://github.com/growdigital/walled/blob/main/walled-old.pdf). May require digging. **NB** How deep is the topsoil? Will affect what can be planted.
 * [ ] Position & dimensions of buildings
 * [ ] [Name the weeds!](https://www.agroecologynow.com/weeds-what-can-they-tell-us-about-our-soils/)
 
