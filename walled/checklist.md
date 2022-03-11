@@ -25,9 +25,10 @@
 
 ## 3. Measurements
 
-* [ ] Photos from access points & key features, all directions
-* [ ] Photos of buildings (house, outbuildings, glasshouse, back sheds)
-* [ ] Short 360° video clips from major locations
+* [ ] Photos & video from access points & key features, all directions
+* [ ] Photos & video of buildings (house, outbuildings, glasshouse, back sheds)
+* [ ] Photos & video of Frame Yard 
+* [ ] Short 360° video clips from 'pivotal' locations
 * [ ] Use printout of [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf) for marking measurements
 * [ ] Length, height & width of walls
 * [ ] Dimensions of glasshouse
