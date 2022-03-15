@@ -2,6 +2,14 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Lusi trip
+
+* Video entering garden from different entrances
+* Frame yard and boundary
+* Photo back shed(s)
+* Location of IBC and compost bays
+
+
 ## Survey notes — 13 Mar 2022
 
 > North south path 47,4 from west wall and 45,1 to the east wall. 
