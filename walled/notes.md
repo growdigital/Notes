@@ -2,6 +2,16 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Survey notes — 13 Mar 2022
+
+> North south path 47,4 from west wall and 45,1 to the east wall. 
+> Path width 8ft, measured near to the center of the garden
+> East west path 30,3m from the front entrance of the greenhouse, path is 8ft wide
+> Group of larger stones 5 to 10cm below the surface 49,2m to the south wall, 43,4 to the east wall, 51,7 to west wall, 33,8 to the door of the greenhouse, could of been part of a larger construction/central feature but it was really difficult to separate the turf and the stones. Picture below.
+> The Paths where made up of many small stones and it was not clear where the edges where really but I think they where about 8ft wide all around the edge of the garden and 9ft away from the wall. 
+> 1. Even though it rained quite a lot there where no water puddles in the garden.
+> 2. Even though my fathers has lost the measured sketch, he does remember that there was a circle in the middle, so not exactly like the old maps.
+
 ## Find My Shadow!
 
 * <https://findmyshadow.com/>

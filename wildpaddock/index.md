@@ -2,7 +2,7 @@
 
 [Home](https://notes.grwd.uk/wildpaddock/) • [Schedule](https://notes.grwd.uk/wildpaddock/schedule/) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/wildpaddock/) • [Plants↗](https://bit.ly/wildpaddock-plants)
 
-Create a wildlife, ornamental and food forest garden design from a 1½ acre paddock. Provide a foundational road map, including detailed planting plans, species list and budget breakdown. Naturalistic planting with subtle symmetry & well-situated seating.
+Consultation for creating a wildlife, ornamental and food forest garden design from a 1½ acre paddock. Provide a foundational road map, including detailed planting plans, species list and budget breakdown. Naturalistic planting with subtle symmetry & well-situated seating.
 
 [![Sketch with highlighters on map](https://res.cloudinary.com/growdigital/image/upload/w_520/v1640646954/wildpaddock/paddock-highlighter.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1640646954/wildpaddock/paddock-highlighter.jpg)
 

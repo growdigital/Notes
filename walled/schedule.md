@@ -8,7 +8,7 @@
 * Mar
     * Client survey 11 Mar
     * Update designs
-    * Site survey 28 Mar
+    * Site survey Thu 31 Mar
 * Apr
     * Final (sic) designs
 * Winter
