@@ -1,5 +1,12 @@
 # Clifftop notes 🗓
 
+## Plants
+
+* Labrador Tea <https://pfaf.org/user/Plant.aspx?LatinName=Ledum+groenlandicum>
+
+## Rockery
+
+* Top 10 wild flower plants for rock garden <https://www.thewildflowernursery.co.uk/single-post/2017/10/04/Top-10-wildflower-rock-garden-plants>
 * Crushed concrete for creeping Thyme'Russetings', less weeding
 * Collect water in water butt from Bernie's garage roof, for watering with hose
 

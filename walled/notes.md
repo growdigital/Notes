@@ -2,6 +2,17 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+* Something community wise
+* Food, beauty & medicinal
+
+## Martin fruit tree advice
+
+* Use walls for training fruit
+* ½ apples, other ½ divided between plum, pear, cherry
+* Cherry blossoms first, put on sunnier spots
+* Apples blossom May, can put later varieties on north facing wall
+* Orchard becomes Other Fruit orchard! (Autumn Olive, Amelanchier, Aronia, Asian Pear, Persimmon etc)
+
 ## Lusi trip
 
 * Video entering garden from different entrances
