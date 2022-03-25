@@ -8,6 +8,8 @@
 
 Create a low-maintenance, wild flower, food forest garden in an 18th century 2-acre walled garden in Scotland. Naturalistic planting designed in sympathy with the original formal structure. Create wildlife pond and different rooms and areas. The main goal is food and beauty.
 
+### [PDF latest](https://github.com/growdigital/walled/raw/main/walled.pdf)
+
 ## Site
 
 ![Old map](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644428487/walled/map-old-169.jpg)
@@ -56,14 +58,14 @@ _The well-read client!_ 😎
 * [GitHub repository](https://github.com/growdigital/walled/)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/walled/blob/main/walled.dxf)
 * PDFs
-    * [PDF latest](https://github.com/growdigital/walled/blob/main/walled.pdf)
-    * [PDF outline](https://github.com/growdigital/walled/blob/main/walled-outline.pdf)
-    * [PDF 1843-1882 garden outline](https://github.com/growdigital/walled/blob/main/walled-1843-1882.pdf)
-    * [PDF 1888-1913 garden outline](https://github.com/growdigital/walled/blob/main/walled-1888-1913.pdf)
+    * [PDF latest](https://github.com/growdigital/walled/raw/main/walled.pdf)
+    * [PDF outline](https://github.com/growdigital/walled/raw/main/walled-outline.pdf)
+    * [PDF 1843-1882 garden outline](https://github.com/growdigital/walled/raw/main/walled-1843-1882.pdf)
+    * [PDF 1888-1913 garden outline](https://github.com/growdigital/walled/raw/main/walled-1888-1913.pdf)
 * Maps
-    * [Satellite image](https://github.com/growdigital/walled/blob/main/satellite.jpg)
-    * [1843-1882 map](https://github.com/growdigital/walled/blob/main/map-1843-1882.jpg)
-    * [1888-1913 map](https://github.com/growdigital/walled/blob/main/map-1888-1913.jpg)
-    * [Contour map](https://github.com/growdigital/walled/blob/main/map-contour.jpg)
+    * [Satellite image](https://github.com/growdigital/walled/raw/main/satellite.jpg)
+    * [1843-1882 map](https://github.com/growdigital/walled/raw/main/map-1843-1882.jpg)
+    * [1888-1913 map](https://github.com/growdigital/walled/raw/main/map-1888-1913.jpg)
+    * [Contour map](https://github.com/growdigital/walled/raw/main/map-contour.jpg)
 
 This page online: [notes.grwd.uk/walled](https://notes.grwd.uk/walled/)

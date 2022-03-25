@@ -22,11 +22,11 @@ Aims of the project.
 
 ![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
 
-[Nature Works livestream playlist!](https://www.youtube.com/natureworksgarden)
+[Nature Works livestream playlist!](https://www.youtube.com/natureworksgarden)/
 
 ## Files
 
-* [Download latest PDF](https://github.com/growdigital/template/blob/main/template.pdf)
+* [Download latest PDF](https://github.com/growdigital/template/raw/main/template.pdf)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/template/blob/main/template.dxf)
 * [Satellite image](https://github.com/growdigital/template/blob/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/template)

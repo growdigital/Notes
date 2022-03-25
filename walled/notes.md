@@ -2,6 +2,12 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Wildlife habitat
+
+* Ponds. 3 of em.
+* Gabion wall
+* Masonry bee homes!!! https://www.bumblebeeconservation.org/redmasonbee/
+
 * Something community wise
 * Food, beauty & medicinal
 
