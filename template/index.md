@@ -12,6 +12,8 @@ Description of the site.
 
 Aims of the project.
 
+### [Download latest PDF](https://github.com/growdigital/template/raw/main/template.pdf)
+
 ## Features
 
 * Wildlife pond
