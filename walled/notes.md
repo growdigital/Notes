@@ -2,6 +2,25 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Wildlife hedging
+
+Reply from Sandra Stewart at Celtic Wild Flowers:
+
+* Alder Buckthorn 5m x 4m - In a sheltered spot this may be possible. Ours in the garden is established and is about 3m x 2m.
+* Purging Buckthorn 6m x 3m - This seems very tall. Usually about 3m x 3m
+* Wild Privet 3m x 3m - Normally about 1.5m x 3m.
+* Cornus sanguinea 2.5m x 2.5m - This seems about right to us.
+
+I think Wild Privet is more like 2.5m 🤔
+
+Woodland Trust shop:
+
+* [Alder Buckthorn](https://shop.woodlandtrust.org.uk/alder-buckthorn)
+* [Purging Buckthorn](https://shop.woodlandtrust.org.uk/purging-buckthorn)
+* [Dogwood](https://shop.woodlandtrust.org.uk/dogwood)
+* [Wild Privet](https://www.ashridgetrees.co.uk/ligustrum-vulgare-hedge-plants) Ashridge Nurseries
+
+
 ## Wildlife habitat
 
 * Ponds. 3 of em.
