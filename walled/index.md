@@ -10,6 +10,12 @@ Create a low-maintenance, wild flower, food forest garden in an 18th century 2-a
 
 ### [Download latest PDF](https://github.com/growdigital/walled/raw/main/walled.pdf)
 
+## Latest videos
+
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644954115/walled/introducing-screenshot.jpg)](https://bit.ly/walled-playlist)
+
+[Walled Garden YouTube playlist](https://bit.ly/walled-playlist)
+
 ## Site
 
 ![Old map](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644428487/walled/map-old-169.jpg)
@@ -43,15 +49,11 @@ Create a low-maintenance, wild flower, food forest garden in an 18th century 2-a
 ![15 forest garden books laid out on the floor](https://res.cloudinary.com/growdigital/image/upload/w_240/v1645539761/walled/the-well-read-client.jpg)  
 _The well-read client!_ 😎
 
-* 3-4 times per year for 3 years
-* Increasing for 3 years
+* Initial planting windbreaks & canopy
+* Mowing grass paths initially, 2 mower widths main path
+* Maintenance mowing & mulchign trees, 3-4 times per year for 3 years
+* Increasing after 3 years
 * Full maintenance & creation at 6 years
-
-## Videos
-
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644954115/walled/introducing-screenshot.jpg)](https://bit.ly/walled-playlist)
-
-[Walled Garden YouTube playlist](https://bit.ly/walled-playlist)
 
 ## Files
 

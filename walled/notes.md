@@ -2,6 +2,9 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+
+Leah, possible local gardener via Lusi
+
 ## Wildlife hedging
 
 Reply from Sandra Stewart at Celtic Wild Flowers:
