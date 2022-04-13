@@ -1,5 +1,11 @@
 # Clifftop notes 🗓
 
+## Geranium edging plant
+
+* Clifftop garden boundary 17m, 3 x 17 = 50 plants
+* Shelf boundary 11m, 3 x 11 = 33 plants
+* 88 total
+
 ## Plants
 
 * Labrador Tea <https://pfaf.org/user/Plant.aspx?LatinName=Ledum+groenlandicum>

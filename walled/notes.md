@@ -2,8 +2,7 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
-
-Leah, possible local gardener via Lusi
+Leah, possible local gardener via Lusi.
 
 ## Wildlife hedging
 
@@ -16,13 +15,11 @@ Reply from Sandra Stewart at Celtic Wild Flowers:
 
 I think Wild Privet is more like 2.5m 🤔
 
-Woodland Trust shop:
+## Email from Lee
 
-* [Alder Buckthorn](https://shop.woodlandtrust.org.uk/alder-buckthorn)
-* [Purging Buckthorn](https://shop.woodlandtrust.org.uk/purging-buckthorn)
-* [Dogwood](https://shop.woodlandtrust.org.uk/dogwood)
-* [Wild Privet](https://www.ashridgetrees.co.uk/ligustrum-vulgare-hedge-plants) Ashridge Nurseries
+> an area just near my parents house that isn’t possible to plant in as the land has dropped away a bit. I would say it is a distance of 2 to 3 meters from the house and atleast the full width of the house.
 
+> there are some small trees in the north west corner of the garden that don’t seem to be doing very well, possibly because it looks like they are planted on the old path.
 
 ## Wildlife habitat
 
