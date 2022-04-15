@@ -2,7 +2,7 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
-Leah, possible local gardener via Lusi.
+Site visit [images and videos on Google Drive](https://drive.google.com/drive/folders/1O08tmaMGxPHk7BrofJPaGRfmZdGpRpek?usp=sharing).
 
 ## Wildlife hedging
 
