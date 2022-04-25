@@ -2,7 +2,20 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
-Site visit [images and videos on Google Drive](https://drive.google.com/drive/folders/1O08tmaMGxPHk7BrofJPaGRfmZdGpRpek?usp=sharing).
+
+## Costings trees
+
+* Price for trees would be between £20 and £30.
+* There's approximately 100 trees, so that is £2-3,000.
+* Hedging is  a different matter. You want to plant 3-5 plants per metre, to get a thick hedge (though can depend on species). Bare-root hedging is approximately £1-2 per plant. 
+* There's approximately 180 metres of hedging in total, at £5 per metre is £900.
+
+That's a real guesstimate btw!
+
+---
+
+* Site visit [images and videos on Google Drive](https://drive.google.com/drive/folders/1O08tmaMGxPHk7BrofJPaGRfmZdGpRpek?usp=sharing).
+* [A Sand County Almanac](https://archive.org/details/sandcountyalmana00aldo/) by [Aldo Leopold](https://en.wikipedia.org/wiki/Aldo_Leopold)
 
 ## Wildlife hedging
 
