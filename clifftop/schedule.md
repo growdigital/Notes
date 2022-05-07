@@ -1,6 +1,6 @@
 # Clifftop schedule 📆
 
-[Home](https://notes.grwd.uk/clifftop) • [Schedule](https://notes.grwd.uk/clifftop-schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants)
+[Home](https://notes.grwd.uk/clifftop/) • [Schedule](https://notes.grwd.uk/clifftop/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) • [Management↗](https://notes.grwd.uk/clifftop/management)
 
 ## Landscaping
 
