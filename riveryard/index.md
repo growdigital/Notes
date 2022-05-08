@@ -1,6 +1,6 @@
 # Riveryard home 🏡
 
-[Home](https://notes.grwd.uk/riveryard/) • [Schedule](https://notes.grwd.uk/riveryard/schedule) [Maintenance](https://notes.grwd.uk/riveryard/maintenance) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/riveryard/) • [Plants↗](https://bit.ly/riveryard-plants)
+[Home](https://notes.grwd.uk/riveryard/) • [Schedule](https://notes.grwd.uk/riveryard/schedule) • [Maintenance](https://notes.grwd.uk/riveryard/maintenance) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/riveryard/) • [Plants↗](https://bit.ly/riveryard-plants)
 
 ![Photo of shed in backyard](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652000828/riveryard/riveryard-shed.jpg)
 
