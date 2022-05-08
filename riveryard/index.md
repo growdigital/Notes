@@ -12,7 +12,7 @@ Description of the site.
 
 Aims of the project.
 
-### [Download latest PDF](https://github.com/growdigital/template/raw/main/template.pdf)
+### [Download latest PDF](https://github.com/growdigital/riveryard/raw/main/riveryard.pdf)
 
 ## Features
 
@@ -28,10 +28,10 @@ Aims of the project.
 
 ## Files
 
-* [Download latest PDF](https://github.com/growdigital/template/raw/main/template.pdf)
-* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/template/blob/main/template.dxf)
-* [Satellite image](https://github.com/growdigital/template/blob/main/satellite.jpg)
+* [Download latest PDF](https://github.com/growdigital/riveryard/raw/main/riveryard.pdf)
+* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/riveryard/blob/main/riveryard.dxf)
+* [Satellite image](https://github.com/growdigital/riveryard/blob/main/satellite.jpg)
 * [GitHub repository](https://github.co
-m/growdigital/template)
+m/growdigital/riveryard)
 
-This page online: <https://notes.grwd.uk/template>
+This page online: <https://notes.grwd.uk/riveryard>
