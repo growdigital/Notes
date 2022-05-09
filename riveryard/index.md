@@ -4,27 +4,28 @@
 
 ![Photo of shed in backyard](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652000828/riveryard/riveryard-shed.jpg)
 
-**This is a template file for my client notes**.
+Trees and shrubs for existing beds to create a green and colourful, low maintenance, west-facing backyard garden.
 
-Description of the site.
+## Aims
 
-## Aim
-
-Aims of the project.
+* Green the garden using existing beds
+* On a budget, so common plants
+* Low maintenance
 
 ### [Download latest PDF](https://github.com/growdigital/riveryard/raw/main/riveryard.pdf)
 
 ## Features
 
-* Wildlife pond
-* “Coffee & Cocktails” seating areas
-* Rainwater harvesting
+* Fruiting trees
+* Understorey shrubs
+* Scented climbers?
+* Evening seating by back door
 
 ## Videos
 
 ![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
 
-[Nature Works livestream playlist!](https://www.youtube.com/natureworksgarden)/
+[Nature Works Riveryard livestream playlist](https://www.youtube.com/playlist?list=PL3tnDlJcXMk8UMc_omeMLGbZy5w1nIQc-)
 
 ## Files
 
