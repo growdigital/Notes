@@ -23,6 +23,16 @@ Trees and shrubs for existing beds to create a green and colourful, low maintena
 * Bay & Mint in pots by back door
 * Half barrel planters by [Celtic Timber](https://www.celtictimber.co.uk/product/oak-whiskey-half-barrel-planters/)
 
+## Notes
+
+### Wire supports on fence
+
+* [Turnbuckle wire tensioners M4](https://www.amazon.co.uk/gp/product/B08591TP57/)
+* [Vine Eyes 75mmn](https://www.amazon.co.uk/gp/product/B01KQVR3UM)
+* [Galvanised wire 1.25mm](https://www.amazon.co.uk/gp/product/B0087ZPCJ4)
+* Drill small guide hole to stop wood splitting, or use a [braddle](https://www.amazon.co.uk/Faithfull-BRADSQ-Bradawl-Square-Handle/dp/B00359XAIC/)
+* 40cm spacing
+
 ## Files
 
 * [Download latest PDF](https://github.com/growdigital/riveryard/raw/main/riveryard.pdf)
