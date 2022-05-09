@@ -19,7 +19,9 @@ Trees and shrubs for existing beds to create a green and colourful, low maintena
 * Fruiting trees
 * Understorey shrubs
 * Scented climbers?
-* Evening seating by back door
+* Evening seating
+* Bay & Mint in pots by back door
+* Half barrel planters by [Celtic Timber](https://www.celtictimber.co.uk/product/oak-whiskey-half-barrel-planters/)
 
 ## Files
 
