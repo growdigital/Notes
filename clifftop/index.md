@@ -9,7 +9,7 @@ The modern detached house is hewn out of the steeply sloping valley, with a stee
 
 The irregularly shaped south facing garden is situated to the east of the house and is on 3 different levels, covering an area of about 15m by 15m. The usable area is about 12m by 8m.
 
-### [Download latest PDF](https://github.com/growdigital/clifftop/blob/main/clifftop.pdf)
+### [Download latest PDF](https://github.com/growdigital/clifftop/raw/main/clifftop.pdf)
 
 ## Intention
 
@@ -105,7 +105,7 @@ Fragrant plants, evergreen shrubs, perennial insect-friendly wild flowers…
 
 ## Files
 
-* [Download latest PDF](https://github.com/growdigital/clifftop/blob/main/clifftop.pdf)
+* [Download latest PDF](https://github.com/growdigital/clifftop/raw/main/clifftop.pdf)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/clifftop/blob/main/clifftop.dxf)
 * [Satellite image](https://github.com/growdigital/clifftop/blob/main/satellite.jpg)
 * [OS map image](https://github.com/growdigital/clifftop/blob/main/os.png)
