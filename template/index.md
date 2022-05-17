@@ -6,6 +6,11 @@
 
 **This is a template file for my client notes**.
 
+1. Search & replace `template` with `project-name` in these files
+2. Create Pinterest Board
+3. Create Google Sheets spreadsheet
+4. Create GitHub repository (copy `template` repo)
+
 Description of the site.
 
 ## Aim
