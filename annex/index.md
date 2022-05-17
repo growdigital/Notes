@@ -1,20 +1,8 @@
 # Annex home 🏡
 
-[Home](https://notes.grwd.uk/annex/) • [Schedule](https://notes.grwd.uk/annex/schedule) [Maintenance](https://notes.grwd.uk/annex/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/annex) • [Plants↗](https://bit.ly/annex-plants)
+[Home](https://notes.grwd.uk/annex/) • [Schedule](https://notes.grwd.uk/annex/schedule) • [Maintenance](https://notes.grwd.uk/annex/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/annex) • [Plants↗](https://bit.ly/annex-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
-
-Remove this 👇🏾
-
-**This is a annex file for my client notes**.
-
-1. Search & replace `annex` with `project-name` in these files
-2. Create Pinterest Board
-3. Create Google Sheets spreadsheet
-4. Make bit.ly link `-plants`
-5. Create GitHub repository, clone, paste `.git` folder into project cad folder
-
-To this 👆🏾
 
 Description of the site.
 
