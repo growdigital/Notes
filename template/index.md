@@ -9,6 +9,7 @@
 1. Search & replace `template` with `project-name` in these files
 2. Create Pinterest Board
 3. Create Google Sheets spreadsheet
+4. Copy & edit `Template project` directory
 4. Create GitHub repository (copy `template` repo)
 
 Description of the site.
