@@ -19,10 +19,15 @@ A courtyard garden for a north-west facing holiday annex. Mature native trees on
 
 * Screening from house kitchen
 * Original brick shelter for morning drinks
+* Split-level past shelter
 * Sheltered "sunken" seating area for midday sun
 * Private seating area for late afternoon
 * Rose arch over air raid shelter steps
 * Native plants where possible!
+
+## Notes
+
+[![]()]()
 
 ## Videos
 
