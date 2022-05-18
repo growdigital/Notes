@@ -21,7 +21,8 @@ A courtyard garden for a north-west facing holiday annex. Mature native trees on
 * Original brick shelter for morning drinks
 * Sheltered "sunken" seating area for midday sun
 * Private seating area for late afternoon
-* Rose arch over air raid shelter steps 
+* Rose arch over air raid shelter steps
+* Native plants where possible!
 
 ## Videos
 
@@ -33,7 +34,6 @@ A courtyard garden for a north-west facing holiday annex. Mature native trees on
 
 * [Download latest PDF](https://github.com/growdigital/annex/raw/main/annex.pdf)
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/annex/blob/main/annex.dxf)
-* [Satellite image](https://github.com/growdigital/annex/blob/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/annex)
 
 This page online: <https://notes.grwd.uk/annex>
