@@ -6,11 +6,15 @@
 
 **This is a template file for my client notes**.
 
+Delete 👉🏾
 1. Search & replace `template` with `project-name` in these files
 2. Create Pinterest Board
 3. Create Google Sheets spreadsheet
 4. Copy & edit `Template project` directory
-4. Create GitHub repository (copy `template` repo)
+5. Create GitHub repository (copy `template` repo)
+6. Make project folder in Cloudinary
+7. Make video playlist in YouTube
+Delete to here 👈🏾
 
 Description of the site.
 

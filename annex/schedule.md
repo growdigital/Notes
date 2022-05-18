@@ -4,9 +4,12 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
-* Wk 01 - Mon 3 Jan
-    * Do one thing
-    * Do another thing
-* Wk 02 - Mon 10 Jan
-    * Second week thing
+* Wk 20 - Mon 16 May
+    1. Mon 16
+        * [ ] Jake measure up
+    2. Wed 18 
+        * [ ] Jake draw up plan
+* Wk 31 - Mon 1 Aug
+    * Deadline!
+
 
