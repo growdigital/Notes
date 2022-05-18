@@ -32,7 +32,7 @@ _Approximate position of paths & areas, click for larger image_
 
 ## Videos
 
-![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652878275/annex/annex-livestream.jpg)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652878275/annex/annex-livestream.jpg)](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9aIEyFW4N1g3YorE2I2ayb)
 
 [Nature Works Annex Garden playlist!](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9aIEyFW4N1g3YorE2I2ayb)
 
