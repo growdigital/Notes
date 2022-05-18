@@ -27,7 +27,8 @@ A courtyard garden for a north-west facing holiday annex. Mature native trees on
 
 ## Notes
 
-[![Highlighter sketch on CAD plan](https://res.cloudinary.com/growdigital/image/upload/v1652878852/annex/annex-sketch-paths.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1652878852/annex/annex-sketch-paths.jpg)
+[![Highlighter sketch on CAD plan](https://res.cloudinary.com/growdigital/image/upload/v1652878852/annex/annex-sketch-paths.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1652878852/annex/annex-sketch-paths.jpg)  
+_Approximate position of paths & areas, click for larger image_
 
 ## Videos
 
