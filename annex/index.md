@@ -2,7 +2,7 @@
 
 [Home](https://notes.grwd.uk/annex/) • [Schedule](https://notes.grwd.uk/annex/schedule) • [Maintenance](https://notes.grwd.uk/annex/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/annex) • [Plants↗](https://bit.ly/annex-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652874503/annex/shelter-2220516.jpg
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652874503/annex/shelter-2220516.jpg)
 
 A courtyard garden for a north-west facing holiday annex. Mature native trees on west and north boundaries, mature conifers to east and west in garden.
 
