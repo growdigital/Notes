@@ -26,9 +26,9 @@ A courtyard garden for a north-west facing holiday annex. Mature native trees on
 
 ## Videos
 
-![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
+![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652878275/annex/annex-livestream.jpg)
 
-[Nature Works livestream playlist!](https://www.youtube.com/natureworksgarden)/
+[Nature Works Annex Garden playlist!](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9aIEyFW4N1g3YorE2I2ayb)/
 
 ## Files
 
