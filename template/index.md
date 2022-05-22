@@ -14,6 +14,14 @@ Delete 👉🏾
 5. Create Pinterest Board
 6. Make project folder in Cloudinary
 7. Make video playlist in YouTube & bit.ly link
+
+* Template project
+* GitHub
+* Notes
+* Google Sheets
+* Pinterest
+* Cloudinary
+
 Delete to here 👈🏾
 
 Description of the site.
