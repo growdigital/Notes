@@ -30,6 +30,9 @@ A courtyard garden for a north-west facing holiday annex. Mature native trees on
 [![Highlighter sketch on CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652878852/annex/annex-sketch-paths.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1652878852/annex/annex-sketch-paths.jpg)  
 _Approximate position of paths & areas, click for larger image_
 
+[![Sketch on CAD plan with highlighter](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653221928/annex/annex-sketch-levels.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653221928/annex/annex-sketch-levels.jpg)  
+_Green lines showing possible changes in levels_
+
 * [John Little, brownfield gardener](https://www.grassroofcompany.co.uk/) - fantastic examples of using reclaimed, low nutrient waste material as a growing medium for low maintenance plants
 
 ![Mown lawn paths](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652879588/annex/ginger-gairdner-lawn.jpg)
