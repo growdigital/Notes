@@ -1,5 +1,12 @@
 # Clifftop notes 🗓
 
+## Log steps
+
+[![Illustration log steps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653037103/clifftop/log-steps.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)
+
+* [Step making process](https://www.oregonlive.com/hg/2012/08/the_pecks_create_garden_steps.html)
+* They recommend using logs of  6" - 10" inch diameter
+
 ## Geranium edging plant
 
 * Clifftop garden boundary 17m, 3 x 17 = 50 plants
