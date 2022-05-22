@@ -35,7 +35,8 @@ _Green lines showing possible changes in levels_
 
 * [John Little, brownfield gardener](https://www.grassroofcompany.co.uk/) - fantastic examples of using reclaimed, low nutrient waste material as a growing medium for low maintenance plants
 
-![Mown lawn paths](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652879588/annex/ginger-gairdner-lawn.jpg)
+[![Mown lawn paths](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652879588/annex/ginger-gairdner-lawn.jpg)](https://twitter.com/gingergairdner/status/1149415380311564289)  
+_Mown grass paths in wildlife lawn_
 
 ## Videos
 
