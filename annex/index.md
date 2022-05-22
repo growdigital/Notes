@@ -42,7 +42,7 @@ _Mown grass paths in wildlife lawn_
 
 [![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652878275/annex/annex-livestream.jpg)](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9aIEyFW4N1g3YorE2I2ayb)
 
-[Nature Works Annex Garden playlist!](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9aIEyFW4N1g3YorE2I2ayb)
+[Nature Works Annex Garden playlist](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9aIEyFW4N1g3YorE2I2ayb)
 
 ## Files
 
