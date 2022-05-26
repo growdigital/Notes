@@ -10,7 +10,7 @@
 * The top wire is 100cm from the top of the wall. This leaves a metre for the central leader of the tree.
 * This works out at about 8 wires (with 1.3 metre gap at top)
 
-[![Illustration showing spacing, with figures](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653576436/walled/espalier-spacing.png)](https://res.cloudinary.com/growdigital/image/upload/v1653582871/walled/espalier-spacing.png)
+![Illustration showing spacing, with figures](https://res.cloudinary.com/growdigital/image/upload/v1653576436/walled/espalier-spacing.png)
 
 ## Costings trees
 
