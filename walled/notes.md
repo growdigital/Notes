@@ -2,6 +2,15 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Wire support for espalier trees
+
+* Height of the walls 5 metres. For this size, larger rootstock — MM106 for apples, Quince A for pear, St Julien A for plum. 
+* The first wire is just above knee height (about 55cm)
+* Subsequent wires are spaced at 45cm
+* The top wire is 100cm from the top of the wall. This leaves a metre for the central leader of the tree.
+* This works out at about 8 wires (with 1.3 metre gap at top)
+
+![Illustration showing spacing, with figures](https://res.cloudinary.com/growdigital/image/upload/v1653576436/walled/espalier-spacing.png)
 
 ## Costings trees
 
