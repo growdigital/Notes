@@ -9,11 +9,13 @@
 
 An east-facing rear garden of a new eco-house, with a grove of oaks at the back beyond a steep slope. Outdoor office, lawn and raised beds.
 
+### [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
+
 ## Aim
 
 To maximise the available space to create a secluded, accessible, multi-level woodland garden, using native and edible plants. 
 
-The key areas are 
+The key areas are:
 
 1. **Rear slope** — with 2, possibly 3, seating areas: the den, west-facing bench and possibly a space above the den. The path needs to be level for accessiblity, with solid steps, so possibly some sort of cost-efective retaining walls. The plants need to screen the areas from the neighbours and with some seclusion from the rest of the garden.
 2. **Lawn area** — keep openness and functionality of the lawn, but improve accessibility, particularly to the raised beds. Possibly a central feature, keeping enough space for temporary structures.
@@ -22,7 +24,6 @@ The key areas are
 ![Smooth old ladder](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653662220/undergrove/ladder-angle-220520.jpg)  
 _Old greenwood Ash ladder, illustrating smooth finish required to fit with existing woodwork_
 
-### [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
 
 [![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653662217/undergrove/sketch.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653662217/undergrove/sketch.jpg)  
 _Initial sketch, click to expand_
