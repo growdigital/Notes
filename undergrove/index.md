@@ -24,7 +24,6 @@ The key areas are:
 ![Smooth old ladder](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653662220/undergrove/ladder-angle-220520.jpg)  
 _Old greenwood Ash ladder, illustrating smooth finish required to fit with existing woodwork_
 
-
 [![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653662217/undergrove/sketch.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653662217/undergrove/sketch.jpg)  
 _Initial sketch, click to expand_
 
@@ -37,11 +36,6 @@ _Initial sketch, click to expand_
 * Private west-facing seating area
 * Efficient annual & perennial veg beds
 
-## Videos
-
-![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
-
-[Undergrove livestream playlist](https://bit.ly/undergrove-playlist)
 
 ## Files
 
