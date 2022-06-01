@@ -15,6 +15,9 @@ An east-facing rear garden of a new eco-house, with a grove of oaks at the back 
 
 To maximise the available space to create a secluded, accessible, multi-level woodland garden, using native and edible plants. 
 
+[![Sketch of slope](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091710/undergrove/undergrove-sketch-bank.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091710/undergrove/undergrove-sketch-bank.jpg)  
+_Rear slope, click to expand_
+
 The key areas are:
 
 1. **Rear slope** — with 2, possibly 3, seating areas: the den, west-facing bench and possibly a space above the den. The path needs to be level for accessiblity, with solid steps, so possibly some sort of cost-efective retaining walls. The plants need to screen the areas from the neighbours and with some seclusion from the rest of the garden.
@@ -24,9 +27,6 @@ The key areas are:
 ![Smooth old ladder](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653662220/undergrove/ladder-angle-220520.jpg)  
 _Old greenwood Ash ladder, illustrating smooth finish required to fit with existing woodwork_
 
-[![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653662217/undergrove/sketch.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653662217/undergrove/sketch.jpg)  
-_Initial sketch, click to expand_
-
 ## Features
 
 * Water feature
@@ -35,6 +35,22 @@ _Initial sketch, click to expand_
 * Climbers to “borrow” the oak trees
 * Private west-facing seating area
 * Efficient annual & perennial veg beds
+
+### Den
+
+Smooth, lightweight cleft oak construction, clad with tidy planks.
+
+[![Sketch of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091725/undergrove/den-sketch-entrance.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091725/undergrove/den-sketch-entrance.jpg)  
+_Sketch of front of den, with rounded entrance & swing doors_
+
+[![Sketch of site of den](https://res.cloudinary.com/growdigital/image/upload/w_320v1654091711/undergrove/undergrove-sketch-den-site.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091711/undergrove/undergrove-sketch-den-site.jpg)  
+_Site of den, showing position_
+
+### Pond
+
+Sunken half-barrel, planted with native miniature aquatic plants!
+
+[![Sketch cross-section sunken barrel pond](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091709/undergrove/pond-cross-section.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091709/undergrove/pond-cross-section.jpg)
 
 ## Files
 
