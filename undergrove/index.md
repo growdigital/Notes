@@ -36,7 +36,6 @@ _Initial sketch, click to expand_
 * Private west-facing seating area
 * Efficient annual & perennial veg beds
 
-
 ## Files
 
 * [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)

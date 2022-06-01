@@ -2,6 +2,17 @@
 
 [Home](https://notes.grwd.uk/agro/) • [Schedule](https://notes.grwd.uk/agro/schedule) • [Maintenance](https://notes.grwd.uk/agro/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
+## Registered woodland planners
+
+<https://gov.wales/registered-woodland-planners-contact-details-html>
+
+## Woodland Creation Planning Scheme Rules
+
+* <https://gov.wales/woodland-creation-plan-scheme>
+* <https://gov.wales/woodland-creation-planning-scheme-rules-booklet-html>
+* <https://naturalresources.wales/guidance-and-advice/business-sectors/forestry/woodland-creation/get-help-to-plant-trees-and-create-woodland/?lang=en>
+* <https://gov.wales/national-forest>
+
 
 ## Woodland Trust MOREwoods and MOREhedges initiatives
 

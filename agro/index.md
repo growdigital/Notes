@@ -4,31 +4,22 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
-**This is a agro file for my client notes**.
 
-Delete 👉🏾
-1. Search & replace `agro` in these files
-2. Copy & edit `agro` project directory
-3. Create GitHub repository (copy `agro` repo)
-4. Create Google Sheets spreadsheet, replace note text, create bit.ly link
-5. Create Pinterest Board
-6. Make project folder in Cloudinary
-7. Make video playlist in YouTube & bit.ly link
-Delete to here 👈🏾
-
-Description of the site.
+South east facing pasture, two fields. Cae Cochran is pretty damp.
 
 ## Aim
 
-Aims of the project.
+Plant woodland with Woodland Creation Scheme, with potential to harvest agroforestry aspects.
 
 ### [Download latest PDF](https://github.com/growdigital/agro/raw/main/agro.pdf)
 
 ## Features
 
-* Wildlife pond
-* “Coffee & Cocktails” seating areas
-* Rainwater harvesting
+* Hazel crop
+* Sweet chestnut
+* Fruit bushes (Aronia?)
+* Windbreaks
+* Biomass (Willow)
 
 ## Videos
 
