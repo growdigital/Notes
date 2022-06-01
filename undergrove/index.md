@@ -43,14 +43,15 @@ Smooth, lightweight cleft oak construction, clad with tidy planks.
 [![Sketch of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091725/undergrove/den-sketch-entrance.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091725/undergrove/den-sketch-entrance.jpg)  
 _Sketch of front of den, with rounded entrance & swing doors_
 
-[![Sketch of site of den](https://res.cloudinary.com/growdigital/image/upload/w_320v1654091711/undergrove/undergrove-sketch-den-site.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091711/undergrove/undergrove-sketch-den-site.jpg)  
+[![Sketch of site of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091711/undergrove/undergrove-sketch-den-site.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091711/undergrove/undergrove-sketch-den-site.jpg)  
 _Site of den, showing position_
 
 ### Pond
 
 Sunken half-barrel, planted with native miniature aquatic plants!
 
-[![Sketch cross-section sunken barrel pond](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091709/undergrove/pond-cross-section.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091709/undergrove/pond-cross-section.jpg)
+[![Sketch cross-section sunken barrel pond](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091709/undergrove/pond-cross-section.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091709/undergrove/pond-cross-section.jpg)  
+_Cross-section of pond, showing gravel to preserve outside wood_
 
 ## Files
 
