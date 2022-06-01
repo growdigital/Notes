@@ -15,7 +15,7 @@ An east-facing rear garden of a new eco-house, with a grove of oaks at the back 
 
 To maximise the available space to create a secluded, accessible, multi-level woodland garden, using native and edible plants. 
 
-[![Sketch of slope](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091710/undergrove/undergrove-sketch-bank.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091710/undergrove/undergrove-sketch-bank.jpg)  
+[![Sketch of slope](https://res.cloudinary.com/growdigital/image/upload/w_420/v1654091710/undergrove/undergrove-sketch-bank.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091710/undergrove/undergrove-sketch-bank.jpg)  
 _Rear slope, click to expand_
 
 The key areas are:
