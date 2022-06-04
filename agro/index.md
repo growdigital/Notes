@@ -16,9 +16,11 @@ Plant woodland with Welsh [Woodland Creation Scheme](https://gov.wales/woodland-
 
 * Hazel crop
 * Sweet chestnut
+* Fruit trees
 * Fruit bushes (Aronia?)
-* Windbreaks
+* Native windbreaks
 * Biomass (Willow)
+* Diverse wildlife habitat!
 
 ## Videos
 
