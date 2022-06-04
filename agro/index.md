@@ -2,14 +2,14 @@
 
 [Home](https://notes.grwd.uk/agro/) • [Schedule](https://notes.grwd.uk/agro/schedule) • [Maintenance](https://notes.grwd.uk/agro/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654356737/agro/agro-initial-cad.jpg)
 
 
 South east facing pasture, two fields. Cae Cochran is pretty damp.
 
 ## Aim
 
-Plant woodland with Woodland Creation Scheme, with potential to harvest agroforestry aspects.
+Plant woodland with Welsh [Woodland Creation Scheme](https://gov.wales/woodland-creation-planning-scheme-rules-booklet-html), with potential to harvest agroforestry aspects.
 
 ### [Download latest PDF](https://github.com/growdigital/agro/raw/main/agro.pdf)
 
