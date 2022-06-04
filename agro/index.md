@@ -2,10 +2,9 @@
 
 [Home](https://notes.grwd.uk/agro/) • [Schedule](https://notes.grwd.uk/agro/schedule) • [Maintenance](https://notes.grwd.uk/agro/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654356737/agro/agro-initial-cad.jpg)
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654357193/agro/agro-cad-3-field.jpg)
 
-
-South east facing pasture, two fields. Cae Cochran is pretty damp.
+2.3 hectares sloping south east facing pasture across 3 fields. Cae Cochran is pretty damp.
 
 ## Aim
 
