@@ -2,6 +2,23 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Client trip notes Jun 2022
+
+* for the cider apples I have written to a local company to ask them what they recommend 
+* for the early’s, lates and good storage apples I am happy to hear your recommendations.
+* Add Asian pear on north wall
+* Move Japanese garden to the North east corner tea house to be placed as far east as possible and slightly south of the electric cable (approximately 25% of the distance between the wire and the wall entrance on the east wall) * The pond around the tea house can not be positioned further west than the east entrance on the north wall, as I believe the old underground tunnel runs north / south just near to the that entrance.
+* The tea house should be facing halfway between West and South/West.
+* What do you mean with "Scrub"?
+* Allow the north/south path to flow all the way through the garden, through the Gabion wall and move the Strawberry tree, maybe there should be 4 strawberry trees, one in each of the borders near to the center
+* Add some more "Udo" Plants
+* Try to add a little more symmetry either side of the paths, so that it looks symmetrical (as much as possible) as your eye drifts down the path from entrance to entrance
+* Maybe extend the mixed berry bushes to 3 of the quarters, missing out the Veg quarter.
+* I think the fernery was just a place holder, but this space will need to remain free from trees.
+* Japanese Acers (Maples) - for a bit of color (not too large)
+* Med area will move to the north west corner, I guess that we leave this space open now? unless  you have a good proposal, I am thinking maybe more on the medicinal and exotic flower side? Any thoughts?
+* Add low functional arced wind breaks in to the vegetable section.
+
 ## Wire support for espalier trees
 
 * Height of the walls 5 metres. For this size, larger rootstock — MM106 for apples, Quince A for pear, St Julien A for plum. 
