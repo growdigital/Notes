@@ -2,6 +2,10 @@
 
 [Home](https://notes.grwd.uk/agro/) • [Schedule](https://notes.grwd.uk/agro/schedule) • [Maintenance](https://notes.grwd.uk/agro/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
+## Email from Daniel Traynor 6th June 2022
+
+>  the funding for planting has yet to be confirmed and that the current information available is just for the woodland plan.
+
 ## Registered woodland planners
 
 <https://gov.wales/registered-woodland-planners-contact-details-html>
