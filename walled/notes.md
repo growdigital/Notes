@@ -7,7 +7,8 @@
 * for the cider apples I have written to a local company to ask them what they recommend 
 * for the early’s, lates and good storage apples I am happy to hear your recommendations.
 * Add Asian pear on north wall
-* Move Japanese garden to the North east corner tea house to be placed as far east as possible and slightly south of the electric cable (approximately 25% of the distance between the wire and the wall entrance on the east wall) * The pond around the tea house can not be positioned further west than the east entrance on the north wall, as I believe the old underground tunnel runs north / south just near to the that entrance.
+* Move Japanese garden to the North east corner tea house to be placed as far east as possible and slightly south of the electric cable (approximately 25% of the distance between the wire and the wall entrance on the east wall) 
+* The pond around the tea house can not be positioned further west than the east entrance on the north wall, as I believe the old underground tunnel runs north / south just near to the that entrance.
 * The tea house should be facing halfway between West and South/West.
 * What do you mean with "Scrub"?
 * Allow the north/south path to flow all the way through the garden, through the Gabion wall and move the Strawberry tree, maybe there should be 4 strawberry trees, one in each of the borders near to the center
