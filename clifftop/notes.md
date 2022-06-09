@@ -1,5 +1,17 @@
 # Clifftop notes 🗓
 
+## Wire supports
+
+* Turnbuckle https://www.amazon.co.uk/gp/product/B08591TP57/
+* Wire https://www.amazon.co.uk/gp/product/B0087ZPCJ4
+* Vine eye https://www.amazon.co.uk/gp/product/B01KQVR3UM/
+
+## Pyrography wooden plant labels
+
+* Burner https://www.amazon.co.uk/s?k=pyrography
+* Stencil https://www.amazon.co.uk/gp/product/B0070W73KQ/
+* David sells the wooden labels, pack of 6 for £5 https://thecoppiceplot.com/
+
 ## Log steps
 
 [![Illustration log steps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653037103/clifftop/log-steps.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)
