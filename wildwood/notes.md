@@ -30,6 +30,11 @@
 * Make the space **flexible**
 * Barn face south, site of veg patch, maximise sun
 
+## Plants
+
+* Mild microclimate, frosts rare
+* Windbreak hedge, fast-growing, shade tolerant
+
 ### Reference
 
  ![Roundwood pergola from above](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653481593/clifftop/pergola-220520.jpg)  
