@@ -43,7 +43,7 @@
 * [How Buildings Learn](https://en.wikipedia.org/wiki/How_Buildings_Learn) by Stewart Brand, 
 * 6 part, half hour episode TV series [free on YouTube](https://www.youtube.com/playlist?list=PL3tnDlJcXMk9BFY0fnsuJtVzz_YS0SN32)
 * David Hunter, Pembrokeshire woodperson [thecoppiceplot.com](https://thecoppiceplot.com)
-* Ty Pren, roundwood buildings [typren.co.uk](https://typren.co.uk/)
+* Jamie at Ty Pren, roundwood buildings [typren.co.uk](https://typren.co.uk/). They do build larger structures outside of Wales.
 * [Vegan Chocolate Brownie recipe](https://simp.ly/publish/L624C8)
 
 ---
