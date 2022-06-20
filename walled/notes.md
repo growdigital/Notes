@@ -2,6 +2,15 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Apple proportions Jun 2022
+
+* Early - 25%
+* Late - 30%
+* Cooking - 15%
+* Cider - 30%
+
+> With as many old good producing varieties as possible
+
 ## Client trip notes Jun 2022
 
 * for the cider apples I have written to a local company to ask them what they recommend 
