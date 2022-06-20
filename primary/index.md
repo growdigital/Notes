@@ -2,7 +2,7 @@
 
 [Home](https://notes.grwd.uk/primary) • [Schedule](https://notes.grwd.uk/template-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
-![Screenshot of satellite photo](https://res.cloudinary.com/growdigital/image/upload/w_320/v1639577757/primary/satellite.jpg)
+![Side of school](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644758215/primary/file_e8rgac-220119.jpg)
 
 ## Aim
 
