@@ -16,6 +16,7 @@ Grow food with the land and its other inhabitants, without leaving a too-large h
 
 * Two areas
 * Flexible & secluded spaces
+* Barn & accommodation
 * Mixed annual & perennial veg
 * Wild flowers!
 
