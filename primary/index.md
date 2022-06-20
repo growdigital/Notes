@@ -8,7 +8,7 @@
 
 ## Aim
 
-Colourful, fruitful, delightful & useful. A wildlife food forest garden for my local primary school, for the children and teachers. 
+Colourful, fruitful, delightful & useful. A wildlife food forest garden for my local primary school, with a focus on native & edible plants, for the children, teachers and insects!
 
 ## Features
 
