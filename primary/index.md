@@ -4,6 +4,8 @@
 
 ![Side of school](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644758215/primary/file_e8rgac-220119.jpg)
 
+### [Download latest PDF](https://github.com/growdigital/primary/raw/main/primary.pdf)
+
 ## Aim
 
 Colourful, fruitful, delightful & useful. A wildlife food forest garden for my local primary school, for the children and teachers. 
@@ -24,8 +26,7 @@ Occasional livestream video about the work in progress, here’s the [YouTube pl
 
 ## Files
 
-* [Latest PDF](https://github.com/growdigital/primary/blob/main/primary.pdf)
-* [Download all files as ZIP](https://github.com/growdigital/primary/archive/refs/heads/main.zip)
+* [Latest PDF](https://github.com/growdigital/primary/raw/main/primary.pdf)
 * [GitHub repository](https://github.com/growdigital/primary)
 
 This page online: <https://notes.grwd.uk/primary>
