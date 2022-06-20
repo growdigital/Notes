@@ -1,22 +1,23 @@
 # Wildwood home 🏡
 
-[Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Maintenance](https://notes.grwd.uk/wildwood/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
+[Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Management](https://notes.grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655726882/wildwood/wildwood-outline-satellite.jpg)
 
-Description of the site.
+Two clearings set in a mixed 6 acre woodland in south England, a couple of hundred yards from the coast.
 
 ## Aim
 
-Aims of the project.
+Grow food with the land and its other inhabitants, without leaving a too-large human footprint.
 
 ### [Download latest PDF](https://github.com/growdigital/wildwood/raw/main/wildwood.pdf)
 
 ## Features
 
-* Wildlife pond
-* “Coffee & Cocktails” seating areas
-* Rainwater harvesting
+* Two areas
+* Flexible & secluded spaces
+* Mixed annual & perennial veg
+* Wild flowers!
 
 ## Videos
 
