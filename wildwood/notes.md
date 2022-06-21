@@ -2,6 +2,70 @@
 
 [Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Maintenance](https://notes.grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
 
+## Suggestions
+
+### Caravan area
+
+1. Create areas with bamboo & string
+2. Consider uses — eg yurt & visiting caravan
+3. Make sure track wide & smooth enough for vehicle access
+4. Consider facilities — water, energy, wood, sunlight
+5. Possibly [Holly](https://pfaf.org/user/Plant.aspx?LatinName=Ilex+aquifolium) for boundary hedging? 
+
+### Barn area
+
+1. “all new buildings really should turn around and face the sun”! _\~Peter King_
+2. Move barn position so it faces south.
+3. Veg area becomes garden area
+4. Test soil of wildflower meadow area, might be good enough for trees
+
+### Woodland walk area
+
+* To south of caravan area
+* Create dead hedges against stock fence
+* Remove lower branches to gain view
+* Plant 1.5m hedge on west side for privacy
+* Put a seat in!
+
+### Structures
+
+* Recommend roundwood
+* Possible to build roundwood [passivhaus](https://en.wikipedia.org/wiki/Passive_house)!
+* Jamie at [Ty Pren](https://typren.co.uk/gallery-roundwood-timber-frame-projects/) — will do large projects in south England
+
+![Roundwood pergola from above](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653481593/clifftop/pergola-220520.jpg)  
+_Pergola by David Hunter_
+
+### Soil
+
+* Area was lumberyard, serious compaction
+* Decide paths, areas, functions first, _before_ decompacting
+* Agricultural decompaction uses [subsoiler](https://en.wikipedia.org/wiki/Subsoiler) plough, can get digger attachments for other projects
+* May need other amendments (nutrients, organic matter) before planting trees?
+* Have site tested properly for compaction and soil profile 
+
+### Deer proofing
+
+[![Sketch of deer proof tree guard](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655822511/wildwood/deer-proof-fence.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1655822511/wildwood/deer-proof-fence.jpg)  
+_Deer proof tree guard_
+
+* 2 metre post & 1-1.5m post
+* Weld mesh 50cm x 50cm
+* 14 or 16 gauge (16 adequate)
+* Mesh comes in 25m or 30m rolls
+* Materials cost is approx £20 per tree guard (excluding labour)
+
+Cheaper and easier to put tree guard around each tree than deer fence around whole garden!
+
+### Planting
+
+* Strip of land running west-east from entrance is good candidate for taller specimen trees like Sweet Chestnut.
+* Area where wild flower meadow is now, is prime spot for fruiting crops, as full sun. Also, would be in direct line from new barn position.
+* [Holly](https://pfaf.org/user/Plant.aspx?LatinName=Ilex+aquifolium) is a good deer deterrent (not 100%), for shadier spots, particularly if some of wood thinned. So possible for part of perimeter of the caravan clearing.
+
+
+---
+
 ## Site visit Mon 13 Jun
 
 * Water

@@ -2,6 +2,16 @@
 
 [Home](https://notes.grwd.uk/undergrove/) • [Schedule](https://notes.grwd.uk/undergrove/schedule) • [Maintenance](https://notes.grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
+## Materials
+
+* 30 metres path 0.7m width, **21m²** subtotal
+* 9m² seating area
+* **30m²** total self-binding gravel
+* 60m Douglas Fir edging
+* 5m curved gabion retaining wall, 50-70cm high
+* Cut sleepers
+* Wire, vine-eyes & turnbuckles
+
 ## Footpath widths
 
 ![Scan of footpath regulations book](https://res.cloudinary.com/growdigital/image/upload/v1579265206/footpaths-regs-D0C452CF.jpg)
