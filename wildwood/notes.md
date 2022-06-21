@@ -50,10 +50,10 @@ _Pergola by David Hunter_
 _Deer proof tree guard_
 
 * 2 metre post & 1-1.5m post
-* Weld mesh 50cm x 50cm
+* [Weld mesh 50cm x 50cm](https://www.4wire.co.uk/wire-mesh/wire-mesh-50mm-x-50mm-2x2)
 * 14 or 16 gauge (16 adequate)
 * Mesh comes in 25m or 30m rolls
-* Materials cost is approx £20 per tree guard (excluding labour)
+* Materials cost is approx £25 per tree guard (excluding labour)
 
 Cheaper and easier to put tree guard around each tree than deer fence around whole garden!
 
