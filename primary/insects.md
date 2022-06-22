@@ -1,5 +1,16 @@
 # Plants & their insects
 
+### Presentation to Eco-council on Wednesday 15th June
+
+[![Table with plants](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655898484/primary/plant-table01-220615.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1655898484/primary/plant-table01-220615.jpg)
+[![Table with plants](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655898484/primary/plant-table02-220615.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1655898484/primary/plant-table02-220615.jpg)
+
+* Native plants are good for native wildlife because they have **evolved** together. 
+* Grow plants for insects, the other animals will follow!
+* Almost every native plant is useful to humans in some way.
+* Native wild flowers are beautiful too.
+
+## Plant & insect connections
 
 1. Fennel & Common Yellow Swallowtail 
 2. Red Valerian & Toadflax Brocade 
@@ -10,16 +21,6 @@
 7. Navelwort & Magpie Moth 
 8. Good King Henry & Plain Pug Moth 
 9. Bog Myrtle & Weevil 
-
-### Presentation to Eco-council on Wednesday 15th June
-
-[![Table with plants](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655898484/primary/plant-table01-220615.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1655898484/primary/plant-table01-220615.jpg)
-[![Table with plants](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655898484/primary/plant-table02-220615.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1655898484/primary/plant-table02-220615.jpg)
-
-* Native plants are good for native wildlife because they have **evolved** together. 
-* Grow plants for insects, the other animals will follow!
-* Almost every native plant is useful to humans in some way.
-* Native wild flowers are beautiful too.
 
 ### 1. Fennel & Common Yellow Swallowtail
 
