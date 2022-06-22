@@ -19,6 +19,7 @@
 * Native plants are good for native wildlife because they have **evolved** together. 
 * Grow plants for insects, the other animals will follow!
 * Almost every native plant is useful to humans in some way.
+* Native wild flowers are beautiful too.
 
 ### 1. Fennel & Common Yellow Swallowtail
 
