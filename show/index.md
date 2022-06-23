@@ -1,4 +1,4 @@
-# Show home 🏡
+# Food Forest Show Garden 🏡
 
 [Home](https://notes.grwd.uk/show/) • [Schedule](https://notes.grwd.uk/show/schedule) • [Maintenance](https://notes.grwd.uk/show/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/show) • [Plants↗](https://bit.ly/show-plants)
 

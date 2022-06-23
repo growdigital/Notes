@@ -1,6 +1,6 @@
-# Template schedule 📆
+# Food Forest Show Garden schedule 📆
 
-[Home](https://notes.grwd.uk/template/) • [Schedule](https://notes.grwd.uk/template/schedule) • [Maintenance](https://notes.grwd.uk/template/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
+[Home](https://notes.grwd.uk/show/) • [Schedule](https://notes.grwd.uk/show/schedule) • [Maintenance](https://notes.grwd.uk/show/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/show) • [Plants↗](https://bit.ly/show-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 

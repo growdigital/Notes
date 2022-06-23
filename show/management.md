@@ -1,7 +1,7 @@
-# Template maintenance 🛠️
+# # Food Forest Show Garden management 🛠️
 
-[Home](https://notes.grwd.uk/template/) • [Schedule](https://notes.grwd.uk/template/schedule) • [Maintenance](https://notes.grwd.uk/template/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
+[Home](https://notes.grwd.uk/show/) • [Schedule](https://notes.grwd.uk/show/schedule) • [Maintenance](https://notes.grwd.uk/show/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/show) • [Plants↗](https://bit.ly/show-plants)
 
 Maintenance & management throughout the year.
 
-This page online: <https://notes.grwd.uk/template/management>
+This page online: <https://notes.grwd.uk/show/management>
