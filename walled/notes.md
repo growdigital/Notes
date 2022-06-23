@@ -2,6 +2,18 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Hazelnut reference
+
+* Billy Auger at [augernik-fruit-farm.business.site](https://augernik-fruit-farm.business.site)
+* Gina Bates, hazel orchard in Scottish Highlands <https://twitter.com/hilltopgina/status/1535285484271943680>
+* Gina's cultivars
+    * Gustav Zeller 
+    * Red filbert Corylus maxima
+    * Gunsleberts 
+    * Cosford
+    * Lang Tidlig Zeller
+    * White Filbert Corylus maxima
+
 ## Apple proportions Jun 2022
 
 * Early - 25%
