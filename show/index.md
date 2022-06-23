@@ -1,8 +1,24 @@
 # Food Forest Show Garden 🏡
 
-[Home](https://notes.grwd.uk/show/) • [Schedule](https://notes.grwd.uk/show/schedule) • [Maintenance](https://notes.grwd.uk/show/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/show) • [Plants↗](https://bit.ly/show-plants)
+[Home](https://notes.grwd.uk/show/)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+## Introduction
+
+I am making a preliminary application to the National Lottery 'Sustainable Steps Wales' programme:
+https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants
+
+The idea is a wildlife & food forest show garden, located in Newcastle Emlyn. It would be an educational resource, a community garden and a tourist attraction.
+
+It would showcase sustainable gardening practices that are beneficial to wildlife, from small scale to large scale. 
+
+Each of the half dozen standalone gardens are structured around a central workshop, café and playground area, so that there are different techniques, materials and planting combinations on display.
+
+The educational element would be links with Ysgol Gyfun Emlyn and Ysgol y Ddwylan, tying in with the national curriculum (art materials & inspiration, insect & plant associations, different observable habitats etc).
+
+The community element would be individual allotments, and people can share in the plants from the show gardens.
+
+---
+
 
 **This is a show file for my client notes**.
 
