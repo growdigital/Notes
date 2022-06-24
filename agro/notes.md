@@ -6,6 +6,15 @@
 
 <https://www.woodlandtrust.org.uk/plant-trees/trees-for-landowners-and-farmers/morewoods-application/>
 
+> Do you wish to include any additional background information to help us assess your application? (optional)
+
+* agroforestry - harvest, small scale. fruits & nuts.
+* wildlife
+* organic (previous history)
+* land too steep for some agricultural contractors 
+
+Nov-Dec or Jan-Feb?
+
 > Any land planted through MOREwoods will not be eligible for funding under the Basic Payment Scheme and some other agricultural grants. If this is a concern, please do not progress your application further
 
 * Grid reference: SN 30505 42782
