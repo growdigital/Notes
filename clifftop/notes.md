@@ -2,15 +2,15 @@
 
 ## Wire supports
 
-* Turnbuckle https://www.amazon.co.uk/gp/product/B08591TP57/
-* Wire https://www.amazon.co.uk/gp/product/B0087ZPCJ4
-* Vine eye https://www.amazon.co.uk/gp/product/B01KQVR3UM/
+* Turnbuckle <https://www.amazon.co.uk/gp/product/B08591TP57/>
+* Wire <https://www.amazon.co.uk/gp/product/B0087ZPCJ4>
+* Vine eye <https://www.amazon.co.uk/gp/product/B01KQVR3UM/>
 
 ## Pyrography wooden plant labels
 
-* Burner https://www.amazon.co.uk/s?k=pyrography
-* Stencil https://www.amazon.co.uk/gp/product/B0070W73KQ/
-* David sells the wooden labels, pack of 6 for £5 https://thecoppiceplot.com/
+* Burner <https://www.amazon.co.uk/s?k=pyrography>
+* Stencil <https://www.amazon.co.uk/gp/product/B0070W73KQ/>
+* David sells the wooden labels, pack of 6 for £5 <https://thecoppiceplot.com/>
 
 ## Log steps
 
