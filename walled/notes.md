@@ -2,6 +2,13 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Fruit tree notes
+
+* Jake add more trees for double sided cherry walk?
+* "equivalent replacement" - flexibility if variety not available
+* Crabapple - arbours - Jake sketch up and review different cultivars
+* Arbour with wires on top & sides. 6 posts, 6 trees - Jake do sketch for mix of varieties
+
 ## Hazelnut reference
 
 * Billy Auger at [augernik-fruit-farm.business.site](https://augernik-fruit-farm.business.site)
