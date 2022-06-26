@@ -2,7 +2,9 @@
 
 [Home](https://notes.grwd.uk/show/)
 
-## Elements
+## Summary
+
+A food forest show garden for Newcastle Emlyn, with allotments and educational resources.
 
 1. Community
 2. Education
