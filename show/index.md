@@ -2,6 +2,17 @@
 
 [Home](https://notes.grwd.uk/show/)
 
+## Elements
+
+1. Community
+2. Education
+3. Showcase
+
+## Schematic
+
+[![Schematic sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1656229808/show/show-schematic.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1656229808/show/show-schematic.jpg)  
+_Schematic sketch of Food Forest Show Garden, click for larger image_
+
 ## Introduction
 
 I am making a preliminary application to the [National Lottery 'Sustainable Steps Wales'](https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants) programme.
@@ -16,10 +27,5 @@ The educational element would be links with Ysgol Gyfun Emlyn and Ysgol y Ddwyla
 
 The community element would be individual allotments, and people can share in the plants from the show gardens.
 
-## Elements
-
-1. Community
-2. Education
-3. Showcase
 
 This page online: <https://notes.grwd.uk/show>
