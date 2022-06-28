@@ -2,9 +2,9 @@
 
 ## Wire supports
 
-* Turnbuckle <https://www.amazon.co.uk/gp/product/B08591TP57/>
-* Wire <https://www.amazon.co.uk/gp/product/B0087ZPCJ4>
-* Vine eye <https://www.amazon.co.uk/gp/product/B01KQVR3UM/>
+* Turnbuckle M4 <https://www.amazon.co.uk/gp/product/B08591TP57/>
+* Wire 1.25mm (16 gauge) <https://www.amazon.co.uk/gp/product/B0087ZPCJ4>
+* Vine eye 75mm <https://www.amazon.co.uk/gp/product/B01KQVR3UM/>
 
 ## Pyrography wooden plant labels
 
