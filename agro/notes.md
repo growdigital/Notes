@@ -2,6 +2,21 @@
 
 [Home](https://notes.grwd.uk/agro/) • [Schedule](https://notes.grwd.uk/agro/schedule) • [Maintenance](https://notes.grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
+## Background information
+
+> Do you wish to include any additional background information to help us assess your application? (optional)
+
+We are interested in family scale agroforestry, in the form of fruit and nut trees & bushes. 
+
+It is an opportunity to bring sloping land back into productive cultivation whilst simultaneously increasing wildlife habitat and biodiversity, using native species where possible. The designated land is too steep for contractors machinery to cultivate. 
+
+The dairy farm was organic from 2007 to 2015 but, due to a change in UK government policy, organic was no longer economically viable. In 2016 we noticed a dramatic reduction in plant and insect diversity, most noticeably in clover distribution and bee populations.
+
+We are looking to create a wildlife friendly, low maintenance and productive area, with good access and using sheep for light grazing around the trees to keep the grass down.
+
+
+Our farm was organic
+
 ## MOREwoods scheme
 
 <https://www.woodlandtrust.org.uk/plant-trees/trees-for-landowners-and-farmers/morewoods-application/>

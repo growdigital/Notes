@@ -20,7 +20,7 @@ A calm, meditative wildlife and edible garden.
 
 ## Videos
 
-![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
+![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1656509399/calm/video-calm-screenshot.jpg)
 
 [Calm livestream playlist](https://bit.ly/calm-youtube)
 

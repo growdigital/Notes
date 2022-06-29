@@ -2,6 +2,27 @@
 
 [Home](https://notes.grwd.uk/show/)
 
+## Notes National Lottery networking 
+
+#### Tue 28 Jun 2022
+
+* Habitual listening
+* Daily garden vlog, decent audio
+* Monty Don TV show California gardens
+* Victorian Kitchen Garden episodes on YouTube
+* Materials - tubs for kids
+    * Compost
+    * Wood chop
+    * Crushed concrete
+    * Sand
+    * Grass
+
+### Anette CYCA
+
+* Consultation makes it visible
+* Mental health horticulture - course online 
+* Contact school counsellors
+
 ## Stuff for home page
 
 ```
