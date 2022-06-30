@@ -52,6 +52,7 @@ done 🙂
 
 > I think the fernery was just a place holder, but this space will need to remain free from trees.
 
+noted
 
 > Japanese Acers (Maples) - for a bit of color (not too large)
 
