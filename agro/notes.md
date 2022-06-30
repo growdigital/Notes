@@ -32,7 +32,7 @@ Nov-Dec or Jan-Feb?
 
 > Any land planted through MOREwoods will not be eligible for funding under the Basic Payment Scheme and some other agricultural grants. If this is a concern, please do not progress your application further
 
-* Grid reference: SN 30505 42782
+* Grid reference: SN 30505 42782 SN305427
 * Map of wider area
 * Map of planting area
 
