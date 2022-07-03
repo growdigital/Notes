@@ -2,6 +2,75 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Response to Client trip notes Jun 2022
+
+> for the cider apples I have written to a local company to ask them what they recommend
+
+very useful website <https://www.scottishfruittrees.com/>
+
+> for the early’s, lates and good storage apples I am happy to hear your recommendations.
+
+recommended, see second tab of <https://bit.ly/walled-plants>
+
+have added half dozen extra cherry trees to Japanese Garden, to make it more of a walk _through_ the cherry trees
+
+> Add Asian pear on north wall
+
+doesn't need extra heat, so keep on northern part of east/west walls
+
+> Move Japanese garden to the North east corner tea house to be placed as far east as possible and slightly south of the electric cable (approximately 25% of the distance between the wire and the wall entrance on the east wall) 
+
+decision to keep Japanese Garden where it is (noted where?!)
+
+> The pond around the tea house can not be positioned further west than the east entrance on the north wall, as I believe the old underground tunnel runs north / south just near to the that entrance.
+
+ditto
+
+> The tea house should be facing halfway between West and South/West.
+
+ditto
+
+> What do you mean with "Scrub"?
+
+untidy meadow! tbh, I would treat both areas the same as meadow
+
+> Allow the north/south path to flow all the way through the garden, through the Gabion wall and move the Strawberry tree, maybe there should be 4 strawberry trees, one in each of the borders near to the center
+
+good idea. have added gabion walls to the southern quadrant beds, to provide more protection/seclusion
+
+> Add some more "Udo" Plants
+
+these are perennial layer, which are really only 'positional', as not yet planned that phase
+
+> Try to add a little more symmetry either side of the paths, so that it looks symmetrical (as much as possible) as your eye drifts down the path from entrance to entrance
+
+noted. have doubled up the Italian Alders on the east and west entrances (keep the lower branches pruned to reduce shading), plus a Medlar and a couple of cherries
+
+> Maybe extend the mixed berry bushes to 3 of the quarters, missing out the Veg quarter.
+
+done 🙂
+
+> I think the fernery was just a place holder, but this space will need to remain free from trees.
+
+noted
+
+> Japanese Acers (Maples) - for a bit of color (not too large)
+
+yes will research but pricey! Also look at Berberis thunbergii purpurea as a possible (purple leaves)
+
+> Med area will move to the north west corner, I guess that we leave this space open now? unless  you have a good proposal, I am thinking maybe more on the medicinal and exotic flower side? Any thoughts?
+
+See above (areas stay where they are)
+
+> Add low functional arced wind breaks in to the vegetable section.
+
+## Fruit tree notes
+
+* Jake add more trees for double sided cherry walk?
+* "equivalent replacement" - flexibility if variety not available
+* Crabapple - arbours - Jake sketch up and review different cultivars
+* Arbour with wires on top & sides. 6 posts, 6 trees - Jake do sketch for mix of varieties
+
 ## Hazelnut reference
 
 * Billy Auger at [augernik-fruit-farm.business.site](https://augernik-fruit-farm.business.site)

@@ -50,4 +50,27 @@ Online, with workshops, network of community forest gardens? Reaching new people
 
 * We’ll aim to tell you if you’ve been successful in progressing to the next stage of the process within two weeks of you submitting your expression of interest form. 
 
+## Notes National Lottery networking 
+
+#### Tue 28 Jun 2022
+
+* Habitual listening
+* Daily garden vlog, decent audio
+* Monty Don TV show California gardens
+* Victorian Kitchen Garden episodes on YouTube
+* Materials - tubs for kids
+    * Compost
+    * Wood chop
+    * Crushed concrete
+    * Sand
+    * Grass
+
+### Anette CYCA
+
+* Consultation makes it visible
+* Mental health horticulture - course online 
+* Contact school counsellors
+
+## Stuff for home page
+
 This page online: <https://notes.grwd.uk/show/notes>
