@@ -65,6 +65,7 @@ To get in touch with
 * The Wildflower Nursery
 * Celtic Wild Flowers - native plants
 * Contact council about land
+* Botanic Garden Wales - native plants!
 
 **Involve people in nature growing food** Activism. Strengthening ecosystems is part of climate change resilience. Ecocentric view, not just anthropocentric.
 
@@ -90,7 +91,22 @@ CAVS, Town Council, school input,
 - services. Make it sustainable. Rainwwater harvesting. Composting toilets. Local food. Closed loop. Provide secure bicycle parking and car park. Link up with transport networks. Make the location central, within walking distance.
 - habitat. **Create** diversity of habitat in your infrastructure. Any groundworks destroys habitat, be sure to put back more. Swift boxes, bee hotels, _embedded_ in infrastructure 
 
+## Your organisation
 
+* about your organisation. It’s okay if you do not have experience with  climate action. But if you do, please tell us about it here.
+- CIC. Originally set up for promoting use of native wild plants. Ecological and climate emergency are the same emergency. Relating to food production, use of native plants to create resilient ecosystems that **support** food production. Exploring different methods.
+- Martin, orchardist 40 years experience, chair GOT, consultant on The Peoples Orchard 
+- Dan, well-being practitioner, forest garden experience, born & bred locally
+
+* If you plan to work with other organisations. Please tell us who they are and what they will do. 
+- Ysgol Gyfun Emlyn 
+- Ysgol Y Ddwylan. School trips, learn sustainability gardens and structures and nature. Possible space for well-being practises.
+- Blue Green Cymru - run well-being workshops. 
+- Town Council
+- Stephanie Hafferty, no-dig expert - run courses
+- Carly Green, Botanic Garden Wales - courses, advice?
+- Nature Works - garden design
+- Martin Hayes - pruning workshops
 
 ---
 
