@@ -2,6 +2,8 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Self catering & B&B Holmhill
+
 ## Response to Client trip notes Jun 2022
 
 > for the cider apples I have written to a local company to ask them what they recommend
