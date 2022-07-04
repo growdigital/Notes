@@ -2,6 +2,19 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+* Position of Italian Alders? Not sure about doubling them up 🤔
+* Re-imagine Japanese Garden design, with planned trees
+* Bay trees, planting in med? design 🤔
+
+Bowles willow http://treesplease.co.uk/product/salix-bowles-hybrid/
+
+## Mixed Berry
+
+* Windbreak to 1.8m high
+* Pruned, spacing 0.5m
+* Jostaberry, Blackcurrant, Redcurrant
+* 24m total, 48 plants
+
 ## Self catering & B&B Holmhill
 
 ## Response to Client trip notes Jun 2022
