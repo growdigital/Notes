@@ -15,6 +15,10 @@
 * Dave Thomas
 * Blue Green Cymru - Anna & Phil. Wellbeing. Allotments near Newcastle Emlyn.
 
+
+* Sarah Wright - Cardigan Allotments, 
+* Audley Burnett - Newcastle Emlyn Resilience Group
+
 ## Project idea
 
 750 words
