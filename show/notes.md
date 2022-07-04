@@ -2,6 +2,19 @@
 
 [Home](https://notes.grwd.uk/show/)
 
+## Ideas
+
+* Pay what you can café
+
+## Local orgs
+
+* HUTS, Adpar
+* Naturewise Community Forest Garden, Cardigan
+* Town Council
+* County Council
+* Dave Thomas
+* Blue Green Cymru - Anna & Phil. Wellbeing. Allotments near Newcastle Emlyn.
+
 ## Notes National Lottery networking 
 
 #### Tue 28 Jun 2022
