@@ -2,11 +2,10 @@
 
 _Colourful, fruitful, delightful & useful. A wildlife food forest garden for the children, insects and teachers!_
 
-* Show map
-
 **Viewpoint exercise** — everyone stand around far edges of garden. What can you see, what do you feel? Walk back slowly the quickest way you can!
 
 * Get teaspoon of soil
+* Show map
 
 [A map is not the territory!](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation#%22A_map_is_not_the_territory%22)
 
@@ -26,8 +25,6 @@ What things need to **flourish**. Need, _not_ want!
 
 A teaspoon of soil contains between 100 million and 1 billion [bacteria](https://en.wikipedia.org/wiki/Bacteria), several thousand [protozoa](https://en.wikipedia.org/wiki/Protozoa), up to hundreds of [nematodes](https://en.wikipedia.org/wiki/Nematode) and several metres of [fungi filaments](https://en.wikipedia.org/wiki/Hypha)  
 ~ [The secret life of soil](https://extension.oregonstate.edu/news/secret-life-soil)
-
-By comparison, 30 trillion human cells in the body vs [38 trillion bacteria](https://www.sciencefocus.com/the-human-body/what-proportion-of-the-human-body-is-bacteria-and-how-do-we-measure-it/)! 
 
 ### The right plant in the right place
 
@@ -49,7 +46,5 @@ Here are some I collected earlier:
 * Rainwater harvesting
 * Quiet, sheltered seat
 * Art material piles - clay, stones, sand, gravel etc
-
-**Imagine the best places exercise** — put your favourite idea on a bamboo pole, put it where you think it should go
 
 This page online: <https://notes.grwd.uk/primary/design>
