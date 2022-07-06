@@ -2,16 +2,22 @@
 
 _Colourful, fruitful, delightful & useful. A wildlife food forest garden for the children, insects and teachers!_
 
-**Viewpoint exercise** — everyone stand around far edges of garden. Walk back slowly the quickest way you can!
+* Show map
+
+**Viewpoint exercise** — everyone stand around far edges of garden. What can you see, what do you feel? Walk back slowly the quickest way you can!
+
+* Get teaspoon of soil
+
+[A map is not the territory!](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation#%22A_map_is_not_the_territory%22)
 
 ## Design
 
 * Put things in right place
-* **Looking** and **thinking**
+* **Looking** and **thinking** (observation & consideration)
 
-### Why?
+### Flourish
 
-What things are needed to **flourish**?
+What things need, _not_ want to **flourish**
 
 1. Self centred — what _you_ need
 2. People centred — what your friends need
@@ -28,6 +34,7 @@ By comparison, 30 trillion human cells in the body vs [38 trillion bacteria](htt
 * Soil — type, acidity, water?
 * Sun — where is it? how much?
 * Native where possible! 🍃 🐛
+* Diversity of plants & habitats
 
 ## Ideas
 
