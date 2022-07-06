@@ -25,7 +25,7 @@ What things need to **flourish**. Need, _not_ want!
 4. Places centred — the places we live (soil, rivers, trees, reefs)
 
 A teaspoon of soil contains between 100 million and 1 billion [bacteria](https://en.wikipedia.org/wiki/Bacteria), several thousand [protozoa](https://en.wikipedia.org/wiki/Protozoa), up to hundreds of [nematodes](https://en.wikipedia.org/wiki/Nematode) and several metres of [fungi filaments](https://en.wikipedia.org/wiki/Hypha)  
-~ [The secret life of soil](https://extension.oregonstate.edu/news/secret-life-soil)
+_~ [The secret life of soil](https://extension.oregonstate.edu/news/secret-life-soil)_
 
 By comparison, 30 trillion human cells in the body vs [38 trillion bacteria](https://www.sciencefocus.com/the-human-body/what-proportion-of-the-human-body-is-bacteria-and-how-do-we-measure-it/)! 
 
