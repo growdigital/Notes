@@ -17,7 +17,7 @@ _Colourful, fruitful, delightful & useful. A wildlife food forest garden for the
 
 ### Flourish
 
-What things need, _not_ want to **flourish**
+What things need to **flourish**. Need, _not_ want!
 
 1. Self centred — what _you_ need
 2. People centred — what your friends need
