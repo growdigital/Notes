@@ -2,6 +2,20 @@
 
 [Home](https://notes.grwd.uk/show/)
 
+
+## VG
+
+### Salary & volunteers
+
+* **People should get paid for what they do**
+* Up front about salary & amount
+* Fundraising, offer commission
+* £35 p/h rate, part-time
+
+## Inspiration
+
+* [Wellington Community Forest Garden](https://www.resilience.org/stories/2022-04-21/hope-with-its-sleeves-rolled-up-blooms-in-wellington/)
+
 ## Ideas
 
 * Pay what you can café
