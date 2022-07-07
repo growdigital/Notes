@@ -17,11 +17,15 @@ Garden is primarily for family, with view to using it for quiet group day retrea
 ## Features
 
 * Series of wildlife ponds
-* Seating areas throughout
+* Spiral mound? Horseshoe firepit? 
+* Secluded seating areas throughout
 * Accessible paths
 * Minor grass paths 
 * Low maintenance built in
 * Staged landscaping over time
+
+![Grass spiral mound in garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1612961176/grass-mound-westonbury.jpg)  
+_Spiral mound at Westonbury_
 
 There is also an interest in place-based textiles, which fits nicely with the ethos of local provenance native plants. So there is great scope for natural dye plants and possibly textile plants.
 

@@ -3,6 +3,20 @@
 [Home](https://notes.grwd.uk/calm/) • [Schedule](https://notes.grwd.uk/calm/schedule) • [Maintenance](https://notes.grwd.uk/calm/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/calm) • [Plants↗](https://bit.ly/calm-plants)
 
 
+## Client meeting Thu 7 Jul
+
+* 3 grown children
+* Grandchild on the way
+* Textile arts, natural dying, place-based textiles, [Claire Wellesley-Smith](https://www.clairewellesleysmith.co.uk/blog/)
+* Natural dying fabric, dye plants
+* Creative arts retreats
+* Would like a natural swimming pond! Quoted £120k by Doncaster company [?](https://www.theswimmingpondcompany.co.uk/). Cheaper way?
+* Insurance needs considering, safety & Public Liability Insurance, possible to get it through PCC
+* Natural pest control for mosquitoes!!!
+* Existing pond 5ft deep, with fish, newts, frogs, dragonflies etc, with liner
+* 4 years of PhD and writing - not much time at moment
+* Where to put the top soil from ponds? Earth forming shapes
+
 ## Native damp plants
 
 * Reedmace
