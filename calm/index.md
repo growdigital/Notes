@@ -25,7 +25,7 @@ Garden is primarily for family, with view to using it for quiet group day retrea
 * Staged landscaping over time
 
 ![Grass spiral mound in garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1612961176/grass-mound-westonbury.jpg)  
-_Spiral mound at Westonbury_
+_Spiral mound at [Westonbury Mill Water Gardens](https://www.westonburymillwatergardens.com/)_
 
 There is also an interest in place-based textiles, which fits nicely with the ethos of local provenance native plants. So there is great scope for natural dye plants and possibly textile plants.
 
@@ -46,6 +46,8 @@ Accessibility is also key, for all ages and mobility. Hoggin paths (self-binding
 _Picket fence by David Hunter_
 
 To keep areas secure, thick double hedging can be planted or installing locally-sourced roundwood fences and gates.
+
+For any large area of rough grass, I recommend a wheeled brush cutter for cutting the grass paths. In my experience, they cope much better than a standard lawn mower if the grass gets too long. We have an [Oleo-Mac WB 51 S6](https://www.thegreenreaper.co.uk/oleo-mac-deb-518-wheeled-brush-mower) with everything stripped down! At £1,000 it is expensive but very useful. 
 
 ## Plants
 
