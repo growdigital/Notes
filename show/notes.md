@@ -23,14 +23,15 @@
 ## Local orgs
 
 * HUTS, Adpar
-* Naturewise Community Forest Garden, Cardigan
+* Claire Turner, Naturewise Community Forest Garden, Cardigan
 * Town Council
 * County Council
 * Dave Thomas
 * Blue Green Cymru - Anna & Phil. Wellbeing. Allotments near Newcastle Emlyn.
+Natalie, Community Gardens, Newcastle Emlyn
 
 
-* Sarah Wright - Cardigan Allotments, 
+* Sarah Wright - Treasurer, Cardigan Allotments, 
 * Audley Burnett - Newcastle Emlyn Resilience Group
 
 ## Project idea

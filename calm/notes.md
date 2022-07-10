@@ -2,6 +2,15 @@
 
 [Home](https://notes.grwd.uk/calm/) • [Schedule](https://notes.grwd.uk/calm/schedule) • [Maintenance](https://notes.grwd.uk/calm/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/calm) • [Plants↗](https://bit.ly/calm-plants)
 
+## Natural dye plants
+
+* Weld or dyers rocket- a yellow dye plant
+* Lady's bedstraw -  a red dye plant
+* Dyers greenweed - a yellow dye plant
+* Tansy - a yellow dye plant
+* St Johns wort - a red dye plant
+
+via PlantWild
 
 ## Client meeting Thu 7 Jul
 
