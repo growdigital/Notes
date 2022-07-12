@@ -2,6 +2,29 @@
 
 [Home](https://notes.grwd.uk/show/)
 
+## Cardigan Community Allotments
+
+* Hannah - Borth Community Garden, Newquay Allotments, Denmark Farm
+* 20m x 10m standard size
+* Half size 10m x 10m
+* Quarter size 5m x 10m
+* People start off with standard size, can progress to larger size
+* Policy of 3 dwarf fruit trees
+* Waiting list about 20200123120845
+* Title deeds council, need to make sure land is secure for perpetuity, best mechanism? How do NWFG do it?
+* £30 pa per plot, regardless of size
+* Main outgoings:
+    * Membership Nat. Associa
+    * Muck
+    * Tool maintenance
+    * Public insurance
+    * Junk clearance
+* Communal space
+    * Hut, common meeting space
+    * Also workshop space, eg pruning, cooking, propagation, seed saving, breeding
+* AGM & cttee - whoever has the time, flat structure, open to all. 
+* Sheds for each allotment?
+* General purpose courses or specialist courses?
 
 ## VG
 
