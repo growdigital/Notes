@@ -2,6 +2,11 @@
 
 [Home](https://notes.grwd.uk/calm/) • [Schedule](https://notes.grwd.uk/calm/schedule) • [Maintenance](https://notes.grwd.uk/calm/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/calm) • [Plants↗](https://bit.ly/calm-plants)
 
+## Ponds
+
+* [Lincolnshire Pond Plants](https://lincspplants.co.uk/)
+* [Healing the Planet with PONDS](https://www.youtube.com/watch?v=43bmtqKDhBE)
+
 ## Natural dye plants
 
 * Weld or dyers rocket- a yellow dye plant

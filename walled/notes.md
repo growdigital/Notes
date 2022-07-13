@@ -6,7 +6,7 @@
 * Approx 732 windbreak plants
 * Approx 968 - 732= 236 specimen trees
 * 236 x 8ft bamboo canes
-* 
+* 2ft bamboo for markup
 * Frame Yard - 160 - Rainbow spiral guards for Bowles Willow
 * Frame Yard - 28 - chicken wire guards for specimen trees
 * Position of Italian Alders? Not sure about doubling them up 🤔
