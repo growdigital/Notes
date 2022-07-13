@@ -2,6 +2,19 @@
 
 [Home](https://notes.grwd.uk/show/)
 
+## People research
+
+### To contact
+
+* St Dogmaels Allotment Association
+
+### Contacted
+
+* Claire Turner, Director, Naturewise Community Forest Garden, Cardigan
+* Janet Manning, Water Engineer
+* Sarah Wright, Treasurer, Cardigan Allotments
+* Kate Roberts, Teacher, Ysgol Y Ddwylan
+
 ## Cardigan Community Allotments
 
 * Hannah - Borth Community Garden, Newquay Allotments, Denmark Farm

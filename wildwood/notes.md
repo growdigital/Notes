@@ -2,10 +2,6 @@
 
 [Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Maintenance](https://notes.grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
 
-## Ideas
-
-* [Rosa rugosa](https://pfaf.org/user/plant.aspx?LatinName=Rosa+rugosa) as deer-resitant hedge, can grow in partial shade
-
 ## Suggestions
 
 ### Caravan area
