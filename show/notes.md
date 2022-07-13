@@ -14,6 +14,7 @@
 * Janet Manning, Water Engineer
 * Sarah Wright, Treasurer, Cardigan Allotments
 * Kate Roberts, Teacher, Ysgol Y Ddwylan
+* Cllr Hazel Evans, Newcastle Emlyn Town Councillor, Carmarthenshire County Councillor
 
 ## Witchhazel Wildwood
 
