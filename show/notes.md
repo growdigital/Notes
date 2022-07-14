@@ -2,23 +2,9 @@
 
 [Home](https://notes.grwd.uk/show/)
 
-## People research
-
-### To contact
-
-* St Dogmaels Allotment Association
-
-### Contacted
-
-* Claire Turner, Director, Naturewise Community Forest Garden, Cardigan
-* Janet Manning, Water Engineer
-* Sarah Wright, Treasurer, Cardigan Allotments
-* Kate Roberts, Teacher, Ysgol Y Ddwylan
-* Cllr Hazel Evans, Newcastle Emlyn Town Councillor, Carmarthenshire County Councillor
-
 ## Witchhazel Wildwood
 
-
+* 
 
 ## Cardigan Community Allotments
 
@@ -78,6 +64,8 @@ Natalie, Community Gardens, Newcastle Emlyn
 ## Project idea
 
 750 words
+
+allotments the perfect way in to sustainable gardening and agriculture. Everybody knows what an allotment is. agroforestry, agroecology. so many people locally working in agriculture, crossover (figures)
 
 * About your community and who will benefit – especially how you will work with people who do not  usually engage in climate action. 
 * What you propose to do. 
