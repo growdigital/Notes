@@ -2,7 +2,6 @@
 
 [Home](https://notes.grwd.uk/show/)
 
-
 ## VG
 
 ### Salary & volunteers
