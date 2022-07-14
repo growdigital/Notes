@@ -1,6 +1,43 @@
-# Food Forest Show Garden notes 📝
+# Application
 
 [Home](https://notes.grwd.uk/show/)
+
+## 1. Project idea _750 words_
+
+An allotment coupled with a food forest show garden for the town of Newcastle Emlyn.
+
+The town and surrounding area has a population of about 5,000 yet there are no allotments.
+
+Everybody knows what an allotment is and what an orchard is.
+
+Key is to make that transition to _sustainable gardening and agriculture_. 
+
+Key is education and sharing.
+
+Cenarth ward - 2197
+Llangeler - 3380
+Beulah - 1627
+Llandyfriog - 1835
+
+9,039
+
+post town SA38 population of 4,761
+https://www.nomisweb.co.uk/query/asv2htm
+
+allotments the perfect way in to sustainable gardening and agriculture. Everybody knows what an allotment is. agroforestry, agroecology. so many people locally working in agriculture, crossover (figures)
+
+* About your community and who will benefit – especially how you will work with people who do not  usually engage in climate action. 
+* What you propose to do. 
+* Where your project will be delivered. 
+* What outcomes - or positive changes - you will achieve with the project.  
+    * You can tell us up to four outcomes for your project. 
+    * They should be linked to our three programme priorities for this funding.  
+    * For help with writing your outcomes read our [guidance on tracking progress](https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants/how-to-track-your-progress-ssw)
+* What activities will take place to achieve your project outcomes including how you will share with others what you’ve done. 
+
+
+
+---
 
 ## Cardigan Community Allotments
 

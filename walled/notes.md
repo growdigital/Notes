@@ -2,6 +2,15 @@
 
 [Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+DO NOT FORGET THE LABELS. 236. This is about half a days work in itself!! (1 a minute, 4 hours)
+
+* Approx 968 trees & shrubs
+* Approx 732 windbreak plants
+* Approx 968 - 732= 236 specimen trees
+* 236 x 8ft bamboo canes
+* 3ft bamboo for markup
+* Frame Yard - 160 - Rainbow spiral guards for Bowles Willow
+* Frame Yard - 28 - chicken wire guards for specimen trees
 * Position of Italian Alders? Not sure about doubling them up 🤔
 * Re-imagine Japanese Garden design, with planned trees
 * Bay trees, planting in med? design 🤔
