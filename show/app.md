@@ -43,6 +43,11 @@ outcomes:
     * For help with writing your outcomes read our [guidance on tracking progress](https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants/how-to-track-your-progress-ssw)
 * What activities will take place to achieve your project outcomes including how you will share with others what you’ve done. 
 
+## Programme priorities
+
+1. Enabling communities in Wales who are not usually engaged in climate change to help tackle the climate emergency and inspire others.
+2. Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
+3. Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
 
 
 ---
