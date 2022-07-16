@@ -12,7 +12,7 @@ The show gardens will demonstrate sustainable gardening methods, plants and comb
 
 A food forest (or forest garden) is a productive, sustainable, resilient and low maintenance garden that works with nature by emulating the edge of woodland to grow edible, mostly perennial crops. The farming equivalent is regenerative agroforestry. 
 
-The show gardens and workshops are key to the project, as they will provide a sustainable income from visitors, whilst plant cuttings and expertise will be freely available to allotmenters. This will help spread the principles and practise of forest gardening.
+The show gardens and workshops are key to the project, as they will provide a sustainable income from visitors, whilst plant cuttings and expertise will be freely available to allotmenteers. This will help spread the principles and practise of forest gardening.
 
 Most people know that an allotment is a plot of land for individual, non-commercial growing of food, and that a community orchard is a collectively managed collection of fruit and nut trees. It is only a short step to introduce perennial vegetables, which are more nutritious and require far less watering, edible shrubs, and system plants for fertility and integrated pest control.
 
