@@ -52,8 +52,7 @@
 * Dave Thomas
 * Blue Green Cymru - Anna & Phil. Wellbeing. Allotments near Newcastle Emlyn.
 Natalie, Community Gardens, Newcastle Emlyn
-
-
+* Roger Spencer, Trefedhyn Garden Centre, Newcasle Emlyn
 * Sarah Wright - Treasurer, Cardigan Allotments, 
 * Audley Burnett - Newcastle Emlyn Resilience Group
 

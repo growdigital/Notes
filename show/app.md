@@ -4,27 +4,19 @@
 
 ## 1. Project idea _750 words_
 
-An allotment coupled with a food forest show garden for the town of Newcastle Emlyn.
+We rely on food served by fragile global supply chains. Our world will see a 1.5°C temperature rise within 5 years. Growing resilient food locally is one step towards a sustainable future.
 
-The town and surrounding area has a population of about 5,000 yet there are no allotments.
+The project is a community allotment and orchard coupled with a food forest show garden for the town of Newcastle Emlyn. The area has no allotments.
 
-Everybody knows what an allotment is and what an orchard is.
+The show gardens will demonstrate sustainable gardening methods, plants and combinations for different sized plots, supported by workshops, with the whole process documented online for the benefit of similar projects.
 
-Key is to make that transition to _sustainable gardening and agriculture_. 
+A food forest (or forest garden) is a productive, sustainable, resilient and low maintenance garden that works with nature by emulating the edge of woodland to grow edible, mostly perennial crops. The farming equivalent is regenerative agroforestry. 
 
-Key is education and sharing.
+The show gardens and workshops are key to the project, as they will provide a sustainable income from visitors, whilst plant cuttings and expertise will be freely available to allotmenters. This will help spread the principles and practise of forest gardening.
 
-Cenarth ward - 2197
-Llangeler - 3380
-Beulah - 1627
-Llandyfriog - 1835
+Most people know that an allotment is a plot of land for individual, non-commercial growing of food, and that a community orchard is a collectively managed collection of fruit and nut trees. It is only a short step to introduce perennial vegetables, which are more nutritious and require far less watering, edible shrubs, and system plants for fertility and integrated pest control.
 
-9,039
-
-post town SA38 population of 4,761
-https://www.nomisweb.co.uk/query/asv2htm
-
-allotments the perfect way in to sustainable gardening and agriculture. Everybody knows what an allotment is. agroforestry, agroecology. so many people locally working in agriculture, crossover (figures)
+Allotments and community orchard are the perfect entrance to transition to **sustainable gardening and agriculture**, and the show gardens and workshops provide the necessary  education, sharing and income.
 
 * About your community and who will benefit – especially how you will work with people who do not  usually engage in climate action. 
 * What you propose to do. 
