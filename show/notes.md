@@ -73,9 +73,9 @@ allotments the perfect way in to sustainable gardening and agriculture. Everybod
 
 ### Programme priorities
 
-* Enabling communities in Wales who are not usually engaged in climate change to help tackle the climate emergency and inspire others.
-* Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
-* Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
+1. Enabling communities in Wales who are not usually engaged in climate change to help tackle the climate emergency and inspire others.
+2. Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
+3. Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
 
 * Community - Newcastle Emlyn
 * Who will benefit - residents without gardens as providing them allotments, residents with gardens (free plants, ideas), visitors to show gardens, visitors online, communities engaging in similar projects

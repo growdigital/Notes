@@ -22,7 +22,19 @@ Allotments and community orchard are the perfect entrance to transition to **sus
 
 Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider businesses (cafes, accommodation) from increase in visitors. ecotourism. Famililes. Schools will benefit, education and also food. food bank? Not emlyn. Engaging people who do not usually engage - pupils! people who just want to grow veg for their family.
 
-> how you will work with people who do not  usually engage in climate action
+> how you will work with people who do not usually engage in climate action
+
+* draw people in to sustainable gardening practices via the allotment, by osmosis
+* by offering free workshops & plants/cuttings to local residents
+* by having a series of show gardens, from small to big, showing what can be achieved in different sized spaces. free entry to local residents 
+* people who want to grow veg on an allotment
+* most allotmenteers don't view growing veg as climate action!
+* schools - outreach work: biology, art, well-being. ddwylan wildlife garden.
+* involve gardening clubs -- llechryd & district, rhydlewis, drefach
+    * LDGC https://www.llechrydgardenclub.co.uk/
+    * Rhydlewis https://rhydlewisgardeningclub.blogspot.com/
+    * Drefach http://www.drefachfelindregardeningclub.co.uk/
+
 
 We propose to create an allotment, community orchard and food forest show gardens, with a sustainable building for workshops and as an allotment hub.
 
@@ -32,8 +44,14 @@ has to be accessible by foot
 outcomes:
 1. Creation of allotment & community orchard
 2. Shift to sustainable gardening practices
-3. A blueprint for other projects.
+3. A online, bilingual blueprint for other projects.
 4. Increased visitors for town
+
+---
+
+1. Enable - through provision of allotments, by programme of free workshops to local residents & free entry to show gardens. Offer quarter, half & full.
+2. Empower - by education, for the schools, allotmenteers & residents
+3. Evidence - documenting process, offering blueprint for similar projects, share online. Evidence impact 🤔 
 
 * About your community and who will benefit – especially how you will work with people who do not  usually engage in climate action. 
 * What you propose to do. 
