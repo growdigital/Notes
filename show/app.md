@@ -24,9 +24,10 @@ Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider busines
 
 > how you will work with people who do not  usually engage in climate action
 
-We propose to create an allotment, community orchard and food forest show gardens, with a sustainable building for workshops and as community hub.
+We propose to create an allotment, community orchard and food forest show gardens, with a sustainable building for workshops and as an allotment hub.
 
 project will be delivered in newcastle emlyn 
+has to be accessible by foot
 
 outcomes:
 1. Creation of allotment & community orchard
