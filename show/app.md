@@ -18,6 +18,22 @@ Most people know that an allotment is a plot of land for individual, non-commerc
 
 Allotments and community orchard are the perfect entrance to transition to **sustainable gardening and agriculture**, and the show gardens and workshops provide the necessary  education, sharing and income.
 
+---
+
+Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider businesses (cafes, accommodation) from increase in visitors. ecotourism. Famililes. Schools will benefit, education and also food. food bank? Not emlyn. Engaging people who do not usually engage - pupils! people who just want to grow veg for their family.
+
+> how you will work with people who do not  usually engage in climate action
+
+We propose to create an allotment, community orchard and food forest show gardens, with a sustainable building for workshops and as community hub.
+
+project will be delivered in newcastle emlyn 
+
+outcomes:
+1. Creation of allotment & community orchard
+2. Shift to sustainable gardening practices
+3. A blueprint for other projects.
+4. Increased visitors for town
+
 * About your community and who will benefit – especially how you will work with people who do not  usually engage in climate action. 
 * What you propose to do. 
 * Where your project will be delivered. 
