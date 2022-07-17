@@ -50,7 +50,8 @@
 * Claire Turner, Naturewise Community Forest Garden, Cardigan
 * Town Council
 * County Council
-* Dave Thomas
+* Dave Thomas, town councillor
+* Hazel Evans, Town Councillor, County Councillor
 * Blue Green Cymru - Anna & Phil. Wellbeing. Allotments near Newcastle Emlyn.
 Natalie, Community Gardens, Newcastle Emlyn
 * Roger Spencer, Trefedhyn Garden Centre, Newcasle Emlyn
