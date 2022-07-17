@@ -42,6 +42,7 @@
 ## Ideas
 
 * Pay what you can café
+* Vegan butty van
 
 ## Local orgs
 
