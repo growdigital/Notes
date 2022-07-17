@@ -43,6 +43,10 @@
 
 * Pay what you can café
 * Vegan butty van
+* Outreach gardening club
+* Outreach, garden quid pro quo
+* Outreach, schools
+* Outreach, produce, cafés
 
 ## Local orgs
 
