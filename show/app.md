@@ -28,14 +28,15 @@ Allotments and community orchard are the perfect entrance to transition to **sus
 
 ## Outcomes
 
-1. Creation of allotment & community orchard
-2. Shift to sustainable gardening practices
-3. A online, bilingual blueprint for other projects.
-4. Increased visitors for town
+1. Creation of allotments
+2. Creation of show gardens
+3. 
+4. A online, bilingual blueprint for other projects.
+5. Increased visitors for town
 
-### 1. Example outcome
+### 1. Creation of allotments
 
-1. **Outcome:** Outcome in here
+1. **Outcome:** Creation of allotments, communal shed and community orchard
 2. **Indicator:** Indicator
 3. **Timings & indicator levels:**
     1. By the end of year 1
@@ -43,9 +44,9 @@ Allotments and community orchard are the perfect entrance to transition to **sus
     3. By the end of project
 4. **How we’ll get this information:** we will
 
-### 2. Example outcome
+### 2. Creation of food forest show gardens
 
-1. **Outcome:** Outcome in here
+1. **Outcome:** Creation of food forest show garden and building for workshops
 2. **Indicator:** Indicator
 3. **Timings & indicator levels:**
     1. By the end of year 1
