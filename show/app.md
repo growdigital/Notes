@@ -8,7 +8,7 @@ We rely on food served by fragile global supply chains. Our world will see a 1.5
 
 The project is a community allotment and orchard coupled with a food forest show garden for the town of Newcastle Emlyn. The area has no allotments.
 
-The show gardens will demonstrate sustainable gardening methods, plants and combinations for different sized plots, supported by workshops, with the whole process documented online for the benefit of similar projects.
+The show gardens will demonstrate sustainable gardening methods, plants and combinations for different sized plots, supported by workshops, with the whole process documented online for the benefit of individuals and similar projects.
 
 A food forest (or forest garden) is a productive, sustainable, resilient and low maintenance garden that works with nature by emulating the edge of woodland to grow edible, mostly perennial crops. The farming equivalent is regenerative agroforestry. 
 
@@ -24,6 +24,8 @@ Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider busines
 
 > how you will work with people who do not usually engage in climate action
 
+the community is more than the allotmenteers, it is the whole town, and outreach work is crucial to build and maintain links.
+
 * draw people in to sustainable gardening practices via the allotment, by osmosis
 * by offering free workshops & plants/cuttings to local residents
 * by having a series of show gardens, from small to big, showing what can be achieved in different sized spaces. free entry to local residents 
@@ -34,12 +36,40 @@ Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider busines
     * LDGC https://www.llechrydgardenclub.co.uk/
     * Rhydlewis https://rhydlewisgardeningclub.blogspot.com/
     * Drefach http://www.drefachfelindregardeningclub.co.uk/
-
+* Outreach gardening club
+* Outreach, garden share scheme
+* Outreach, schools
+* Outreach, produce, cafés
+* Schools
+    * Ddwylan
+    * Cenarth
+    * Ysgol Penboyr
 
 We propose to create an allotment, community orchard and food forest show gardens, with a sustainable building for workshops and as an allotment hub.
 
 project will be delivered in newcastle emlyn 
 has to be accessible by foot
+
+* Set outcomes, actual changes 
+* Use indicators
+    * How much will change
+    * When will it happen
+    * How will you get info
+
+
+## Example outcome
+
+1. **Outcome:** Outcome in here
+2. **Indicator:** Indicator
+3. **Timings & indicator levels:**
+    1. By the end of year 1
+    2. By the end of year 2
+    3. By the end of project
+4. **How we’ll get this information:** we will
+
+https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants/how-to-track-your-progress-ssw
+
+* Measure reduced carbon emissions (!)
 
 outcomes:
 1. Creation of allotment & community orchard
@@ -68,6 +98,19 @@ outcomes:
 2. Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
 3. Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
 
+
+---
+
+## How do you know this is the best approach? 
+
+Please briefly tell us about: 
+
+* How your community came up with the project idea – including who you’ve spoken to (organisations and people). 
+* Any research you’ve done. 
+* Any other existing, or planned activities in your community. 
+* Any other sources of help (like advice or funding) that you can access. 
+* How you have used learning and evidence from your past work, to make your new idea better (if applicable). 
+* The potential negative impacts on the environment, if there are any, and how you will limit the impact.
 
 ---
 
@@ -114,17 +157,31 @@ outcomes:
 
 ## Local orgs
 
+* Richard Cain, Llechryd & District Gardening Club
+* Rena McOwat, Drefach Felindre Gardening Club
+* ?, Rhydlewis Gardening Club
 * HUTS, Adpar
 * Claire Turner, Naturewise Community Forest Garden, Cardigan
 * Town Council
 * County Council
 * Dave Thomas
+* Hazel Evans
 * Blue Green Cymru - Anna & Phil. Wellbeing. Allotments near Newcastle Emlyn.
 Natalie, Community Gardens, Newcastle Emlyn
-
-
+* Jim Bowen - Ffynone Community Resilience. 4 bits of land
+    * https://localgiving.org/charity/ffynnone-community-resilience/
+    * Blaenffos
+    * Clyfnyw https://www.clynfyw.co.uk/
+    * Fruit & Nut Cilgerran
+    * ?
+    * Cilgerran shop?
+    * 
+* Vicky Moller Grwp Resilience
 * Sarah Wright - Treasurer, Cardigan Allotments, 
 * Audley Burnett - Newcastle Emlyn Resilience Group
+    * Repair café in September
+* Charlie Warner, local nursery
+* Jasmine, 
 
 ## Project idea
 
