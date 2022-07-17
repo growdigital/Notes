@@ -18,6 +18,62 @@ Most people know that an allotment is a plot of land for individual, non-commerc
 
 Allotments and community orchard are the perfect entrance to transition to **sustainable gardening and agriculture**, and the show gardens and workshops provide the necessary  education, sharing and income.
 
+## Outreach
+
+* Outreach gardening club
+* Outreach, garden share scheme
+* Outreach, schools
+* Outreach, produce, cafés
+* Charities eg HUTS Workshop
+
+## Outcomes
+
+1. Creation of allotment & community orchard
+2. Shift to sustainable gardening practices
+3. A online, bilingual blueprint for other projects.
+4. Increased visitors for town
+
+### 1. Example outcome
+
+1. **Outcome:** Outcome in here
+2. **Indicator:** Indicator
+3. **Timings & indicator levels:**
+    1. By the end of year 1
+    2. By the end of year 2
+    3. By the end of project
+4. **How we’ll get this information:** we will
+
+### 2. Example outcome
+
+1. **Outcome:** Outcome in here
+2. **Indicator:** Indicator
+3. **Timings & indicator levels:**
+    1. By the end of year 1
+    2. By the end of year 2
+    3. By the end of project
+4. **How we’ll get this information:** we will
+
+### 3. Example outcome
+
+1. **Outcome:** Outcome in here
+2. **Indicator:** Indicator
+3. **Timings & indicator levels:**
+    1. By the end of year 1
+    2. By the end of year 2
+    3. By the end of project
+4. **How we’ll get this information:** we will
+
+### 4. Example outcome
+
+1. **Outcome:** Outcome in here
+2. **Indicator:** Indicator
+3. **Timings & indicator levels:**
+    1. By the end of year 1
+    2. By the end of year 2
+    3. By the end of project
+4. **How we’ll get this information:** we will
+
+
 ---
 
 Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider businesses (cafes, accommodation) from increase in visitors. ecotourism. Famililes. Schools will benefit, education and also food. food bank? Not emlyn. Engaging people who do not usually engage - pupils! people who just want to grow veg for their family.
@@ -66,6 +122,7 @@ has to be accessible by foot
     2. By the end of year 2
     3. By the end of project
 4. **How we’ll get this information:** we will
+
 
 https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants/how-to-track-your-progress-ssw
 
@@ -182,6 +239,7 @@ Natalie, Community Gardens, Newcastle Emlyn
     * Repair café in September
 * Charlie Warner, local nursery
 * Jasmine, 
+* Borth Community Gardens https://gerddicymunedol.blogspot.com/  borthcommunitygardens@gmail.com  via Hannah.Lin on 01239 871386
 
 ## Project idea
 
