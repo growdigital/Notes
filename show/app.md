@@ -18,7 +18,7 @@ Most people know that an allotment is a plot of land for individual, non-commerc
 
 Allotments and community orchard are the perfect entrance to transition to _sustainable gardening and agriculture_, and the show gardens and workshops provide the necessary education, knowledge sharing and income.
 
-We are aiming to engage five related parts of our community who aren’t usually engaged with tackling the climate emergency:
+We are aiming to engage five related elements of our community who aren’t usually engaged with tackling the climate emergency:
 
 1. Allotmenteers
 2. School children
@@ -26,11 +26,13 @@ We are aiming to engage five related parts of our community who aren’t usually
 4. Farmers
 5. Young people
 
-1. *Allotmenteers* — allotments predominantly feature annual vegetables, with a few fruit bushes. Annual vegetables require more maintenance and water than perennial vegetables. By providing show gardens, free workshops for residents and free plants from the nursery, the allotmenteers will gain the resources and expertise to transition to sustainable gardening.
-2. *School children* — it’s essential all our children have a knowledge of sustainable food systems. By adopting one of the show gardens and owning its design, establishment and harvesting, a “forest garden club” (in conjunction with the Eco Council) could provide this, as well as a safe and calm well-being space. The beauty of forest gardening is that it’s far less maintenance than an annual veg patch.
-3. *Socially excluded groups* — this covers a diverse range of individuals, including many low income families, some disabled people and some with mental health issues. Oftentimes, there is not the money, skills, education or cultural inclination to get involved with the climate emergency. By working with local charities and schools, ensuring the gardens and workshops are accessible by foot and by those with limited mobility, and making them free to residents, we can reach these varied groups.
-4. *Farmers* — Newcastle Emlyn is predominantly an agricultural area, home to a livestock market and branches of the National Farmers Union Mutual and Clynderwen and Cardiganshire Farmers cooperative. There are agroforestry grants available, via the Welsh government’s Woodland Creation Scheme and the Woodland Trust’s MOREwoods. By having a working example of agroforestry near the centre of town, with free entry to residents, farmers will have an opportunity to explore sustainable alternatives for agricultural diversification that are far less dependent on fertilisers, fossil fuels and pesticides.
-5. *Young people* — the show gardens, nursery and workshops would be fertile ground for training a new generation of horticulturists in sustainable gardening. By providing apprenticeships and employment, young people can acquire the skills and qualifications to stay in the area and pursue a sustainable career.
+## Community elements
+
+1. **Allotmenteers** — allotments predominantly feature annual vegetables, with a few fruit bushes. Annual vegetables require more maintenance and water than perennial vegetables. By providing show gardens, free workshops for residents and free plants from the nursery, the allotmenteers will gain the resources and expertise to transition to sustainable gardening.
+2. **School children** — it’s essential all our children have a knowledge of sustainable food systems. By adopting one of the show gardens and owning its design, establishment and harvesting, a “forest garden club” (in conjunction with the Eco Council) could provide this, as well as a safe and calm well-being space. The beauty of forest gardening is that it’s far less maintenance than an annual veg patch.
+3. **Socially excluded groups** — this covers a diverse range of individuals, including many low income families, some disabled people and some with mental health issues. Oftentimes, there is not the money, skills, education or cultural inclination to get involved with the climate emergency. By working with local charities and schools, ensuring the gardens and workshops are accessible by foot and by those with limited mobility, and making them free to residents, we can reach these varied groups.
+4. **Farmers** — Newcastle Emlyn is predominantly an agricultural area, home to a livestock market and branches of the National Farmers Union Mutual and Clynderwen and Cardiganshire Farmers cooperative. There are agroforestry grants available, via the Welsh government’s Woodland Creation Scheme and the Woodland Trust’s MOREwoods. By having a working example of agroforestry near the centre of town, with free entry to residents, farmers will have an opportunity to explore sustainable alternatives for agricultural diversification that are far less dependent on fertilisers, fossil fuels and pesticides.
+5. **Young people** — the show gardens, nursery and workshops would be fertile ground for training a new generation of horticulturists in sustainable gardening. By providing apprenticeships and employment, young people can acquire the skills and qualifications to stay in the area and pursue a sustainable career.
 
 ## Timings 
 
@@ -42,34 +44,67 @@ We are aiming to engage five related parts of our community who aren’t usually
 
 ## Outcomes
 
-1. *Outcome:* Allotmenteers grow resilient plants with sustainable methods
+**1. Allotmenteers grow resilient plants with sustainable methods**
+
 * *Indicator:* Percentage of allotmenteers growing resilient plants
 * *Timings*
     * End of project: 75% 
 * *Information source:* Surveys at beginning and end of project
 
-2. *Outcome:* School children take home experience and produce from sustainable gardening
+**2. School children take home experience and produce from sustainable gardening**
+
 * *Indicator:* Number of school children actively in “forest garden club”
 * *Timings*
-    2. End of year 3: 4
-    3. End of year 4: 6
-    3. End of project: 8
+    1. End of year 3: 4 participants
+    2. End of year 4: 6 participants
+    3. End of project: 8 participants
 * *Information source:* Register for “forest garden club”
 
-3. *Outcome:* Farmers engage with regenerative alternatives for agricultural diversification
-* *Indicator:* 
+**3. Farmers engage with regenerative alternatives for agricultural diversification**
+
+* *Indicator:* Number of regenerative agricultural projects directly linked to gardens
 * *Timings*
-    1. End of year 4: 2
-    3. End of project: 4
+    1. End of year 4: 2 projects
+    2. End of project: 4 projects
 * *Information source:* Run workshops/open days specifically for farmers. Register interest, follow up with survey.
 
-4. *Outcome:* Young people are trained as new generation of horticulturists
+**4. Young people are trained as new generation of horticulturists**
+
 * *Indicator:* Number of qualified apprenticeships
 * *Timings*
-    End of project: 1
+    * End of project: 1
 * *Information source:* There will be a certificate.
 
 ---
+
+## Notes
+
+* Programme priorities
+    1. Enabling communities in Wales who are not usually engaged in climate change to help tackle the climate emergency and inspire others.
+    2. Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
+    3. Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
+* How to track your progress <https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants/how-to-track-your-progress-ssw>
+
+---
+
+## 2. How do you know this is the best approach? 
+
+
+
+
+---
+
+## Notes
+
+Please briefly tell us about: 
+
+* How your community came up with the project idea – including who you’ve spoken to (organisations and people). 
+* Any research you’ve done. 
+* Any other existing, or planned activities in your community. 
+* Any other sources of help (like advice or funding) that you can access. 
+* How you have used learning and evidence from your past work, to make your new idea better (if applicable). 
+* The potential negative impacts on the environment, if there are any, and how you will limit the impact.
+
 
 Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider businesses (cafes, accommodation) from increase in visitors. ecotourism. Famililes. Schools will benefit, education and also food. food bank? Not emlyn. Engaging people who do not usually engage - pupils! people who just want to grow veg for their family.
 
