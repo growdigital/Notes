@@ -27,44 +27,47 @@ We are aiming to engage five related parts of our community who aren’t usually
 5. Young people
 
 1. *Allotmenteers* — allotments predominantly feature annual vegetables, with a few fruit bushes. Annual vegetables require more maintenance and water than perennial vegetables. By providing show gardens, free workshops for residents and free plants from the nursery, the allotmenteers will gain the resources and expertise to transition to sustainable gardening.
-2. *School children* — it’s essential all our children have a knowledge of sustainable food systems. By adopting one of the show gardens and owning its design, establishment and harvesting, a “forest garden club” could provide this, as well as a safe and calm well-being space. The beauty of forest gardening is that it’s far less maintenance than an annual veg patch.
+2. *School children* — it’s essential all our children have a knowledge of sustainable food systems. By adopting one of the show gardens and owning its design, establishment and harvesting, a “forest garden club” (in conjunction with the Eco Council) could provide this, as well as a safe and calm well-being space. The beauty of forest gardening is that it’s far less maintenance than an annual veg patch.
 3. *Socially excluded groups* — this covers a diverse range of individuals, including many low income families, some disabled people and some with mental health issues. Oftentimes, there is not the money, skills, education or cultural inclination to get involved with the climate emergency. By working with local charities and schools, ensuring the gardens and workshops are accessible by foot and by those with limited mobility, and making them free to residents, we can reach these varied groups.
 4. *Farmers* — Newcastle Emlyn is predominantly an agricultural area, home to a livestock market and branches of the National Farmers Union Mutual and Clynderwen and Cardiganshire Farmers cooperative. There are agroforestry grants available, via the Welsh government’s Woodland Creation Scheme and the Woodland Trust’s MOREwoods. By having a working example of agroforestry near the centre of town, with free entry to residents, farmers will have an opportunity to explore sustainable alternatives for agricultural diversification that are far less dependent on fertilisers, fossil fuels and pesticides.
 5. *Young people* — the show gardens, nursery and workshops would be fertile ground for training a new generation of horticulturists in sustainable gardening. By providing apprenticeships and employment, young people can acquire the skills and qualifications to stay in the area and pursue a sustainable career.
 
+## Timings 
+
+1. Year 1 - set up allotments & communal shed
+2. Year 2 - create show gardens & community orchard
+3. Year 3 - build workshop & nursery
+4. Year 4 - run workshops & apprenticeships
+5. Year 5 - end of funding for project
+
 ## Outcomes
 
-1. Allotmenteers grow resilient plants with sustainable methods
-* *Indicator:* 
+1. *Outcome:* Allotmenteers grow resilient plants with sustainable methods
+* *Indicator:* Percentage of allotmenteers growing resilient plants
 * *Timings*
-    1. End of year 1
-    2. End of year 2
-    3. End of project
-* *Information source:* 
+    * End of project: 75% 
+* *Information source:* Surveys at beginning and end of project
 
-2. School children take home experience and produce from sustainable gardening
-* *Indicator:* 
+2. *Outcome:* School children take home experience and produce from sustainable gardening
+* *Indicator:* Number of school children actively in “forest garden club”
 * *Timings*
-    1. End of year 1
-    2. End of year 2
-    3. End of project
-* *Information source:* 
+    2. End of year 3: 4
+    3. End of year 4: 6
+    3. End of project: 8
+* *Information source:* Register for “forest garden club”
 
-3. Farmers engage with regenerative alternatives for agricultural diversification
+3. *Outcome:* Farmers engage with regenerative alternatives for agricultural diversification
 * *Indicator:* 
 * *Timings*
-    1. End of year 1
-    2. End of year 2
-    3. End of project
-* *Information source:* 
+    1. End of year 4: 2
+    3. End of project: 4
+* *Information source:* Run workshops/open days specifically for farmers. Register interest, follow up with survey.
 
-4. Young people are trained as new generation of horticulturists
-* *Indicator:* 
+4. *Outcome:* Young people are trained as new generation of horticulturists
+* *Indicator:* Number of qualified apprenticeships
 * *Timings*
-    1. End of year 1
-    2. End of year 2
-    3. End of project
-* *Information source:* 
+    End of project: 1
+* *Information source:* There will be a certificate.
 
 ---
 
