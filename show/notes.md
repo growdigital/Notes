@@ -34,6 +34,7 @@
 * Up front about salary & amount
 * Fundraising, offer commission
 * £35 p/h rate, part-time
+* £60k for 250 people, £240 per person
 
 ## Inspiration
 

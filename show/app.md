@@ -89,9 +89,63 @@ We are aiming to engage five related elements of our community who aren’t usua
 
 ## 2. How do you know this is the best approach? 
 
+Food forest gardens and agroforestry require less energy and water than traditional horticulture. There are key features of sustainable forest gardening practices: 
+
+* Drought resistant & nutrient rich perennial edibles
+* System plants for fertility, based on a nutrient budget
+* Native plants where possible to support integrated pest control
+* Using space effectively by utilising different layers
+* Protection with windbreaks
+* Planned water storage and usage
+
+These features are not currently recognised in mainstream horticulture, so we can promote these best practices better by coupling them with existing institutions and recognisable structures.
+
+The idea came about in the response to the lack of allotments in Newcastle Emlyn combined with a desire to enable community action on climate change.
+
+We have been in touch with many people and organisations locally:
+
+* Sarah Wright, Treasurer, Cardigan Allotments — invaluable information about running an allotment, issues, budgets, constitution, shared spaces etc
+* Ysgol Gyfun Emlyn — contact with heads of Design & Technology, Science, Geography and Wellbeing, to discuss curricular activities and the “forest garden club”
+* Mrs Kate Roberts, Eco Council Coordinator, Ysgol Y Ddwylan — Jake Rayson is creating the wildlife food forest garden with the Eco Council
+* Richard Cain, Chairperson Llechryd & District Gardening Club
+* Roger Spencer, Owner, Trefedhyn Garden Centre, Newcastle Emlyn
+* Natalie Stevens, BlueGreenCymru, Newcastle Emlyn
+* Anette Kelly, Operations Manager CYCA — Asset Based Community Development
+* Sarah Wilson, Head of Horticulture, Veterans Growth, Sussex — advice on funding, applications, and running a community venture
+* Steve Higgins, Wellbeing Coordinator, HUTS Workshop, Adpar 
+* Claire Turner, Director of Naturewise Community Forest Garden, Cardigan
+* Hazel Evans, Newcastle Emlyn Town Councillor and Carmarthenshire County Councillor
+* Dave Thomas, Newcastle Emlyn Town Councillor
+* Jim Bowen, Director Clynfew Care Farm, Abercych
+* Vicky Moller, Grwp Resilience
+* Michelle Davies, Training Advisor Coleg Sir Gar
+
+* Audley Burnett, Newcastle Emlyn Resilience Group
+* Jamie Miller, Tŷ Pren, Lampeter
+
+## Main partners
+
+existing projects:
+* Natalie Stevens, allotments, outside Emlyn
+
+> * How you have used learning and evidence from your past work, to make your new idea better (if applicable)
 
 
 
+---
+
+* Cilgerran Fruit and Nuts club
+* Ffynone Community Resilience. 4 bits of land
+
+    * https://localgiving.org/charity/ffynnone-community-resilience/
+    * Blaenffos
+    * Clyfnyw https://www.clynfyw.co.uk/
+    * Fruit & Nut Cilgerran
+    * ?
+    * Cilgerran shop?
+    * 
+* Sarah Wright - Treasurer, Cardigan Allotments, 
+* Audley Burnett - Newcastle Emlyn Resilience Group
 ---
 
 ## Notes
@@ -114,12 +168,6 @@ the community is more than the allotmenteers, it is the whole town, and outreach
 
 agricultural town, livestock. Farming has to change - pollution, rivers, wildlife, fuel rises, fertiliser costs, use of pesticides, energy inputs for meat
 
-* draw people in to sustainable gardening practices via the allotment, by osmosis
-* by offering free workshops & plants/cuttings to local residents
-* by having a series of show gardens, from small to big, showing what can be achieved in different sized spaces. free entry to local residents 
-* people who want to grow veg on an allotment
-* most allotmenteers don't view growing veg as climate action!
-* schools - outreach work: biology, art, well-being. ddwylan wildlife garden.
 * involve gardening clubs -- llechryd & district, rhydlewis, drefach
     * LDGC https://www.llechrydgardenclub.co.uk/
     * Rhydlewis https://rhydlewisgardeningclub.blogspot.com/
@@ -132,28 +180,6 @@ agricultural town, livestock. Farming has to change - pollution, rivers, wildlif
     * Ddwylan
     * Cenarth
     * Ysgol Penboyr
-
-We propose to create an allotment, community orchard and food forest show gardens, with a sustainable building for workshops and as an allotment hub.
-
-project will be delivered in newcastle emlyn 
-has to be accessible by foot
-
-* Set outcomes, actual changes 
-* Use indicators
-    * How much will change
-    * When will it happen
-    * How will you get info
-
-
-## Example outcome
-
-1. **Outcome:** Outcome in here
-2. **Indicator:** Indicator
-3. **Timings & indicator levels:**
-    1. By the end of year 1
-    2. By the end of year 2
-    3. By the end of project
-4. **How we’ll get this information:** we will
 
 
 https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants/how-to-track-your-progress-ssw
