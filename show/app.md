@@ -87,7 +87,7 @@ We are aiming to engage five related elements of our community who aren’t usua
 
 ---
 
-## 2. How do you know this is the best approach? 
+## 2. How do you know this is the best approach? _750 words_
 
 Food forest gardens and agroforestry require less energy and water than traditional horticulture. There are key features of sustainable forest gardening practices: 
 
@@ -130,7 +130,19 @@ existing projects:
 
 > * How you have used learning and evidence from your past work, to make your new idea better (if applicable)
 
+---
 
+## 3. Your organisation _500 words_
+
+
+
+---
+
+We would like you to tell us about your organisation (and your partner(s), if you have any).     
+
+Please briefly tell us:  
+about your organisation. It’s okay if you do not have experience with  climate action. But if you do, please tell us about it here.
+If you plan to work with other organisations. Please tell us who they are and what they will do. 
 
 ---
 
