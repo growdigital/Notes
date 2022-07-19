@@ -18,6 +18,13 @@ Most people know that an allotment is a plot of land for individual, non-commerc
 
 Allotments and community orchard are the perfect entrance to transition to **sustainable gardening and agriculture**, and the show gardens and workshops provide the necessary  education, sharing and income.
 
+---
+
+crucial part of show garden is the agroforestry element, showing farmers how they can adapt their farming methods to more sustainable practices, with silvopasture, agroforestry & regenerative landscaping
+
+price of fertiliser & fuel, need greater returns
+
+
 ## Outreach
 
 * Outreach gardening club
@@ -28,15 +35,26 @@ Allotments and community orchard are the perfect entrance to transition to **sus
 
 ## Outcomes
 
-1. Creation of allotments
-2. Creation of show gardens
+What changes do you want to see?
+How do you measure them?
+
+1. Enable communities not usually engaged to help tackle climate emergency
+2. 
+
+1. Enabling communities in Wales who are not usually engaged in climate change to help tackle the climate emergency and inspire others.
+2. Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
+3. Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
+
+
+1. 
+2. 
 3. 
 4. A online, bilingual blueprint for other projects.
 5. Increased visitors for town
 
 ### 1. Creation of allotments
 
-1. **Outcome:** Creation of allotments, communal shed and community orchard
+1. **Outcome:** 
 2. **Indicator:** Indicator
 3. **Timings & indicator levels:**
     1. By the end of year 1
@@ -44,9 +62,9 @@ Allotments and community orchard are the perfect entrance to transition to **sus
     3. By the end of project
 4. **How we’ll get this information:** we will
 
-### 2. Creation of food forest show gardens
+### 2. 
 
-1. **Outcome:** Creation of food forest show garden and building for workshops
+1. **Outcome:** 
 2. **Indicator:** Indicator
 3. **Timings & indicator levels:**
     1. By the end of year 1
@@ -82,6 +100,8 @@ Our community is Newcastle Emlyn. Allotmenteers will benefit, plus wider busines
 > how you will work with people who do not usually engage in climate action
 
 the community is more than the allotmenteers, it is the whole town, and outreach work is crucial to build and maintain links.
+
+agricultural town, livestock. Farming has to change - pollution, rivers, wildlife, fuel rises, fertiliser costs, use of pesticides, energy inputs for meat
 
 * draw people in to sustainable gardening practices via the allotment, by osmosis
 * by offering free workshops & plants/cuttings to local residents
@@ -138,8 +158,8 @@ outcomes:
 ---
 
 1. Enable - through provision of allotments, by programme of free workshops to local residents & free entry to show gardens. Offer quarter, half & full.
-2. Empower - by education, for the schools, allotmenteers & residents
-3. Evidence - documenting process, offering blueprint for similar projects, share online. Evidence impact 🤔 
+2. Empower - by education, for the schools, allotmenteers & residents, and farmers
+3. Evidence - documenting process, offering blueprint for similar projects, share online. Evidence impact 🤔. Outcome, indicators
 
 * About your community and who will benefit – especially how you will work with people who do not  usually engage in climate action. 
 * What you propose to do. 
