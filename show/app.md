@@ -8,43 +8,49 @@ We rely on food served by fragile global supply chains. Our world will see a 1.5
 
 The project is a community allotment and orchard coupled with a food forest show garden for the town of Newcastle Emlyn. The area has no allotments.
 
-The show gardens will demonstrate sustainable gardening methods, plants and combinations for different sized plots, supported by workshops, with the whole process documented online for the benefit of individuals and similar projects.
+The food forest show gardens will demonstrate sustainable gardening methods, plants and combinations for different sized plots, supported by workshops, with the whole process documented online for the benefit of individuals and similar projects.
 
 A food forest (or forest garden) is a productive, sustainable, resilient and low maintenance garden that works with nature by emulating the edge of woodland to grow edible, mostly perennial crops. The farming equivalent is regenerative agroforestry. 
 
-The show gardens and workshops are key to the project, as they will provide a sustainable income from visitors, whilst plant cuttings and expertise will be freely available to allotmenteers. This will help spread the principles and practise of forest gardening.
+The show gardens, workshops and nursery provide a sustainable income from visitors, whilst the community outreach with the allotmenteers, schools, farmers, socially excluded groups and young people extends the reach of the sustainable horticulture message.
 
-Most people know that an allotment is a plot of land for individual, non-commercial growing of food, and that a community orchard is a collectively managed collection of fruit and nut trees. It is only a short step to introduce perennial vegetables, which are more nutritious and require far less watering, edible shrubs, and system plants for fertility and integrated pest control.
+Most people know that an allotment is a plot of land for individual, non-commercial growing of food, and that a community orchard is a collectively managed collection of fruit and nut trees. It is only a short step to introduce perennial vegetables, which are more nutritious and require far less watering, edible shrubs, and system plants for protection, fertility and integrated pest control.
 
-Allotments and community orchard are the perfect entrance to transition to **sustainable gardening and agriculture**, and the show gardens and workshops provide the necessary  education, sharing and income.
+Allotments and community orchard are the perfect entrance to transition to _sustainable gardening and agriculture_, and the show gardens and workshops provide the necessary education, knowledge sharing and income.
 
----
+We are aiming to engage four related parts of our community who aren’t usually engaged with tackling the climate emergency:
 
-crucial part of show garden is the agroforestry element, showing farmers how they can adapt their farming methods to more sustainable practices, with silvopasture, agroforestry & regenerative landscaping
+1. Allotmenteers
+2. School children
+3. Socially excluded groups
+4. Farmers
+5. Young people
 
-price of fertiliser & fuel, need greater returns
-
-
-## Outreach
-
-* Outreach gardening club
-* Outreach, garden share scheme
-* Outreach, schools
-* Outreach, produce, cafés
-* Charities eg HUTS Workshop
+1. *Allotmenteers* — allotments predominantly feature annual vegetables, with a few fruit bushes. Annual vegetables require more maintenance and water than perennial vegetables. By providing show gardens, free workshops for residents and free plants from the nursery, the allotmenteers will gain the resources and expertise to transition to sustainable gardening.
+2. *School children* — it’s essential all our children have a knowledge of sustainable food systems. By adopting one of the show gardens and owning its design, establishment and harvesting, a “forest garden club” could provide this, as well as a safe and calm well-being space. The beauty of forest gardening is that it’s far less maintenance than an annual veg patch.
+3. *Socially excluded groups* — this covers a diverse range of individuals, including many low income families, some disabled people and some with mental health issues. Oftentimes, there is not the money, skills, education or cultural inclination to get involved with the climate emergency. By working with local charities and schools, ensuring the gardens are accessible by foot and by those with limited mobility, and making them free to residents, we can reach these varied groups.
+4. *Farmers* — Newcastle Emlyn is predominantly an agricultural area, home to a livestock market and branches of the National Farmers Union Mutual and Clynderwen and Cardiganshire Farmers cooperative. There are agroforestry grants available, via the Welsh government’s Woodland Creation Scheme and the Woodland Trust’s MOREwoods. By having a working example of agroforestry near the centre of town, with free entry to residents, farmers will have an opportunity to explore sustainable alternatives for agricultural diversification that are far less dependent on fertilisers, fossil fuels and pesticides.
+5. *Young people* — the show gardens, nursery and workshops would be fertile ground for training a new generation of horticulturists in sustainable gardening. By providing apprenticeships and employment, young people can acquire the skills and qualifications to stay in the area and pursue a sustainable career.
 
 ## Outcomes
+
+1. Allotmenteers grow resilient plants with sustainable methods
+2. School children take home experience and produce from sustainable gardening
+3. Farmers engage with regenerative alternatives for agricultural diversification
+4. Young people are trained as new generation of horticulturists
 
 What changes do you want to see?
 How do you measure them?
 
 1. Enable communities not usually engaged to help tackle climate emergency
-2. 
+2. Empower community-led activities to promote sustainable, low-carbon future
+3. Evidence impact & sharing
 
-1. Enabling communities in Wales who are not usually engaged in climate change to help tackle the climate emergency and inspire others.
-2. Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
-3. Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
 
+
+1. Enable - through provision of allotments, by programme of free workshops to local residents & free entry to show gardens. Offer quarter, half & full.
+2. Empower - by education, for the schools, allotmenteers & residents, and farmers
+3. Evidence - documenting process, offering blueprint for similar projects, share online. Evidence impact 🤔. Outcome, indicators
 
 1. 
 2. 
@@ -189,6 +195,16 @@ Please briefly tell us about:
 * Any other sources of help (like advice or funding) that you can access. 
 * How you have used learning and evidence from your past work, to make your new idea better (if applicable). 
 * The potential negative impacts on the environment, if there are any, and how you will limit the impact.
+
+---
+
+## Outreach
+
+* Outreach gardening club
+* Outreach, garden share scheme
+* Outreach, schools
+* Outreach, produce, cafés
+* Charities eg HUTS Workshop
 
 ---
 
