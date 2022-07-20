@@ -26,6 +26,12 @@
 * Sheds for each allotment?
 * General purpose courses or specialist courses?
 
+## Coleg Sir Gar
+
+> We do offer a Horticulture course at our Gelli Aur campus. This is an online course with a group meeting once every half term (usually at National Botanic Gardens in Llanarthne). The course is City & Guilds with RHS and takes approximately 18 months.
+
+> To give you an idea of costs for your funding application, there is usually funding for the City & Guilds section and we will help the eligible apprentices to apply for that. There is a cost for the RHS section and it is approx £20 per unit, totalling under £300 usually. Further info and prices can be found online for the RHS section. We would expect the apprentice to be employed at or above National Minimum Wage- for an apprentice in their first year that is currently £4.81 and in the second year they should be paid the NMW for their age.
+
 ## VG
 
 ### Salary & volunteers
@@ -35,6 +41,16 @@
 * Fundraising, offer commission
 * £35 p/h rate, part-time
 * £60k for 250 people, £240 per person
+
+---
+
+Jason had a look, quick thoughts:
+
+* Up numbers, schoolchildren more like 400 than 4!
+* Do you need to go into financial headlines?
+* Mention experts you’ll be working with and partner organisations, they love collaboration
+* He thinks maybe focus on less groups of people and specialise on one or two
+* Questions the 75% of allomenteers figure - too high?
 
 ## Inspiration
 

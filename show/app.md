@@ -48,17 +48,17 @@ We are aiming to engage five related elements of our community who aren’t usua
 
 * *Indicator:* Percentage of allotmenteers growing resilient plants
 * *Timings*
-    * End of project: 75% 
+    * End of project: 60% 
 * *Information source:* Surveys at beginning and end of project
 
 **2. School children take home experience and produce from sustainable gardening**
 
-* *Indicator:* Number of school children actively in “forest garden club”
+* *Indicator:* Number of visits by local school children, for tours, workshops, activities etc
 * *Timings*
-    1. End of year 3: 4 participants
-    2. End of year 4: 6 participants
-    3. End of project: 8 participants
-* *Information source:* Register for “forest garden club”
+    1. End of year 3: 800 visits
+    2. End of year 4: 1600 visits
+    3. End of project: 3200 visits
+* *Information source:* Visitor register
 
 **3. Farmers engage with regenerative alternatives for agricultural diversification**
 
@@ -73,7 +73,7 @@ We are aiming to engage five related elements of our community who aren’t usua
 * *Indicator:* Number of qualified apprenticeships
 * *Timings*
     * End of project: 1
-* *Information source:* There will be a certificate.
+* *Information source:* Apprenticeship certificate
 
 ---
 
@@ -97,44 +97,62 @@ Food forest gardens and agroforestry require less energy and water than traditio
 * Using space effectively by utilising different layers
 * Protection with windbreaks
 * Planned water storage and usage
+* Low maintenance due to perennials & ground cover
 
-These features are not currently recognised in mainstream horticulture, so we can promote these best practices better by coupling them with existing institutions and recognisable structures.
+The ideas and best practices for more sustainable gardening exist but they are not widely recognised in mainstream horticulture. 
+
+By coupling these best practices with existing local institutions (schools, councils, resilience groups) and recognisable structures (allotments, show gardens, workshops), we can share the knowledge directly rather than rely on traditional channels. We can make our own connections and share our learning.
 
 The idea came about in the response to the lack of allotments in Newcastle Emlyn combined with a desire to enable community action on climate change.
 
-We have been in touch with many people and organisations locally:
+The key takeaway from our research so far has been the importance of making critical connections: finding local collaborators, knowledge and groups whose interests overlap. The next stage is developing how these diverse community assets can be incorporated into the project’s goals and structure. 
 
-* Sarah Wright, Treasurer, Cardigan Allotments — invaluable information about running an allotment, issues, budgets, constitution, shared spaces etc
+These are some of the people we have been in touch with:
+
+* Hazel Evans, Carmarthenshire County Councillor and Newcastle Emlyn Town Councillor — Cllr Evans backs the project in principle and is invaluable with a wealth of local knowledge
+* Dave Thomas, Newcastle Emlyn Town Councillor - newly elected, Cllr Thomas has 
+* Mrs Kate Roberts, Eco Council Coordinator, Ysgol Y Ddwylan — Jake Rayson is creating the wildlife food forest garden with the school’s Eco Council, and Mrs Roberts is behind the project
 * Ysgol Gyfun Emlyn — contact with heads of Design & Technology, Science, Geography and Wellbeing, to discuss curricular activities and the “forest garden club”
-* Mrs Kate Roberts, Eco Council Coordinator, Ysgol Y Ddwylan — Jake Rayson is creating the wildlife food forest garden with the Eco Council
-* Richard Cain, Chairperson Llechryd & District Gardening Club
-* Roger Spencer, Owner, Trefedhyn Garden Centre, Newcastle Emlyn
-* Natalie Stevens, BlueGreenCymru, Newcastle Emlyn
-* Anette Kelly, Operations Manager CYCA — Asset Based Community Development
+* Jim Bowen, Ffynone Community Resilience, north east Pembs — the group was established in 2019 and now has four productive sites, including Field of Beans in Blaenffos, Clynfyw Care Farm in Abercych and Fruits & Nuts Community Garden in Cilgerran
+* Audley Burnett, Newcastle Emlyn Resilience Group — recently established to build practical resilience in the face of the threats posed by the climate crisis
+* Steve Higgins, Wellbeing Coordinator, HUTS Workshop, Adpar — a local mental health & learning difficulties support charity keen to collaborate on shared green spaces
+* Claire Turner, Director of Naturewise Community Forest Garden, Cardigan — a 5 acre community garden which is a source of great inspiration
+* Vicky Moller, Grwp Resilience — incredibly useful umbrella organisation for a variety of resilience groups and businesses in West Wales
+* Sarah Wright, Treasurer, Cardigan Allotments — invaluable information about running an allotment, issues, budgets, constitution, shared spaces etc
+* Natalie Stevens, BlueGreenCymru, Newcastle Emlyn — a well-being in nature charity, with a site in St Dogmaels, Pembs and potential site north of Newcastle Emlyn
+* Roger Spencer, Owner, Trefedhyn Garden Centre, Newcastle Emlyn — very helpful local garden centre with years of experience and local contacts
+* Witchhazel Wildwood, Project Manager, The Orchard Project, Swansea — years of experience with community based growing projects, incredibly supportive and positive
+* Anette Kelly, Operations Manager CYCA — great advice about using Asset Based Community Development process for gathering community input
 * Sarah Wilson, Head of Horticulture, Veterans Growth, Sussex — advice on funding, applications, and running a community venture
-* Steve Higgins, Wellbeing Coordinator, HUTS Workshop, Adpar 
-* Claire Turner, Director of Naturewise Community Forest Garden, Cardigan
-* Hazel Evans, Newcastle Emlyn Town Councillor and Carmarthenshire County Councillor
-* Dave Thomas, Newcastle Emlyn Town Councillor
-* Jim Bowen, Director Clynfew Care Farm, Abercych
-* Vicky Moller, Grwp Resilience
-* Michelle Davies, Training Advisor Coleg Sir Gar
-
-* Audley Burnett, Newcastle Emlyn Resilience Group
-* Jamie Miller, Tŷ Pren, Lampeter
-
-## Main partners
+* Janet Manning, Garden Water Scientist, Somerset — keen to support project by advising on sustainable water supply
+* Michelle Davies, Horticulture Training Adviser, Coleg Sir Gar — contact for 
+* Jamie Miller, Tŷ Pren, Lampeter — local business building sustainable roundwood structures, very interested in our project
 
 existing projects:
 * Natalie Stevens, allotments, outside Emlyn
 
 > * How you have used learning and evidence from your past work, to make your new idea better (if applicable)
 
+* Airbnb forest garden tours
+* Backyard Forest course, pandemic
+* wild corridors - 
+* Garden Wild - give the 
+* berllan aur - cart before the horse
+* Ddwylan garden - importance of collaboration
+* agro - agroforestry applications & farming. communicatin with large organisations. following process.
+
 ---
 
 ## 3. Your organisation _500 words_
 
+Partners?
 
+* Ysgol Y Ddwylan
+* Ysgol Gyfun Emlyn
+* Ffynone Community Resilience
+* Newcastle Emlyn Resilience Group
+* Carmarthenshire County Council
+* Newcastle Emlyn Town Council
 
 ---
 
