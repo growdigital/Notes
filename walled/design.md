@@ -1,6 +1,6 @@
 # Walled Garden Design 💖
 
-[Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
+[Home](https://grwd.uk/walled) • [Schedule](https://grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
 The idea is to use the structure of the existing main paths, and then have circular arcs cutting through the quarters. This keeps the geometry but loosens up the shapes, and also provides a nice line for the smaller internal windbreak hedges to follow.
 

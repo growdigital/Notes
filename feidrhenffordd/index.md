@@ -1,6 +1,6 @@
 # Template home 🏡
 
-[Home](https://notes.grwd.uk/template/) • [Schedule](https://notes.grwd.uk/template/schedule) • [Maintenance](https://notes.grwd.uk/template/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
+[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Maintenance](https://grwd.uk/template/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
@@ -51,4 +51,4 @@ Aims of the project.
 * [Satellite image](https://github.com/growdigital/template/raw/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/template)
 
-This page online: <https://notes.grwd.uk/template>
+This page online: <https://grwd.uk/template>

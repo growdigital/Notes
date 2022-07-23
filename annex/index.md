@@ -1,6 +1,6 @@
 # Annex home 🏡
 
-[Home](https://notes.grwd.uk/annex/) • [Schedule](https://notes.grwd.uk/annex/schedule) • [Maintenance](https://notes.grwd.uk/annex/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/annex) • [Plants↗](https://bit.ly/annex-plants)
+[Home](https://grwd.uk/annex/) • [Schedule](https://grwd.uk/annex/schedule) • [Maintenance](https://grwd.uk/annex/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/annex) • [Plants↗](https://bit.ly/annex-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652874503/annex/shelter-2220516.jpg)
 
@@ -50,4 +50,4 @@ _Mown grass paths in wildlife lawn_
 * [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/annex/blob/main/annex.dxf)
 * [GitHub repository](https://github.com/growdigital/annex)
 
-This page online: <https://notes.grwd.uk/annex>
+This page online: <https://grwd.uk/annex>

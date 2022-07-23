@@ -1,6 +1,6 @@
 # Undergrove home 🏡
 
-[Home](https://notes.grwd.uk/undergrove/) • [Schedule](https://notes.grwd.uk/undergrove/schedule) • [Maintenance](https://notes.grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
+[Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
 ![Photo of trees above fence](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653663044/undergrove/oak-grove-220526.jpg)
 
@@ -60,4 +60,4 @@ _Cross-section of pond, showing gravel to preserve outside wood_
 * [Satellite image](https://github.com/growdigital/undergrove/raw/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/undergrove)
 
-This page online: <https://notes.grwd.uk/undergrove>
+This page online: <https://grwd.uk/undergrove>

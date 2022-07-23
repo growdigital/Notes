@@ -1,4 +1,4 @@
-### [Invertebrates & their Food Plants 🏡](https://notes.grwd.uk/inverts/) 🐛 🌱
+### [Invertebrates & their Food Plants 🏡](https://grwd.uk/inverts/) 🐛 🌱
 
 # Achillia millefolium (Yarrow)
 

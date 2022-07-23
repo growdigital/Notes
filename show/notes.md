@@ -1,6 +1,6 @@
 # Food Forest Show Garden notes 📝
 
-[Home](https://notes.grwd.uk/show/)
+[Home](https://grwd.uk/show/)
 
 * Visible hope
  
@@ -265,4 +265,4 @@ Online, with workshops, network of community forest gardens? Reaching new people
 
 ## Stuff for home page
 
-This page online: <https://notes.grwd.uk/show/notes>
+This page online: <https://grwd.uk/show/notes>

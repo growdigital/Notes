@@ -1,6 +1,6 @@
 # Primary schedule 📆
 
-[Home](https://notes.grwd.uk/primary) • [Schedule](https://notes.grwd.uk/template-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
+[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/template-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
 * Wk 01 - Mon 3 Jan
     * Measure up (again!)
@@ -8,4 +8,4 @@
 * Wk 02 - Mon 10 Jan
     * Feedback from teachers
 
-This page online: <https://notes.grwd.uk/primary-schedule>
+This page online: <https://grwd.uk/primary-schedule>

@@ -47,4 +47,4 @@ Here are some I collected earlier:
 * Quiet, sheltered seat
 * Art material piles - clay, stones, sand, gravel etc
 
-This page online: <https://notes.grwd.uk/primary/design>
+This page online: <https://grwd.uk/primary/design>

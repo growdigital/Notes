@@ -1,6 +1,6 @@
 # Wild Paddock home 🏡
 
-[Home](https://notes.grwd.uk/wildpaddock/) • [Schedule](https://notes.grwd.uk/wildpaddock/schedule/) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/wildpaddock/) • [Plants↗](https://bit.ly/wildpaddock-plants)
+[Home](https://grwd.uk/wildpaddock/) • [Schedule](https://grwd.uk/wildpaddock/schedule/) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/wildpaddock/) • [Plants↗](https://bit.ly/wildpaddock-plants)
 
 Consultation for creating a wildlife, ornamental and food forest garden design from a 1½ acre paddock. Provide a foundational road map, including detailed planting plans, species list and budget breakdown. Naturalistic planting with subtle symmetry & well-situated seating.
 
@@ -134,4 +134,4 @@ Site is east-facing with clay soil, woodland scrub to the north, neighbours to t
 * [Latest PDF](https://github.com/growdigital/wildpaddock/blob/main/wildpaddock.pdf)
 * [GitHub repository](https://github.com/growdigital/wildpaddock)
 
-This page online: [notes.grwd.uk/wildpaddock](https://notes.grwd.uk/wildpaddock)
+This page online: [grwd.uk/wildpaddock](https://grwd.uk/wildpaddock)

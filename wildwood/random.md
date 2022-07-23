@@ -4,4 +4,4 @@
 * [Rosa rugosa](https://pfaf.org/user/plant.aspx?LatinName=Rosa+rugosa) as deer-resitant hedge, can grow in partial shade
 
 
-This page online: <https://notes.grwd.uk/wildwood/random>
+This page online: <https://grwd.uk/wildwood/random>

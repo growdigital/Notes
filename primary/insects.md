@@ -143,4 +143,4 @@ _Photo by [Slimguy](https://commons.wikimedia.org/wiki/File:2019_06_13_Otiorhync
 
 
 
-This page online: <https://notes.grwd.uk/primary/insects>
+This page online: <https://grwd.uk/primary/insects>

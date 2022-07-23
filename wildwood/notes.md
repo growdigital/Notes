@@ -1,6 +1,6 @@
 # Wildwood notes 📝
 
-[Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Maintenance](https://notes.grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
+[Home](https://grwd.uk/wildwood/) • [Schedule](https://grwd.uk/wildwood/schedule) • [Maintenance](https://grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
 
 ## Suggestions
 
@@ -77,4 +77,4 @@ Cheaper and easier to put tree guard around each tree than deer fence around who
 * [Mole plough](https://en.wikipedia.org/wiki/Subsoiler) or subsoil plough to break up compaction, generally used on agricultural land. Alternatively, attachment for digger.
 * [Structural Soils](https://www.soils.co.uk/) in Bristol, example of company offering services.
 
-This page online: <https://notes.grwd.uk/wildwood/notes>
+This page online: <https://grwd.uk/wildwood/notes>

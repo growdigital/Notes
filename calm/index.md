@@ -1,6 +1,6 @@
 # The Calm Garden home 🏡
 
-[Home](https://notes.grwd.uk/calm/) • [Schedule](https://notes.grwd.uk/calm/schedule) • [Maintenance](https://notes.grwd.uk/calm/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/calm) • [Plants↗](https://bit.ly/calm-plants)
+[Home](https://grwd.uk/calm/) • [Schedule](https://grwd.uk/calm/schedule) • [Maintenance](https://grwd.uk/calm/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/calm) • [Plants↗](https://bit.ly/calm-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1657200661/calm/calm-cad-screenshot.jpg)
 
@@ -71,4 +71,4 @@ There is also a Pinterest page for the garden [pinterest.co.uk/NatureWorksGarden
 * [Satellite image](https://github.com/growdigital/calm/raw/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/calm)
 
-This page online: <https://notes.grwd.uk/calm>
+This page online: <https://grwd.uk/calm>

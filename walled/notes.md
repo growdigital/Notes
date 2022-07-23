@@ -1,6 +1,6 @@
 # Walled Garden notes 🗓
 
-[Home](https://notes.grwd.uk/walled) • [Schedule](https://notes.grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
+[Home](https://grwd.uk/walled) • [Schedule](https://grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
 Martin quote https://beta.fastmail.com/mail/search:lee.jacob101%40icloud.com+january/Tda72d412de5088e5.M5742078045327b3a0bdde1af?u=238c4119
 

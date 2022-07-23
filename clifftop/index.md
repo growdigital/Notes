@@ -1,6 +1,6 @@
 # Clifftop Garden 🏡
 
-[Home](https://notes.grwd.uk/clifftop/) • [Schedule](https://notes.grwd.uk/clifftop/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) • [Management](https://notes.grwd.uk/clifftop/management)
+[Home](https://grwd.uk/clifftop/) • [Schedule](https://grwd.uk/clifftop/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) • [Management](https://grwd.uk/clifftop/management)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 ![Pink rose](https://res.cloudinary.com/growdigital/image/upload/w_320/v1641465235/clifftop/harlow-carr-david-austen-flower.jpg)  
@@ -111,4 +111,4 @@ Fragrant plants, evergreen shrubs, perennial insect-friendly wild flowers…
 * [OS map image](https://github.com/growdigital/clifftop/blob/main/os.png)
 * [GitHub repository](https://github.com/growdigital/clifftop)
 
-This page online: <https://notes.grwd.uk/clifftop>
+This page online: <https://grwd.uk/clifftop>

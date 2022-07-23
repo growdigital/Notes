@@ -1,6 +1,6 @@
 # Undergrove notes 📝
 
-[Home](https://notes.grwd.uk/undergrove/) • [Schedule](https://notes.grwd.uk/undergrove/schedule) • [Maintenance](https://notes.grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
+[Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
 * 30 metres path 0.7m width, 21m²
 * 9m² seating area
@@ -136,4 +136,4 @@ crug yr eryr quarry - gravel
 * 1.2m — 2 people comfortably
 * 1.7m — 2 prams or wheelchairs comfortably
 
-This page online: <https://notes.grwd.uk/undergrove/notes>
+This page online: <https://grwd.uk/undergrove/notes>

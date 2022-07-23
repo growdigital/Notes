@@ -1,6 +1,6 @@
 # Wildlife Oasis home 🏡
 
-[Home](https://notes.grwd.uk/oasis/) • [Schedule](https://notes.grwd.uk/oasis/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/Oasis) • [Plants↗](https://bit.ly/oasis-plants)
+[Home](https://grwd.uk/oasis/) • [Schedule](https://grwd.uk/oasis/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/Oasis) • [Plants↗](https://bit.ly/oasis-plants)
 
 ## “Wildlife Oasis Bordering on a Green Desert”
 
@@ -44,4 +44,4 @@ Species extinction is driven by habitat loss, climate change and monocultural fa
 * [Satellite image](https://github.com/growdigital/oasis/blob/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/oasis)
 
-This page online: <https://notes.grwd.uk/oasis>
+This page online: <https://grwd.uk/oasis>

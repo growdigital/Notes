@@ -1,6 +1,6 @@
 # Wildwood home 🏡
 
-[Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Management](https://notes.grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
+[Home](https://grwd.uk/wildwood/) • [Schedule](https://grwd.uk/wildwood/schedule) • [Management](https://grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655726882/wildwood/wildwood-outline-satellite.jpg)
 
@@ -33,4 +33,4 @@ Grow food with the land and its other inhabitants, without leaving a too-large h
 * [Satellite image](https://github.com/growdigital/wildwood/raw/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/wildwood)
 
-This page online: <https://notes.grwd.uk/wildwood>
+This page online: <https://grwd.uk/wildwood>

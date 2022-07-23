@@ -1,6 +1,6 @@
 # Wildwood schedule 📆
 
-[Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Maintenance](https://notes.grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
+[Home](https://grwd.uk/wildwood/) • [Schedule](https://grwd.uk/wildwood/schedule) • [Maintenance](https://grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 

@@ -1,4 +1,4 @@
-# [Invertebrates & their Food Plants](https://notes.grwd.uk/inverts/) 🐛 🌱
+# [Invertebrates & their Food Plants](https://grwd.uk/inverts/) 🐛 🌱
 
 A series of threads on [Twitter](https://twitter.com/Haggewoods) by the amazing [Linden Hawthorne](https://naturallatin.com/), collected here for personal use. Text is copyright Linden Hawthorne, photos their respective authors (all credited).
 

@@ -1,6 +1,6 @@
 # Agro home 🏡
 
-[Home](https://notes.grwd.uk/agro/) • [Schedule](https://notes.grwd.uk/agro/schedule) • [Maintenance](https://notes.grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
+[Home](https://grwd.uk/agro/) • [Schedule](https://grwd.uk/agro/schedule) • [Maintenance](https://grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654357193/agro/agro-cad-3-field.jpg)
 
@@ -35,4 +35,4 @@ Plant woodland with Welsh [Woodland Creation Scheme](https://gov.wales/woodland-
 * [Satellite image](https://github.com/growdigital/agro/raw/main/satellite.jpg)
 * [GitHub repository](https://github.com/growdigital/agro)
 
-This page online: <https://notes.grwd.uk/agro>
+This page online: <https://grwd.uk/agro>

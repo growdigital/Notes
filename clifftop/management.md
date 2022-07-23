@@ -1,6 +1,6 @@
 # Clifftop management 🌳
 
-[Home](https://notes.grwd.uk/clifftop/) • [Schedule](https://notes.grwd.uk/clifftop/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) • [Management](https://notes.grwd.uk/clifftop/management)
+[Home](https://grwd.uk/clifftop/) • [Schedule](https://grwd.uk/clifftop/schedule) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/clifftop/) • [Plants↗](https://bit.ly/clifftop-plants) • [Management](https://grwd.uk/clifftop/management)
 
 The garden management page, with jobs throughout the year!
 
@@ -35,4 +35,4 @@ _Drone view of garden_
 Labels to come!
 
 
-This page online: <https://notes.grwd.uk/clifftop/management>
+This page online: <https://grwd.uk/clifftop/management>

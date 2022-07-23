@@ -1,6 +1,6 @@
 # Riveryard home 🏡
 
-[Home](https://notes.grwd.uk/riveryard/) • [Schedule](https://notes.grwd.uk/riveryard/schedule) • [Maintenance](https://notes.grwd.uk/riveryard/maintenance) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/riveryard/) • [Plants↗](https://bit.ly/riveryard-plants)
+[Home](https://grwd.uk/riveryard/) • [Schedule](https://grwd.uk/riveryard/schedule) • [Maintenance](https://grwd.uk/riveryard/maintenance) • [Pinterest↗](https://www.pinterest.co.uk/NatureWorksGarden/riveryard/) • [Plants↗](https://bit.ly/riveryard-plants)
 
 ![Photo of shed in backyard](https://res.cloudinary.com/growdigital/image/upload/w_320/v1652000828/riveryard/riveryard-shed.jpg)
 
@@ -41,4 +41,4 @@ Trees and shrubs for existing beds to create a green and colourful, low maintena
 * [GitHub repository](https://github.co
 m/growdigital/riveryard)
 
-This page online: <https://notes.grwd.uk/riveryard>
+This page online: <https://grwd.uk/riveryard>

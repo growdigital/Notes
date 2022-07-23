@@ -1,6 +1,6 @@
 # Agro notes 📝
 
-[Home](https://notes.grwd.uk/agro/) • [Schedule](https://notes.grwd.uk/agro/schedule) • [Maintenance](https://notes.grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
+[Home](https://grwd.uk/agro/) • [Schedule](https://grwd.uk/agro/schedule) • [Maintenance](https://grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
 ## Background information
 
@@ -68,4 +68,4 @@ Nov-Dec or Jan-Feb?
  
 > The application is no-obligation, it just allows us to gather the information we need to check if the project is eligible, and the site is suitable for planting. Alternatively, you could call Natural Resources Wales again to ask if you would qualify for the Glastir Woodland Creation scheme.  More details can be found on this link: <https://naturalresources.wales/guidance-and-advice/business-sectors/forestry/woodland-creation/glastir-woodland-scheme/?lang=en>
 
-This page online: <https://notes.grwd.uk/agro/notes>
+This page online: <https://grwd.uk/agro/notes>

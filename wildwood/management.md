@@ -1,7 +1,7 @@
 # Wildwood maintenance 🛠️
 
-[Home](https://notes.grwd.uk/wildwood/) • [Schedule](https://notes.grwd.uk/wildwood/schedule) • [Maintenance](https://notes.grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
+[Home](https://grwd.uk/wildwood/) • [Schedule](https://grwd.uk/wildwood/schedule) • [Maintenance](https://grwd.uk/wildwood/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildwood) • [Plants↗](https://bit.ly/wildwood-plants)
 
 Maintenance & management throughout the year.
 
-This page online: <https://notes.grwd.uk/wildwood/management>
+This page online: <https://grwd.uk/wildwood/management>

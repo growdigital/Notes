@@ -1,6 +1,6 @@
 # Food Forest Show Garden 🏡
 
-[Home](https://notes.grwd.uk/show/)
+[Home](https://grwd.uk/show/)
 
 ## Summary
 
@@ -30,4 +30,4 @@ The educational element would be links with Ysgol Gyfun Emlyn and Ysgol y Ddwyla
 The community element would be individual allotments, and people can share in the plants from the show gardens.
 
 
-This page online: <https://notes.grwd.uk/show>
+This page online: <https://grwd.uk/show>
