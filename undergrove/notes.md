@@ -2,7 +2,27 @@
 
 [Home](https://notes.grwd.uk/undergrove/) • [Schedule](https://notes.grwd.uk/undergrove/schedule) • [Maintenance](https://notes.grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
-## South facing WoodBlocX bed
+* 30 metres path 0.7m width, 21m²
+* 9m² seating area
+* 30m²total
+* 5m curved gabion retaining wall, 70cm high (1m total)
+* 50mm sub-base
+* 75mm self-binding gravel
+* 60m Douglas Fir timber 
+
+## Wildlife
+
+* [West Wales Biodiveristy Information Centre](https://www.wwbic.org.uk/)
+* [Wildlife Trust of South & West Wales](https://www.welshwildlife.org/)
+* [RSPB](https://rspb.org.uk/birds-and-wildlife/)
+* [Feeding birds RSPB](https://rspb.org.uk/birds-and-wildlife/)
+* Habitat
+    * Bat boxes
+    * Nest boxes
+    * Log poiles
+* 11 espaliers!
+
+## South facing raised bed
 
 [![Plan of raised bed](https://res.cloudinary.com/growdigital/image/upload/w_320/v1656407610/undergrove/woodblocx-bed.png)](https://res.cloudinary.com/growdigital/image/upload/v1656407610/undergrove/woodblocx-bed.pdf)  
 _WoodBlocX stepped raised bed. Click for PDF_

@@ -2,6 +2,8 @@
 
 [Home](https://notes.grwd.uk/show/)
 
+* Visible hope
+ 
 ## Cardigan Community Allotments
 
 * Hannah - Borth Community Garden, Newquay Allotments, Denmark Farm
