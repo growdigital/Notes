@@ -1,10 +1,18 @@
-# Application
+# Sustainable Steps Wales Application
 
-## Allotments & Food Forest Show Gardens
+## 1. Project name 
 
-[Home](https://notes.grwd.uk/show/)
+Allotments & Food Forest Show Gardens
 
-## 1. Project idea _750 words_
+## 2. Grant request amount
+
+£350,000
+
+## 3. Project duration
+
+5 years
+
+## 4. Project idea
 
 We rely on food served by fragile global supply chains. Our world will see a 1.5°C temperature rise within 5 years. Growing resilient food locally is one step towards a sustainable future.
 
@@ -80,17 +88,7 @@ We are aiming to engage five related elements of our community who aren’t usua
 
 ---
 
-## Notes
-
-* Programme priorities
-    1. Enabling communities in Wales who are not usually engaged in climate change to help tackle the climate emergency and inspire others.
-    2. Empowering community-led activities to reduce carbon emissions and promoting a sustainable, low-carbon future for Wales.
-    3. Evidencing impact and sharing what the group learns about how to reduce carbon emissions and engage communities in climate action. 
-* How to track your progress <https://www.tnlcommunityfund.org.uk/funding/programmes/sustainable-steps-wales-action-grants/how-to-track-your-progress-ssw>
-
----
-
-## 2. How do you know this is the best approach? _750 words_
+## 5. How do you know this is the best approach?
 
 Food forest gardens and agroforestry require less energy and water than traditional horticulture. These are key features of sustainable forest gardening practices: 
 
@@ -153,18 +151,7 @@ As a visitor attraction, we want to encourage accessible and sustainable transpo
 
 ---
 
-## Notes
-
-* How your community came up with the project idea – including who you’ve spoken to (organisations and people). 
-* Any research you’ve done. 
-* Any other existing, or planned activities in your community. 
-* Any other sources of help (like advice or funding) that you can access. 
-* How you have used learning and evidence from your past work, to make your new idea  better (if applicable). 
-* The potential negative impacts on the environment, if there are any, and how you will limit the impact.
-
----
-
-## 3. Your organisation _500 words_
+## 6. Your organisation
 
 Garden Wild Plants CIC was set up to tackle the climate and ecological emergency by promoting the use of native plants in gardening. Its remit has expanded to include sustainable gardening practices for edible plants.
 
@@ -187,16 +174,3 @@ The plan is to work closely with:
 4. *Ysgol Y Ddwylan* likewise occupies a central position, and there are opportunities to integrate the project with the school’s existing wildlife food forest garden.
 5. *Ffynone Community Resilience* serves as a shining exemplar of community land based climate action. We would very much like to learn from and be party to their processes and successes.
 6. *Newcastle Emlyn Resilience Group* is the nascent, local resilience group, which is an ideal partner organisation, aligned with the principles and ethos of our project. We can learn and share a great deal.
-
----
-
-## Notes
-
-We would like you to tell us about your organisation (and your partner(s), if you have any).     
-
-Please briefly tell us:  
-* about your organisation. It’s okay if you do not have experience with  climate action. But if you do, please tell us about it here.
-* If you plan to work with other organisations. Please tell us who they are and what they will do. 
-
-
-This page online: <https://notes.grwd.uk/show/notes>
