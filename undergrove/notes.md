@@ -2,13 +2,38 @@
 
 [Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
+## Martin trees
+
+* Apple M27 x3 — make 2 branches for 1.1m height fence above raised beds
+* Crabapple M27 x1
+* Asian Pear Quince C x1
+* Plum Pixy x2
+* Cherry Gisela x1
+
+Looking at eaters (or dual purpose), more crunchy/tart than soft/sweet. Want range of harvest.
+
+
+## Dimensions
+
+* Fence panel 1.7m high, 1.84m wide
+* Fence panel height 1.1m by raised beds
+* Fence 'plank' height 74mm
+* Back wall coping width 0.3m
+
+## Ideas
+
+* Trellis behind south facing narrow planter?
+* Find clamps!
+
+## Rough measurements for landscaping
+
 * 30 metres path 0.7m width, 21m²
 * 9m² seating area
-* 30m²total
+* 30m² total
 * 5m curved gabion retaining wall, 70cm high (1m total)
 * 50mm sub-base
 * 75mm self-binding gravel
-* 60m Douglas Fir timber 
+* 60m Larch timber 
 
 ## Wildlife
 
