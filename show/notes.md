@@ -2,6 +2,12 @@
 
 [Home](https://grwd.uk/show/)
 
+
+## New grants
+
+* [Lottery Awards For All](https://www.tnlcommunityfund.org.uk/funding/programmes/national-lottery-awards-for-all-wales)
+* [NRW Resilient Communities](https://naturalresources.wales/about-us/grants-and-funding/resilient-communities-grant-funding/?lang=en) **Deadline 19th September 2022**
+
 * Visible hope
  
 ## Cardigan Community Allotments

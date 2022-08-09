@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/mor/) • [Schedule](https://grwd.uk/mor/schedule) • [Maintenance](https://grwd.uk/mor/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/mor) • [Plants↗](https://bit.ly/mor-plants)
 
+## More plants!
+
+* Layered
+* Thick planting
+* [Most Garden Problems Can Be Solved With More Plants](https://www.monarchgard.com/thedeepmiddle/most-garden-problems-can-be-solved-with-more-plants)
+* [No, We Don't Just Need to Plant More Milkweed](https://www.monarchgard.com/thedeepmiddle/no-we-dont-just-need-to-plant-more-milkweed)
+
 ## Ferns
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9c9Zi3WFVRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -2,6 +2,16 @@
 
 [Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
+
+## Plant ideas
+
+* Bilberry
+* Taiwanese Bramble
+* Nepalese Raspberry
+
+* [Solutions for dry shade and other shady spots, with Ken Druse](https://awaytogarden.com/solutions-for-dry-shade-and-other-shady-spots-with-ken-druse/)
+
+
 ## Martin trees
 
 * Apple M27 x3 — make 2 branches for 1.1m height fence above raised beds
@@ -11,7 +21,6 @@
 * Cherry Gisela x1
 
 Looking at eaters (or dual purpose), more crunchy/tart than soft/sweet. Want range of harvest.
-
 
 ## Dimensions
 
@@ -91,7 +100,7 @@ _WoodBlocX stepped raised bed. Click for PDF_
 * 20 metres path 0.7m width, **14m²** subtotal
 * **9m²** seating areas subtotal
 * **23m²** total self-binding gravel
-* 60m Douglas Fir edging
+* 60m Larch edging
 * 5m curved gabion retaining wall, 50-70cm high
 * Cut sleepers
 * Wire, vine-eyes & turnbuckles
@@ -147,6 +156,9 @@ membrane £25
 
 crug yr eryr quarry - gravel
 
+* Crug yr Eryr Quarry, Talgarreg
+* Alltgoch Quarries, Cwrt-newydd, Llanybydder SA40 9YL, 01570
+* Carmarthen
 
 ###
 
