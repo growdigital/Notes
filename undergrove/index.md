@@ -7,6 +7,9 @@
 > Where leafless oaks towered high above, I sat within an undergrove<br>Of tallest hollies, tall and green; A fairer bower was never seen.  
 ~ _William Wordsworth_
 
+[![cad plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1660315725/undergrove/cad-plan.png)](https://res.cloudinary.com/growdigital/image/upload/v1660315725/undergrove/cad-plan.png)  
+_First draft of the CAD plan_
+
 An east-facing rear garden of a new eco-house, with a grove of oaks at the back beyond a steep slope. Outdoor office, lawn and raised beds.
 
 ### [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
