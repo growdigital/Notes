@@ -2,6 +2,14 @@
 
 [Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
+## Plant ideas
+
+* Spearmint
+* Peppermint
+* Japanese mint
+* Moroccan mint
+* Bee Bergamot
+
 ## Martin trees
 
 * Apple M27 x3 — make 2 branches for 1.1m height fence above raised beds
