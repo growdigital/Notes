@@ -12,3 +12,18 @@
 * Wk 35 - Mon 29 Aug
     * Another
 
+## Order of work
+
+1. Order materials
+2. Build platforms (gabions, stone, hardcore, sub-base)
+3. Build main paths (sub-base, sleeper steps, rebar, planks, self-binding gravel)
+4. Build access paths (sub-base, planks, bark)
+5. 
+* Plant bare-root trees
+* Oly rails & fencing
+
+## Materials
+
+In order of work!
+
+1. Platforms 
