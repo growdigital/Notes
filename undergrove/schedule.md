@@ -5,8 +5,12 @@
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
 * Wk 33 - Mon 15 Aug
-    * Plan schedule
-    * Sketch main bed
+    1. Mon 15
+        [ ] Plan schedule
+        [ ] Estimate materials again
+        [ ] Sketch main bed
+    2. Tue 16
+        [ ] Measure paths
 * Wk 34 - Mon 22 Aug
     * Another
 * Wk 35 - Mon 29 Aug
