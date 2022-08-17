@@ -35,7 +35,7 @@ Will take 3-4 years to get wildflowers established. Scythe in July, remove hay.
 
 ### Patio beds
 
-[![blue flower](https://res.cloudinary.com/growdigital/image/upload/w_320v1660750311/rhug/adria-bellflower.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1660750311/rhug/adria-bellflower.jpg)  
+[![blue flower](https://res.cloudinary.com/growdigital/image/upload/w_320/v1660750311/rhug/adria-bellflower.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1660750311/rhug/adria-bellflower.jpg)  
 _Adria Bellflower, trailing_
 
 * [ ] Replace Everlasting Pea with Small evergreen [Italian Jasmine](https://www.rhs.org.uk/plants/47929/jasminum-humile-revolutum/details)
