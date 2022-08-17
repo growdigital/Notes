@@ -46,10 +46,13 @@ _Adria Bellflower, trailing_
 * [ ] Mint x3 types in buried terracotta pots — Chocolate Mint (I have this already for you), Japanese Mint & Spearmint
 * [ ] Plant Solomons Seal
 * [ ] Plant suitable colourful small shrub with structure (Aronia?)
+* [ ] Train big rose at end up bank
 
-### Steep entrance bed
+### Wall Garden
 
-* [ ] Plant suitable Aronia
+* [ ] Plant suitable Aronia steep bed
+* [ ] Plant compact Yarrow amongst Hedge Nettle
+* [ ] Fennel (Purple?) in front of hot tub wall
 
 ### Side Bed
 
