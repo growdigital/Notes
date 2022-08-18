@@ -67,21 +67,96 @@
 
 ## Order of work
 
-1. Order materials
+1. Order timber & aggregates
 2. Order plants
 3. Build platforms (gabions, stone, hardcore, sub-base, planks)
 4. Build main paths (sub-base, sleeper steps, rebar, planks, self-binding gravel)
-5. Build access paths (sub-base, planks, bark)
-6. Fix wire (clamps, wire)
-7. Construct beds x2
-8. Attach trellis x3-4
-9. Weed & mulch beds (compost, wood chip)
+6. Order beds
+7. Order wire
+8. Build access paths (sub-base, planks, bark)
+9. Fix wire (clamps, wire)
+10. Construct beds x2
+11. Attach trellis x3-4
+12. Weed & mulch beds (compost, wood chip)
+13. Plant bare-root trees (December)
+14. Oly rails & fencing
 
-* Plant bare-root trees
-* Oly rails & fencing
+## Quantities
 
-## Materials
+### Hardcore
 
-In order of work!
+* 3 x 0.85 tonne bags
 
-1. Platforms 
+### Gabion
+
+* 1m high, 1m long (curved?), 30cm deep
+* North 2.6m
+* South 2.2m
+* Total **5m**
+
+### Gabion stone
+
+* 2"-5" clean stone
+* 3 x  0.85 tonne bags
+
+### Timber
+
+* 4" x 1" treated larch planks **68m** (14 x 4.8m lengths)
+* 0.7m sleeper steps (8" x 4") **x10**
+* 2" x 1" x 250mm treated stakes **30m** (6 x 4.8m lengths)
+
+```
+* Fence path 7*2    = 14
+* Main path  7.3x2  = 14.6
+* Entrance path 2x1 =  4
+* Den               =  8
+* North seat        =  6
+* South seat        =  6
+* Wall path         =  5
+* Fence path        =  7
+* Den path          =  3
+
+Total               = 68m
+```
+
+### Gravel 
+
+* Blue Slate self-binding gravel
+* 70mm depth, compacted to 50mm
+
+```
+* North seat 5.3
+* South seat 3.6
+* Den        4.6
+* Main path  5.1
+* Entrance   1.4
+
+Total       20.0m²
+```
+
+### Bark
+```
+* Fence path   4.4
+* Wall path    3.0
+* Den path     0.4
+
+Total          7.8m²
+```
+
+### Brick
+
+* Brick length 0.4m
+* Match existing brick
+
+```
+* Brick path 4.3m²
+```
+
+### ¼" sub-base
+```
+* Gravel  20.0
+* Bark     7.8
+* Brick    4.3
+
+Total     32.1m²
+```
