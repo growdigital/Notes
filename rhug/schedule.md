@@ -39,7 +39,8 @@ Will take 3-4 years to get wildflowers established. Scythe in July, remove hay.
 _Adria Bellflower, trailing_
 
 * [ ] Replace Everlasting Pea with Small evergreen [Italian Jasmine](https://www.rhs.org.uk/plants/47929/jasminum-humile-revolutum/details)
-* [ ] Possibly a trailing plant, like the Tumbling Ted, possibly an Adria or Serbian Bellflower? 
+* [ ] Remove some (all?) of Ground Ivy
+* [ ] Possibly replace with a trailing plant, like the Tumbling Ted, possibly an Adria or Serbian Bellflower? 
 
 ### Kitchen Garden
 
