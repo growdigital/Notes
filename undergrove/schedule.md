@@ -71,17 +71,19 @@
 2. Order plants
 3. Build platforms (gabions, stone, hardcore, sub-base, planks)
 4. Build main paths (sub-base, sleeper steps, rebar, planks, self-binding gravel)
-6. Order beds
+6. Order beds & pond
 7. Order wire
 8. Build access paths (sub-base, planks, bark)
 9. Fix wire (clamps, wire)
 10. Construct beds x2
 11. Attach trellis x3-4
-12. Weed & mulch beds (compost, wood chip)
-13. Plant bare-root trees (December)
-14. Oly rails & fencing
+12. Fit pond
+13. Weed & mulch beds (compost, wood chip)
+14. Planting out
+15. Plant bare-root trees (December)
+16. Oly rails & fencing
 
-## Quantities
+## Aggregate & timber
 
 ### Hardcore
 
@@ -160,3 +162,6 @@ Total          7.8m²
 
 Total     32.1m²
 ```
+
+## Beds & wire
+
