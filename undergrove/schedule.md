@@ -91,9 +91,10 @@
 
 ### Gabion
 
-* 1m high, 1m long (curved?), 30cm deep
-* North 2.6m
-* South 2.2m
+* 100cm high, 45cm long, 52.5cm deep
+* Panels for curve
+* North 2.6m - 6 cages (+5 panels)
+* South 2.2m - 5 cages (+4 panels)
 * Total **5m**
 
 ### Gabion stone
