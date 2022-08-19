@@ -154,7 +154,7 @@ Total          7.8m²
 * Brick path 4.3m²
 ```
 
-### ¼" sub-base
+### ¼" to dust sub-base
 ```
 * Gravel  20.0
 * Bark     7.8
