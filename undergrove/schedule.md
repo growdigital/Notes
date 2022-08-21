@@ -4,14 +4,14 @@
 
 * Wk 33 - Mon 15 Aug
     1. Mon 15
-        * [ ] Plan schedule
-        * [ ] Estimate materials again
+        * [x] Plan schedule
+        * [x] Estimate materials again
         * [ ] Sketch main bed
     2. Tue 16
-        * [ ] PM Measure paths & trellis
+        * [x] PM Measure paths & trellis
     3. Wed 17 
         * [ ] Find clamps
-        * [ ] Order materials
+        * [x] Order materials
     4. Thu 18 
         * [ ] Order plants
     5. Fri 19 
@@ -41,6 +41,7 @@
 * Wk 36 - Mon 5 Sep
     1. Mon 5
         * [ ] Attach trellis
+        * [ ] Raised beds arrive
     2. Tue 6
         * [ ] Lay brick path
     3. Wed 7
@@ -91,7 +92,7 @@
 
 ### Gabion
 
-* 100cm high, 45cm long, 52.5cm deep
+* Length 45cm, Depth 45cm, Height 97.5cm, dia 3mm
 * Panels for curve
 * North 2.6m - 6 cages (+5 panels)
 * South 2.2m - 5 cages (+4 panels)
@@ -99,8 +100,9 @@
 
 ### Gabion stone
 
+* 4.8m x 0.45m x 0.98m volume
 * 2"-5" clean stone
-* 3 x  0.85 tonne bags
+* 4 tonnes
 
 ### Timber
 
@@ -146,6 +148,9 @@ Total       20.0m²
 Total          7.8m²
 ```
 
+### Wood chip
+
+
 ### Brick
 
 * Brick length 0.4m
@@ -162,6 +167,7 @@ Total          7.8m²
 * Brick    4.3
 
 Total     32.1m²
+Tonnes     3.6
 ```
 
 ## Beds & wire
