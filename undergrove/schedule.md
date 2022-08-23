@@ -108,7 +108,7 @@
 
 * 4" x 1" treated larch planks **68m** (14 x 4.8m lengths)
 * 0.7m sleeper steps (8" x 4") **x10**
-* 2" x 1" x 250mm treated stakes **30m** (6 x 4.8m lengths)
+* 2" x 1" x 200mm treated stakes x120 **30m** (6 x 4.8m lengths) 
 
 ```
 * Fence path 7*2    = 14

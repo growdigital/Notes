@@ -4,17 +4,62 @@
 
 Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
+## Ideas
+
+* Bird feeding station
+* Decent gazebos https://gorillagazebos.co.uk/
+* Hoggin https://www.qualitygardensupplies.co.uk/self-binding-gravel
+
 ## Prices
 
-* Gabions Length 45cm, Depth 45cm, Height 97.5cm, dia 3mm — £272.88 (incl delivery £19.99) (**62 over**)
-* Aggregates 220 (**130 under**)
+### Stone dimensions gabions
+
+* length (0.45*4)+(1.65*2) = 5.1m
+* width 0.45
+* height 0.975
+
+---
+
+### Sub base
+
+* 32m² - 5.67 * 5.67
+* 5cm depth, 0.05m
+* 2.4 tonnes
+* 3 bags @ 0.85 tonnes
+
+---
+
+* Gabions 2.3m³
+    * Length 45cm, Depth 45cm, Height 97.5cm * 4 (0.8m³)
+    * Length 165cm, Depth 45cm, Height 97.5cm * 2 (1.5m³)
+    * Panels 15cm x 45cm * 4
+        * dia 3mm - £197.94, £217.94 inc del
+        * dia 4mm - £335.94, £355.94 inc del
+* Aggregates loose
     * Sub base 4.5 tonne — 4.5 x £18.50 = £83.25
     * 2"-5" washed stone 3 tonne — 3 x 18.50 = £55.50
     * Delivery £45
     * Sub total £183.75 + 20% £36.75
     * Total £220.5
+* Aggregates bagged
+    * Sub base 4.5 tonne, 5 bags £39.90 = £199.50
+    * 2"-5" washed stone 3 tonne, 4 bags @ £41.80 = £167.20
+    * Delivery £45
+    * Sub total £366.70 + 45 + VAT 82.34 = 494.04 cf 330!
 * Hardcore 3 tonnes ? £60??
-* IMAG Gravel 20m², 1 tonne per 10m², 2 x 1 tonne bag £150 = £300 + VAT & delivery? = £360 (**360 under**)
+* IMAG Gravel 20m², 1 tonne per 10m², 2 x 1 tonne bag £150 = £300 + VAT & delivery? = £360 
+* Timber
+    * 4" x 1" treated larch planks **68m** (14 x 4.8m lengths) £187
+    * 0.7m sleeper steps (8" x 4") **x10** £120 
+    * 2" x 1" x 200mm treated stakes x120 **24m** (5 x 4.8m lengths) £66
+    * Total £373
+
+gabions 248
+aggregates 494
+timber 373
+gravel 360
+
+£1445
 
 ## Plant ideas
 
