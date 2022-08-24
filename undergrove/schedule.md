@@ -22,10 +22,10 @@
     2. Tue 23
         * [ ] Build platforms
     3. Wed 24
+        * [x] Lay main paths
+    4. Thu 25 
         * [ ] Lay main paths
-    4. Thu 24 
-        * [ ] Lay main paths
-    5. Fri 25
+    5. Fri 26
         * [ ] Lay main paths
 * Wk 35 - Mon 29 Aug
     1. Mon 29 
@@ -107,8 +107,8 @@
 ### Timber
 
 * 4" x 1" treated larch planks **68m** (14 x 4.8m lengths)
-* 0.7m sleeper steps (8" x 4") **x10**
-* 2" x 1" x 200mm treated stakes x120 **30m** (6 x 4.8m lengths) 
+* 0.7m sleeper steps (8" x 4") **x10** (4 x 2.4m lengths)
+* 2" x 1" x 230mm treated stakes x60 **14m** (3 x 4.8m lengths) 
 
 ```
 * Fence path 7*2    = 14

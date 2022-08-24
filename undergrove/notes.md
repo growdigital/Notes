@@ -52,12 +52,14 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
     * 4" x 1" treated larch planks **68m** (14 x 4.8m lengths) £187
     * 0.7m sleeper steps (8" x 4") **x10** £120 
     * 2" x 1" x 200mm treated stakes x120 **24m** (5 x 4.8m lengths) £66
-    * Total £373
+    * Total £242.28
 
-gabions 248
+
+
+gabions    248
 aggregates 494
-timber 373
-gravel 360
+timber     242
+gravel     360
 
 £1445
 
