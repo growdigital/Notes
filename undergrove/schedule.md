@@ -109,7 +109,7 @@
 * 4" x 1" treated larch planks **68m** (14 x 4.8m lengths)
 * 0.7m sleeper steps (8" x 4") **x10** (4 x 2.4m lengths)
 * 2" x 1" x 230mm treated stakes x60 **14m** (3 x 4.8m lengths) 
-* Rebar 13mm diameter, 450mm length **x20**
+* Rebar 12mm diameter, 450mm length **x20**
 
 ```
 * Fence path 7*2    = 14
