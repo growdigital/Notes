@@ -2,42 +2,22 @@
 
 [Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
-* Wk 33 - Mon 15 Aug
-    1. Mon 15
-        * [x] Plan schedule
-        * [x] Estimate materials again
-        * [ ] Sketch main bed
-    2. Tue 16
-        * [x] PM Measure paths & trellis
-    3. Wed 17 
-        * [ ] Find clamps
-        * [x] Order materials
-    4. Thu 18 
-        * [ ] Order plants
-    5. Fri 19 
-        * [ ] Order plants
-* Wk 34 - Mon 22 Aug
-    1. Mon 22
-        * [ ] Build platforms
-    2. Tue 23
-        * [ ] Build platforms
-    3. Wed 24
-        * [x] Lay access paths
-    4. Thu 25 
-        * [x] Lay access paths
-    5. Fri 26
-        * [ ] Lay main paths
-* Wk 35 - Mon 29 Aug
-    1. Mon 29 
-        * [ ] Build platforms
-    2. Tue 30
-        * [ ] Build platforms
-    3. Wed 31
-        * [ ] Fix wire
-    4. Thu 1
-        * [ ] Fix wire
-    5. Fri 2 
-        * [ ] Madoc's birthday!
+* Finish main path - 1 day
+* Dig trench Gabion N - 1 day
+* Fill stones Gabion N - 1 day
+* Dig trench Gabion S - 1 day
+* Fill stones Gabion S - 1 day
+* Level area for den - 1 day
+* Install den steps - 1 day
+* Install platforms x2 - 2 days
+* Craft post extensions, buy trellis - 1 day
+* Fit trellis, drill holes - 1 day
+* Fit wire - 2 days
+* Construct containers - 1 day
+* Install pond - 1 day
+* Create curved bed - 1 day
+* Lay brick path - 1 day
+
 * Wk 36 - Mon 5 Sep
     1. Mon 5
         * [ ] Attach trellis
@@ -48,8 +28,6 @@
         * [ ] Create curved bed
     4. Thu 8 
         * [ ] Install sunken pond
-    5. Fri 9
-        * [ ] Weed & mulch
 * Wk 37 - Mon 12 Sep
     1. Mon 12
         * [ ] Weed & mulch
@@ -109,7 +87,7 @@
 * 4" x 1" treated larch planks **68m** (14 x 4.8m lengths)
 * 0.7m sleeper steps (8" x 4") **x10** (4 x 2.4m lengths)
 * 2" x 1" x 230mm treated stakes x60 **14m** (3 x 4.8m lengths) 
-* Rebar 13mm diameter, 450mm length **x20**
+* Rebar 12mm diameter, 450mm length **x20**
 
 ```
 * Fence path 7*2    = 14

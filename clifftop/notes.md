@@ -18,7 +18,7 @@
 
 * [Step making process](https://www.oregonlive.com/hg/2012/08/the_pecks_create_garden_steps.html)
 * They recommend using logs of  6" - 10" inch diameter
-* Rebar 13mm diameter, 450mm length
+* Rebar 12mm diameter, 450mm length
 
 ## Geranium edging plant
 
