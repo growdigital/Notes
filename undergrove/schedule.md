@@ -2,41 +2,44 @@
 
 [Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
-* Finish main path - 1 day
-* Dig trench Gabion N - 1 day
-* Fill stones Gabion N - 1 day
-* Dig trench Gabion S - 1 day
-* Fill stones Gabion S - 1 day
-* Level area for den - 1 day
-* Install den steps - 1 day
-* Install platforms x2 - 2 days
-* Craft post extensions, buy trellis - 1 day
-* Fit trellis, drill holes - 1 day
-* Fit wire - 2 days
-* Construct containers - 1 day
-* Install pond - 1 day
-* Create curved bed - 1 day
-* Lay brick path - 1 day
-
 * Wk 36 - Mon 5 Sep
     1. Mon 5
-        * [ ] Attach trellis
+        * [ ] Finish main path
         * [ ] Raised beds arrive
     2. Tue 6
-        * [ ] Lay brick path
+        * [ ] Dig trench Gabion N
     3. Wed 7
-        * [ ] Create curved bed
+        * [ ] Fill stones Gabion N
     4. Thu 8 
-        * [ ] Install sunken pond
+        * [ ] Dig trench Gabion S
 * Wk 37 - Mon 12 Sep
     1. Mon 12
-        * [ ] Weed & mulch
+        * [ ] Level area for den
     2. Tue 13
-        * [ ] Plant climbers & shrubs
+        * [ ] Install den steps
     3. Wed 14 
-        * [ ] Plant perennials
+        * [ ] Install platform N
     4. Thu 15
-        * [ ] Plant perennials
+        * [ ] Install platform S
+    5. Fri 16 
+        * [ ] Lay self-binding gravel
+* Wk 38 - Mon 19 Sep
+    1. Mon 19
+        * [ ] Craft post extensions, buy trellis
+    2. Tue 20
+        * [ ] Fit trellis, drill holes
+    3. Wed 21
+        * [ ] Fit wire
+    4. Thu 22
+        * [ ] Construct containers
+    5. Fri 23
+        * [ ] Install sunken pond
+* Wk 39 - Mon 26 Sep
+    1. Mon 26
+        * [ ] Create curved bed
+    2. Tue 27 
+        * [ ] Lay brick path
+* Wk 40 - Mon 03 Oct - Mulch & plant!
 * Wk 49 - Mon 5 Dec
     1. Mon 5
         * [ ] Plant bare-root fruit trees
