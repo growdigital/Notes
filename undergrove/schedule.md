@@ -25,7 +25,7 @@
         * [ ] Lay self-binding gravel
 * Wk 38 - Mon 19 Sep
     1. Mon 19
-        * [ ] Craft post extensions, buy trellis
+        * [ ] Self-binding gravel? Craft post extensions, buy trellis
     2. Tue 20
         * [ ] Fit trellis, drill holes
     3. Wed 21
