@@ -19,4 +19,6 @@
 * Year round
     * Weed bramble, dock, grass etc.
 
+For pruning fruit trees, I recommend Martin Hayes, a very experienced orchardist [theapplemancan.uk](https://www.theapplemancan.uk) 07900 985 679
+
 This page online: <https://grwd.uk/undergrove/maintenance>
