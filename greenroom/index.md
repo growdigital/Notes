@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/greenroom/) • [Schedule](https://grwd.uk/greenroom/schedule) • [Maintenance](https://grwd.uk/greenroom/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/greenroom) • [Plants](https://grwd.uk/greenroom/plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1587500068/greenroom-pencil-sketch-colorised-crop.jpg)
+![Screenshot of 3D map](https://res.cloudinary.com/growdigital/image/upload/w_320v1591459919/greenroom-satellite-3d-google-south-west-169.png)
 
 ### [Download latest PDF](https://github.com/growdigital/greenroom/raw/main/greenroom.pdf)
 
