@@ -4,6 +4,22 @@
 
 * Adam Dawson
 * [Email with details](https://betaapp.fastmail.com/mail/search:is%3Apinned/T46326dd87dbf4b21.Md7c1b43976d640332bdb0b90?u=238c4119)
+* 10am on Friday 7th October
+* encourage tree planting within commercial farming systems
+* competitive funding pot with applications considered by a committee
+* planting in winter 2023/2024
+* which varieties of which fruits you wish to plant on which rootstocks and therefore the spacings
+* Nurseries
+    * [Adams Apples](https://www.adamsappletrees.co.uk)
+    * [Agroforestry Research Trust](https://www.agroforestry.co.uk/)
+    * [Walcot Nurseries](https://walcotnursery.co.uk/)
+    * [Frank P Matthews](https://www.frankpmatthews.com)
+* at least 50% native trees eg timber, fuel, fodder, nitrogen fixing, shelter, mulch, habitat
+* Linking existing patches of native woodland
+* vital that we demonstrate that this is a commercial undertaking
+* business plan to demonstrate how this scheme will enhance the viability of your farm
+* "vision" of how it will operate in the long term
+* route to market for the products
 
 ## Background information
 
@@ -16,7 +32,6 @@ It is an opportunity to bring sloping land back into productive cultivation whil
 The dairy farm was organic from 2007 to 2015 but, due to a change in UK government policy, organic was no longer economically viable. In 2016 we noticed a dramatic reduction in plant and insect diversity, most noticeably in clover distribution and bee populations.
 
 We are looking to create a wildlife friendly, low maintenance and productive area, with good access and using sheep for light grazing around the trees to keep the grass down.
-
 
 Our farm was organic
 
