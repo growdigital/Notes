@@ -2,7 +2,8 @@
 
 [Home](https://grwd.uk/agro/) • [Schedule](https://grwd.uk/agro/schedule) • [Maintenance](https://grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
-* Adam Dawson
+## Adam email 
+
 * 10am on Friday 7th October
 * encourage tree planting within commercial farming systems
 * competitive funding pot with applications considered by a committee
