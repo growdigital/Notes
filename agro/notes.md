@@ -3,7 +3,6 @@
 [Home](https://grwd.uk/agro/) • [Schedule](https://grwd.uk/agro/schedule) • [Maintenance](https://grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
 * Adam Dawson
-* [Email with details](https://betaapp.fastmail.com/mail/search:is%3Apinned/T46326dd87dbf4b21.Md7c1b43976d640332bdb0b90?u=238c4119)
 * 10am on Friday 7th October
 * encourage tree planting within commercial farming systems
 * competitive funding pot with applications considered by a committee
@@ -20,6 +19,7 @@
 * business plan to demonstrate how this scheme will enhance the viability of your farm
 * "vision" of how it will operate in the long term
 * route to market for the products
+* Cultivation, grazing or forage harvesting between rows or groups of trees is advantageous in demonstrating viability
 
 ## Background information
 
