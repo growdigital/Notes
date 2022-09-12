@@ -28,13 +28,14 @@
         * [ ] Fill stones Gabion N - 2
         * [ ] Level area for den
         * [ ] Install den steps
+        * [ ] Order hardcore platforms
     4. Thu 15
         * [ ] Install platform N
     5. Fri 16 
         * [ ] Install platform S
 * Wk 38 - Mon 19 Sep
     1. Mon 19
-        * [ ] Lay self-binding gravel
+        * [ ] Lay self-binding gravel - Bank Holiday!
     2. Tue 20
         * [ ] Fit trellis, drill holes
     3. Wed 21
