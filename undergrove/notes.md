@@ -10,7 +10,23 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
 * Bird feeding station
 * Decent gazebos https://gorillagazebos.co.uk/
 * Hoggin https://www.qualitygardensupplies.co.uk/self-binding-gravel
-* Aggregates calculator https://www.primaryaggregates.co.uk/aggregates/aggregates-calculator
+* Aggregates calculator https://www.gravelmaster.co.uk/calculator
+
+## Fence post extensions
+
+![Tape measure on top of fence post](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663005494/undergrove/12mm-gap-top-fence-post.jpg)  
+_12mm fence post above panel, and beneath cap_
+
+### Dimensions
+
+* South side
+    * 380mm
+    * 716mm
+* North side
+    * 455mm
+    * 1063mm 
+
+#### North side
 
 ## Prices
 

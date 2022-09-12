@@ -14,24 +14,25 @@
         * [ ] Dig trench Gabion S
         * [x] Install steps
     5. Fri 9
-        * [ ] Finish main path
-        * [ ] Fill stones Gabion N
-        * [ ] Dig trench Gabion S
-        * [ ] Fill stones Gabion S
 * Wk 37 - Mon 12 Sep
     1. Mon 12
-        * [ ] Level area for den
+        * [ ] Dig trench Gabion S - 3
+        * [ ] Fill stones Gabion S - 3
+        * [ ] Measure & order post extensions - 1
     2. Tue 13
-        * [ ] Install den steps
+        * [ ] Fix Gabion N - 1
+        * [ ] Fill stones Gabion N - 4
+        * [ ] Finish main path - 1
     3. Wed 14 
-        * [ ] Install platform N
+        * [ ] Level area for den
+        * [ ] Install den steps
     4. Thu 15
-        * [ ] Install platform S
+        * [ ] Install platform N
     5. Fri 16 
-        * [ ] Lay self-binding gravel
+        * [ ] Install platform S
 * Wk 38 - Mon 19 Sep
     1. Mon 19
-        * [ ] Self-binding gravel? Craft post extensions, buy trellis
+        * [ ] Lay self-binding gravel
     2. Tue 20
         * [ ] Fit trellis, drill holes
     3. Wed 21
