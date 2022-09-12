@@ -6,11 +6,11 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
 ## Ideas
 
-* Self-tapping screws https://www.ebay.co.uk/itm/154617219707
+* [Self-tapping screws](https://www.ebay.co.uk/itm/154617219707) 
 * Bird feeding station
-* Decent gazebos https://gorillagazebos.co.uk/
-* Hoggin https://www.qualitygardensupplies.co.uk/self-binding-gravel
-* Aggregates calculator https://www.gravelmaster.co.uk/calculator
+* [Decent gazebos](https://gorillagazebos.co.uk/) 
+* [Hoggin](https://www.qualitygardensupplies.co.uk/self-binding-gravel) 
+* [Aggregates calculator](https://www.gravelmaster.co.uk/calculator) 
 
 ## Fence post extensions
 
