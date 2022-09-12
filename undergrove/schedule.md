@@ -4,26 +4,28 @@
 
 * Wk 36 - Mon 5 Sep
     1. Mon 5
-        * [ ] Finish main path
         * [x] Raised beds arrive
     2. Tue 6
         * [x] Dig trench Gabion N
     3. Wed 7
-        * [ ] Fill stones Gabion N
+        * [x] Fill stones Gabion N
     4. Thu 8 
-        * [ ] Dig trench Gabion S
         * [x] Install steps
     5. Fri 9
+        * [x] Fill stones Gabion N - 5
 * Wk 37 - Mon 12 Sep
     1. Mon 12
-        * [ ] Dig trench Gabion S - 3
-        * [ ] Fill stones Gabion S - 3
-        * [ ] Measure & order post extensions - 1
+        * [x] Dig trench Gabion S - 3
+        * [x] Measure post extensions - 1
+        * [x] Fill stones Gabion S - 3
     2. Tue 13
+        * [ ] Fill stones Gabion S - 2
         * [ ] Fix Gabion N - 1
-        * [ ] Fill stones Gabion N - 4
-        * [ ] Finish main path - 1
+        * [ ] Fill stones Gabion N - 2
+        * [ ] Order post extensions - after school
     3. Wed 14 
+        * [ ] Finish main path - 1
+        * [ ] Fill stones Gabion N - 2
         * [ ] Level area for den
         * [ ] Install den steps
     4. Thu 15
