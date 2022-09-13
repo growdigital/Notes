@@ -28,6 +28,7 @@
         * [ ] Finish main path - 1
         * [ ] Level area for den
         * [ ] Install den steps
+        * [ ] Phone re composite trellis
         * [ ] Take measurements post extensions - after school
     4. Thu 15
         * [ ] Install platform N
