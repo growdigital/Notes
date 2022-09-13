@@ -19,18 +19,20 @@
         * [x] Measure post extensions - 1
         * [x] Fill stones Gabion S - 3
     2. Tue 13
-        * [ ] Fill stones Gabion S - 2
-        * [ ] Fix Gabion N - 1
-        * [ ] Fill stones Gabion N - 2
-        * [ ] Order post extensions - after school
+        * [x] Fill stones Gabion S - 2
+        * [x] Fix Gabion N - 1
+        * [x] Fill stones Gabion N - 2
+        * [x] Order post extensions - after school
     3. Wed 14 
-        * [ ] Finish main path - 1
         * [ ] Fill stones Gabion N - 2
+        * [ ] Finish main path - 1
         * [ ] Level area for den
         * [ ] Install den steps
-        * [ ] Order hardcore platforms
+        * [ ] Take measurements post extensions - after school
     4. Thu 15
         * [ ] Install platform N
+        * [ ] Visit MD Recyling for hardcore - after school
+        * [ ] Order hardcore
     5. Fri 16 
         * [ ] Install platform S
 * Wk 38 - Mon 19 Sep
