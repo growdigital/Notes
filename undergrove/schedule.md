@@ -24,14 +24,15 @@
         * [x] Fill stones Gabion N - 2
         * [x] Order post extensions - after school
     3. Wed 14 
-        * [ ] Fill stones Gabion N - 2
-        * [ ] Finish main path - 1
-        * [ ] Level area for den
-        * [ ] Install den steps
-        * [ ] Phone re composite trellis
-        * [ ] Take measurements post extensions - after school
+        * [x] Fill stones Gabion N - 2
+        * [x] Level area for den
     4. Thu 15
+        * [ ] Level area for den - 2
+        * [ ] Finish main path - 1
+        * [ ] Install den steps - 2
+        * [ ] Phone re composite trellis
         * [ ] Install platform N
+        * [ ] Take measurements post extensions - after school
         * [ ] Visit MD Recyling for hardcore - after school
         * [ ] Order hardcore
     5. Fri 16 
