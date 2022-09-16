@@ -4,6 +4,9 @@
 
 Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
+* Add vine eyes to quote
+* Add trellis!
+
 ## Ideas
 
 * [Self-tapping screws](https://www.ebay.co.uk/itm/154617219707) 
