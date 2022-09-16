@@ -4,6 +4,16 @@
 
 Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
+## Trellis dimensions
+
+* South side
+    * 36cm high x 100cm wide
+    * 73cm high x 183cm wide
+* Noeth side
+    * 51cm high x 120cm wide
+    * 44cm high x 183cm wide
+    * 105cm high x 122cm wide
+
 ## Ideas
 
 * [Self-tapping screws](https://www.ebay.co.uk/itm/154617219707) 
