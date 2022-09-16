@@ -23,6 +23,7 @@ _12mm fence post above panel, and beneath cap_
     * 380mm
     * 716mm
 * North side
+    * 527mm
     * 455mm
     * 1063mm 
 

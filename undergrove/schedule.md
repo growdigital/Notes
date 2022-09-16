@@ -27,20 +27,23 @@
         * [x] Fill stones Gabion N - 2
         * [x] Level area for den
     4. Thu 15
-        * [ ] Level area for den - 2
-        * [ ] Finish main path - 1
-        * [ ] Install den steps - 2
-        * [ ] Phone re composite trellis
-        * [ ] Install platform N
-        * [ ] Take measurements post extensions - after school
-        * [ ] Visit MD Recyling for hardcore - after school
-        * [ ] Order hardcore
+        * [x] Level area for den - 2
+        * [x] Install den steps - 2
     5. Fri 16 
-        * [ ] Install platform S
+        * [ ] Phone MD Recyling hardcore size
+        * [ ] Phone re composite trellis, order
+        * [ ] Finish main path - 2
+        * [ ] Take measurements post extensions
+        * [ ] Buy metal drill bit, hacksaw
+        * [ ] Order hardcore
+        * [ ] Order wire, turnbuckles, vine eyes
 * Wk 38 - Mon 19 Sep
     1. Mon 19
-        * [ ] Lay self-binding gravel - Bank Holiday!
+        * [ ] Order plants (Bank Holiday)
     2. Tue 20
+        * [ ] Lay self-binding gravel
+        * [ ] Install platform N
+        * [ ] Install platform S
         * [ ] Fit trellis, drill holes
     3. Wed 21
         * [ ] Fit wire
