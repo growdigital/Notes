@@ -7,7 +7,16 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
 * Add vine eyes to quote
 * Add trellis!
 
-## Trellis dimensions
+## Trellis
+
+### Suppliers
+
+* [Gardentrellis.co.uk](https://www.gardentrellis.co.uk/product/trellis-panels/wpc-square-trellis) - cutting service. 
+    * 180cm x 120cm unframed - add 4cm for frame
+* [Charlesandivy.co.uk](https://www.charlesandivy.co.uk/collections/composite-garden-trellis)
+* [Screenwithenvy.co.uk](https://Screenwithenvy.co.uk)
+
+### Dimensions
 
 * South side
     * 36cm high x 100cm wide
@@ -17,7 +26,7 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
     * 44cm high x 183cm wide
     * 105cm high x 122cm wide
 * Shed planter
-    * 130cm high x 200cm wide
+    * 130cm high x 200cm wide (approx)
 
 ## Ideas
 

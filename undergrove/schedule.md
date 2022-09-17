@@ -30,32 +30,43 @@
         * [x] Level area for den - 2
         * [x] Install den steps - 2
     5. Fri 16 
-        * [ ] Phone MD Recyling hardcore size
-        * [ ] Phone re composite trellis, order
-        * [ ] Finish main path - 2
-        * [ ] Take measurements post extensions
-        * [ ] Buy metal drill bit, hacksaw
-        * [ ] Order hardcore
-        * [ ] Order wire, turnbuckles, vine eyes
+        * [x] Phone MD Recyling hardcore size
+        * [x] Phone re composite trellis, order
+        * [x] Finish main path - 2
+        * [x] Take measurements post extensions
+        * [x] Buy metal drill bits
+        * [x] Order wire, turnbuckles, vine eyes
+        * [x] Construct containers
+    6. Sun 18
+        * [ ] Buy half barrel 73cm Trefedhyn
 * Wk 38 - Mon 19 Sep
     1. Mon 19
-        * [ ] Order plants (Bank Holiday)
+        * [ ] Order plants? (Bank Holiday)
     2. Tue 20
-        * [ ] Lay self-binding gravel
-        * [ ] Install platform N
-        * [ ] Install platform S
-        * [ ] Fit trellis, drill holes
-    3. Wed 21
-        * [ ] Fit wire
-    4. Thu 22
-        * [ ] Construct containers
-    5. Fri 23
+        * [ ] Measure platform steps
+        * [ ] Calculate brick pattern
+        * [ ] Buy path bricks TVBS 4.3m²
+        * [ ] Order timber??
+        * [ ] Deturf Curve
+        * [ ] Lay brick path
         * [ ] Install sunken pond
+    3. Wed 21
+        * [ ] Order trellis
+        * [ ] Drill holes
+        * [ ] Fit wire
+        * [ ] Check Barry post extensions
+    4. Thu 22
+        * [ ] Install post extensions
+        * [ ] Order hardcore 3 tonnes
+        * [ ] Order more sub base?
+    5. Fri 23
+        * [ ] Fill platforms hardcore, sub base
+        * [ ] Lay self-binding gravel
 * Wk 39 - Mon 26 Sep
     1. Mon 26
-        * [ ] Create curved bed
+        * [ ] Fit wire
     2. Tue 27 
-        * [ ] Lay brick path
+        * [ ] Lay self-binding gravel
 * Wk 40 - Mon 03 Oct - Mulch & plant!
 * Wk 49 - Mon 5 Dec
     1. Mon 5
