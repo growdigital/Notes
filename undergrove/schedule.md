@@ -38,7 +38,6 @@
         * [x] Order wire, turnbuckles, vine eyes
         * [x] Construct containers
     6. Sun 18
-        * [ ] Buy half barrel 73cm Trefedhyn
 * Wk 38 - Mon 19 Sep
     1. Mon 19
         * [ ] Order plants? (Bank Holiday)
@@ -46,27 +45,36 @@
         * [ ] Measure platform steps
         * [ ] Calculate brick pattern
         * [ ] Buy path bricks TVBS 4.3m²
+        * [ ] Buy half barrel 73cm Trefedhyn
         * [ ] Order timber??
         * [ ] Deturf Curve
-        * [ ] Lay brick path
         * [ ] Install sunken pond
+        * [ ] Fit gabion
     3. Wed 21
+        * [ ] Lay brick path
+    4. Thu 22
         * [ ] Order trellis
         * [ ] Drill holes
         * [ ] Fit wire
         * [ ] Check Barry post extensions
-    4. Thu 22
+    5. Fri 23
         * [ ] Install post extensions
         * [ ] Order hardcore 3 tonnes
         * [ ] Order more sub base?
-    5. Fri 23
-        * [ ] Fill platforms hardcore, sub base
-        * [ ] Lay self-binding gravel
 * Wk 39 - Mon 26 Sep
     1. Mon 26
-        * [ ] Fit wire
-    2. Tue 27 
+        * [ ] Fill platforms hardcore, sub base
         * [ ] Lay self-binding gravel
+        * [ ] Order compost & wood chip
+    2. Tue 27 
+        * [ ] Fit wire
+    3. Wed 28
+        * [ ] Lay self-binding gravel
+    4. Thu 29
+        * [ ] Lay self-binding gravel
+    5. Fri 30
+        * [ ] Mulch with compost
+        * [ ] Mulch with wood chip
 * Wk 40 - Mon 03 Oct - Mulch & plant!
 * Wk 49 - Mon 5 Dec
     1. Mon 5
