@@ -44,6 +44,7 @@
     2. Tue 20
         * [ ] Measure platform steps
         * [ ] Calculate brick pattern
+        * [ ] Mark wire
         * [ ] Buy path bricks TVBS 4.3m²
         * [ ] Buy half barrel 73cm Trefedhyn
         * [ ] Order timber??
