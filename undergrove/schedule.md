@@ -77,6 +77,10 @@
         * [ ] Mulch with compost
         * [ ] Mulch with wood chip
 * Wk 40 - Mon 03 Oct - Mulch & plant!
+    1. Mon 3
+    2. Tue 4
+    3. Wed 5
+        * [ ] David installs den
 * Wk 49 - Mon 5 Dec
     1. Mon 5
         * [ ] Plant bare-root fruit trees
