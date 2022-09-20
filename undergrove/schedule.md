@@ -40,7 +40,7 @@
     6. Sun 18
 * Wk 38 - Mon 19 Sep
     1. Mon 19
-        * [ ] Order plants? (Bank Holiday)
+        * [ ] ~~Order plants? (Bank Holiday)~~
     2. Tue 20
         * [ ] Measure platform steps
         * [ ] Calculate brick pattern
