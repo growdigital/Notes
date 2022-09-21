@@ -24,7 +24,7 @@ _Rear slope, click to expand_
 
 The key areas are:
 
-1. **Rear slope** — with 2, possibly 3, seating areas: the den, west-facing bench and possibly a space above the den. The path needs to be level for accessiblity, with solid steps, so possibly some sort of cost-efective retaining walls. The plants need to screen the areas from the neighbours and with some seclusion from the rest of the garden.
+1. **Rear slope** — with 2, possibly 3, seating areas: the den, west-facing bench and possibly a space above the den. The path needs to be level for accessiblity, with solid steps, so possibly some sort of cost-effective retaining walls. The plants need to screen the areas from the neighbours and with some seclusion from the rest of the garden.
 2. **Lawn area** — keep openness and functionality of the lawn, but improve accessibility, particularly to the raised beds. Possibly a central feature, keeping enough space for temporary structures.
 3. **Climbers & espaliers** — really important to green the garden whilst maximising the use of space.
 
