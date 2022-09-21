@@ -42,25 +42,30 @@
     1. Mon 19
         * [ ] ~~Order plants? (Bank Holiday)~~
     2. Tue 20
-        * [ ] Measure platform steps
-        * [ ] Calculate brick pattern
-        * [ ] Mark wire
-        * [ ] Buy path bricks TVBS 4.3m²
-        * [ ] Buy half barrel 73cm Trefedhyn
-        * [ ] Order timber??
-        * [ ] Deturf Curve
-        * [ ] Install sunken pond
-        * [ ] Fit gabion
+        * [x] Measure platform steps
+        * [x] Calculate brick pattern
+        * [x] Buy half barrel 73cm Trefedhyn
+        * [x] Order timber
+        * [x] Deturf Curve
     3. Wed 21
-        * [ ] Lay brick path
+        * [x] Deturf Curve
+        * [x] Install sunken pond
+        * [x] Fit gabion
     4. Thu 22
+        * [ ] Fit last gabion - 1.5
+        * [ ] Mark wire (no.?) - 1
+        * [ ] Order 2"x4" timber 195cm
+        * [ ] Buy path bricks & sand TVBS 4.3m²
+        * [ ] Buy 6mm dome nuts
+        * [ ] Check Barry post extensions
+        * [ ] Phone MD Recycling price compost & wood chip
+        * [ ] Lay brick path
         * [ ] Order trellis
+    5. Fri 23
+        * [ ] Order hardcore 3 tonnes
+        * [ ] Install post extensions
         * [ ] Drill holes
         * [ ] Fit wire
-        * [ ] Check Barry post extensions
-    5. Fri 23
-        * [ ] Install post extensions
-        * [ ] Order hardcore 3 tonnes
         * [ ] Order more sub base?
 * Wk 39 - Mon 26 Sep
     1. Mon 26

@@ -4,8 +4,9 @@
 
 Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
-* Add vine eyes to quote
-* Add trellis!
+## Espalier
+
+[RHS espalier page](https://www.rhs.org.uk/plants/types/trees/training-espalier)
 
 ## Trellis
 
