@@ -12,6 +12,7 @@ _First draft of the CAD plan_
 
 An east-facing rear garden of a new eco-house, with a grove of oaks at the back beyond a steep slope. Outdoor office, lawn and raised beds.
 
+[![PDF CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320v1663788206/undergrove/undergrove.png)](https://res.cloudinary.com/growdigital/image/upload/v1663788206/undergrove/undergrove.pdf)  
 ### [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
 
 ## Aim
