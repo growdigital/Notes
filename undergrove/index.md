@@ -12,7 +12,7 @@ _First draft of the CAD plan_
 
 An east-facing rear garden of a new eco-house, with a grove of oaks at the back beyond a steep slope. Outdoor office, lawn and raised beds.
 
-[![PDF CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788206/undergrove/undergrove.png)](https://res.cloudinary.com/growdigital/image/upload/v1663788206/undergrove/undergrove.pdf)  
+[![PDF CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788206/undergrove/undergrove.png)](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)  
 ### [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
 
 ## Aim
@@ -42,7 +42,7 @@ _Rear slope, platform to the left & platform to the right_
 
 ### Den
 
-[![PDF plan of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788359/undergrove/den.png)](https://res.cloudinary.com/growdigital/image/upload/v1663788359/undergrove/den.pdf)  
+[![PDF plan of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788359/undergrove/den.png)](https://github.com/growdigital/undergrove/raw/main/den.pdf)  
 _Link to PDF of den_
 
 Smooth, lightweight cleft oak construction, clad with tidy planks.
