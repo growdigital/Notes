@@ -45,7 +45,7 @@ _Rear slope, platform to the left & platform to the right_
 [![PDF plan of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788359/undergrove/den.png)](https://github.com/growdigital/undergrove/raw/main/den.pdf)  
 _Link to PDF of den_
 
-Smooth, lightweight cleft oak construction, clad with tidy planks.
+Smooth, lightweight cleft larch construction, clad with tidy planks.
 
 [![Sketch of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091725/undergrove/den-sketch-entrance.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091725/undergrove/den-sketch-entrance.jpg)  
 _Sketch of front of den, with rounded entrance & swing doors_
