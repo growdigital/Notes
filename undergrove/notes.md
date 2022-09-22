@@ -6,7 +6,8 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
 ## Espalier
 
-[RHS espalier page](https://www.rhs.org.uk/plants/types/trees/training-espalier)
+* 35-40cm spacing
+* [RHS espalier page](https://www.rhs.org.uk/plants/types/trees/training-espalier)
 
 ## Trellis
 
@@ -28,6 +29,7 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
     * 105cm high x 122cm wide
 * Shed planter
     * 130cm high x 200cm wide (approx)
+    * 122cm high x 183cm wide [B&Q treated](https://www.diy.com/departments/dip-treated-trellis-panel-w-1-22m-h-1-83m/3663602430636_BQ.prd) £50 + £6 delivery
 
 ## Ideas
 
