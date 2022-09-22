@@ -6,6 +6,7 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
 ## Espalier
 
+* First wire above the knee 
 * 35-40cm spacing
 * [RHS espalier page](https://www.rhs.org.uk/plants/types/trees/training-espalier)
 
