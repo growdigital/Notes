@@ -52,40 +52,49 @@
         * [x] Install sunken pond
         * [x] Fit gabion
     4. Thu 22
-        * [ ] Fit last gabion - 1.5
-        * [ ] Mark wire (no.?) - 1
-        * [ ] Order 2"x4" timber 195cm
-        * [ ] Buy path bricks & sand TVBS 4.3m²
-        * [ ] Buy 6mm dome nuts
-        * [ ] Check Barry post extensions
-        * [ ] Phone MD Recycling price compost & wood chip
-        * [ ] Lay brick path
-        * [ ] Order trellis
+        * [x] Fit last gabion - 1.5
+        * [x] Mark wire (no.?) - 1
+        * [x] Order 2"x4" timber 195cm
+        * [x] Buy path bricks & sand TVBS 4.3m²
+        * [x] Check Barry post extensions
+        * [x] Phone MD Recycling price compost & wood chip
     5. Fri 23
-        * [ ] Order hardcore 3 tonnes
-        * [ ] Install post extensions
-        * [ ] Drill holes
-        * [ ] Fit wire
-        * [ ] Order more sub base?
+        * [x] Buy 6mm dome nuts
+        * [x] Drill holes
+        * [x] Fit wire
+        * [x] Order more sub base?
 * Wk 39 - Mon 26 Sep
     1. Mon 26
-        * [ ] Fill platforms hardcore, sub base
-        * [ ] Lay self-binding gravel
-        * [ ] Order compost & wood chip
+        * [ ] Drill holes
+        * [ ] Fit wire N & E
+        * [ ] Dig hole for steps
+        * [ ] Fill planters topsoil
+        * [ ] Measure for trellis
+        * [ ] Collect post extensions
+        * [ ] Check delivery sub base
     2. Tue 27 
-        * [ ] Fit wire
+        * [ ] Install post extensions
+        * [ ] Fit wire S
+        * [ ] Brick delivery
+        * [ ] Order trellis
+        * [ ] Order hardcore 2-3 tonnes
     3. Wed 28
-        * [ ] Lay self-binding gravel
+        * [ ] Lay brick path
+        * [ ] Fill platforms hardcore, sub base
+        * [ ] Order compost & wood chip
     4. Thu 29
         * [ ] Lay self-binding gravel
     5. Fri 30
-        * [ ] Mulch with compost
-        * [ ] Mulch with wood chip
+        * [ ] Lay self-binding gravel
 * Wk 40 - Mon 03 Oct - Mulch & plant!
     1. Mon 3
+        * [ ] Mulch with compost
+        * [ ] Mulch with wood chip
     2. Tue 4
     3. Wed 5
         * [ ] David installs den
+        * [ ] Jake away
+    4. Thu 6
 * Wk 49 - Mon 5 Dec
     1. Mon 5
         * [ ] Plant bare-root fruit trees
