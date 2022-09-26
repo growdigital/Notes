@@ -70,11 +70,11 @@
         * [x] Order closed hook wall anchors x10
     2. Tue 27 
         * [ ] Collect post extensions
+        * [ ] Install post extensions
         * [ ] Drill holes S
         * [ ] Fit wire N & E
         * [ ] Dig hole for steps
         * [ ] Fill planters topsoil
-        * [ ] Install post extensions
         * [ ] Brick delivery
         * [ ] Check delivery sub base
         * [ ] Order trellis
