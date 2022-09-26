@@ -24,7 +24,7 @@ Estimate <https://growdigital.freeagent.com/estimates/4121289>
 * South side
     * 36cm high x 100cm wide
     * 73cm high x 183cm wide
-* North side
+* North side - on hold
     * 51cm high x 120cm wide
     * 44cm high x 183cm wide
     * 105cm high x 122cm wide

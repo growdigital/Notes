@@ -65,27 +65,28 @@
         * [x] Order more sub base?
 * Wk 39 - Mon 26 Sep
     1. Mon 26
-        * [ ] Drill holes
+        * [x] Drill holes
+        * [x] Measure for trellis
+        * [x] Check delivery sub base
+        * [ ] Order closed hook wall anchors x10
+    2. Tue 27 
+        * [ ] Drill holes S
         * [ ] Fit wire N & E
         * [ ] Dig hole for steps
         * [ ] Fill planters topsoil
-        * [ ] Measure for trellis
         * [ ] Collect post extensions
-        * [ ] Check delivery sub base
-    2. Tue 27 
         * [ ] Install post extensions
-        * [ ] Fit wire S
         * [ ] Brick delivery
         * [ ] Order trellis
         * [ ] Order hardcore 2-3 tonnes
     3. Wed 28
         * [ ] Lay brick path
         * [ ] Fill platforms hardcore, sub base
-        * [ ] Order compost & wood chip
     4. Thu 29
         * [ ] Lay self-binding gravel
     5. Fri 30
         * [ ] Lay self-binding gravel
+        * [ ] Order compost & wood chip
 * Wk 40 - Mon 03 Oct - Mulch & plant!
     1. Mon 3
         * [ ] Mulch with compost
