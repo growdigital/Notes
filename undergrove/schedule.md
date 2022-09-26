@@ -67,16 +67,16 @@
     1. Mon 26
         * [x] Drill holes
         * [x] Measure for trellis
-        * [x] Check delivery sub base
-        * [ ] Order closed hook wall anchors x10
+        * [x] Order closed hook wall anchors x10
     2. Tue 27 
+        * [ ] Collect post extensions
         * [ ] Drill holes S
         * [ ] Fit wire N & E
         * [ ] Dig hole for steps
         * [ ] Fill planters topsoil
-        * [ ] Collect post extensions
         * [ ] Install post extensions
         * [ ] Brick delivery
+        * [ ] Check delivery sub base
         * [ ] Order trellis
         * [ ] Order hardcore 2-3 tonnes
     3. Wed 28
