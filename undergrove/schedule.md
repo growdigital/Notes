@@ -69,33 +69,40 @@
         * [x] Measure for trellis
         * [x] Order closed hook wall anchors x10
     2. Tue 27 
-        * [ ] Collect post extensions
-        * [ ] Install post extensions
-        * [ ] Drill holes S
-        * [ ] Fit wire N & E
-        * [ ] Dig hole for steps
-        * [ ] Fill planters topsoil
-        * [ ] Brick delivery
-        * [ ] Check delivery sub base
-        * [ ] Order trellis
-        * [ ] Order hardcore 2-3 tonnes
+        * [x] Drill holes S
+        * [x] Fill planters topsoil
+        * [x] Check delivery sub base
+        * [x] Order hardcore 2-3 tonnes
     3. Wed 28
-        * [ ] Lay brick path
-        * [ ] Fill platforms hardcore, sub base
+        * [x] Collect post extensions
+        * [x] Brick delivery
     4. Thu 29
-        * [ ] Lay self-binding gravel
+        * [x] Order compost & wood chip
     5. Fri 30
-        * [ ] Lay self-binding gravel
-        * [ ] Order compost & wood chip
-* Wk 40 - Mon 03 Oct - Mulch & plant!
+        * [x] Lay brick path
+    6. Sat 1
+        * [x] Install post extensions
+* Wk 40 - Mon 03 Oct
     1. Mon 3
-        * [ ] Mulch with compost
-        * [ ] Mulch with wood chip
+        * [ ] Lay brick path 3
+        * [ ] Build edging 2
+        * [ ] Move hardcore 1
     2. Tue 4
+        * [ ] Build retainer 1
+        * [ ] Build edging 2
+        * [ ] Move hardcore 3
     3. Wed 5
-        * [ ] David installs den
-        * [ ] Jake away
+        * Jake away
     4. Thu 6
+        * [ ] Collect plants 
+        * [ ] David prepares den footings
+        * [ ] Dig hole for steps
+        * [ ] Move sub base
+    5. Fri 7
+        * [ ] Fit wire N & E
+        * [ ] Order trellis
+        * [ ] Lay self-binding gravel
+* Wk 41 - Mon 10 Oct - Mulch & plant!
 * Wk 49 - Mon 5 Dec
     1. Mon 5
         * [ ] Plant bare-root fruit trees
