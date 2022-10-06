@@ -2,9 +2,7 @@
 
 [Home](https://grwd.uk/bio/) • [Schedule](https://grwd.uk/bio/schedule) • [Maintenance](https://grwd.uk/bio/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/bio) • [Plants↗](https://bit.ly/bio-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
-
-**This is a bio file for my client notes**.
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1665071957/bio/bio-cad.jpg)
 
 Two 3.5 acre plots, one a field, one a walled garden, south east facing.
 
@@ -18,12 +16,6 @@ Biodynamic orchard and orchard/vineyard in walled garden.
 
 * Orchard
 * Vineyard
-
-## Videos
-
-![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)
-
-[bio livestream playlist](https://bit.ly/bio-playlist)
 
 ## Files
 
