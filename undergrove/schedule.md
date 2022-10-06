@@ -84,18 +84,19 @@
         * [x] Install post extensions
 * Wk 40 - Mon 03 Oct
     1. Mon 3
-        * [ ] Lay brick path 3
-        * [ ] Build edging 2
-        * [ ] Move hardcore 1
+        * [x] Lay brick path 3
+        * [x] Build edging 2
+        * [x] Move hardcore 1
     2. Tue 4
-        * [ ] Build retainer 1
-        * [ ] Build edging 2
-        * [ ] Move hardcore 3
+        * [x] Build retainer 1
+        * [x] Build edging 2
+        * [x] Move hardcore 3
     3. Wed 5
         * Jake away
     4. Thu 6
-        * [ ] Collect plants 
+        * [ ] Collect plants AM
         * [ ] David prepares den footings
+        * [ ] Finish edging (dry day? 🤞🏾)
         * [ ] Dig hole for steps
         * [ ] Move sub base
     5. Fri 7
