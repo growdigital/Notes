@@ -94,16 +94,18 @@
     3. Wed 5
         * Jake away
     4. Thu 6
-        * [ ] Collect plants AM
-        * [ ] David prepares den footings
-        * [ ] Finish edging (dry day? 🤞🏾)
-        * [ ] Dig hole for steps
-        * [ ] Move sub base
+        * [x] Collect plants AM
+        * [x] David prepares den footings
+        * [x] Dig hole for steps
+        * [x] Move sub base
     5. Fri 7
         * [ ] Fit wire N & E
         * [ ] Order trellis
-        * [ ] Lay self-binding gravel
-* Wk 41 - Mon 10 Oct - Mulch & plant!
+* Wk 41 - Mon 10 Oct
+    * [x] Finish edging
+    * [x] Fit steps
+    * [x] Lay self-binding gravel
+* Wk 42 - Mon 17 Oct
 * Wk 49 - Mon 5 Dec
     1. Mon 5
         * [ ] Plant bare-root fruit trees
