@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/walled) • [Schedule](https://grwd.uk/walled/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/walled/) • [Plants↗](https://bit.ly/walled-plants)
 
+## Trellis
+
+* Top trellis<br>98cm wide x 36.5cm high x 4.5cm thick
+* Bottom trellis<br>182cm wide x 74cm high x 4.5cm thick
+* Shed trellis<br>200cm wide x 180cm high
+* Planter<br>145cm wide x 45cm high
+
 Martin quote https://beta.fastmail.com/mail/search:lee.jacob101%40icloud.com+january/Tda72d412de5088e5.M5742078045327b3a0bdde1af?u=238c4119
 
 * Gustav Zeller and the Red filbert Corylus maxima
