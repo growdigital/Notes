@@ -1,6 +1,6 @@
-# Wildparcel management 🛠️
+# wildlot management 🛠️
 
-[Home](https://grwd.uk/wildparcel/) • [Schedule](https://grwd.uk/wildparcel/schedule) • [Management](https://grwd.uk/wildparcel/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildparcel) • [Plants↗](https://bit.ly/wildparcel-plants)
+[Home](https://grwd.uk/wildlot/) • [Schedule](https://grwd.uk/wildlot/schedule) • [Management](https://grwd.uk/wildlot/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/wildlot) • [Plants↗](https://bit.ly/wildlot-plants)
 
 Maintenance & management throughout the year.
 
@@ -23,4 +23,4 @@ Maintenance & management throughout the year.
 * Year round
     * Weed bramble, dock, grass etc.
 
-This page online: [grwd.uk/wildparcel/management](https://grwd.uk/wildparcel/management)
+This page online: [grwd.uk/wildlot/management](https://grwd.uk/wildlot/management)

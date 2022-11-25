@@ -4,6 +4,20 @@
 
 Estimate <https://growdigital.freeagent.com/estimates/4121289>
 
+## Nest boxes
+
+Email from Alison Heal
+
+One of the species most in need of suitable nest boxes is swifts. They would need to have several boxes under the eaves of a relatively tall building eg two storey. They don't always start using them quickly - it can take years, but including a swift call imitation can help.
+Swallows and house martins are also short of nest sites because of replacement of wooden soffits etc with uPVC. They also need to have several ledges / "nests".
+Sparrow terraces are a good option too.
+For longevity, woodcrete is better than wood, but of course has the "crete" element.
+Depending on exact location and aspect, an owl box would be something worth considering.
+I am copying in a couple of colleagues who might have more information and who may be able to suggest an expert closer to Adpar.
+Without knowing anything about your clients environment or infrastructure, it is also worth considering landscaping, planting and garden / woodland maintenance.
+For woodland / gardens:
+A range of boxes with a range of hole sizes might be best, including an owl box or two.
+
 ## Espalier
 
 * First wire above the knee 
