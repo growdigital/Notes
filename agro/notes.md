@@ -4,7 +4,7 @@
 
 ## Adam email 
 
-* 10am on Friday 7th October
+* 10am on Friday 28th October
 * encourage tree planting within commercial farming systems
 * competitive funding pot with applications considered by a committee
 * planting in winter 2023/2024
