@@ -33,6 +33,10 @@ public
 !public/_redirects
 _site
 
+# Gems #
+########
+vendor
+
 # Logs
 logs
 *.log
