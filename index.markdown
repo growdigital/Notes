@@ -4,8 +4,6 @@
 ---
 # Notes
 
-Garden notes by Jake Rayson for Nature Works’ clients 🌱
-
 > For sustainable gardening, “grow edible crops with nature“
 
 ## Using
@@ -14,7 +12,7 @@ Garden notes by Jake Rayson for Nature Works’ clients 🌱
 * [Cloudinary](https://cloudinary.com) for images
 * [GitHub](https://github.com/growdigital/) for version control
 * [GitHub Pages](https://docs.github.com/en/pages) for publishing
-* [Google Sheets](https://docs.google.com/spreadsheets/)
+* [Google Sheets](https://docs.google.com/spreadsheets/) for plant lists
 
 ## Resources
 
