@@ -20,9 +20,9 @@ Colourful, fruitful, delightful & useful. A wildlife food forest garden for my l
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644758216/primary/triangle-mid.jpg)](https://bit.ly/primary-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644758216/primary/triangle-mid.jpg)](https://bit.ly/primary-videos)
 
-Occasional livestream video about the work in progress, here’s the [YouTube playlist](https://bit.ly/primary-playlist)!
+Occasional livestream video about the work in progress, here’s the [YouTube playlist](https://bit.ly/primary-videos)!
 
 ## Files
 
