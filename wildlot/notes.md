@@ -12,9 +12,9 @@
 
 ## Allotment sizes
 
-* Full 250m² (16m x 16m)
-* Half 125m² (11m x 11m)
 * Quarter 65m² (8m x 8m)
+* Half 125m² (11m x 11m)
+* Full 250m² (16m x 16m)
 * [Allotment sizes on SWCAA website](https://www.swcaa.co.uk/associations/start-association/allotment-plot-sizes)
 
 This page online: <https://grwd.uk/wildlot/notes>
