@@ -19,6 +19,10 @@
 * Kate find out tree species (white leaf, a poplar?)
 * Find willow person to rejuvenate willow shelter
 
+### Labyrinth
+
+* [Labyrinth Society](https://labyrinthsociety.org/) 
+
 ### Features
 
 ![Rectangular wooden frame with moss in it](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644842069/moss-barry-220124.jpg)  
