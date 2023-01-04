@@ -12,6 +12,13 @@
 4. Edible berries
 5. Recycled substrates
 
+### Todo
+
+* Jake make plan
+* Move Birch & Beech tree
+* Kate find out tree species (white leaf, a poplar?)
+* Find willow person to rejuvenate willow shelter
+
 ### Labyrinth
 
 * [Labyrinth Society](https://labyrinthsociety.org/) 
@@ -21,6 +28,7 @@
 ![Rectangular wooden frame with moss in it](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644842069/moss-barry-220124.jpg)  
 _Moss bed, by Celtic Wild Flowers_
 
+* Seating area with firepit?
 * Moss bed, with rainwater harvesting
 * Bog (ditto rainwater)
 * Native Fernery for shadier patches
@@ -55,6 +63,7 @@ _Moss bed, by Celtic Wild Flowers_
 * Whitecurrant
 * Gooseberry
 
+---
 
 ## Features
 
@@ -99,7 +108,6 @@ _Moss bed, by Celtic Wild Flowers_
 * Golden-twig Dogwood
 
 ---
-
 
 * > every guest was asked to bring a word written on a stone instead of a present
 * Wildflower Guides, April-August <https://botanicgarden.wales/science/growing-the-future/learning-at-home-and-at-school/>
