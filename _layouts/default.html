@@ -52,7 +52,7 @@
             <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
         {% endfor %}
-<h1>what am i</h1>
+<h1>what am i really</h1>
         {% assign posts = site.posts | where_exp: "item", "item.tags contains tagname" %}
         {% for post in posts limit:5 %}
           <h1>{{ post.title }}</h1>
