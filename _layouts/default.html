@@ -46,13 +46,13 @@
       {% assign posts = site.posts | where_exp: "item", "item.category contains catname" %}
       {% for post in posts limit:5 %}
       <aside>
-      <h2><a href="{{ site.url }}/{{ page.dir }}">
-      {% if !category %}
-        {{ catname | capitalize }}
-      {% else %}
-        {{ page.dir | replace: "/", "" | capitalize }}
-      {% endif %}
-      </a> posts</h2>
+      <h2>
+        {% if page.category %}
+          <a href="{{ site.url }}/{{ page.category }}">{{ page.category | capitalize }}</a> posts
+        {% else %}
+          <a href="{{ site.url }}/{{ catname }}">{{ catname | capitalize }}</a> posts
+        {% endif %}
+      </h2>
       <ul>
           <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
