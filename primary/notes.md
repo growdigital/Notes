@@ -2,22 +2,6 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/template-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
-## Meeting Kate, Wed 30 2022 
-
-### Key points
-
-1. Quiet seating
-2. Art class material
-3. Wildlife habitat 
-4. Edible berries
-5. Recycled substrates
-
-### Todo
-
-* Jake make plan
-* Move Birch & Beech tree
-* Kate find out tree species (white leaf, a poplar?)
-* Find willow person to rejuvenate willow shelter
 
 ### Labyrinth
 
@@ -44,7 +28,6 @@ _Moss bed, by Celtic Wild Flowers_
     * Leaf bin
 * Standing dead wood
 * Photos, drawings & paintings 
-
 
 ### Berries
 

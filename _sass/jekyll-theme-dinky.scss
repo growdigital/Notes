@@ -426,11 +426,12 @@ footer {
 /* Custom CSS */
 
 aside {
-  display: none;
   float: left;
   width: 170px;
   padding: 0 25px 22px 50px;
   margin: 20px 25px 0 0;
+  outline: 1px solid red;
+  /* display: none; */
 }
 
 aside ul {
