@@ -45,24 +45,26 @@
         {{ content }}
       </section>
 
-      {% assign catname = page.dir | replace: "/", "" %}
-      {% assign posts = site.posts | where_exp: "item", "item.category contains catname" %}
-      {% for post in posts limit:5 %}
-      <aside>
-      <h2>
-        {% if page.category %}
-          <a href="{{ site.url }}/{{ page.category }}">{{ page.category | capitalize }}</a> posts
-        {% else %}
-          <a href="{{ site.url }}/{{ catname }}">{{ catname | capitalize }}</a> posts
-        {% endif %}
-      </h2>
-      <ul>
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </li> 
-      </ul>
-      </aside>
-      {% endfor %}
+      {% if page.title != site.github.repository_name %}
+        {% assign catname = page.dir | replace: "/", "" %}
+        {% assign posts = site.posts | where_exp: "item", "item.category contains catname" %}
+        {% for post in posts limit:5 %}
+        <aside>
+        <h2>
+          {% if page.category %}
+            <a href="{{ site.url }}/{{ page.category }}">{{ page.category | capitalize }}</a> posts
+          {% else %}
+            <a href="{{ site.url }}/{{ catname }}">{{ catname | capitalize }}</a> posts
+          {% endif %}
+        </h2>
+        <ul>
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li> 
+        </ul>
+        </aside>
+        {% endfor %}
+      {% endif %}
 
       <footer>
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
