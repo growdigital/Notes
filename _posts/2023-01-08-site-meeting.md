@@ -15,7 +15,7 @@ date: 2022-11-30T20:39:43+00:00
 
 ### Todo
 
-* Jake make plan
+* Jake make plan: outline done, [see PDF](https://github.com/growdigital/primary/raw/main/primary.pdf)
 * Move Birch & Beech tree
 * Kate find out tree species (white leaf, a poplar?)
 * Find willow person to rejuvenate willow shelter
