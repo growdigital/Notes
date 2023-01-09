@@ -15,4 +15,4 @@ _Turkish Rhubarb in ornamental border_
 
 What I will do first is to clear the bed, and then look at options to add evergreens and possible small shrubs to the mix.
 
-For the small steps, the clients would like herbs, rather than the robust Lesser Periwinkle I was thinking of. I am thinking of a [compact native Oregano cultivar](https://www.rhs.org.uk/plants/81791/origanum-vulgare-compactum/details) for by the fence, and possibly a mint further down. Something that can be picked easily from the path.
+For the small steps, the clients would like herbs, rather than the robust Lesser Periwinkle I was thinking of. I am thinking of a [compact native Oregano cultivar](https://www.rhs.org.uk/plants/81791/origanum-vulgare-compactum/details) for by the fence, possibly some more native Thyme (if there’s enough sun) and possibly a mint further down (if it can be contained easily). Need to think about what can be picked from the path!
