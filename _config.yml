@@ -1,4 +1,4 @@
 theme: jekyll-theme-dinky
 title: Nature Works Notes
 description: Design notes for Jake’s clients 🌱 Wildlife & food forest garden designer 🌳 💚
-permalink: none
+permalink: /:categories/:short_year:month:day/:title:output_ext
