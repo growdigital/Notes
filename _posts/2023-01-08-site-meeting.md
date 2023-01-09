@@ -5,8 +5,6 @@ date: 2022-11-30T20:39:43+00:00
 
 ---
 
-## Meeting Kate, Wed 30 Nov 2022 
-
 ### Key points
 
 1. Quiet seating
