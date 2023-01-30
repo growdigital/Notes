@@ -217,5 +217,11 @@ Five beds:
 * Worcesterberry hedge on north boundary
 * Rustic post & rail, bark peeled. Oak/chestnut/larch. Via Bruce Slark, [Coppicewood College](http://coppicewoodcollege.co.uk).
 
+## Files
+
+* [Download latest PDF](https://github.com/growdigital/rhug/raw/main/rhug.pdf)
+* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/rhug/blob/main/rhug.dxf)
+* [Satellite image](https://github.com/growdigital/rhug/raw/main/satellite.jpg)
+* [GitHub repository](https://github.com/growdigital/rhug)
 
 This page online: <https://grwd.uk/rhug>
