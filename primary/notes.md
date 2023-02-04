@@ -1,27 +1,13 @@
 # Primary notes 📝
 
-[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/template-schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
+[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
-## Meeting Kate, Wed 30 2022 
-
-### Key points
-
-1. Quiet seating
-2. Art class material
-3. Wildlife habitat 
-4. Edible berries
-5. Recycled substrates
-
-### Todo
-
-* Jake make plan
-* Move Birch & Beech tree
-* Kate find out tree species (white leaf, a poplar?)
-* Find willow person to rejuvenate willow shelter
 
 ### Labyrinth
 
 * [Labyrinth Society](https://labyrinthsociety.org/) 
+* Download [Classical & Chartres labyrinths](https://labyrinthsociety.org/download-a-labyrinth)
+* 
 
 ### Features
 
@@ -44,7 +30,6 @@ _Moss bed, by Celtic Wild Flowers_
     * Leaf bin
 * Standing dead wood
 * Photos, drawings & paintings 
-
 
 ### Berries
 
@@ -113,5 +98,47 @@ _Moss bed, by Celtic Wild Flowers_
 * Wildflower Guides, April-August <https://botanicgarden.wales/science/growing-the-future/learning-at-home-and-at-school/>
 * **Piles** of raw materials for art classes! Clay. Clay mound.
 * Labyrinth? 
+
+---
+
+Notes relating to setting up a forest garden in a school. 
+
+1. Arrange meeting with outdoor learning teacher
+2. Visit potential site
+3. With school [Eco Council](https://www.eco-schools.org.uk/), teacher organises pupil questionnaire.
+
+## List opportunities
+
+* Quiet space
+* Forest school
+* Nature study
+* Food
+
+{{< figure src="https://res.cloudinary.com/growdigital/image/upload/v1620161756/primary/john-little-brownfield.jpg" alt="Closeup circular crushed chalk bed" caption="Brownfield materials make excellent low-fertility beds. Photo by John Little" >}}
+
+## List ideas!
+
+eg
+
+* Brownfield circle
+* Dead wood
+* Odd fruit
+* Autumn colour leaves
+* Wild flower beds
+* Horseshoe shape
+* Screen, privacy
+* Resourceful areas
+* EDITED BED etc etc etc
+
+## Tools for sharing information
+
+* Pencil & paper 📝 ([5mm grid A3 paper](https://duckduckgo.com/?q=5mm+grid+a3+paper))
+* [Simplenote](http://bit.ly/simplenote-template)
+* [Cloudinary](https://cloudinary.com)
+* [Pinterest](https://pinterest.co.uk/NatureWorksUK/)
+* Satellite photo (eg [Bing](bing.com/maps), [Google](google.co.uk/maps))
+* [QCAD](https://qcad.org/en/)
+* [Google](https://en.wikipedia.org/wiki/Criticism_of_Google) (meh) [Sheets](https://docs.google.com/spreadsheets/)
+
 
 This page online: <https://grwd.uk/primary/notes>
