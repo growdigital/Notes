@@ -1,6 +1,6 @@
 # Hiraeth management 🛠️
 
-[Home](https://grwd.uk/hiraeth/) • [Schedule](https://grwd.uk/hiraeth/schedule) • [Management](https://grwd.uk/hiraeth/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hiraeth) • [Plants↗](https://bit.ly/hiraeth-plants)
+[Home](https://grwd.uk/hiraeth/) • [Schedule](https://grwd.uk/hiraeth/schedule) • [Tend](https://grwd.uk/hiraeth/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hiraeth) • [Plants↗](https://bit.ly/hiraeth-plants)
 
 Maintenance & management throughout the year.
 
