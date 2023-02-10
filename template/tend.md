@@ -1,6 +1,6 @@
 # Template management 🛠️
 
-[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Management](https://grwd.uk/template/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
+[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Tend](https://grwd.uk/template/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
 
 Maintenance & management throughout the year.
 

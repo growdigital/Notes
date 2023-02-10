@@ -1,6 +1,6 @@
 # Hiraeth home 🏡
 
-[Home](https://grwd.uk/hiraeth/) • [Schedule](https://grwd.uk/hiraeth/schedule) • [Maintenance](https://grwd.uk/hiraeth/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hiraeth) • [Plants↗](https://bit.ly/hiraeth-plants)
+[Home](https://grwd.uk/hiraeth/) • [Schedule](https://grwd.uk/hiraeth/schedule) • [Tend](https://grwd.uk/hiraeth/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hiraeth) • [Plants↗](https://bit.ly/hiraeth-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1675855690/hiraeth/cad-preview.jpg)
 
@@ -42,7 +42,7 @@ _Sketch of site, [click for higher resolution](https://res.cloudinary.com/growdi
     2. **Forest school paths** - paths & platforms in the wood for initial Forest Schools.
     3. **Car parking** - 2-3 possible sites, nice to visually hide them. Area under power lines is boggy.
     4. **Wildlife pond** - needs to be childproof, yet also can be educational resource, designed carefully
-    5. **Reed beds** - for house. I have been recommended Rick Hudson from [Cresswater](https://www.cresswater.co.uk)
+    5. **Reed beds** - for house. I have been recommended Rick Hudson from [Cresswater](https://www.cresswater.co.uk). He says 'recommend your client seeks advice from local planning office & Natural Resources Wales'
     6. **Renewables** - need to consider siting and groundworks for renewables
     7. **Seating areas** - level areas for seating, with views, very important for everyone
 
