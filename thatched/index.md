@@ -4,7 +4,7 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
-Description of the site.
+Description of the site. Just over half acre. 0.6.
 
 ## Aim
 
