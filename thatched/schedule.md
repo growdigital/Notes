@@ -1,4 +1,4 @@
-# thatched schedule 📆
+# Thatched schedule 📆
 
 [Home](https://grwd.uk/thatched/) • [Schedule](https://grwd.uk/thatched/schedule) • [Tend](https://grwd.uk/thatched/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/thatched) • [Plants↗](https://bit.ly/thatched-plants)
 
