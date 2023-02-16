@@ -19,13 +19,14 @@ Overall, the recommendation is to **live with the site** for the summer, with a 
 1. **Now** - develop veg area, maintain gadren, add access
 2. **Autumn 2023** - extension
 3. **Winter 2023** - remove trees, create windbreaks
-4. **Spring 2023** - gates, fencing & design
-5. **Winter 2023** - plant garden
+4. **Spring 2023** - gates, fencing 
+5. **Summer 2024** - design
+5. **Winter 2024** - plant garden
 
 [![Highlighter lines on top of house and garden plan printout](https://res.cloudinary.com/growdigital/image/upload/w_420/v1676571538/highlighter.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1676571538/highlighter.jpg)  
 _Sketch of site, [click for higher resolution]()_
 
-### 1. **Now**
+### 1. Now
 
 1. **Veg area**<br>Focus your growing efforts in the first year on cultivating the vegetable area, experimenting with perennial veg and herbs 
 2. **Fruit tree pruning**<br>Martin Hayes, Cheltenham-based orchardist for pruning & advice on felling, staking and local community projects.
@@ -37,39 +38,38 @@ _Sketch of site, [click for higher resolution]()_
 [![Cross-section illustration of log steps](https://res.cloudinary.com/growdigital/image/upload/w_420/v1653037103/clifftop/log-steps.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)  
 _Log steps illustration, [click for higher resolution](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)_
 
-### 2. **Autumn 2023**
+### 2. Autumn 2023
 
 1. **Build extension!**
 2. **Rainwater harvesting**<br>for veg area
 
-### 3. **Winter 2023**
+### 3. Winter 2023
 
-  1. **Remove Leylandii**<br>south boundary
-  2. **Dead hedge**<br>Elegant dead hedge south boundary
-  2. **Windbreak**<br>Plant 2m native & edible windbreak west & south boundary
-  3. **Trim hedge**<br>trim existing native hedge
-  4. **Move greenhouse**<br>By veg area, 
+1. **Remove Leylandii**<br>south boundary
+2. **Dead hedge**<br>Elegant dead hedge south boundary
+2. **Windbreak**<br>Plant 2m native & edible windbreak west & south boundary
+3. **Trim hedge**<br>trim existing native hedge
+4. **Move greenhouse**<br>By veg area, 
 
 [![Nice serpentine dead hedge through trees](https://res.cloudinary.com/growdigital/image/upload/w_320/v1588061045/john-little-dead-hedge.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1588061045/john-little-dead-hedge.jpg)  
 _Elegant dead hedge by John Little_ 
 
-### 4. **Spring 2024**
+### 4. Spring 2024
 
 1. **Woodland garden gate**<br>garden gate
 2. **Secret woodland gate**<br> & bridge
 3. **Fencing**<br>Post & Rail fencing £40 per metre, 60 metres? £2,400
-4. **Design**<br>Stage 2 forest garden design
 
+[![Post and rail fencing on edge of cliff, curved gravel path in foreground](https://res.cloudinary.com/growdigital/image/upload/w_320/v1676582092/clifftop/post-rail-fencing-crop-220419.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1676582092/clifftop/post-rail-fencing-crop-220419.jpg)  
+_Post and rail fencing_
 
+### 5. Summer 2024
 
-### 5. **Autumn/Winter 2024**
+1. **Design**<br>Stage 2 forest garden design
+
+### 6. Winter 2024
 
 1. Plant forest garden
-
----
-
- **Veg area**<br>
-1.2 **Fruit tree pruning**<br>
 
 
 ## Contacts & reference
