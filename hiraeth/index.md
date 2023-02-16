@@ -32,6 +32,8 @@ _Sketch of site, [click for higher resolution](https://res.cloudinary.com/growdi
     6. Renewables
     7. Seating areas
 
+---
+
 1. **Choose sites**<br>Very important to choose which areas will be dedicated for which function: home, workshops, communal area. You need to design planting around these permanent features, including paths & tracks.
 2. **Soil tests**<br>Take about 4 or so topsoil samples (from below grass roots), put in small jars, get tested for [NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer) levels plus [acidity](). **Mark on the map** where the samples have been taken from. Also, test for soil structure using [sausage test](https://www.farmersweekly.co.za/farming-basics/how-to-crop/how-to-do-a-soil-test/) or [soil jar test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/). 
 3. **Manage existing land**<br>The key is to stop the bramble from the hedgerow growing into the field. The easiest way is to mow a perimeter path using a wheeled brush cutter. I use an [Oleo-Mac WB 51 S6](https://www.thegreenreaper.co.uk/oleo-mac-deb-518-wheeled-brush-mower). The grass can be mowed once every couple of years. Keep an eye out for self-sown bramble and tree saplings. If you introduce livestock once you have planted trees, you need to assemble tree guards, which gets very costly. Pigs can be used for clearing mown bramble roots, making sure the area is secure.
