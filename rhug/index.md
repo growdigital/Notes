@@ -8,6 +8,14 @@ date: 2023-01-09T11:49:27+00:00
 
 Family and holiday home, wildlife and naturalistic planting set on side of valley with beautiful views across the river, a short walk from the beach. ![Wisteria in flower in front of door](https://res.cloudinary.com/growdigital/image/upload/w_400/v1587984897/rhug/wisteria-harry-natalie-crop.jpg)
 
+### [Download latest PDF](https://github.com/growdigital/rhug/raw/main/rhug.pdf)
+
+## Videos
+
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1676640758/rhug/rhug-all-about-the-aronia.jpg)](https://bit.ly/rhug-playlist)
+
+[Rhug livestream playlist](https://bit.ly/rhug-playlist)
+
 ### Site
 
 Sloped drive to house, spur off rough track from the road. House about 3m above track, facing south east 148° with view across river valley across 17m x 6m patio. Also pedestrian access from track to side of patio. 

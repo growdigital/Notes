@@ -108,7 +108,6 @@ _Rustic curved bridge_
 * [Say it with Wood](https://www.facebook.com/sayitwithwoodchestnut/) for [fencing](https://www.sayitwithwood.co.uk/cleft-chestnut-products/cleft-mortised-post-rail/)
 * Cotswold self-binding gravel from [The Cullimore Group](https://www.cullimoregroup.co.uk/) 01452 740 326
 
-
 ## Videos
 
 [![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1676640758/thatched/thatched-playlist.jpg)](https://bit.ly/thatched-playlist)
