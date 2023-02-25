@@ -3,11 +3,15 @@
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
 
+### PlaySmart playground surfaces
+
+* [PlaySmart UK](https://playsmartuk.co.uk/2023/02/19/your-guide-to-corkeen-play-surfacing/)
+
 ### Labyrinth
 
 * [Labyrinth Society](https://labyrinthsociety.org/) 
 * Download [Classical & Chartres labyrinths](https://labyrinthsociety.org/download-a-labyrinth)
-* 
+
 
 ### Features
 
