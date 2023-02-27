@@ -1,6 +1,6 @@
-# Template management 🛠️
+# Max management 🛠️
 
-[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Tend](https://grwd.uk/template/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
+[Home](https://grwd.uk/max/) • [Schedule](https://grwd.uk/max/schedule) • [Tend](https://grwd.uk/max/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/max) • [Plants↗](https://bit.ly/max-plants)
 
 Maintenance & management throughout the year.
 
@@ -23,4 +23,4 @@ Maintenance & management throughout the year.
 * Year round
     * Weed bramble, dock, grass etc.
 
-This page online: [grwd.uk/template/management](https://grwd.uk/template/management)
+This page online: [grwd.uk/max/management](https://grwd.uk/max/management)
