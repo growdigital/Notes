@@ -29,7 +29,7 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 4. Hardstanding paths & seating areas
     1. Hardcore level corner (60cm drop)
     2. Sub-base & [Recyled Blended Fill](https://rioaggregates.co.uk/rio-product-range.htm) self-binding gravel
-    3. Steel flexible path edging (approx 22m)
+    3. Steel flexible path edging (approx 22m) eg [Core edge](https://res.cloudinary.com/growdigital/image/upload/v1647003657/clifftop/water-bowl-276125-169.jpg)
 5. Install support wires
     * 40cm spacing
     * Start 50cm from ground
