@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/max/) • [Schedule](https://grwd.uk/max/schedule) • [Tend](https://grwd.uk/max/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/max) • [Plants↗](https://bit.ly/max-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+[![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1677774794/max/cad-screenshot.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1677774794/max/cad-screenshot.jpg)
 
 North east facing small rectangular garden at bottom of steps, enclosed by brick wall on house & garage sides, tall wooden fence on perimeter. 
 
@@ -23,23 +23,24 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 
 ### Detail
 
-1. Weed & mulch with cardboard (big sheets from cycle shop)
-2. Refine marking out areas with twine & bamboo
-3. Hardstanding paths & seating areas
+1. Soil test, sample **below** the turf line. Check [soil type](https://www.wynnstay.co.uk/wynnstaystores/wynnstay-tetbury/) using sausage test or [jar test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/). Check acidity (pH) and nutrients ([NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer#The_NPK_analysis_label)) with a soil test from farmers co-op.
+2. Weed & mulch with cardboard (big sheets from cycle shop)
+3. Refine marking out areas with twine & bamboo
+4. Hardstanding paths & seating areas
     1. Hardcore level corner (60cm drop)
     2. Sub-base & [Recyled Blended Fill](https://rioaggregates.co.uk/rio-product-range.htm) self-binding gravel
     3. Steel flexible path edging (approx 22m)
-4. Install support wires
+5. Install support wires
     * 40cm spacing
     * Start 50cm from ground
     * [Vine eyes](https://www.amazon.co.uk/gp/product/B01KQVR3UM/) every 2m
     * [Turnbuckles](https://www.amazon.co.uk/FEPITO-Turnbuckle-Tensioner-Adjustable-Stainless/dp/B08591TP57/) at far end of wire
     * [Galvanised wire 1.25mm](https://www.amazon.co.uk/gp/product/B0087ZPCJ4/)
-5. Fit nestboxes
-6. Install gabion plinth
-7. Plant trees, climbers & shrubs
-8. Mulch beds with bark
-9. Plant herbaceous perennials
+6. Fit nestboxes
+7. Install gabion plinth
+8. Plant trees, climbers & shrubs
+9. Mulch beds with bark
+10. Plant herbaceous perennials
 
 ## Features
 
@@ -51,14 +52,15 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 * Nestboxes on apple tree wall
 * Trailing campanula in boxes
 
-
 ## Contacts
 
 * Chris at [Garden Larch](www.gardenlarch.co.uk) for custom & [narrow](https://gardenlarch.co.uk/narrow-planters-250mm/) planters
 * Martin Hayes orchardist, for fruit trees [theapplemancan.uk](https://theapplemancan.uk)
-* Barry & Sandra, [Celtic Wild Flowers](), Swansea (lovely nursery & people)
-* Lindsey, Haverford West, [The Wildflower Nursery]()
-
+* Barry & Sandra, [Celtic Wild Flowers](https://celticwildflowers.co.uk/), Swansea (lovely nursery & people)
+* Lindsey, Haverford West, [The Wildflower Nursery](https://www.thewildflowernursery.co.uk/)
+* Dr Simon Poole, [Mintopia](https://mintopia.bigcartel.com/)
+* [British Wild Flower Plants](https://www.wildflowers.uk/), Norfolk
+* Nick Anthony, landscaper, [TheGarden.Wales](https://thegardenwales.co.uk/) [TheGarden.Wales@Gmail.com](mailto:TheGarden.Wales@Gmail.com)
 
 # Reference
 
