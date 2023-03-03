@@ -61,7 +61,8 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 * [Hoverfly lagoons](https://www.thebuzzclub.uk/hoverfly-lagoons) in gabion
 * [Hedgehog home](https://www.wildlifetrusts.org/actions/how-build-hedgehog-home)
 * [Log shelters](https://www.wildlifetrusts.org/actions/how-make-log-shelter) & [piles](https://www.rspb.org.uk/birds-and-wildlife/advice/gardening-for-wildlife/dead-wood-for-wildlife)
-/* Trailing campanula in boxes
+* Trailing campanula in boxes
+* A crevice garden? Interesting idea, create diverse habitat
 
 ## Contacts
 
@@ -87,6 +88,7 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 * [NBN Atlas](https://nbnatlas.org/) biodiversity data
 * Book [Harrap's Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472982667/) by Simon Harrap
 * Book [The Living Jigsaw](https://www.valbourne.co.uk/the-living-jigsaw-how-to-cultivate-a-healthy-g) by Val Bourne
+* Book [The Crevice Garden](https://www.amazon.co.uk/Habitat-Creation-Garden-Design-designing/dp/0719840961/)
 
 ## Videos
 
