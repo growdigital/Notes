@@ -55,10 +55,13 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 ![Water bowl amongst greenery](https://res.cloudinary.com/growdigital/image/upload/w_320/v1647003657/clifftop/water-bowl-276125-169.jpg)
 
 * [Water bowl](https://www.thepotco.com/shop/features/water-features/water-bowls/corten-steel-curved-water-bowl/) on [gabion plinth](https://www.wirefence.co.uk/gabion/build-your-own-custom-gabion/)
-* Love seat Coffee Corner
+* Love seat Coffee Corner - be precise with seat & area measurements as not much room
 * Movable fire pit Woodland Corner
-* Nestboxes on apple tree wall
-* Trailing campanula in boxes
+* [Nestboxes](https://www.natureworks.org.uk/nest-box/) on apple tree wall
+* [Hoverfly lagoons](https://www.thebuzzclub.uk/hoverfly-lagoons) in gabion
+* [Hedgehog home](https://www.wildlifetrusts.org/actions/how-build-hedgehog-home)
+* [Log shelters](https://www.wildlifetrusts.org/actions/how-make-log-shelter) & [piles](https://www.rspb.org.uk/birds-and-wildlife/advice/gardening-for-wildlife/dead-wood-for-wildlife)
+/* Trailing campanula in boxes
 
 ## Contacts
 
