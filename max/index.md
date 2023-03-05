@@ -67,8 +67,10 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 * [Hedgehog highways](https://www.hedgehogstreet.org/) (holes in fences!)
 * [Log shelters](https://www.wildlifetrusts.org/actions/how-make-log-shelter) & [piles](https://www.rspb.org.uk/birds-and-wildlife/advice/gardening-for-wildlife/dead-wood-for-wildlife)
 * Trailing campanula in boxes
+* A crevice garden? Interesting idea, create diverse habitat
 
 ![Hedgehog Highway plastic sign above hole cut in fence](https://res.cloudinary.com/growdigital/image/upload/w_280/v1678041714/hornbeam-wood-hedgehog-highway.jpg)
+
 
 ## Contacts
 
@@ -94,6 +96,7 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 * [NBN Atlas](https://nbnatlas.org/) biodiversity data
 * Book [Harrap's Wild Flowers](https://www.bloomsbury.com/uk/harraps-wild-flowers-9781472982667/) by Simon Harrap
 * Book [The Living Jigsaw](https://www.valbourne.co.uk/the-living-jigsaw-how-to-cultivate-a-healthy-g) by Val Bourne
+* Book [The Crevice Garden](https://www.amazon.co.uk/Habitat-Creation-Garden-Design-designing/dp/0719840961/)
 
 ## Videos
 
