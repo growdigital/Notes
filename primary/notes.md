@@ -2,6 +2,23 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Curved gabion
+
+Metal from Barry, Castle Forge
+
+* 3" square, 4mm gauge, 8' x 4' sheet
+* 75mm square, 4mm dia, 2.4m x 1.2m sheet
+* 0.6m high, 9.4m long - 4 sheets (9.4/2.4)
+* 0.6m high, 7m long - 3 sheet (7/2.4)
+
+7 sheets total
+
+0.6m high, 0.6m wi
+
+50cm foundation, 30cm basecourse
+
+
+## Bits 
 
 * mini gabion house! wildlife
 * miniature wildlife house, mice & things, pics twitter

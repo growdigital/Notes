@@ -57,11 +57,18 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 * [Water bowl](https://www.thepotco.com/shop/features/water-features/water-bowls/corten-steel-curved-water-bowl/) on [gabion plinth](https://www.wirefence.co.uk/gabion/build-your-own-custom-gabion/)
 * Love seat Coffee Corner - be precise with seat & area measurements as not much room
 * Movable fire pit Woodland Corner
+* Garden mirror
+
+![Garden mirror on brick wall](https://res.cloudinary.com/growdigital/image/upload/w_280/v1678043239/max/mirror-brick-wall-pinterest.jpg)
+
 * [Nestboxes](https://www.natureworks.org.uk/nest-box/) on apple tree wall
 * [Hoverfly lagoons](https://www.thebuzzclub.uk/hoverfly-lagoons) in gabion
 * [Hedgehog home](https://www.wildlifetrusts.org/actions/how-build-hedgehog-home)
+* [Hedgehog highways](https://www.hedgehogstreet.org/) (holes in fences!)
 * [Log shelters](https://www.wildlifetrusts.org/actions/how-make-log-shelter) & [piles](https://www.rspb.org.uk/birds-and-wildlife/advice/gardening-for-wildlife/dead-wood-for-wildlife)
-/* Trailing campanula in boxes
+* Trailing campanula in boxes
+
+![Hedgehog Highway plastic sign above hole cut in fence](https://res.cloudinary.com/growdigital/image/upload/w_280/v1678041714/hornbeam-wood-hedgehog-highway.jpg)
 
 ## Contacts
 
