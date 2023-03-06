@@ -29,7 +29,7 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 
 ### Detail
 
-![Half finished gabion column next to oak tree & plastic fence](https://res.cloudinary.com/growdigital/image/upload/w_320/v1677775533/max/gabion-column.jpg)<br>_Half finished gabion column_
+![Wildlife gabion column next to oak tree & plastic fence](https://res.cloudinary.com/growdigital/image/upload/w_320/v1678123638/wildlife-gabion-pillar.jpg)<br>_Wildlife gabion column_
 
 1. Soil test, sample **below** the turf line. Check [soil type](https://www.wynnstay.co.uk/wynnstaystores/wynnstay-tetbury/) using sausage test or [jar test](https://hgic.clemson.edu/factsheet/soil-texture-analysis-the-jar-test/). Check acidity (pH) and nutrients ([NPK](https://en.wikipedia.org/wiki/Labeling_of_fertilizer#The_NPK_analysis_label)) with a soil test from farmers co-op.
 2. Weed & mulch with cardboard (big sheets from cycle shop)
@@ -70,7 +70,6 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 * A crevice garden? Interesting idea, create diverse habitat
 
 ![Hedgehog Highway plastic sign above hole cut in fence](https://res.cloudinary.com/growdigital/image/upload/w_280/v1678041714/hornbeam-wood-hedgehog-highway.jpg)
-
 
 ## Contacts
 
