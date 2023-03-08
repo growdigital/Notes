@@ -2,7 +2,19 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+
+## Recycled aggregate
+
+* Self-binding gravel [Recyled Blended Fill](https://rioaggregates.co.uk/rio-product-range.htm) £60/t+VAT+del 
+* MD Recycling hardcore 70mm to dust (also 40mm), also without dust £17/t+VAT+del
+
+## Hoverfly lagoons
+
+* <https://hoverflylagoons.co.uk/hoverfly-lagoons-2020/>
+
 ## Curved gabion
+
+Horseshoe shape, approx 4m diameter, the outside length is 9m-ish, the height would be 60cm-ish, 50cm wide
 
 Metal from Barry, Castle Forge
 

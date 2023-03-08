@@ -2,6 +2,12 @@
 
 [Home](https://grwd.uk/agro/) • [Schedule](https://grwd.uk/agro/schedule) • [Maintenance](https://grwd.uk/agro/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/agro) • [Plants↗](https://bit.ly/agro-plants)
 
+## Prices for Lyn
+
+1. Juicing from orchard
+2. Tree forage
+3. Firewood
+
 ## Adam email 
 
 * 10am on Friday 28th October

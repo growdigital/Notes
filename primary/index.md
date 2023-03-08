@@ -12,11 +12,16 @@ Colourful, fruitful, delightful & useful. A wildlife food forest garden for my l
 
 ## Features
 
+![Circular stone filled gabion](https://res.cloudinary.com/growdigital/image/upload/w_320/v1677759307/primary/gabion-round.jpg)
+
+* Horseshoe gabion seating area
 * Autumn colour for art projects
 * Native wild flowers for wildlife
 * Recycled, low fertility substrates for low maintenance wild flowers
 * Recycled substrates for paths
 * Rainwater harvesting
+
+[![Screenshot of CAD plan of seating area](https://res.cloudinary.com/growdigital/image/upload/w_320/v1678270718/primary/horseshoe-gabion.png)](https://res.cloudinary.com/growdigital/image/upload/v1678270718/primary/horseshoe-gabion.png)
 
 ## Videos
 
