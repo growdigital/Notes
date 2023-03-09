@@ -2,6 +2,17 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## PTA meeting Tue 7 Mar 2023
+
+* Gabion seating area ballpark costs
+    * Labour £1400
+    * Gabions £400
+    * Hardcore £100
+* Jake ask Oly if can use volunteers to keep costs down
+* Jake book Oly in for August
+* Jake find prices for gabions
+* Jake provide sketches of garden 
+
 
 ## Recycled aggregate
 

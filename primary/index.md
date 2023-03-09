@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
-![Side of school](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644758215/primary/primary-back-220119.jpg)
+![Show and tell plants on school table](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655898484/primary/plant-table01-220615.jpg)
 
 ### [Download latest PDF](https://github.com/growdigital/primary/raw/main/primary.pdf)
 
