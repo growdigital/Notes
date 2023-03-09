@@ -4,6 +4,8 @@
 
 ## Update Mon 6 Mar 2023
 
+* Weeded, cleared paths, trimmed back lower oak branches 
+
 ### Todo
 
 * Jake: shore up edge of path with clay
