@@ -10,6 +10,7 @@
 * Jake: bring in 4 tensioners & wire for trellis & 1 eyelet
 * Jake: bamboo canes to create x2 fans for honeysuckle
 * Jake: create cover for top of bee logs
+* Jake: take photos (again!) & document planting. Videos detailing plants, [part 1](https://youtu.be/BBoqC7VA9jY) & [part 2](https://youtu.be/sHeEoYs1viU).
 * Buy [Steel garden leaf rake (collapsible?)](https://duckduckgo.com/?q=garden+leaf+rake+steel&kp=1&t=lm&iax=images&ia=images), keep lawn clear
 * Leaves either need [composting](https://www.amazon.co.uk/FCMP-Outdoor-IM4000-Tumbling-Composter/dp/B009378AG2/) (if you can create a container for the finished compost) or distributing over the fence!
 
