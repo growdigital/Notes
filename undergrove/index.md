@@ -31,6 +31,10 @@ The key areas are:
 [![Bare back garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1654091809/undergrove/raised-beds-slopes-from-side.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1654091809/undergrove/raised-beds-slopes-from-side.jpg)  
 _Rear slope, platform to the left & platform to the right_
 
+## Planting plans
+
+
+
 ## Features
 
 * Water feature
