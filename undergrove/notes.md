@@ -9,6 +9,7 @@
 ### Todo
 
 * Jake: shore up edge of path with clay
+* Jake: add hedgehog pipes x2 for holes under fence
 * Jake: bring in 4 tensioners & wire for trellis & 1 eyelet
 * Jake: bamboo canes to create x2 fans for honeysuckle
 * Jake: create cover for top of bee logs with old roof slates
