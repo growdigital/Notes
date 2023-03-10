@@ -11,7 +11,7 @@
 * Jake: shore up edge of path with clay
 * Jake: bring in 4 tensioners & wire for trellis & 1 eyelet
 * Jake: bamboo canes to create x2 fans for honeysuckle
-* Jake: create cover for top of bee logs
+* Jake: create cover for top of bee logs with old roof slates
 * Jake: take photos (again!) & document planting. Videos detailing plants, [part 1](https://youtu.be/BBoqC7VA9jY) & [part 2](https://youtu.be/sHeEoYs1viU).
 * Jake: clear sand-based anti-slip paint on steps
 * Jake: make wire cover for pond
