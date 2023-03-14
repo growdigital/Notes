@@ -2,6 +2,10 @@
 
 [Home](https://grwd.uk/rhug/) • [Schedule](https://grwd.uk/rhug/schedule) • [Maintenance](https://grwd.uk/rhug/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/rhug) • [Plants↗](https://bit.ly/rhug-plants)
 
+## Tue 14 Mar 2023
+
+* Chicken wire & bamboo for 4x trees orchard
+
 ## Meadow
 
 * Grass seed https://wyndrushwild.co.uk/products/wild-meadow-seed/buy-the-seed/

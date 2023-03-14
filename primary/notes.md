@@ -2,6 +2,12 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Tue 14 Mar 2023
+
+* Clay mound, for art & wildlife
+* Moss bed
+* Cornus! Bloodtwig.
+
 ## Eco Council session Wed 8 Mar 2023
 
 * Marked out 3x apple trees & 5x fruit bushes
