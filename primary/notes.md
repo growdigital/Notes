@@ -2,6 +2,20 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Seedballs
+
+* Roots and All [Podcast](https://rootsandall.co.uk/podcast/seedballs/) 
+* [Website](https://seedball.co.uk/)
+
+## Gabion
+
+* 1.5m x 0.5m baskets
+    * Fine Mesh Metals - Gaflan coated, 4mm thickness, 75mm aperture, 1.5m x 0.5m. 4+ per basket, 6 baskets total.
+    [welded mesh panel GALFAN 3X3 8G 1.75ft x 5ft -- x24](https://www.weld-mesh.com/welded-mesh/welded-mesh-panel-GALFAN-3X3-8G-1.75ft-x-5ft/10379?showbasket=1), £353.09
+    * Prefab from [WireFence](https://www.wirefence.co.uk/gabion/build-your-own-custom-gabion/) £590
+* 1m x 0.5m baskets
+    * 5 per basket, 9 baskets = 45 panels £418.84
+
 ## Tue 14 Mar 2023
 
 * Clay mound, for art & wildlife
