@@ -2,6 +2,8 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+* Prune willow
+
 ## Seedballs
 
 * Roots and All [Podcast](https://rootsandall.co.uk/podcast/seedballs/) 
