@@ -4,6 +4,11 @@
 
 * Prune willow
 
+## Beneath the soil!
+
+![Cross-section illustration of what is possibly an old tarmac playground beneath 4" of soil](https://res.cloudinary.com/growdigital/image/upload/v1679317490/primary/playground-beneath.jpg)  
+_The question is, where does the water go?_
+
 ## Seedballs
 
 * Roots and All [Podcast](https://rootsandall.co.uk/podcast/seedballs/) 
