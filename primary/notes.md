@@ -4,6 +4,13 @@
 
 * Prune willow
 
+Cware Crug yr Eryr Quarry
+Over-sized 125mm-250mm
+
+£30 tonne+VAT+del Emlyn
+
+7 tonne £255+VAT 
+
 ## Beneath the soil!
 
 ![Cross-section illustration of what is possibly an old tarmac playground beneath 4" of soil](https://res.cloudinary.com/growdigital/image/upload/v1679317490/primary/playground-beneath.jpg)  
