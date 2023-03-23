@@ -2,14 +2,15 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Plants for damp
+
+* Meadowsweet, Sweet Cicely
+* Creeping Buttercup, Wood Anemones, Bluebells, Wild Garlic
+
+---
+
 * Prune willow
-
-Cware Crug yr Eryr Quarry
-Over-sized 125mm-250mm
-
-£30 tonne+VAT+del Emlyn
-
-7 tonne £255+VAT 
+* Cware Crug yr Eryr Quarry, Over-sized 125mm-250mm, £30 tonne+VAT+del Emlyn, 7 tonne £255+VAT 
 
 ## Beneath the soil!
 
