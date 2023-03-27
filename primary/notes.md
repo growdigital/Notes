@@ -2,10 +2,16 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Features
+
+* Mexican brick pyramid habitat
+
 ## Plants for damp
 
 * Meadowsweet, Sweet Cicely
 * Creeping Buttercup, Wood Anemones, Bluebells, Wild Garlic
+* Claytonia siberica
+* Raspberry & Tayberry
 
 ---
 
