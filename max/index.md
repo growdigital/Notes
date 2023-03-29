@@ -105,10 +105,10 @@ Create a delightful shaded, mostly native, wildlife woodland garden, bedecked in
 
 ## Files
 
-* [Download latest PDF](https://codeberg.org/natureworks/max/raw/branch/master/max.pdf)
-* [Download latest CAD file](https://codeberg.org/natureworks/max/raw/branch/master/max.dxf)
-* [Satellite image](https://codeberg.org/natureworks/max/raw/branch/master/satellite.jpg)
-* [Drone image](https://codeberg.org/natureworks/max/raw/branch/master/drone.jpg)
+* [Download latest PDF](https://codeberg.org/natureworks/max/src/branch/main/max.pdf)
+* [Download latest CAD file](https://codeberg.org/natureworks/max/raw/branch/main/max.dxf)
+* [Satellite image](https://codeberg.org/natureworks/max/raw/branch/main/satellite.jpg)
+* [Drone image](https://codeberg.org/natureworks/max/raw/branch/main/drone.jpg)
 * [GitHub repository](https://codeberg.org/natureworks/max)
 
 This page online: <https://grwd.uk/max>
