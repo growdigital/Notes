@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/max/) • [Schedule](https://grwd.uk/max/schedule) • [Manage](https://grwd.uk/max/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/max) • [Plants↗](https://bit.ly/max-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1677774794/max/cad-screenshot.jpg)
 
 * Wk 01 - Mon 3 Jan
     * Do one thing
