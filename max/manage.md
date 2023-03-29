@@ -1,6 +1,6 @@
 # Max management 🛠️
 
-[Home](https://grwd.uk/max/) • [Schedule](https://grwd.uk/max/schedule) • [Tend](https://grwd.uk/max/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/max) • [Plants↗](https://bit.ly/max-plants)
+[Home](https://grwd.uk/max/) • [Schedule](https://grwd.uk/max/schedule) • [Manage](https://grwd.uk/max/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/max) • [Plants↗](https://bit.ly/max-plants)
 
 Maintenance & management throughout the year.
 
