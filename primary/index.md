@@ -9,7 +9,7 @@
 ## Aim
 
 ![The very speckledy Magpie Moth](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655848393/insects/abraxas-grossulariata-130816.jpg)  
-_Magpie Moth ([Abraxas grossulariata](https://species.nbnatlas.org/species/NBNSYS0000005975)), whose [food plants](http://dbif.brc.ac.uk/invertebratesresults.aspx?insectid=9) include Hawthorn, Navelwort and Blackberry_
+_Magpie Moth ([Abraxas grossulariata](https://species.nbnatlas.org/species/NBNSYS0000005975)), whose [food plants](http://dbif.brc.ac.uk/invertebratesresults.aspx?insectid=9) include Hawthorn, Navelwort and Blackberry, all native & edible_
 
 Colourful, fruitful, delightful & useful. A wildlife food forest garden for my local primary school, with a focus on native & edible plants, for the children, teachers and insects!
 
