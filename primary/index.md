@@ -8,6 +8,9 @@
 
 ## Aim
 
+![The very speckledy Magpie Moth](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655848393/insects/abraxas-grossulariata-130816.jpg)  
+_Magpie Moth ([Abraxas grossulariata](https://species.nbnatlas.org/species/NBNSYS0000005975)), whose [food plants](http://dbif.brc.ac.uk/invertebratesresults.aspx?insectid=9) include Hawthorn, Navelwort and Blackberry_
+
 Colourful, fruitful, delightful & useful. A wildlife food forest garden for my local primary school, with a focus on native & edible plants, for the children, teachers and insects!
 
 ## Features
@@ -25,7 +28,7 @@ Colourful, fruitful, delightful & useful. A wildlife food forest garden for my l
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1644758216/primary/triangle-mid.jpg)](https://bit.ly/primary-videos)
+[![Willow dome](https://res.cloudinary.com/growdigital/image/upload/w_320/v1680121617/primary/willow-dome-230329.jpg)
 
 Occasional livestream video about the work in progress, here’s the [YouTube playlist](https://bit.ly/primary-videos)!
 
