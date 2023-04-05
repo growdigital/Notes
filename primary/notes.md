@@ -2,6 +2,11 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Bee hotel
+
+![Breeze block bee blocks on a wall](https://res.cloudinary.com/growdigital/image/upload/w_360/v1680383810/celtic-wildflowers-bee-hotel.jpg)
+https://celticwildflowers.co.uk/products/bee-block
+
 ## Trailcam
 
 * [Wild View Cameras](https://www.wildviewcameras.co.uk/shop/trail-cameras)
