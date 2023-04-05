@@ -1,6 +1,6 @@
-# Template management 🛠️
+# Rock Valley management 🛠️
 
-[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Tend](https://grwd.uk/template/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
+[Home](https://grwd.uk/rockvalley/) • [Schedule](https://grwd.uk/rockvalley/schedule) • [Manage](https://grwd.uk/rockvalley/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/rockvalley) • [Plants↗](https://bit.ly/rockvalley-plants)
 
 Maintenance & management throughout the year.
 
@@ -23,4 +23,4 @@ Maintenance & management throughout the year.
 * Year round
     * Weed bramble, dock, grass etc.
 
-This page online: [grwd.uk/template/management](https://grwd.uk/template/management)
+This page online: [grwd.uk/rockvalley/management](https://grwd.uk/rockvalley/management)

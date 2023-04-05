@@ -1,6 +1,6 @@
 # Template home 🏡
 
-[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Tend](https://grwd.uk/template/tend) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
+[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Manage](https://grwd.uk/template/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://bit.ly/template-plants)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
@@ -9,14 +9,14 @@
 Delete 👉🏾
 1. Search & replace `template` in these files
 2. Copy & edit `Template` project directory
-3. Create GitHub repository (copy `template` repo)
+3. Create Codeberg repository (copy `template` repo)
 4. Create Google Sheets spreadsheet, replace note text, create bit.ly link
 5. Create Pinterest Board
 6. Make project folder in Cloudinary
 7. Make video playlist in YouTube & bit.ly link
 
 * Template project
-* GitHub
+* Codeberg
 * Notes
 * Google Sheets
 * Pinterest
@@ -30,7 +30,7 @@ Description of the site.
 
 Aims of the project.
 
-### [Download latest PDF](https://github.com/growdigital/template/raw/main/template.pdf)
+### [Download latest PDF](https://codeberg.org/natureworks/template/raw/branch/main/template.pdf)
 
 ## Features
 
@@ -46,9 +46,9 @@ Aims of the project.
 
 ## Files
 
-* [Download latest PDF](https://github.com/growdigital/template/raw/main/template.pdf)
-* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/template/blob/main/template.dxf)
-* [Satellite image](https://github.com/growdigital/template/raw/main/satellite.jpg)
-* [GitHub repository](https://github.com/growdigital/template)
+* [Download latest PDF](https://codeberg.org/natureworks/template/raw/branch/main/template.pdf)
+* [Download latest CAD file](https://codeberg.org/natureworks/template/src/branch/main/template.dxf)
+* [Satellite image](https://codeberg.org/natureworks/template/raw/branch/main/satellite.jpg)
+* [GitHub repository](https://codeberg.org/natureworks/template)
 
 This page online: <https://grwd.uk/template>
