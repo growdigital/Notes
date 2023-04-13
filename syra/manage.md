@@ -1,6 +1,6 @@
-# Rock Valley management 🛠️
+# Syra management 🛠️
 
-[Home](https://grwd.uk/rockvalley/) • [Schedule](https://grwd.uk/rockvalley/schedule) • [Manage](https://grwd.uk/rockvalley/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/rockvalley) • [Plants↗](https://bit.ly/rockvalley-plants)
+[Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Manage](https://grwd.uk/syra/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
 
 Maintenance & management throughout the year.
 
@@ -23,4 +23,4 @@ Maintenance & management throughout the year.
 * Year round
     * Weed bramble, dock, grass etc.
 
-This page online: [grwd.uk/rockvalley/management](https://grwd.uk/rockvalley/management)
+This page online: [grwd.uk/syra/management](https://grwd.uk/syra/management)
