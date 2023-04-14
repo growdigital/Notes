@@ -8,11 +8,17 @@
 
 A magical woodland forest garden, with native plants, ornamentals and edibles, filled with life and colour. And lots of paths and somewhere to sit down.
 
-![Green bamboo cut on the grass]()
+![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487160/syra/green-bamboo-cut.jpg)
 
 In contrast to my normal practise, the garden has been designed _in situ_, using locally sourced bamboo and cotton twine to mark out paths, and larger canes to mark out trees. To bastardise Alfred Korzybski’s quote, the territory _is_ the map, so I won’t be creating one here. 
 
+![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681483106/syra/top-path.jpg)  
+_Top path of wooded area marked out with the string_
+
 ## Features
+
+![Weavily woven bundles of brash through trees by grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1588061045/john-little-dead-hedge.jpg)  
+_Rather tidy dead hedge by John Little_
 
 * Two seating areas
 * Dead hedges
@@ -20,6 +26,9 @@ In contrast to my normal practise, the garden has been designed _in situ_, using
 * Ornamental edibles
 * Native hedges
 * Cairns
+
+![White tree trunks, red underplanting](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487728/syra/silver-birch-red-dogwood.jpg)  
+_Silver Birch underplanted with Red Dogwood_
 
 ## Videos
 
