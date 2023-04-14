@@ -8,14 +8,16 @@
 
 A magical woodland forest garden, with native plants, ornamentals and edibles, filled with life and colour. And lots of paths and somewhere to sit down.
 
-![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487728/syra/silver-birch-red-dogwood.jpg)
+![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487160/syra/green-bamboo-cut.jpg)
 
 In contrast to my normal practise, the garden has been designed _in situ_, using locally sourced bamboo and cotton twine to mark out paths, and larger canes to mark out trees. To bastardise Alfred Korzybski’s quote, the territory _is_ the map, so I won’t be creating a CAD plan here.
 
-
-
 ![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681483106/syra/top-path.jpg)  
 _Top path of wooded area marked out with the string_
+
+Check [the spreadsheet](https://bit.ly/syra-plants) for species, and this video for locations:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3cSX0Jp6tLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Features
 
