@@ -2,21 +2,24 @@
 
 [Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Manage](https://grwd.uk/syra/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
 
-![Cairn]()
+![Cairn](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681485848/syra/beech-cairn.jpg)
 
 > “The territory is the map”<br>_With apologies to [Alfred Korzybski](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)_
 
-## Aim
+A magical woodland forest garden, with native plants, ornamentals and edibles, filled with life and colour. And lots of paths and somewhere to sit down.
 
-Aims of the project.
+![Green bamboo cut on the grass]()
 
-### [Download latest PDF](https://codeberg.org/natureworks/syra/raw/branch/main/syra.pdf)
+In contrast to my normal practise, the garden has been designed _in situ_, using locally sourced bamboo and cotton twine to mark out paths, and larger canes to mark out trees. To bastardise Alfred Korzybski’s quote, the territory _is_ the map, so I won’t be creating one here. 
 
 ## Features
 
-* Wildlife pond
-* “Coffee & Cocktails” seating areas
-* Rainwater harvesting
+* Two seating areas
+* Dead hedges
+* Stand of Silver Birch
+* Ornamental edibles
+* Native hedges
+* Cairns
 
 ## Videos
 
