@@ -2,9 +2,9 @@
 
 [Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Manage](https://grwd.uk/syra/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![Cairn]()
 
-Description of the site.
+> “The territory is the map”<br>_With apologies to [Alfred Korzybski](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)_
 
 ## Aim
 
