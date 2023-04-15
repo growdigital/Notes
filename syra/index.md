@@ -34,6 +34,15 @@ _Rather tidy dead hedge by John Little_
 ![White tree trunks, red underplanting](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487728/syra/silver-birch-red-dogwood.jpg)  
 _Silver Birch underplanted with Red Dogwood_
 
+### Measurements
+
+[![Illustration for creating log steps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653037103/clifftop/log-steps.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)
+
+4 paths traverse the hillside, need levelling with an edge. Log steps on steep paths.
+
+* Sloped paths 200 steps x 0.8m = **160m**
+* Steep paths 42 steps x 0.8m = **34m**
+
 ## Videos
 
 [![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)](https://bit.ly/syra-playlist)
