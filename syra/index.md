@@ -4,16 +4,16 @@
 
 ![Cairn](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681485848/syra/beech-cairn.jpg)
 
-> “The territory is the map”<br>_With apologies to [Alfred Korzybski](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)_
-
 A magical woodland forest garden, with native plants, ornamentals and edibles, filled with life and colour. And lots of paths and somewhere to sit down.
+
+![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681483106/syra/top-path.jpg)  
+_Top path of wooded area marked out with the string_
+
+> **“The territory is the map”** (with apologies to [Alfred Korzybski](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation))
 
 ![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487160/syra/green-bamboo-cut.jpg)
 
 In contrast to my normal practise, the garden has been designed _in situ_, using locally sourced bamboo and cotton twine to mark out paths, and larger canes to mark out trees. To bastardise Alfred Korzybski’s quote, the territory _is_ the map, so I won’t be creating a CAD plan here.
-
-![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681483106/syra/top-path.jpg)  
-_Top path of wooded area marked out with the string_
 
 Check [the spreadsheet](https://bit.ly/syra-plants) for species, and this video for locations:
 
@@ -27,6 +27,9 @@ _Rather tidy dead hedge by John Little_
 * Two seating areas
 * Dead hedges
 * Stand of Silver Birch
+
+![White blossomy blossom of Amelanchier lamarckii](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681545939/amelanchier-lamarckii-180415.jpg)
+
 * Ornamental edibles
 * Native hedges
 * Cairns
