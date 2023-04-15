@@ -28,7 +28,8 @@ _Rather tidy dead hedge by John Little_
 * Dead hedges
 * Stand of Silver Birch
 
-![White blossomy blossom of Amelanchier lamarckii](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681545939/amelanchier-lamarckii-180415.jpg)
+![White blossomy blossom of Amelanchier lamarckii](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681545939/amelanchier-lamarckii-180415.jpg)  
+_Amelanchier lamarckii blossom_
 
 * Ornamental edibles
 * Native hedges
