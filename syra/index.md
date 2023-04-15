@@ -15,7 +15,7 @@ _Top path of wooded area marked out with the string_
 
 In contrast to my normal practise, the garden has been designed _in situ_, using locally sourced bamboo and cotton twine to mark out paths, and larger canes to mark out trees. To bastardise Alfred Korzybski’s quote, the territory _is_ the map, so I won’t be creating a CAD plan here.
 
-Check [the spreadsheet](https://bit.ly/syra-plants) for species, and this video for locations:
+Check [the spreadsheet](https://bit.ly/syra-plants) for species, and [this video](https://www.youtube.com/watch?v=3cSX0Jp6tLo) for locations:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3cSX0Jp6tLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
