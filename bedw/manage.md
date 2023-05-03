@@ -23,4 +23,4 @@ Maintenance & management throughout the year.
 * Year round
     * Weed bramble, dock, grass etc.
 
-This page online: [grwd.uk/bedw/management](https://grwd.uk/bedw/management)
+This page online: <https://grwd.uk/bedw/manage>
