@@ -4,18 +4,18 @@
 
 ![Cairn](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681485848/syra/beech-cairn.jpg)
 
-> “The territory is the map”<br>_With apologies to [Alfred Korzybski](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)_
-
 A magical woodland forest garden, with native plants, ornamentals and edibles, filled with life and colour. And lots of paths and somewhere to sit down.
+
+![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681483106/syra/top-path.jpg)  
+_Top path of wooded area marked out with the string_
+
+> **“The territory is the map”** (with apologies to [Alfred Korzybski](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation))
 
 ![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487160/syra/green-bamboo-cut.jpg)
 
 In contrast to my normal practise, the garden has been designed _in situ_, using locally sourced bamboo and cotton twine to mark out paths, and larger canes to mark out trees. To bastardise Alfred Korzybski’s quote, the territory _is_ the map, so I won’t be creating a CAD plan here.
 
-![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681483106/syra/top-path.jpg)  
-_Top path of wooded area marked out with the string_
-
-Check [the spreadsheet](https://bit.ly/syra-plants) for species, and this video for locations:
+Check [the spreadsheet](https://bit.ly/syra-plants) for species, and [this video](https://www.youtube.com/watch?v=3cSX0Jp6tLo) for locations:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3cSX0Jp6tLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -27,6 +27,10 @@ _Rather tidy dead hedge by John Little_
 * Two seating areas
 * Dead hedges
 * Stand of Silver Birch
+
+![White blossomy blossom of Amelanchier lamarckii](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681545939/amelanchier-lamarckii-180415.jpg)  
+_Amelanchier lamarckii blossom_
+
 * Ornamental edibles
 * Native hedges
 * Cairns
@@ -35,6 +39,15 @@ _Rather tidy dead hedge by John Little_
 
 ![White tree trunks, red underplanting](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487728/syra/silver-birch-red-dogwood.jpg)  
 _Silver Birch underplanted with Red Dogwood_
+
+### Measurements
+
+[![Illustration for creating log steps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653037103/clifftop/log-steps.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)
+
+4 paths traverse the hillside, need levelling with an edge. Log steps on steep paths.
+
+* Sloped paths 200 steps x 0.8m = **160m**
+* Steep paths 42 steps x 0.8m = **34m**
 
 ## Videos
 
