@@ -30,6 +30,8 @@ _Rather tidy dead hedge by John Little_
 * Ornamental edibles
 * Native hedges
 * Cairns
+* Bog
+* Ivy tree
 
 ![White tree trunks, red underplanting](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487728/syra/silver-birch-red-dogwood.jpg)  
 _Silver Birch underplanted with Red Dogwood_
