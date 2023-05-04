@@ -6,14 +6,15 @@
 
 A magical woodland forest garden, with native plants, ornamentals and edibles, filled with life and colour. And lots of paths and somewhere to sit down.
 
-![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681483106/syra/top-path.jpg)  
+![Path in cleared woodland marked out with string](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681595187/syra/top-path-169.jpg)  
 _Top path of wooded area marked out with the string_
 
 > **“The territory is the map”** (with apologies to [Alfred Korzybski](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation))
 
-![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487160/syra/green-bamboo-cut.jpg)
-
 In contrast to my normal practise, the garden has been designed _in situ_, using locally sourced bamboo and cotton twine to mark out paths, and larger canes to mark out trees. To bastardise Alfred Korzybski’s quote, the territory _is_ the map, so I won’t be creating a CAD plan here.
+
+![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487160/syra/green-bamboo-cut.jpg)  
+_Green bamboo from the garden used to mark out_
 
 Check [the spreadsheet](https://bit.ly/syra-plants) for species, and [this video](https://www.youtube.com/watch?v=3cSX0Jp6tLo) for locations:
 

@@ -14,8 +14,8 @@ The first stage is creating an ornamental bed on the west bank of the pond (the 
 
 ## Intimacy
 
-[![Schematic sketchy plan of garden](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1683132844/bedw/bedw-schematic-shrubs.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1683132844/bedw/bedw-schematic-shrubs.jpg)  
-_Schematic plan of garden (click for hi-res)_
+[![Sketch of photo of Pond Bed](https://res.cloudinary.com/growdigital/image/upload/w_320/v1683136411/bedw/pondbed-sketch-230427.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1683136411/bedw/pondbed-sketch-230427.jpg)  
+_Sketch overlay of the Pond Bed (click for hi-res)_
 
 The overarching requirement is to create _intimacy_ in the different garden rooms. Currently, the patio, pond and parts of the lawn feel too open to visitors down the track. This can be achieved with:
 
@@ -25,24 +25,22 @@ The overarching requirement is to create _intimacy_ in the different garden room
 4. A post and rail fence by the side of the Pond Bed
 5. A full Red Dogwood hedge on the northern boundary of the pond
 
-[![Sketch of photo of Pond Bed](https://res.cloudinary.com/growdigital/image/upload/w_320/v1683136411/bedw/pondbed-sketch-230427.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1683136411/bedw/pondbed-sketch-230427.jpg)  
-_Sketch overlay of the Pond Bed (click for hi-res)_
-
-The key feature of the Pond Bed is the relatively low post and rail fence. The roundwood materials and finish complement the stone of the house, whilst the height opens up the bed, its construction allows light through, all while providing a natural boundary to the path
-
 ![Post and rail fence on new garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1676582092/clifftop/post-rail-fencing-crop-220419.jpg)  
 _Post and rail fence on client’s garden_
 
+The key feature of the Pond Bed is the relatively low post and rail fence. The roundwood materials and finish complement the stone of the house, whilst the height opens up the bed, its construction allows light through, all while providing a natural boundary to the path
+
 This stage doesn’t include the patio area **but** it’s important to give the Pond Bed context. Here you can see the low hedge, protecting the patio from the path whilst letting light through. There is a taller hedge just visible to the right of the path entrance, and some sort of screen over the patio bed.
 
-> Always design a thing by considering it in its next larger context; a chair in a room, a room in a house, a house in an environment, an environment in a city plan.
-
-_~ Eliel Saarinen_
+> Always design a thing by considering it in its next larger context; a chair in a room, a room in a house, a house in an environment, an environment in a city plan.<br>~ [Eliel Saarinen](https://www.goodreads.com/author/quotes/469863.Eliel_Saarinen)
 
 [![Sketch overlay of the front of the house](https://res.cloudinary.com/growdigital/image/upload/w_320/v1683136411/bedw/entrance-patio-sketch-230427.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1683136411/bedw/entrance-patio-sketch-230427.jpg)  
 _Sketch overlay of the screen & low hedge (click for hi-res)_
 
 ## Access
+
+[![Schematic sketchy plan of garden](https://res.cloudinary.com/growdigital/image/upload/w_320,bo_1px_solid_gray/v1683132844/bedw/bedw-schematic-shrubs.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1683132844/bedw/bedw-schematic-shrubs.jpg)  
+_Schematic plan of garden (click for hi-res)_
 
 The other requirement is access, connecting the garden areas together. 
 
@@ -78,7 +76,13 @@ _The gabions would be lower, embedded into the bank & possibly planted_
 
 The Pond Bed is also one of the sunnier spots in the garden, and with a generous mulch, there should be a good range of native wild flowers and edible ornamentals for planting into the boulder clay.
 
-## Videos
+## Video overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O4bjDMrzOkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+17 minute(!) video, giving an overview of the project. [Watch on YouTube](https://www.youtube.com/embed/O4bjDMrzOkA) to view the video chapters.
+
+## Playlist
 
 [![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1683143015/bedw/bedw-video.jpg)](https://bit.ly/bedw-playlist)
 
