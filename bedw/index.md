@@ -93,6 +93,6 @@ The Pond Bed is also one of the sunnier spots in the garden, and with a generous
 * [Download latest PDF](https://codeberg.org/natureworks/bedw/raw/branch/main/bedw.pdf)
 * [Download latest CAD file](https://codeberg.org/natureworks/bedw/src/branch/main/bedw.dxf)
 * [Satellite image](https://codeberg.org/natureworks/bedw/raw/branch/main/satellite.jpg)
-* [GitHub repository](https://codeberg.org/natureworks/bedw)
+* [Codeberg repository](https://codeberg.org/natureworks/bedw)
 
 This page online: <https://grwd.uk/bedw>
