@@ -42,7 +42,7 @@ Aims of the project.
 
 [![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)](https://bit.ly/template-playlist)
 
-[Template livestream playlist](https://bit.ly/template-playlist)
+[Template playlist](https://bit.ly/template-playlist)
 
 ## Files
 

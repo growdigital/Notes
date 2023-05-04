@@ -25,7 +25,7 @@ Check [the spreadsheet](https://bit.ly/syra-plants) for species, and [this video
 _Rather tidy dead hedge by John Little_
 
 * Two seating areas
-* Dead hedges
+* Dead hedges using [cleft Chestnut stakes](https://www.brandonthatchers.co.uk/products/rustic-timbers-wood/split-chestnut-pole/) £1.50 ea
 * Stand of Silver Birch
 
 ![White blossomy blossom of Amelanchier lamarckii](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681545939/amelanchier-lamarckii-180415.jpg)  
@@ -51,9 +51,9 @@ _Silver Birch underplanted with Red Dogwood_
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)](https://bit.ly/syra-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1683203723/syra/syra-video.jpg)](https://bit.ly/syra-playlist)
 
-[Syra livestream playlist](https://bit.ly/syra-playlist)
+[Syra playlist](https://bit.ly/syra-playlist)
 
 ## Files
 
