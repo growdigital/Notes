@@ -42,7 +42,8 @@ _Silver Birch underplanted with Red Dogwood_
 
 ### Measurements
 
-[![Illustration for creating log steps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653037103/clifftop/log-steps.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)
+[![Illustration for creating log steps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1653037103/clifftop/log-steps.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1653037103/clifftop/log-steps.jpg)  
+_Illustration for log steps. Click for hi-res._
 
 4 paths traverse the hillside, need levelling with an edge. Log steps on steep paths.
 
