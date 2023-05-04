@@ -35,6 +35,10 @@ _Post and rail fence on client’s garden_
 
 This stage doesn’t include the patio area **but** it’s important to give the Pond Bed context. Here you can see the low hedge, protecting the patio from the path whilst letting light through. There is a taller hedge just visible to the right of the path entrance, and some sort of screen over the patio bed.
 
+> Always design a thing by considering it in its next larger context; a chair in a room, a room in a house, a house in an environment, an environment in a city plan.
+
+_~ Eliel Saarinen_
+
 [![Sketch overlay of the front of the house](https://res.cloudinary.com/growdigital/image/upload/w_320/v1683136411/bedw/entrance-patio-sketch-230427.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1683136411/bedw/entrance-patio-sketch-230427.jpg)  
 _Sketch overlay of the screen & low hedge (click for hi-res)_
 
