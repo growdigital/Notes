@@ -18,6 +18,11 @@ _Pond bed CAD sketch of planting. Click for hi-res PDF_
 
 ![Steel water bowl in the garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1647003657/clifftop/water-bowl-276125-169.jpg)
 
+I did do another sketch but it doesn’t really add anything at this stage, as there’s too many unknowns!
+
+[![Sketch of bed](https://res.cloudinary.com/growdigital/image/upload/w_320/v1683631349/bedw/bedw-bed-sketch-230509.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1683631349/bedw/bedw-bed-sketch-230509.jpg)  
+_Possibly useful sketch. Click for hi-res_
+
 ### Ballpark pricing
 
 * Mini-digger + driver for day approx **£180**
