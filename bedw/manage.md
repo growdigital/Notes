@@ -1,6 +1,6 @@
 # Bedw management 🛠️
 
-[Home](https://grwd.uk/bedw/) • [Schedule](https://grwd.uk/bedw/schedule) • [Manage](https://grwd.uk/bedw/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/bedw) • [Plants↗](https://bit.ly/bedw-plants)
+[Home](https://grwd.uk/bedw/) • [Schedule](https://grwd.uk/bedw/schedule) • [Notes](https://grwd.uk/bedw/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/bedw) • [Plants↗](https://bit.ly/bedw-plants)
 
 Maintenance & management throughout the year.
 
