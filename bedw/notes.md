@@ -37,6 +37,6 @@ _Possibly useful sketch. Click for hi-res_
 * Maintain access for digger down track
 * Potential to create access from other side via field north of house
 * Potential for rose arch later
-* Look at options for screen trellis
-* Jake get price for fencing & screen
-* Jake get dates from Karl & Oly landscapers
+- [x] Look at options for screen trellis (see [Pinterest page]())
+- [x] Jake get price for fencing & screen
+- [x] Jake get dates from Karl & Oly landscapers - Karl possibly end of summer, Oly not available until late autumn
