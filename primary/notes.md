@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Disappearing water fountain! Mon 15 May 2023
+
+[![Sunken rocks and fountain in concrete base](https://res.cloudinary.com/growdigital/image/upload/w_420/v1684154854/primary/disappearing-water-fountain.jpg](https://res.cloudinary.com/growdigital/image/upload/v1684154854/primary/disappearing-water-fountain.jpg))  
+_Click for hi-res_
+
+[Disappearing Water Fountain on Instructables](https://www.instructables.com/Disappearing-Water-Fountain/) 
+
 ## Bee hotel
 
 ![Breeze block bee blocks on a wall](https://res.cloudinary.com/growdigital/image/upload/w_360/v1680383810/celtic-wildflowers-bee-hotel.jpg)

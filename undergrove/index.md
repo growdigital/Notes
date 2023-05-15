@@ -12,8 +12,8 @@ _First draft of the CAD plan_
 
 An east-facing rear garden of a new eco-house, with a grove of oaks at the back beyond a steep slope. Outdoor office, lawn and raised beds.
 
-[![PDF CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788206/undergrove/undergrove.png)](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)  
-### [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
+[![PDF CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788206/undergrove/undergrove.png)](https://codeberg.org/natureworks/undergrove/raw/main/undergrove.pdf)  
+### [Download latest PDF](https://codeberg.org/natureworks/undergrove/raw/main/undergrove.pdf)
 
 ## Aim
 
@@ -42,7 +42,7 @@ _Rear slope, platform to the left & platform to the right_
 
 ### Den
 
-[![PDF plan of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788359/undergrove/den.png)](https://github.com/growdigital/undergrove/raw/main/den.pdf)  
+[![PDF plan of den](https://res.cloudinary.com/growdigital/image/upload/w_320/v1663788359/undergrove/den.png)](https://codeberg.org/natureworks/undergrove/raw/main/den.pdf)  
 _Link to PDF of den_
 
 Smooth, lightweight cleft larch construction, clad with tidy planks.
@@ -62,9 +62,9 @@ _Cross-section of pond, showing gravel to preserve outside wood_
 
 ## Files
 
-* [Download latest PDF](https://github.com/growdigital/undergrove/raw/main/undergrove.pdf)
-* [Download latest CAD file](https://downgit.github.io/#/home?url=https://github.com/growdigital/undergrove/blob/main/undergrove.dxf)
-* [Satellite image](https://github.com/growdigital/undergrove/raw/main/satellite.jpg)
-* [GitHub repository](https://github.com/growdigital/undergrove)
+* [Download latest PDF](https://codeberg.org/natureworks/undergrove/raw/main/undergrove.pdf)
+* [Download latest CAD file](https://codeberg.org/natureworks/undergrove/src/branch/main/undergrove.dxf)
+* [Satellite image](https://codeberg.org/natureworks/undergrove/raw/main/satellite.jpg)
+* [Codeberg repository](https://codeberg.org/natureworks/undergrove)
 
 This page online: <https://grwd.uk/undergrove>

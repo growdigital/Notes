@@ -2,6 +2,11 @@
 
 [Home](https://grwd.uk/bedw/) • [Schedule](https://grwd.uk/bedw/schedule) • [Notes](https://grwd.uk/bedw/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/bedw) • [Plants↗](https://bit.ly/bedw-plants)
 
+## Update idea - Mon 15 May 2023
+
+
+
+
 ## Update plan - Tue 9 May 2023
 
 [![Section of garden CAD plan for Pond Bed](https://res.cloudinary.com/growdigital/image/upload/w_420/v1683626477/bedw/bedw-pondbed-230509.jpg)](https://codeberg.org/natureworks/bedw/src/branch/master/bedw-pondbed.pdf)  
