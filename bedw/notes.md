@@ -4,7 +4,15 @@
 
 ## Update idea - Mon 15 May 2023
 
+The idea is a millstone fountain as the focal point for the Pond Bed.
 
+![Rather sketchy sketch of a millstone fountain](https://res.cloudinary.com/growdigital/image/upload/w_420/v1684155594/bedw/sketch-millstone-230515.jpg)
+
+![Millstone fountain](https://res.cloudinary.com/growdigital/image/upload/w_420/v1684155107/bedw/millstone-fountain.jpg)
+
+I noticed a millstone by the track, might be reusable as a fountain. And then surround it with the best looking stones from the felin ruins and any excavation. This would also provide a link with to the gabions, with the stones seeming to flow from the gabion and beneath the millstone. Can also create circular shape around the back of the fountain, and echo this in the woodland path that comes down from the bank.
+
+![Milstone by parked car](https://res.cloudinary.com/growdigital/image/upload/w_420/v1684155423/bedw/millstone-on-track.jpg)
 
 
 ## Update plan - Tue 9 May 2023
