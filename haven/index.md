@@ -2,13 +2,13 @@
 
 [Home](https://grwd.uk/haven/) • [Schedule](https://grwd.uk/haven/schedule) • [Manage](https://grwd.uk/haven/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/haven) • [Plants↗](https://bit.ly/haven-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![Photo of modern UK city backyard](https://res.cloudinary.com/growdigital/image/upload/w_320/v1685972421/haven/backyard-230530.jpg)
 
-Description of the site.
+Modern terraced house in East London. Small backyard is northeast facing, backing on to neighbours; front garden southwest facing.
 
 ## Aim
 
-Aims of the project.
+A wildlife haven in a city location, a sense of green space, a source of edible plants.
 
 ### [Download latest PDF](https://codeberg.org/natureworks/haven/raw/branch/main/haven.pdf)
 
