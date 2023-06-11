@@ -17,7 +17,7 @@
 
 ### Plants
 
-See [bit.ly/madhouse-plants](https://bit.ly/madhouse-plants) for list
+See [bit.ly/madhouse-plants](https://bit.ly/madhouse-plants) for list: Medlar, Crabapple 'Sentinel', Aronia, Tayberry
 
 ### Features 
 
