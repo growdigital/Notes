@@ -1,6 +1,6 @@
 # Madhouse notes 📝
 
-[Home](https://grwd.uk/madhouse/) • [Schedule](https://grwd.uk/madhouse/schedule) • [Manage](https://grwd.uk/madhouse/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/madhouse) • [Plants↗](https://bit.ly/madhouse-plants)
+[Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/madhouse) • [Plants↗](https://bit.ly/madhouse-plants)
 
 ![Idyllic photo of pots in new bed by wall](https://res.cloudinary.com/growdigital/image/upload/w_320/v1686499918/madhouse/east-bed-230609.jpg)
 
