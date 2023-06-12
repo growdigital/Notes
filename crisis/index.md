@@ -2,41 +2,28 @@
 
 [Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![3 rows of wooden curved benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1686570121/crisis/benches-roy-wilt.jpg)
 
-**This is a crisis file for my client notes**.
-
-Delete 👉🏾
-1. Search & replace `crisis` in these files
-2. Copy & edit `The Crisis Garden` project directory
-3. Create Codeberg repository (copy `crisis` repo)
-4. Create Google Sheets spreadsheet, replace note text, create bit.ly link
-5. Create Pinterest Board
-6. Make project folder in Cloudinary
-7. Make video playlist in YouTube & bit.ly link
-
-* The Crisis Garden project
-* Codeberg
-* Notes
-* Google Sheets
-* Pinterest
-* Cloudinary
-
-Delete to here 👈🏾
-
-Description of the site.
+Show garden
 
 ## Aim
 
-Aims of the project.
+The working title is 'The Crisis Garden' and it's focussed on addressing the nature and climate emergency. 
+
+The design incorporates native plants, edible perennials and integral wildlife habitat, all using recycled and/or natural materials.
+
+At the heart of the design is a small amphitheatre for public discussion (community assemblies)
 
 ### [Download latest PDF](https://codeberg.org/natureworks/crisis/raw/branch/main/crisis.pdf)
 
 ## Features
 
-* Wildlife pond
-* “Coffee & Cocktails” seating areas
-* Rainwater harvesting
+* Amphitheatre for community assemblies
+* Native plants
+* Wildlife habitat
+* Recycled self-binding gravel paths
+* Layered edible perennials
+* Water management
 
 ## Videos
 
