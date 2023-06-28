@@ -27,7 +27,7 @@ At the heart of the design is a small amphitheatre for public discussion (commun
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)](https://bit.ly/crisis-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1687955811/crisis/crisis-screenshot.jpg)](https://bit.ly/crisis-playlist)
 
 [The Crisis Garden playlist](https://bit.ly/crisis-playlist)
 
