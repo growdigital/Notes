@@ -1,6 +1,6 @@
 # The Crisis Garden home 🏡
 
-[Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants)
+[Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants) • [Notes](https://grwd.uk/crisis/notes)
 
 ![3 rows of wooden curved benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1686570121/crisis/benches-roy-wilt.jpg)
 

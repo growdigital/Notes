@@ -1,6 +1,6 @@
 # The Crisis Garden schedule 📆
 
-[Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants)
+[Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants) • [Notes](https://grwd.uk/crisis/notes)
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 

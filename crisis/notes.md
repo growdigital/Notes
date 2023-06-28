@@ -1,7 +1,10 @@
 # The Crisis Garden notes 📝
 
-[Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants)
+[Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants) • [Notes](https://grwd.uk/crisis/notes)
 
+## Hope Garden?
+
+Better name than The Crisis Garden?
 
 ## Public access
 
@@ -16,7 +19,7 @@
 
 > All Gardens are required to submit a Client’s Brief with their application. The Client’s Brief will be considered during both the application and judging processes and may be changed up to three weeks before the Show opens. The form will be sent to designers to review 6 weeks prior to the show with a return date of 3 weeks prior to the show. 
 
-## RHS info
+## RHS Chelsea info
 
 * [Garden applications](https://www.rhs.org.uk/shows-events/exhibit-at-a-show/garden-applications)
 * [Garden Factsheet](https://view.publitas.com/rhs-2/cfs24-gardens-factsheet)
@@ -35,3 +38,4 @@
 * [Centrepoint Garden](https://www.shootgardening.com/articles/centrepoint-garden)
 * [Myeloma UK](https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show/Gardens/2023/myeloma-uk-garden-a-life-worth-living)
 * [Horatio’s Garden](https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show/Gardens/2023/horatios-garden)
+* [A Letter from a Million Years Past](https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show/Gardens/2023/letter-from-million-years-past)
