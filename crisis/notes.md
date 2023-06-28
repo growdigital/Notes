@@ -19,6 +19,18 @@ Better name than The Crisis Garden?
 
 > All Gardens are required to submit a Client’s Brief with their application. The Client’s Brief will be considered during both the application and judging processes and may be changed up to three weeks before the Show opens. The form will be sent to designers to review 6 weeks prior to the show with a return date of 3 weeks prior to the show. 
 
+## RHS Hampton Court info
+
+> Show Gardens are offered in three different sizes: Option A: 100sqm and larger; Option B: 50–99sqm; and Option C: 24–49sqm. With an open theme, Show Gardens allow talented designers to turn unique artistic plans into a feast for the eyes.
+ 
+* [Application Form](https://rhsforms.formstack.com/forms/hc24gardens)
+* [Factsheet](https://view.publitas.com/rhs-2/hc24-gardens-factsheet/page/1)
+* [Why exhibit?](https://view.publitas.com/rhs-2/hc24-gardens-why-exhibit/page/1)
+* [Sign up to the mailing list](https://emails.rhs.org.uk/p/7DBX-1GC/exhibitorhampton)
+* [Top tips for designers](https://www.rhs.org.uk/shows-events/pdf/top-tips-for-designers.pdf) (898 kB pdf)
+
+[Garden applications](https://www.rhs.org.uk/shows-events/exhibit-at-a-show/garden-applications)
+
 ## RHS Chelsea info
 
 * [Garden applications](https://www.rhs.org.uk/shows-events/exhibit-at-a-show/garden-applications)
