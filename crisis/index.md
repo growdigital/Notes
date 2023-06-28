@@ -4,11 +4,11 @@
 
 ![3 rows of wooden curved benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1686570121/crisis/benches-roy-wilt.jpg)
 
-Show garden
+Working title for show garden at major UK flower festival.
 
 ## Aim
 
-The working title is 'The Crisis Garden' and it's focussed on addressing the nature and climate emergency. 
+A garden addressing the nature and climate emergency. 
 
 The design incorporates native plants, edible perennials and integral wildlife habitat, all using recycled and/or natural materials.
 
