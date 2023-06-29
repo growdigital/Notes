@@ -2,9 +2,11 @@
 
 [Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants) • [Notes](https://grwd.uk/crisis/notes)
 
+* Drinking fountain!
+
 ## Hope Garden?
 
-Better name than The Crisis Garden?
+Better name than The Crisis Garden? Other alternatives?
 
 ## Public access
 
