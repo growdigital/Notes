@@ -6,7 +6,7 @@
 
 ## Hope Garden?
 
-Better name than The Crisis Garden? Other alternatives?
+Better name than The Crisis Garden? Other alternatives? Forum, talk, discuss, air.
 
 ## Public access
 
