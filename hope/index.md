@@ -27,7 +27,7 @@ At the heart of the design is a small amphitheatre for public discussion (commun
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1687955811/hope/hope-screenshot.jpg)](https://bit.ly/hope-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1687955811/hope/crisis-screenshot.jpg)](https://bit.ly/hope-playlist)
 
 [The Hope Garden playlist](https://bit.ly/hope-playlist)
 
