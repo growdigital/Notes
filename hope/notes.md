@@ -1,12 +1,38 @@
-# The Crisis Garden notes 📝
+# The Hop Garden notes 📝
 
-[Home](https://grwd.uk/crisis/) • [Schedule](https://grwd.uk/crisis/schedule) • [Manage](https://grwd.uk/crisis/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/crisis) • [Plants↗](https://bit.ly/crisis-plants) • [Notes](https://grwd.uk/crisis/notes)
+[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
+
+## Hope as a working name
+
+Had a chat with Beth, I think Hope is a better working name than Crisis.
+
+---
+
+* Straw bale size 460mm x 355mm x 1040mm [Straw Works bale standard](https://strawworks.co.uk/resources/bale-standard/)
+* Breakout rooms
+* Boundary plants for lawn area
+* Sign: please sit on the grass
+* Boundary path
+* Native grasses on different levels
+
+## Inspiration
+
+* Lucy Hutchings, Gardeners World Live 2023 show garden [instagram.com/shegrowsveg](https://instagram.com/shegrowsveg)
+* [PoliNations](https://unboxed2022.uk/polinations), part of Unboxed 2022 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bU4moAoFMVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Ideas
 
 * Drinking fountain!
 
-## Hope Garden?
+## Name?
 
-Better name than The Crisis Garden? Other alternatives? Forum, talk, discuss, air.
+Better name than The Crisis Garden? Other alternatives? Forum, talk, discuss, air. No-one likes a moaner!
+
+* Hope
+* Doombusters! cf Doomster
+
 
 ## Public access
 
