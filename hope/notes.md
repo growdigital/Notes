@@ -2,6 +2,14 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes 230710
+
+* Hope - built to be modular, built to be moved
+* Grow it in situ, test it out first
+* Guest speakers - JSO, Animal Rebellion
+* Slate as building material, heritage
+* Source of 'waste' material - brick, concrete, ceramic, sand, gravel?
+
 ## Denise chat 230705
 
 * Possible Senedd backing? Contact Jane Davidson
