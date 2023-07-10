@@ -12,7 +12,7 @@ A garden addressing the nature and climate emergency.
 
 The design incorporates native plants, edible perennials and integral wildlife habitat, all using recycled and/or natural materials.
 
-At the heart of the design is a small amphitheatre for public discussion (community assemblies)
+At the heart of the design is a small amphitheatre for public discussion (community assemblies).
 
 ### [Download latest PDF](https://codeberg.org/natureworks/hope/raw/branch/main/hope.pdf)
 

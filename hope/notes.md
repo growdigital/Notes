@@ -1,6 +1,38 @@
-# The Hop Garden notes 📝
+# The Hope Garden notes 📝
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
+
+## Denise chat 230705
+
+* Possible Senedd backing? Contact Jane Davidson
+* Constraint on space 10m x 15m
+* Space for furnishings to move around, to accommodate diverse needs (Radical Inclusion pillar)
+* Lightweight robust movable seating. Can have it as amphitheatre, then move them to individual breakout groups:<br>![Sketch of movable seats](https://res.cloudinary.com/growdigital/image/upload/w_320/v1688996168/hope/movable-seats-230705.jpg)
+* Move according to the needs of everyone being able to have clear lines of vision and hearing
+* 3 phases of the assembly
+  1. Intro,
+  2. Breakout discussions / decision prioritisation
+  3. Plenary - gather ideas & suggestions, then prioritise for sharing
+* Outputs could be quantifiable outputs, measured on graph (eg Climate Anxiety Scale)
+* Outputs if they are decisions and recommendations are then shared at or after the process.
+* [Trust The People](https://trustthepeople.earth/) running free online Community Assembly course in September
+* XR [Choosing Our Future With Community Assemblies](https://rebeltoolkit.extinctionrebellion.uk/books/choosing-our-future-with-community-assemblies)
+* Infrastructure
+  * John Little approach of varied growing medium, build in complexity of habitat.
+  * Infrastructure needs consideration of assembly and dis-assembly and moving to another location after RHS.
+* Liaising with speakers eg
+  * Dave Goulson - Bumble Bee Conservation Trust
+  * Cleeve West – homeless garden creator
+* Need support with facilitators and to promote training to get practice in regularly in advance
+* The XR Gardeners will be pulling together a list of experts for local groups to draw on
+
+### Jake input
+
+* Wildlife and forest garden
+  * Creating habitat for wildlife, by building in structural complexity (ie nooks and crannies!) into the garden infrastructure (paths, hedging, growing material, seating, pillars etc). #
+  * Diversity of native plants and wild flowers, to support larval stages of inverterbrates, as insects are the backbone of the ecosystem. 
+  * Growing perennial edible crops that are resilient to climate changes, which also highlights the need for agriculture to change (ie toward agroforestry, away from energy intensive farming)
+* Possible topics:  gardening in a climate crisis, industrialised horticulture, peat compost, native plants, perennial crops, community gardens, mass extinctions, resilient gardens, community gardens...
 
 ## Hope as a working name
 
