@@ -14,7 +14,6 @@ _Rough sketch to show layout_
 ![Plan of movable benches in amphitheatre](https://res.cloudinary.com/growdigital/image/upload/v1689077853/hope/benches-sketch-230712.jpg)  
 _Movable benches in assembly area, to show 2 different modes_
 
-
 ## Notes 230710
 
 * Hope - built to be modular, built to be moved

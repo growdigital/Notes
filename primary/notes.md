@@ -2,6 +2,12 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Gary & Jake start excavating- Mon 10 Jul 2023
+
+![Pile of turf next to areas deturfed and slightly excavated](https://res.cloudinary.com/growdigital/image/upload/v1689010719/primary/entrance-bank-turf-230710.jpg)
+
+Couple of weeks ago we deturfed, now we're digging down 10cm through the clay and chippings, excavating for the hardcore that will form the basis of the seating area and labyrinth.
+
 ## Tumbling Playground - Mon 5 Jun 2023
 
 > Tumbling Bay Playground, play equipment in a natural landscape

@@ -2,13 +2,13 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
-![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689077853/hope/garden-sketch-230711.jpg)  
+![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_360/v1689077853/hope/garden-sketch-230711.jpg)  
 
-Working title for show garden at major UK flower festival.
+Wildlife forest garden with Community Assembly at its heart 💚
 
 ## Aim
 
-![Plan of movable benches in amphitheatre](https://res.cloudinary.com/growdigital/image/upload/v1689077853/hope/benches-sketch-230712.jpg)  
+![Plan of movable benches in amphitheatre](https://res.cloudinary.com/growdigital/image/upload/w_360/v1689077853/hope/benches-sketch-230712.jpg)  
 _Movable benches in assembly area, to show 2 different modes_
 
 A garden addressing the nature and climate emergency in 2 parts
