@@ -2,17 +2,19 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
-![3 rows of wooden curved benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1686570121/hope/benches-roy-wilt.jpg)
+![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689077853/hope/garden-sketch-230711.jpg)  
 
 Working title for show garden at major UK flower festival.
 
 ## Aim
 
-A garden addressing the nature and climate emergency. 
+![Plan of movable benches in amphitheatre](https://res.cloudinary.com/growdigital/image/upload/v1689077853/hope/benches-sketch-230712.jpg)  
+_Movable benches in assembly area, to show 2 different modes_
 
-The design incorporates native plants, edible perennials and integral wildlife habitat, all using recycled and/or natural materials.
+A garden addressing the nature and climate emergency in 2 parts
 
-At the heart of the design is a small amphitheatre for public discussion (community assemblies).
+1. Showcasing Community Assemblies with an amphitheatre area for public discussions on the Emergency
+2. Best practises for growing resilient, edible ecosystems with native plants, edible perennials and integral wildlife habitat, using recycled or natural materials
 
 ### [Download latest PDF](https://codeberg.org/natureworks/hope/raw/branch/main/hope.pdf)
 

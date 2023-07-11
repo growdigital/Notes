@@ -2,6 +2,19 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes 230711
+
+![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689077853/hope/garden-sketch-230711.jpg)  
+_Rough sketch to show layout_
+
+* Use single page scroll website, for when fundraising starts. [Hugo scroll](https://themes.gohugo.io/themes/hugo-scroll/) is the theme, [demo here](https://zjedi.github.io/hugo-scroll/)
+* David Hunter, woodworker I’d like to use for benches [thecoppiceplot.com](https://thecoppiceplot.com/about/)
+* Open source the plans and process
+
+![Plan of movable benches in amphitheatre](https://res.cloudinary.com/growdigital/image/upload/v1689077853/hope/benches-sketch-230712.jpg)  
+_Movable benches in assembly area, to show 2 different modes_
+
+
 ## Notes 230710
 
 * Hope - built to be modular, built to be moved
