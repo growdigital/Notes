@@ -6,7 +6,8 @@
 
 ![Pile of turf next to areas deturfed and slightly excavated](https://res.cloudinary.com/growdigital/image/upload/v1689010719/primary/entrance-bank-turf-230710.jpg)
 
-Couple of weeks ago we deturfed, now we're digging down 10cm through the clay and chippings, excavating for the hardcore that will form the basis of the seating area and labyrinth.
+* Couple of weeks ago we deturfed, now we're digging down 10cm through the clay and chippings, excavating for the hardcore that will form the basis of the seating area and labyrinth.
+* Use existing fence as basis for dead hedge
 
 ## Tumbling Playground - Mon 5 Jun 2023
 

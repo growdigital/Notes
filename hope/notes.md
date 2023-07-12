@@ -10,6 +10,8 @@ _Rough sketch to show layout_
 * Use single page scroll website, for when fundraising starts. [Hugo scroll](https://themes.gohugo.io/themes/hugo-scroll/) is the theme, [demo here](https://zjedi.github.io/hugo-scroll/)
 * David Hunter, woodworker I’d like to use for benches [thecoppiceplot.com](https://thecoppiceplot.com/about/)
 * Open source the plans and process
+* Bilingual, backed by Welsh govt?
+* Will email Jane Davidson, one of the architects of the [Future Generations Act](https://www.futuregenerations.wales/about-us/future-generations-act/) may well be interested in the project, as she apparently supports Community Assemblies.
 
 ![Plan of movable benches in amphitheatre](https://res.cloudinary.com/growdigital/image/upload/v1689077853/hope/benches-sketch-230712.jpg)  
 _Movable benches in assembly area, to show 2 different modes_
