@@ -7,6 +7,8 @@
 ![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689077853/hope/garden-sketch-230711.jpg)  
 _Rough sketch to show layout_
 
+* Invite **local** schools to an assembly
+* Actually, use events theme for website, keep aingle page at beginning, then when get bookongs, switch on achedule and speakers/sessions
 * Use single page scroll website, for when fundraising starts. [Hugo scroll](https://themes.gohugo.io/themes/hugo-scroll/) is the theme, [demo here](https://zjedi.github.io/hugo-scroll/)
 * David Hunter, woodworker I’d like to use for benches [thecoppiceplot.com](https://thecoppiceplot.com/about/)
 * Open source the plans and process
