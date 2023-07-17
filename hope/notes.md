@@ -2,6 +2,27 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes 230717
+
+> The questions and framing of the questions is crucial to getting a successful outcome. If eg 2.5 hours per assembly, the rule of thumb is equal division of time between INTRO phase / DELIBERATION phase and OUTPUT / COLLATION  phase.
+
+Denise XR Gardener. So, 2½ hour assembly would have 50 minutes for intro, deliberation and collation phases.
+
+## Notes 230716
+
+[Footpath widths](https://www.natureworks.org.uk/footpath-widths/)
+
+* 0.6m — 1 adult only
+* 0.9m — 2 adults just
+* 0.8m — 1 pram/wheelchair only
+* 1.15m — pram/wheelchair + child
+* 1.2m — 2 adults comfortably
+* 1.7m — 2 prams/wheelchairs comfortably
+
+## Notes 230712
+
+* Brilliant meeting between Lindy, Audley and Jake, about fundraising and organisation structure. Minutes to follow.
+
 ## Notes 230711
 
 ![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689077853/hope/garden-sketch-230711.jpg)  
