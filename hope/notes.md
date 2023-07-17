@@ -8,6 +8,9 @@
 _Autumn plants Hydref illustration_
 
 * [Ffion Gwyn](https://www.ffiongwyn.co.uk/collections/frontpage), artist using Welsh wildlife names. Appeared on Countryfile
+* Public access RHS Hampton Court:
+> “For gardens over 80m2, walk-through access is possible and should be specified on the application form (one-way access
+requires a minimum path width of 1.5m; two-way access requires a minimum path width of 2m)
 
 > The questions and framing of the questions is crucial to getting a successful outcome. If eg 2.5 hours per assembly, the rule of thumb is equal division of time between INTRO phase / DELIBERATION phase and OUTPUT / COLLATION  phase.
 
