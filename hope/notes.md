@@ -4,6 +4,11 @@
 
 ## Notes 230717
 
+![Autumn plants illustration](https://res.cloudinary.com/growdigital/image/upload/w_280/v1689591607/hope/ffion-gwyn-hydref.jpg)  
+_Autumn plants Hydref illustration_
+
+* [Ffion Gwyn](https://www.ffiongwyn.co.uk/collections/frontpage), artist using Welsh wildlife names. Appeared on Countryfile
+
 > The questions and framing of the questions is crucial to getting a successful outcome. If eg 2.5 hours per assembly, the rule of thumb is equal division of time between INTRO phase / DELIBERATION phase and OUTPUT / COLLATION  phase.
 
 Denise XR Gardener. So, 2½ hour assembly would have 50 minutes for intro, deliberation and collation phases.
@@ -25,7 +30,7 @@ Denise XR Gardener. So, 2½ hour assembly would have 50 minutes for intro, delib
 
 ## Notes 230711
 
-![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689077853/hope/garden-sketch-230711.jpg)  
+![Sketch of garden](hhttps://res.cloudinary.com/growdigital/image/upload/w_320/v1689591503/hope/cad-sketch-230717.png)  
 _Rough sketch to show layout_
 
 * Invite **local** schools to an assembly
