@@ -18,6 +18,9 @@ A garden addressing the nature and climate emergency in 2 parts
 
 ### [Download latest PDF](https://codeberg.org/natureworks/hope/raw/branch/main/hope.pdf)
 
+[CAD plan sketch of assembly area](https://res.cloudinary.com/growdigital/image/upload/w_420/v1689591503/hope/cad-sketch-230717.png)  
+_Latest CAD sketch of assembly area_
+
 ## Features
 
 * Amphitheatre for community assemblies
