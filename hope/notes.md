@@ -27,6 +27,15 @@ _Clockwise from top left: Craf y Geifr, Peradyl Garwm, Penigan y Forwyn, Pani Cy
 
 A profusion of very orange Welsh Poppies, a homage to JSO!
 
+### XR Waverley & Borders newsletter
+
+via Beth
+
+> It’s really important to have hope. 
+> Today it might feel as if we are losing the race to save ourselves. From every angle we are beset by disasters which we know are caused by climate catastrophes because of human activity. 
+> Hope is a natural resource and we all have it. Sometimes it’s hard to find. Sometimes it’s overwhelmed by the negative things we see or experience. But it’s there, waiting for us to use it. Hope, when everyone taps into it and uses it positively, is a more powerful resource than oil and gas put together. It’s a more powerful resource that cynicism and greed. Hope drives us to action and when those two combine, great things can happen! 
+Hope is what keeps XR rebels going. We know that by taking action against the government, fossil fuel industries and their financiers we are doing the right thing. 
+
 ## Notes 230717
 
 ![Autumn plants illustration](https://res.cloudinary.com/growdigital/image/upload/w_280/v1689591607/hope/ffion-gwyn-hydref.jpg)  
