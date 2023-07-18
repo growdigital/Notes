@@ -27,7 +27,17 @@ _Clockwise from top left: Craf y Geifr, Peradyl Garwm, Penigan y Forwyn, Pani Cy
   * [Welsh Academy Dictionary](https://geiriaduracademi.org/)
 * [Trust The People](https://www.trustthepeople.earth/)’s [Community Assembly Manual](https://drive.google.com/file/d/1tili_1ggvpFFqFVKuFY1ikxxp7HU43o9/view )
 * Hinge brackets to lock benches to ground level brackets. Pics to follow.
-* Ivy wall, grown on relatively lightweight wire, portable. Ferns? For the shady back.
+* Woodland path, green wall. Ivy wall, grown on relatively lightweight wire, portable. Ferns? For the shady back.
+* Imperfection at the centre, like a Persian rug
+* Promote diversity of species, cultures & languages
+* More plant ideas
+  * Honeysuckle (flowers July)
+  * Hawthorn
+  * Hazel (cultivar? nuts forming in July)
+  * Holly (pruned?)
+  * Valerian
+  * Pennywort
+* “A designed space to foster equal communication”
 
 ![Ivy wall](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689717367/hope/ivy-wall-clifton.jpg)
 
