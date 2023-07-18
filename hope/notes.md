@@ -19,6 +19,11 @@ _Clockwise from top left: Craf y Geifr, Peradyl Garwm, Penigan y Forwyn, Pani Cy
   * Welsh Poppy
   * Foxglove
   * Red Valerian
+* Welsh names for plants
+  * [Botanic Garden Wales list](https://res.cloudinary.com/growdigital/image/upload/v1689687903/hope/botanic-garden-wales-plant-names.pdf)
+  * [Wicipedia Cymraeg](https://cy.wikipedia.org/wiki/Wicipedia_Cymraeg)
+  * [Y Bywiadur](https://www.llennatur.cymru/Y-Bywiadur)
+  * [Plant-Lore, Welsh plant names](https://www.plant-lore.com/plantofthemonth/welsh-plant-names/)
 
 A profusion of very orange Welsh Poppies, a homage to JSO!
 
