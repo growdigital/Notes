@@ -2,19 +2,45 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes 230718
+
+![Sketch of pipe in the ground](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689682685/hope/rigid-plastic-pipe-self-binding-gravel-sketch.jpg)
+
+Had a good talk with Gary, with whom I'm creating the primary school garden. He suggested a technique for creating a shape in self-binding gravel. Bury rigid yet flexible drainage pipe into the gravel, tamp it down, then lift out the pipe and replace with appropriate aggregate. In the case of the school garden, this is a labyrinth. For the Hope Garden, this could be markers for the moving benches.
+
+
+![Montage of wild flowers](https://res.cloudinary.com/growdigital/image/upload/w_420/v1689686588/hope/collection-plants-230718.jpg)  
+_Clockwise from top left: Craf y Geifr, Peradyl Garwm, Penigan y Forwyn, Pani Cymreig, Bysedd y Cŵn, Triagog Coch_
+
+* Flowers for Denise XR Gardener
+  * Ramsons
+  * Rough Hawkbit
+  * Maiden Pink
+  * Welsh Poppy
+  * Foxglove
+  * Red Valerian
+
+A profusion of very orange Welsh Poppies, a homage to JSO!
+
 ## Notes 230717
 
 ![Autumn plants illustration](https://res.cloudinary.com/growdigital/image/upload/w_280/v1689591607/hope/ffion-gwyn-hydref.jpg)  
 _Autumn plants Hydref illustration_
 
+* [The People v Climate Change](https://www.bbc.co.uk/programmes/p097sbzc)
+* Four possible sites
+  1. Naturewise Community Forest Garden, [Cardigan](https://duckduckgo.com/?t=lm&q=aberteifi&ia=web&iaxm=maps&strict_bbox=0&bbox=52.055869154726594%2C-4.346676145782453%2C52.02633084566017%2C-4.272303854217512) - still waiting to hear back from Claire Turner. Ideally sited, next to the police station within walking distance of Cardigan
+  2. Yr Ardd community garden, [Llandysul](https://duckduckgo.com/?t=lm&q=llandysul&ia=web&iaxm=about) - don't know much about the project, think it's in the town, I know one of the directors vaguely, strong Welsh links
+  3. Meads Project, [Milford Haven](https://duckduckgo.com/?t=lm&q=Meads+Ct&ia=web&iaxm=maps&strict_bbox=0&bbox=51.73131000132282%2C-5.069970135626676%2C51.70657610132282%2C-5.008139164373318&metatoken=1) - early co-design stages. Bit of a trek (1 hour) for me but really interesting project using community assemblies
+  4. Abergwili, Carmarthen - via Audley. [Parc yr Esgob](https://parcyresgob.org.uk/)?
 * [Ffion Gwyn](https://www.ffiongwyn.co.uk/collections/frontpage), artist using Welsh wildlife names. Appeared on Countryfile
 * Public access RHS Hampton Court:
 > “For gardens over 80m2, walk-through access is possible and should be specified on the application form (one-way access
 requires a minimum path width of 1.5m; two-way access requires a minimum path width of 2m)
 
-> The questions and framing of the questions is crucial to getting a successful outcome. If eg 2.5 hours per assembly, the rule of thumb is equal division of time between INTRO phase / DELIBERATION phase and OUTPUT / COLLATION  phase.
+> The questions and framing of the questions is crucial to getting a successful outcome. If eg 2.5 hours per assembly, the rule of thumb is equal division of time between INTRO phase / DELIBERATION phase and OUTPUT / COLLATION  phase.<br>_Denise XR Gardener_ 
 
-Denise XR Gardener. So, 2½ hour assembly would have 50 minutes for intro, deliberation and collation phases.
+So, 2½ hour assembly would have 50 minutes for intro, deliberation and collation phases.
 
 ## Notes 230716
 
