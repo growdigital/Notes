@@ -30,7 +30,8 @@ Description of the site.
 
 Aims of the project.
 
-### [Download latest PDF](https://codeberg.org/natureworks/template/raw/branch/main/template.pdf)
+### [Download latest PDF](https://codeberg.org/natureworks/template/src/branch/main/template.pdf)
+
 
 ## Features
 
@@ -46,9 +47,9 @@ Aims of the project.
 
 ## Files
 
-* [Download latest PDF](https://codeberg.org/natureworks/template/raw/branch/main/template.pdf)
+* [Download latest PDF](https://codeberg.org/natureworks/template/src/branch/main/template.pdf)
 * [Download latest CAD file](https://codeberg.org/natureworks/template/src/branch/main/template.dxf)
-* [Satellite image](https://codeberg.org/natureworks/template/raw/branch/main/satellite.jpg)
+* [Satellite image](https://codeberg.org/natureworks/template/src/branch/main/satellite.jpg)
 * [Codeberg repository](https://codeberg.org/natureworks/template)
 
 This page online: <https://grwd.uk/template>
