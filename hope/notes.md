@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes 230719
+
+* Mailing list, alternative to Substack/MailChimp?
+  * [listmonk](https://listmonk.app/), free, self-hosted
+  * [PikaPods](https://www.pikapods.com/apps) hosting $2 per month
+  * [Railway](https://railway.app/pricing) hosting $5 per month
+
 ## Notes 230718
 
 ![Sketch of pipe in the ground](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689682685/hope/rigid-plastic-pipe-self-binding-gravel-sketch.jpg)
