@@ -2,6 +2,18 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes 230722
+
+![Yellow dandelion flower](https://res.cloudinary.com/growdigital/image/upload/w_320/v1552572926/dandelion-FBFAEA50.jpg)
+
+* Plant a big fat Dandelion front and centre. Edible, native wild flower, great for pollinators.
+* Bugle, Yarrow, Meadowsweet. I will start adding these to [spreadsheet](https://bit.ly/hope-plants)
+* Cheap, repurposed agricultural water trough as central water feature?
+
+![Galvanised water trough](https://res.cloudinary.com/growdigital/image/upload/w_320/v1690023466/galvanised-water-trough.jpg)
+
+* I spoke briefly with Natalie from RHS last week, she said 'size not an issue' at Hampton Court, so more leeway on width than 10m
+
 ## Notes 230719
 
 * Mailing list, alternative to Substack/MailChimp?

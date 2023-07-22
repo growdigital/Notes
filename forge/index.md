@@ -10,7 +10,7 @@ Description of the site.
 
 Aims of the project.
 
-### [Download latest PDF](https://codeberg.org/natureworks/forge/src/branch/main/forge.pdf)
+### [Download latest PDF](https://codeberg.org/natureworks/forge/raw/branch/main/forge.pdf)
 
 ## Features
 
@@ -26,7 +26,7 @@ Aims of the project.
 
 ## Files
 
-* [Download latest PDF](https://codeberg.org/natureworks/forge/src/branch/main/forge.pdf)
+* [Download latest PDF](https://codeberg.org/natureworks/forge/raw/branch/main/forge.pdf)
 * [Download latest CAD file](https://codeberg.org/natureworks/forge/src/branch/main/forge.dxf)
 * [Satellite image](https://codeberg.org/natureworks/forge/src/branch/main/satellite.jpg)
 * [Codeberg repository](https://codeberg.org/natureworks/forge)
