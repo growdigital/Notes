@@ -8,7 +8,7 @@
 
 * Plant a big fat Dandelion front and centre. Edible, native wild flower, great for pollinators.
 * Bugle, Yarrow, Meadowsweet. I will start adding these to [spreadsheet](https://bit.ly/hope-plants)
-* Cheap, repurposed agricultural water trough as central water feature?
+* Cheap, repurposed agricultural water trough as central water feature? Idea is to [open source](https://en.wikipedia.org/wiki/Open-design_movement) plans and costings, and make garden affordable for other community projects.
 
 ![Galvanised water trough](https://res.cloudinary.com/growdigital/image/upload/w_320/v1690023466/galvanised-water-trough.jpg)
 
