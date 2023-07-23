@@ -2,6 +2,14 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes 230723
+
+> “Can gardens literally save the world? No…<br>
+Gardens can save the world by saving us. They can bring us back into contact with diversity…<br>
+Gardens as activism as surely as any art form…<br>
+Gardens that stir our senses and give us actionable faith and hope.”<br><br>
+_~ Benjamin Vogt, A New Garden Ethic pp158_
+
 ## Notes 230722
 
 ![Yellow dandelion flower](https://res.cloudinary.com/growdigital/image/upload/w_320/v1552572926/dandelion-FBFAEA50.jpg)
