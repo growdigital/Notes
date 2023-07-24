@@ -2,13 +2,24 @@
 
 [Home](https://grwd.uk/undergrove/) • [Schedule](https://grwd.uk/undergrove/schedule) • [Maintenance](https://grwd.uk/undergrove/maintenance) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/undergrove) • [Plants↗](https://bit.ly/undergrove-plants)
 
+## Notes Mon 24 Jul 2023
+
+* 3x Yarrow 'Cerise Queen'
+* 3x Sedum 'Starburst'
+* 1x Cornus 'Baton Rouge'
+* 1x Viburnum opulus 'Compactum'
+* 1x Geranium 'Rozeanne'
+* 3x Welsh Onion
+
+Bought & planted
+
 ## Todo Thu 4 May 2023
 
-- [ ] Jake: shore up edge of path with clay
-- [ ] Jake: create cover for top of bee logs with old roof slates
+- [x] Jake: shore up edge of path with clay
+- [x] Jake: create cover for top of bee logs with old roof slates
 - [ ] Jake: clear sand-based anti-slip paint on steps
-- [ ] Jake: document planting. Videos detailing plants, [part 1](https://youtu.be/BBoqC7VA9jY) & [part 2](https://youtu.be/sHeEoYs1viU)
-- [ ] Jake: replace pond with stone pile around log, steel bowl on top 
+- [x] Jake: document planting. Videos detailing plants, [part 1](https://youtu.be/BBoqC7VA9jY) & [part 2](https://youtu.be/sHeEoYs1viU)
+- [x] Jake: replace pond with stone pile around log, steel bowl on top 
 
 ## Update Thu 4 May 2023
 
