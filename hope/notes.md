@@ -2,6 +2,14 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Notes Mon 24 Jul 2023
+
+* Visited Andrea at [Yr Ardd](https://www.facebook.com/yrardd1/), as possible garden
+* Liz from Yr Ardd (administrator) was there, plus Martin(?) from Tir Coed and Malcolm Berry, [The Dreaded Gardener](https://www.facebook.com/people/The-Dreaded-Gardener/100037539439786/)
+* Possibly interested in amphitheatre area, then plants dispersed
+* Also, backup plans for different stages?
+* Noticeboard blackboard, what's happening, plus feedback board, have your say until the words fill up
+
 ## Notes 230723
 
 > “Can gardens literally save the world? No…<br>
