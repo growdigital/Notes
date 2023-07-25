@@ -9,5 +9,7 @@
 * Steph Hafferty, Lampeter [nodighome.com](https://nodighome.com)
 * Kim Stoddart, Llandysul, Green Rocket Courses [greenrocketcourses.com](https://greenrocketcourses.com/)
 * Yr Ardd, Llandysul, courses at community garden, some run by [Tir Coed](https://tircoed.org.uk/yr-ardd-growing)
+* [Botanic Garden Wales](https://botanicgarden.wales/) -- used to run courses
+
 
 This page online: <https://grwd.uk/forge/notes>
