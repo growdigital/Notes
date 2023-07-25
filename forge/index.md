@@ -4,11 +4,15 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689767330/forge/satellite.jpg)
 
-Description of the site.
+South facing 1.4 acre long house in Ceredigion, with holiday let, polytunnel and field, bounded by 2 waterways.
 
 ## Aim
 
-Aims of the project.
+3 parts:
+
+1. Privacy, low-maintenance & successional flowering for holiday let area.
+2. Polytunnel & vegetable growing area, moving to perennial veg.
+3. Forest garden field.
 
 ### [Download latest PDF](https://codeberg.org/natureworks/forge/raw/branch/main/forge.pdf)
 
