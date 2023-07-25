@@ -10,6 +10,6 @@
 * Kim Stoddart, Llandysul, Green Rocket Courses [greenrocketcourses.com](https://greenrocketcourses.com/)
 * Yr Ardd, Llandysul, courses at community garden, some run by [Tir Coed](https://tircoed.org.uk/yr-ardd-growing)
 * [Botanic Garden Wales](https://botanicgarden.wales/) -- used to run courses
-
+* Wheeled brush cutter [Oleo-Mac DEB 518](https://www.oleo-mac.co.uk/en-gb/p/wb-51-s6-18599/) £1,000-ish
 
 This page online: <https://grwd.uk/forge/notes>
