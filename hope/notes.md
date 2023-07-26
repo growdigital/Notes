@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Tue 25 Jul 2023
+
+* Email from Trust The People 21 Jul
+  * [Community Assembly manual](https://drive.google.com/file/d/1tili_1ggvpFFqFVKuFY1ikxxp7HU43o9/view)
+  * [Community At Work organisation](https://communityatwork.com/), authors of [Facilitator's Guide to Participatory Decision-making](https://uk.bookshop.org/p/books/facilitator-s-guide-to-participatory-decision-making-sam-kaner/2570124)
+  * [Slide deck for workshop](https://docs.google.com/presentation/d/1KQLYI1-Z7vKYn68rSQOWmegaSGVR1cl82ink19A_sJ0/edit?usp=sharing)
+
 ## Notes Mon 24 Jul 2023
 
 * Visited Andrea at [Yr Ardd](https://www.facebook.com/yrardd1/), as possible garden
