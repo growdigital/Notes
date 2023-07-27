@@ -112,12 +112,6 @@ Always keep bare earth covered, with ground cover plants long term, wood chip sh
 [![PDF plan](https://res.cloudinary.com/growdigital/image/upload/w_420/v1690388940/forge/forge.png)](https://codeberg.org/natureworks/forge/raw/branch/main/forge.pdf)  
 _Click to view PDF_
 
-## Videos
-
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1690467492/forge/video-screenshot-230727.jpg)](https://bit.ly/forge-playlist)
-
-[Forge playlist](https://bit.ly/forge-playlist)
-
 ## Files
 
 * [Download latest PDF](https://codeberg.org/natureworks/forge/raw/branch/main/forge.pdf)
