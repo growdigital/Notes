@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Thu 3 Aug 2023
+
+* RHS Hampton Court applications
+  * Wave 1 deadline mid-September 2024
+  * Wave 2 deadline late-November 2025
+  * Lead time to organise assemblies November 2024 to July 2025, ie 8 months
+
 ## Tue 25 Jul 2023
 
 * Email from Trust The People 21 Jul
