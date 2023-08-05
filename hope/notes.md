@@ -2,6 +2,17 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Sat 5 Aug 2023
+
+* Ideas for assemblies
+  * peat free compost
+  * native plants 
+  * rewilding
+  * local materials
+  * rising temperatures & ecology
+  * climate justice & horticulture
+
+
 ## Thu 3 Aug 2023
 
 * RHS Hampton Court applications
