@@ -20,4 +20,10 @@ Key thing is to make a rough track to Ash trees first, fell the trees, move the 
 
 It would be good to catch up soon to discuss, as Matt has time now to do it, and the trees are arriving November, which would be great timing.
 
+## Tue 8 Aug 2023
+
+* Agroforestry `£138`
+* Farmyard `£100`  approx
+* Woodland `£240` approx
+
 This page online: [grwd.uk/syra/notes](https://grwd.uk/syra/notes)
