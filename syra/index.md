@@ -1,6 +1,6 @@
 # Syra home 🏡
 
-[Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Manage](https://grwd.uk/syra/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
+[Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Notes](https://grwd.uk/syra/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
 
 ![Cairn](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681485848/syra/beech-cairn.jpg)
 
