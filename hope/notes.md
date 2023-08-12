@@ -2,6 +2,25 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## Sat 12 Aug 2023
+
+### Ideas for covering
+
+* Canvas, telegraph poles, chestnut posts
+* Cheap, movable, replicable. Prob £600 all in.
+
+![CAD plan of assembly circle](https://res.cloudinary.com/growdigital/image/upload/w_420/v1691858763/hope/plan-view-shape-230812.png)  
+_CAD plan sketch of layout for assembly area_
+
+![People under makeshift canvas shelter](https://res.cloudinary.com/growdigital/image/upload/w_420/v1691869842/hope/bluegreencymru-canvas.jpg)  
+_BlueGreenCymru makeshift canvas shelter_
+
+![TikTok screenshot man by telegraph pole](https://res.cloudinary.com/growdigital/image/upload/w_420/v1691870201/hope/john-little-telegraph-poles-221209.jpg)  
+_John Little by [his planted telegraph pole](https://www.tiktok.com/@grassroofco/video/7175142640353086726)_
+
+![Sketch of canvas covering](https://res.cloudinary.com/growdigital/image/upload/w_420/v1691869566/hope/canvas-sketch-230812.png)  
+_How canvas could cover the assembly area_
+
 ## Sat 5 Aug 2023
 
 * Ideas for assemblies
@@ -27,7 +46,7 @@
   * [Community At Work organisation](https://communityatwork.com/), authors of [Facilitator's Guide to Participatory Decision-making](https://uk.bookshop.org/p/books/facilitator-s-guide-to-participatory-decision-making-sam-kaner/2570124)
   * [Slide deck for workshop](https://docs.google.com/presentation/d/1KQLYI1-Z7vKYn68rSQOWmegaSGVR1cl82ink19A_sJ0/edit?usp=sharing)
 
-## Notes Mon 24 Jul 2023
+## Mon 24 Jul 2023
 
 * Visited Andrea at [Yr Ardd](https://www.facebook.com/yrardd1/), as possible garden
 * Liz from Yr Ardd (administrator) was there, plus Martin(?) from Tir Coed and Malcolm Berry, [The Dreaded Gardener](https://www.facebook.com/people/The-Dreaded-Gardener/100037539439786/)
@@ -35,7 +54,7 @@
 * Also, backup plans for different stages?
 * Noticeboard blackboard, what's happening, plus feedback board, have your say until the words fill up
 
-## Notes 230723
+## Sun 23 July 2023
 
 > “Can gardens literally save the world? No…<br>
 Gardens can save the world by saving us. They can bring us back into contact with diversity…<br>
@@ -43,7 +62,7 @@ Gardens as activism as surely as any art form…<br>
 Gardens that stir our senses and give us actionable faith and hope.”<br><br>
 _~ Benjamin Vogt, A New Garden Ethic pp158_
 
-## Notes 230722
+## Sat 22 July 2023
 
 ![Yellow dandelion flower](https://res.cloudinary.com/growdigital/image/upload/w_320/v1552572926/dandelion-FBFAEA50.jpg)
 
@@ -55,14 +74,14 @@ _~ Benjamin Vogt, A New Garden Ethic pp158_
 
 * I spoke briefly with Natalie from RHS last week, she said 'size not an issue' at Hampton Court, so more leeway on width than 10m
 
-## Notes 230719
+## Wed 19 Jul 2023
 
 * Mailing list, alternative to Substack/MailChimp?
   * [listmonk](https://listmonk.app/), free, self-hosted
   * [PikaPods](https://www.pikapods.com/apps) hosting $2 per month
   * [Railway](https://railway.app/pricing) hosting $5 per month
 
-## Notes 230718
+## Tue 18 Jul 2023
 
 ![Sketch of pipe in the ground](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689682685/hope/rigid-plastic-pipe-self-binding-gravel-sketch.jpg)
 
@@ -112,7 +131,7 @@ A profusion of very orange Welsh Poppies, a homage to JSO!
 > Hope is a natural resource and we all have it. Sometimes it’s hard to find. Sometimes it’s overwhelmed by the negative things we see or experience. But it’s there, waiting for us to use it. Hope, when everyone taps into it and uses it positively, is a more powerful resource than oil and gas put together. It’s a more powerful resource that cynicism and greed. Hope drives us to action and when those two combine, great things can happen! 
 Hope is what keeps XR rebels going. We know that by taking action against the government, fossil fuel industries and their financiers we are doing the right thing. 
 
-## Notes 230717
+## Mon 17 Jul 2023
 
 [![Autumn plants illustration](https://res.cloudinary.com/growdigital/image/upload/w_280/v1689591607/hope/ffion-gwyn-hydref.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1689591607/hope/ffion-gwyn-hydref.jpg)  
 _Autumn plants Hydref illustration. Click for hi-res_
@@ -132,7 +151,7 @@ requires a minimum path width of 1.5m; two-way access requires a minimum path wi
 
 So, 2½ hour assembly would have 50 minutes for intro, deliberation and collation phases.
 
-## Notes 230716
+## Sun 16 Jul 2023
 
 [Footpath widths](https://www.natureworks.org.uk/footpath-widths/)
 
@@ -143,11 +162,11 @@ So, 2½ hour assembly would have 50 minutes for intro, deliberation and collatio
 * 1.2m — 2 adults comfortably
 * 1.7m — 2 prams/wheelchairs comfortably
 
-## Notes 230712
+## Wed 12 Jul 2023
 
 * Brilliant meeting between Lindy, Audley and Jake, about fundraising and organisation structure. Minutes to follow.
 
-## Notes 230711
+## Tue 11 Jul 2023
 
 ![Sketch of garden](hhttps://res.cloudinary.com/growdigital/image/upload/w_320/v1689591503/hope/cad-sketch-230717.png)  
 _Rough sketch to show layout_
@@ -163,7 +182,7 @@ _Rough sketch to show layout_
 ![Plan of movable benches in amphitheatre](https://res.cloudinary.com/growdigital/image/upload/v1689077853/hope/benches-sketch-230712.jpg)  
 _Movable benches in assembly area, to show 2 different modes_
 
-## Notes 230710
+## Mon 10 Jul 2023
 
 * Hope - built to be modular, built to be moved
 * Grow it in situ, test it out first
@@ -171,7 +190,7 @@ _Movable benches in assembly area, to show 2 different modes_
 * Slate as building material, heritage
 * Source of 'waste' material - brick, concrete, ceramic, sand, gravel?
 
-## Denise chat 230705
+## Denise chat Wed 5 Jul 2023
 
 * Possible Senedd backing? Contact Jane Davidson
 * Constraint on space 10m x 15m
@@ -233,7 +252,6 @@ Better name than The Crisis Garden? Other alternatives? Forum, talk, discuss, ai
 
 * Hope
 * Doombusters! cf Doomster
-
 
 ## Public access
 
