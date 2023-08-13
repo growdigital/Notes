@@ -116,9 +116,12 @@ _Clockwise from top left: Craf y Geifr, Peradyl Garwm, Penigan y Forwyn, Pani Cy
   * Holly (pruned?)
   * Valerian
   * Pennywort
-* “A designed space to foster equal communication”
+
+> “A designed space to foster equal communication”
 
 ![Ivy wall](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689717367/hope/ivy-wall-clifton.jpg)
+
+![Two orange Welsh Poppies](https://res.cloudinary.com/growdigital/image/upload/w_420/v1691923651/hope/papaver-cambricum-bumblebee.jpg)
 
 A profusion of very orange Welsh Poppies, a homage to JSO!
 
