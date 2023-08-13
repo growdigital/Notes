@@ -1,4 +1,4 @@
-# The Hope Garden notes 📝
+# Hope Garden notes 📝
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
