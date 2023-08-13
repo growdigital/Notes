@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
-## Sat 12 Aug 2023
+## [Sat 12 Aug 2023](#sat-12-aug-2023)
 
 ### Ideas for covering
 
@@ -21,7 +21,7 @@ _John Little by [his planted telegraph pole](https://www.tiktok.com/@grassroofco
 ![Sketch of canvas covering](https://res.cloudinary.com/growdigital/image/upload/w_420/v1691869566/hope/canvas-sketch-230812.png)  
 _How canvas could cover the assembly area_
 
-## Sat 5 Aug 2023
+## [Sat 5 Aug 2023](#sat-5-aug-2023)
 
 * Ideas for assemblies
   * peat free compost
@@ -32,7 +32,7 @@ _How canvas could cover the assembly area_
   * climate justice & horticulture
 
 
-## Thu 3 Aug 2023
+## [Thu 3 Aug 2023](#thu-3-aug-2023)
 
 * RHS Hampton Court applications
   * Wave 1 deadline mid-September 2024
