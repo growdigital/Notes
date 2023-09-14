@@ -4,7 +4,7 @@
 
 ![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_360/v1689077853/hope/garden-sketch-230711.jpg)  
 
-Wildlife forest garden with Community Assembly at its heart 💚
+Wildlife forest garden with Community Assembly at its heart 💚, planned for RHS Hampton Court 2025.
 
 ## Aim
 
