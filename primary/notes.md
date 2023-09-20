@@ -8,22 +8,21 @@
 
 * **Kate** find volunteers. Physical work, with Jake supervising
 * **Parents**
-  * Level circles (100mm depth)
-  * Jake: Mark out paths (bed between circles, protect cherry tree)
-  * Deturf beds
-  * Sheet mulch bank with plastic (Jake provide)
-  * Cover circles with plastic
-  * Cover whole area with wood chip - 2 tipper loads? Megan?
+  * Level circles (100mm depth) - 3 hours
+  * Jake: Mark out paths (bed between circles, protect cherry tree) - 1 hour
+  * Deturf beds - 3 hours
+  * Sheet mulch bank and circles with plastic (Jake provide) - 1 hour
+  * Cover whole area with wood chip - 2 tipper loads? Megan? - 6 hours
+  * Jake: Order path edging
+  * Install path edging - 6 hours
   * Find & deliver hardcore, 8 tonnes. Shale & clay mix (lot of it around here from building sites) acts as a good sub-base. Alternatively, hardcore with good amount of clay/dust.
-  * Order path edging
-  * Install path edging. 
-  * Lay hardcore, use plate whacker to level
+  * Lay hardcore, use plate whacker to level - 6 hours
   * Jake: Order gabions
-  * Construct gabion cages
-  * Jake: Create wildlife gates in gabions.
+  * Construct gabion cages - 6 hours
+  * Jake: Create wildlife gates in gabions - 6 hours
   * Jake: Choose path surface (local recycled hoggin is ideal)
   * Order path aggregate
-* **Landscaper**
+* **Landscaper** - 3 days?
   * Install path surface
   * Install gabion semi-circle
 
