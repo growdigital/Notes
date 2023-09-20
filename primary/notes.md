@@ -2,6 +2,43 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Wed 20 Sep 2023
+
+### Todo
+
+* Level circles
+* Mark out paths (bed between circles, protect cherry tree)
+* Deturf beds
+* Sheet mulch bank with plastic
+* Cover circles with plastic
+* Cover area with wood chip
+* Find & lay hardcore
+* Order gabions
+* Create wildlife gates in gabions
+* Choose path surface
+* Landscaper installs gabions & path
+
+### Costing
+
+* Gabions, 9 baskets £420
+* Path edging, 40m x 2 £320
+* Hard standing 70m² approx
+* Blended Fill - 50mm depth. 8 tonnes approx x £75 = £600
+* Sub-base - 50mm depth. 8 tonnes approx x £50 = £400. Use free hardcore?
+* Landscapers install hard standing & gabion
+  * 3-4 days @ £350 per day = £1,050 - £1400
+
+
+### Gabions
+
+* 1.5m x 0.5m baskets
+    * Fine Mesh Metals - Gaflan coated, 4mm thickness, 75mm aperture, 1.5m x 0.5m. 4+ per basket, 6 baskets total.
+    [welded mesh panel GALFAN 3X3 8G 1.75ft x 5ft -- x24](https://www.weld-mesh.com/welded-mesh/welded-mesh-panel-GALFAN-3X3-8G-1.75ft-x-5ft/10379?showbasket=1), £353.09
+    * Prefab from [WireFence](https://www.wirefence.co.uk/gabion/build-your-own-custom-gabion/) £590
+* 1m x 0.5m baskets
+    * 5 per basket, 9 baskets = 45 panels £418.84
+
+
 ## Gary & Jake start excavating- Mon 10 Jul 2023
 
 ![Pile of turf next to areas deturfed and slightly excavated](https://res.cloudinary.com/growdigital/image/upload/v1689010719/primary/entrance-bank-turf-230710.jpg)
