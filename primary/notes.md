@@ -6,28 +6,38 @@
 
 ### Todo
 
-* Level circles
-* Mark out paths (bed between circles, protect cherry tree)
-* Deturf beds
-* Sheet mulch bank with plastic
-* Cover circles with plastic
-* Cover area with wood chip
-* Find & lay hardcore
-* Order gabions
-* Create wildlife gates in gabions
-* Choose path surface
-* Landscaper installs gabions & path
+* **Kate** find volunteers. Physical work, with Jake supervising
+* **Parents**
+  * Level circles (100mm depth)
+  * Jake: Mark out paths (bed between circles, protect cherry tree)
+  * Deturf beds
+  * Sheet mulch bank with plastic (Jake provide)
+  * Cover circles with plastic
+  * Cover whole area with wood chip - 2 tipper loads? Megan?
+  * Find & deliver hardcore, 8 tonnes. Shale & clay mix (lot of it around here from building sites) acts as a good sub-base. Alternatively, hardcore with good amount of clay/dust.
+  * Order path edging
+  * Install path edging. 
+  * Lay hardcore, use plate whacker to level
+  * Jake: Order gabions
+  * Construct gabion cages
+  * Jake: Create wildlife gates in gabions.
+  * Jake: Choose path surface (local recycled hoggin is ideal)
+  * Order path aggregate
+* **Landscaper**
+  * Install path surface
+  * Install gabion semi-circle
 
 ### Costing
 
-* Gabions, 9 baskets £420
-* Path edging, 40m x 2 £320
+* Gabions, 9 baskets **£420**
+* [Path edging](https://www.avsfencing.co.uk/core-edge-flexible-steel-edging-5m-pack/), 40m x 2 **£320**
 * Hard standing 70m² approx
-* Blended Fill - 50mm depth. 8 tonnes approx x £75 = £600
+* Blended Fill - 50mm depth. 8 tonnes approx x £75 = **£600**
 * Sub-base - 50mm depth. 8 tonnes approx x £50 = £400. Use free hardcore?
 * Landscapers install hard standing & gabion
-  * 3-4 days @ £350 per day = £1,050 - £1400
+  * 3-4 days @ £350 per day = **£1,050** - £1400
 
+Aprrox **£2,500** for materials & landscapers
 
 ### Gabions
 
@@ -37,7 +47,6 @@
     * Prefab from [WireFence](https://www.wirefence.co.uk/gabion/build-your-own-custom-gabion/) £590
 * 1m x 0.5m baskets
     * 5 per basket, 9 baskets = 45 panels £418.84
-
 
 ## Gary & Jake start excavating- Mon 10 Jul 2023
 
