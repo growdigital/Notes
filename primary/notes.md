@@ -10,6 +10,7 @@
 * **Parents**
   * Level circles (100mm depth) - 3 hours
   * Jake: Mark out paths (bed between circles, protect cherry tree) - 1 hour
+  * Jake: Prune willow dome
   * Deturf beds - 3 hours
   * Sheet mulch bank and circles with plastic (Jake provide) - 1 hour
   * Cover whole area with wood chip - 2 tipper loads? Megan? - 6 hours

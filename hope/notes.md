@@ -2,6 +2,22 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## [Thu 28 Sep 2023](#thu-28-sep-2023)
+
+### Rough costing for prototype garden
+
+* Design £5,000
+* Paths £3,000
+* Fencing £1,500
+* Structures £1,000
+* Assembly tent £2,500
+* Benches x16 £4,000
+* Plants £2,000
+* Soft landscaping £3,000
+
+**Total: £22,000**
+
+
 ## [Sat 12 Aug 2023](#sat-12-aug-2023)
 
 ### Ideas for covering
