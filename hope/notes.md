@@ -8,15 +8,22 @@
 
 * Design £5,000
 * Paths £3,000
-* Fencing £1,500
+* Fencing £1,500  
 * Structures £1,000
 * Assembly tent £2,500
-* Benches x16 £4,000
+* Benches x16 @£250 = £4,000
 * Plants £2,000
 * Soft landscaping £3,000
 
 **Total: £22,000**
 
+![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/v1695900579/hope/recycled-plastic-bench.jpg)  
+[Recyled plastic benches](https://www.welsheducationalsupplies.co.uk/shop/recycled-plastic-sturdy-bench-three-seat/) £150
+
+![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1695908862/cube-bench-recycled-plastic-second-life.jpg)
+[Keep Wales Tidy](https://keepwalestidy.cymru/) get their benches from [Second Life Products Wales](https://www.slpw.co.uk/)  
+
+---
 
 ## [Sat 12 Aug 2023](#sat-12-aug-2023)
 
