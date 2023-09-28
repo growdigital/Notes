@@ -20,7 +20,7 @@
 ![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/v1695900579/hope/recycled-plastic-bench.jpg)  
 [Recyled plastic benches](https://www.welsheducationalsupplies.co.uk/shop/recycled-plastic-sturdy-bench-three-seat/) £150
 
-![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1695908862/cube-bench-recycled-plastic-second-life.jpg)
+![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1695908862/hope/cube-bench-recycled-plastic-second-life.jpg)
 [Keep Wales Tidy](https://keepwalestidy.cymru/) get their benches from [Second Life Products Wales](https://www.slpw.co.uk/)  
 
 ---
