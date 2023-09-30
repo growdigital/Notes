@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Notes](https://grwd.uk/syra/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
 
-## Fri 11 Aug 2023
+## [Fri 11 Aug 2023](#fri-11-aug-2023)
 
 ![Sketch of paths on map](https://res.cloudinary.com/growdigital/image/upload/w_420/v1691764565/syra/matt-sketch-230811.jpg)
 
