@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
-## Wed 20 Sep 2023
+## [Wed 20 Sep 2023](#wed-20-sep-2023)
 
 ### Todo
 
