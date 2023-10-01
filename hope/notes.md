@@ -2,6 +2,12 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## [Sun 1 Oct 2023](#Sun-1-Oct-2023)
+
+In the WhatsApp group, concern over using recycled plastic benches for prototype garden, not fitting into ethics. Totally agree, I was just thinking about price. Plastic benches about £140. [David Hunter](https://thecoppiceplot.com/) (artisan roundwood craftsperson) can do them for equivalent price, in wood, slab, Larch:
+
+![Wooden bench](https://res.cloudinary.com/growdigital/image/upload/v1696183846/hope/farmyard-bench-231001.jpg)
+
 ## [Thu 28 Sep 2023](#thu-28-sep-2023)
 
 ### Rough costing for prototype garden
@@ -20,7 +26,7 @@
 ![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/v1695900579/hope/recycled-plastic-bench.jpg)  
 [Recyled plastic benches](https://www.welsheducationalsupplies.co.uk/shop/recycled-plastic-sturdy-bench-three-seat/) £150
 
-![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1695908862/hope/cube-bench-recycled-plastic-second-life.jpg)
+![Recycled plastic benches](https://res.cloudinary.com/growdigital/image/upload/w_320/v1695908862/hope/cube-bench-recycled-plastic-second-life.jpg)  
 [Keep Wales Tidy](https://keepwalestidy.cymru/) get their benches from [Second Life Products Wales](https://www.slpw.co.uk/)  
 
 Benches £112.80 inc VAT, 16 =  1,804.80 + £168 del = **£1,972.80**
