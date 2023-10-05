@@ -2,6 +2,51 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Meeting [Thu 5 Oct 2023](#thu-5-oct-2023)
+
+Present: Megan, Kate, Becky, Gary, Jake
+
+### Possible grants 
+
+* PTA a registered charity
+* [Magic Little Grants](https://localgiving.org/magic-little-grants/)
+* [Keep Wales Tidy](https://keepwalestidy.cymru/)
+* Need to demonstrate community involvement for grants
+* Meeting different criteria:
+  * Art
+  * Mental health
+  * Food
+  * Wildlife
+
+### Volunteers
+
+* Volunteers & community organisations possibly using space. Increase chance of grants.
+* **Jake** ask Cadernid Emlyn for volunteers & collaboration. DONE
+* Other groups, eg gardening? [HUTS](https://hutsworkshop.org/contact-us)? [CAVS](https://cavs.org.uk/)? [BlueGreenCymru](https://www.bluegreencymru.com/)
+* **Megan** get CRB checks for Becky, Gary & Jake?
+
+**Essential to have children involved**.
+
+### Work to winter 2023
+
+* Level circles (100mm depth) - 3 hours
+* Jake: Mark out paths (bed between circles, protect cherry tree) - 1 hour **with children**
+* Jake: Prune willow dome
+* Deturf beds - 3 hours
+* Sheet mulch bank and circles with plastic (Jake provide) - 1 hour **with children**
+* Cover whole area with wood chip - 2 tipper loads? Megan? - 6 hours **with children**
+
+### Updated costings & amounts
+
+* Gabions, 9 baskets **£420**
+* [Path edging](https://www.avsfencing.co.uk/core-edge-flexible-steel-edging-5m-pack/), 40m x 2 **£320**
+* Hard standing 70m² approx
+* Blended Fill - 50mm depth. 8 tonnes approx x £75 = **£600**
+* Sub-base - 50mm depth. 8 tonnes approx x £50 = £400. Use free hardcore?
+* Wood chip - 2 tipper loads x £130 = £260. Free source of woodchip? 
+* Landscapers install hard standing & gabion
+  * 3-4 days @ £350 per day = **£1,050** - £1400
+
 ## [Wed 20 Sep 2023](#wed-20-sep-2023)
 
 ### Todo
