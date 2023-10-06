@@ -4,6 +4,8 @@
 
 ## Site meeting [Fri 6 Oct 2023](#fri-6-oct-2023)
 
+Present: Megan, Beki, Gary, Jake
+
 1. Gary level circles, to level of tarmac footpah, sloping toward willow dome, Mon 9 Oct
 2. Jake markout paths, 0.8m wide ([for wheelchair](https://www.natureworks.org.uk/footpath-widths/)), possibly Mon 9 Oct afternoon
 3. Kate & Megan remove turf
@@ -14,7 +16,7 @@
 
 ## Meeting [Thu 5 Oct 2023](#thu-5-oct-2023)
 
-Present: Megan, Kate, Becky, Gary, Jake
+Present: Megan, Kate, Beki, Gary, Jake
 
 ### Possible grants 
 
