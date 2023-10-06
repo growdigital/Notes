@@ -2,6 +2,16 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Site meeting [Fri 6 Oct 2023](#fri-6-oct-2023)
+
+1. Gary level circles, to level of tarmac footpah, sloping toward willow dome, Mon 9 Oct
+2. Jake markout paths, 0.8m wide ([for wheelchair](https://www.natureworks.org.uk/footpath-widths/)), possibly Mon 9 Oct afternoon
+3. Kate & Megan remove turf
+4. Use scalpings or sub-base rather than hardcore, more reliable foundation
+5. Keep track width the same as the maximum width on the gate to the fence
+6. Remove mound by seating, keep 30cm topsoil/turf narrow mound for tree planting
+7. Remove mound past willow
+
 ## Meeting [Thu 5 Oct 2023](#thu-5-oct-2023)
 
 Present: Megan, Kate, Becky, Gary, Jake
