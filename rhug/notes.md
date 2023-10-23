@@ -2,6 +2,25 @@
 
 [Home](https://grwd.uk/rhug/) • [Schedule](https://grwd.uk/rhug/schedule) • [Maintenance](https://grwd.uk/rhug/management) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/rhug) • [Plants↗](https://bit.ly/rhug-plants)
 
+## [Mon 23 Oct 2023](mon-23-oct-2023)
+
+Last Friday I managed to get hold of 4kg Unwins Wildflower seed mix. This is to add bulk to the further reaches of the meadow, as I had concentrated the Celtic Wild Flowers seed to the area immediately on the left (ie most visible from the path and window).
+
+The seed mix isn't fully described, so I emailed, and this is the species mix:
+
+* Borage
+* Red Campion
+* White Campion
+* Red Clover   
+* Corn Poppy    
+* Cornflower    
+* Ox-eye Daisy
+* Lesser Knapweed
+* Musk Mallow  
+* Ribwort Plantain
+* Self Heal   
+
+
 ## Tue 14 Mar 2023
 
 * Chicken wire & bamboo for 4x trees orchard
