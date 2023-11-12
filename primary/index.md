@@ -34,7 +34,7 @@ Occasional livestream video about the work in progress, here’s the [YouTube pl
 
 ## Files
 
-* [Latest PDF](https://github.com/growdigital/primary/raw/main/primary.pdf)
-* [GitHub repository](https://github.com/growdigital/primary)
+* [Latest PDF](https://codeberg.org/natureworks/primary/src/branch/main/primary.pdf)
+* [Codeberg repository](https://codeberg.org/natureworks/primary)
 
 This page online: <https://grwd.uk/primary>
