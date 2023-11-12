@@ -1,6 +1,6 @@
 # Primary home 🏡
 
-[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
+[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://grwd.cc/primary-plants)
 
 ![Show and tell plants on school table](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655898484/primary/plant-table01-220615.jpg)
 
@@ -30,7 +30,7 @@ Colourful, fruitful, delightful & useful. A wildlife food forest garden for my l
 
 [![Willow dome](https://res.cloudinary.com/growdigital/image/upload/w_320/v1680121617/primary/willow-dome-230329.jpg)
 
-Occasional livestream video about the work in progress, here’s the [YouTube playlist](https://bit.ly/primary-videos)!
+Occasional livestream video about the work in progress, here’s the [YouTube playlist](https://grwd.cc/primary-videos)!
 
 ## Files
 
