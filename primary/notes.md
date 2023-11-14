@@ -2,6 +2,12 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Kingsley bench [Tue 14 Nov 2023](#tue-14-nov-2023)
+
+> Regarding a bench. I can make something similar in Oak for £250. The bench should last at least 30 to 40 years, I can make a standard perch bench for £150 again in Oak using trees from a woodland using no nails or glue.
+
+~ Kingsley, local wood worker
+
 ## Site meeting [Fri 6 Oct 2023](#fri-6-oct-2023)
 
 Present: Megan, Beki, Gary, Jake
