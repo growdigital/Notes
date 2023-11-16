@@ -32,7 +32,7 @@ _Latest CAD sketch of assembly area. Click for hi-res._
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1687955811/hope/crisis-screenshot.jpg)](https://bit.ly/hope-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1687955811/hope/crisis-screenshot.jpg)](https://grwd.cc/hope-playlist)
 
 [The Hope Garden playlist](https://grwd.cc/hope-playlist)
 
