@@ -1,6 +1,6 @@
 # Hope Garden notes 📝
 
-[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
+[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
 ## [Sun 1 Oct 2023](#Sun-1-Oct-2023)
 
@@ -98,7 +98,7 @@ _~ Benjamin Vogt, A New Garden Ethic pp158_
 ![Yellow dandelion flower](https://res.cloudinary.com/growdigital/image/upload/w_320/v1552572926/dandelion-FBFAEA50.jpg)
 
 * Plant a big fat Dandelion front and centre. Edible, native wild flower, great for pollinators.
-* Bugle, Yarrow, Meadowsweet. I will start adding these to [spreadsheet](https://bit.ly/hope-plants)
+* Bugle, Yarrow, Meadowsweet. I will start adding these to [spreadsheet](https://grwd.cc/hope-plants)
 * Cheap, repurposed agricultural water trough as central water feature? Idea is to [open source](https://en.wikipedia.org/wiki/Open-design_movement) plans and costings, and make garden affordable for other community projects.
 
 ![Galvanised water trough](https://res.cloudinary.com/growdigital/image/upload/w_320/v1690023466/galvanised-water-trough.jpg)
