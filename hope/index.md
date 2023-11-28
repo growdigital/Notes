@@ -1,6 +1,6 @@
 # Hope Garden home 🏡
 
-[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
+[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
 ![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_360/v1689077853/hope/garden-sketch-230711.jpg)  
 
@@ -32,9 +32,9 @@ _Latest CAD sketch of assembly area. Click for hi-res._
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1687955811/hope/crisis-screenshot.jpg)](https://bit.ly/hope-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1687955811/hope/crisis-screenshot.jpg)](https://grwd.cc/hope-playlist)
 
-[The Hope Garden playlist](https://bit.ly/hope-playlist)
+[The Hope Garden playlist](https://grwd.cc/hope-playlist)
 
 ## Files
 
