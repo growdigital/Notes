@@ -2,7 +2,13 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://bit.ly/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
-## [Sun 1 Oct 2023](#Sun-1-Oct-2023)
+## [Tue 28 Nov 2023](#tue-28-nov-2023)
+
+* Met Raphaelle at Naturewise forest garden in Parc Teifi, Cardigan. 
+* Discussed possible prototype Hope Garden in one of 2 sites
+* Would like to use one site for dual use ie possibly develop into more permanent covered fire pit area. Possible to incorporate fire pit into assembly space design, with view to build on later
+
+## [Sun 1 Oct 2023](#sun-1-Oct-2023)
 
 In the WhatsApp group, concern over using recycled plastic benches for prototype garden, not fitting into ethics. Totally agree, I was just thinking about price. Plastic benches about £140. [David Hunter](https://thecoppiceplot.com/) (artisan roundwood craftsperson) can do them for equivalent price, in wood, slab, Larch:
 
