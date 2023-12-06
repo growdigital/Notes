@@ -1,6 +1,6 @@
 # Syra notes 📝
 
-[Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Notes](https://grwd.uk/syra/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
+[Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Notes](https://grwd.uk/syra/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://grwd.cc/syra-plants)
 
 ## [Wed 18 Oct 2023](#wed-18-oct-2023)
 
