@@ -17,10 +17,16 @@ A secluded forest garden with a focus on native plants, with a majority of edibl
 * Seclusion
 * Native plants
 * Edible & medicinal plants 
-* Children’s play area
-* Wildlife pond
-* “Coffee & Cocktails” seating areas
+* Children’s play area, with toy storage
+* Paddock
+* Swimming pool
+* Patio & night garden
+* Rose garden
 * Glamping pod
+* Tool storage
+* Wildlife pond
+* Clear pathways with lighting
+* Low maintenance front garden
 
 ## Videos
 
