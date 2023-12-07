@@ -1,6 +1,6 @@
-# Template management 🛠️
+# Clun management 🛠️
 
-[Home](https://grwd.uk/template/) • [Schedule](https://grwd.uk/template/schedule) • [Manage](https://grwd.uk/template/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/template) • [Plants↗](https://grwd.cc/template-plants)
+[Home](https://grwd.uk/clun/) • [Schedule](https://grwd.uk/clun/schedule) • [Manage](https://grwd.uk/clun/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/clun) • [Plants↗](https://grwd.cc/clun-plants)
 
 Maintenance & management throughout the year.
 
@@ -23,4 +23,4 @@ Maintenance & management throughout the year.
 * Year round
     * Weed bramble, dock, grass etc.
 
-This page online: <https://grwd.uk/template/management>
+This page online: <https://grwd.uk/clun/management>
