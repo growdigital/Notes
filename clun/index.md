@@ -4,20 +4,23 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
-Description of the site.
+South-west facing two acre garden, near an old coal mining site.
 
 ## Aim
 
-Aims of the project.
+A secluded forest garden with a focus on native plants, with a majority of edible and medicinal plants, incorporating a children’s play area, with a barbecue spot and glamping pod for guests.
 
 ### [Download latest PDF](https://codeberg.org/natureworks/clun/src/branch/main/clun.pdf)
 
-
 ## Features
 
+* Seclusion
+* Native plants
+* Edible & medicinal plants 
+* Children’s play area
 * Wildlife pond
 * “Coffee & Cocktails” seating areas
-* Rainwater harvesting
+* Glamping pod
 
 ## Videos
 
