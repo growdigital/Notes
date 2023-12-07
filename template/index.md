@@ -10,15 +10,15 @@ Delete 👉🏾
 1. Search & replace `template` in these files
 2. Copy & edit `Template` project directory
 3. Create Codeberg repository (copy `template` repo)
-4. Create Google Sheets spreadsheet, replace note text, create bit.ly link
+4. Create CryptPad spreadsheet, replace note text, create grwd.cc link
 5. Create Pinterest Board
 6. Make project folder in Cloudinary
-7. Make video playlist in YouTube & bit.ly link
+7. Make video playlist in YouTube & grwd.cc link
 
 * Template project
 * Codeberg
 * Notes
-* Google Sheets
+* CryptPad spreadsheet
 * Pinterest
 * Cloudinary
 
