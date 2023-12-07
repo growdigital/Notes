@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/clun/) • [Schedule](https://grwd.uk/clun/schedule) • [Manage](https://grwd.uk/clun/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/clun) • [Plants↗](https://grwd.cc/clun-plants)
 
-![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
+![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1701959556/clun/screenshot-cad.jpg)
 
 South-west facing two acre garden, near an old coal mining site.
 
