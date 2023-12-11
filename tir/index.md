@@ -14,14 +14,14 @@ A secluded forest garden with a focus on native plants, with a majority of edibl
 
 ## Features
 
-* Seclusion
+* Seclusion & privacy
 * Native plants
 * Scented patio
 * Herb garden
 * Edible & medicinal plants 
 * Children’s play area, with toy storage
 * Paddock
-* Swimming pool
+* Covered heated swimming pool
 * Patio & night garden
 * Rose garden
 * Glamping pod
