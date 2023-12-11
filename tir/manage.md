@@ -1,6 +1,6 @@
-# Clun management 🛠️
+# Tir management 🛠️
 
-[Home](https://grwd.uk/clun/) • [Schedule](https://grwd.uk/clun/schedule) • [Manage](https://grwd.uk/clun/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/clun) • [Plants↗](https://grwd.cc/clun-plants)
+[Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants)
 
 Maintenance & management throughout the year.
 
@@ -23,4 +23,4 @@ Maintenance & management throughout the year.
 * Year round
     * Weed bramble, dock, grass etc.
 
-This page online: <https://grwd.uk/clun/management>
+This page online: <https://grwd.uk/tir/management>
