@@ -4,7 +4,7 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1701959556/tir/screenshot-cad.jpg)
 
-South-west facing two acre garden, near an old coal mining site. North-east facing, partially terraced, sloping garden.
+North-east facing sloping two acre field, partially terraced, adjacent to old coal mining site.
 
 ## Aim
 
