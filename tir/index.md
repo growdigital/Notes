@@ -16,7 +16,7 @@ A secluded forest garden with a focus on native plants, with a majority of edibl
 
 * Seclusion & privacy
 * Native plants
-* Scented patio
+* Scented night garden
 * Herb garden
 * Edible & medicinal plants 
 * Children’s play area, with toy storage
