@@ -10,7 +10,7 @@ North-east facing sloping two acre field, partially terraced, adjacent to old co
 
 A secluded forest garden with a focus on native plants, with a majority of edible and medicinal plants, incorporating a children’s play area, with a barbecue spot and glamping pod for guests.
 
-### [Download latest PDF](https://codeberg.org/natureworks/tir/src/branch/main/tir.pdf)
+### Download [latest PDF](https://codeberg.org/natureworks/tir/src/branch/main/tir.pdf) & [outline PDF](https://codeberg.org/natureworks/tir/src/branch/main/tir-outline.pdf)
 
 ## Features
 
