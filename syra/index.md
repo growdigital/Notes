@@ -1,6 +1,6 @@
 # Syra home 🏡
 
-[Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Notes](https://grwd.uk/syra/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://bit.ly/syra-plants)
+[Home](https://grwd.uk/syra/) • [Schedule](https://grwd.uk/syra/schedule) • [Notes](https://grwd.uk/syra/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/syra) • [Plants↗](https://grwd.cc/syra-plants)
 
 ![Cairn](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681485848/syra/beech-cairn.jpg)
 
@@ -16,7 +16,7 @@ In contrast to my normal practise, the garden has been designed _in situ_, using
 ![Green bamboo cut on the grass](https://res.cloudinary.com/growdigital/image/upload/w_320/v1681487160/syra/green-bamboo-cut.jpg)  
 _Green bamboo from the garden used to mark out_
 
-Check [the spreadsheet](https://bit.ly/syra-plants) for species, and [this video](https://www.youtube.com/watch?v=3cSX0Jp6tLo) for locations:
+Check [the spreadsheet](https://grwd.cc/syra-plants) for species, and [this video](https://www.youtube.com/watch?v=3cSX0Jp6tLo) for locations:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3cSX0Jp6tLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
