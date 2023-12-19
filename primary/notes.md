@@ -2,6 +2,43 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Jake email to Megan [Fri 15 Dec 2023](#fri-15-dec-2023)
+
+> Kate has applied for the large pack as sh was advised to when she applied 
+
+Is that this one?
+https://keepwalestidy.cymru/our-work/conservation/nature/development-packages/wildlife-garden/
+
+> which includes a small pond, so we may need to consider this in our plan
+
+Ponds can be made safe in number of different ways (fencing, cover, depth), so all feasible. They're great for monitoring larger wildlife with trail cams, as they're a drinking hole. Generally best to put them in full sun, for health of the pond.
+
+>  He is happy to make slight tweaks to support our design but there are some rules we need to follow too
+
+Do you know what the rules are?
+
+>  • Jake will look at designs show today, the Keep Wales Tidy pack and we will meet next week.
+
+The major saving is on landscaper's labour. I still want to include standard rectangular gabions as part of the infrastructure of the garden, as can use them as "units of wildlife habitat" -- putting in bee logs, hoverfly lagoons, earwig pots and hedgehog houses, as well as habitat for other invertebrates like spiders. These would be accessed by hinged gabion wire doors, very simple. And they're cheap. The gabions can form part of the pergola and be incorporated with the raised beds.
+
+I still think the paths and labyrinth should be hard standing reclaimed material, as _way_ less maintenance than wood chip, and can be put together with volunteer labour.
+
+## Megan, Gary, Jake meeting [Mon 11 Dec 2023](#mon-11-dec-2023)
+
+Meeting at the school about the garden. Megan wrote minutes:
+
+* Kate, Crew ECO and I have sent letter to the local Council, they are willing to donate £100 to our garden and I will phone Alan Jones today to discuss the further support they’ve offered.
+* I think Kate has applied for the small Wildlife Garden Keep Wales Tidy pack but maybe we could change it to the larger pack?- Matthew said this may be possible if our design meets the criteria.
+* Matthew Collinson and Louise Morgan will be visiting the school 1.30pm on the 16th of January if you’d like to be present. If you can’t I will be there and will feedback the following week.
+* I have explained that there’s work being done in the school so this will slow our project until March but this will give us time to plan and collect resources.
+* Jake will look at designs show today, the Keep Wales Tidy pack and we will meet next week.
+* Jake will also explain to the landscape designer that sadly  we haven’t got the funds to go ahead with his support in the project.
+* The First stage will be the landscaping and planting which will include Gary and hopefully funded by the Keep Wales Tidy Grant but cosmetic additions like the gabions, stage, wildlife cameras etc will be planned after the landscaping is complete. Megan will fund this with a Welly walk etc. There is no harm placing the additional things in the plan but they won’t be priority at this stage.
+* Jake and I will be meeting next Monday at 9 am to create the final design and the ECO Crew will join at the end to see the design and option to discuss it.
+* I will be creating a letter for local buisnesses following the final design meeting next week Kate and I will take ECO Crew out to deliver letters in the New Year to ask for donations with the garden design.
+* The ECO Crew will be introducing the final design in an assembly next term so all the pupils are aware of the project. Maybe towards the end of January- Birdwatch week might be a great time to do this? 
+ 
+
 ## Kingsley bench [Tue 14 Nov 2023](#tue-14-nov-2023)
 
 > Regarding a bench. I can make something similar in Oak for £250. The bench should last at least 30 to 40 years, I can make a standard perch bench for £150 again in Oak using trees from a woodland using no nails or glue.
