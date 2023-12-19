@@ -6,6 +6,7 @@
 
 * Design the garden as **a series of walks**; different lengths & gradients
 * [Moon Gardening podcast](https://rootsandall.co.uk/podcast/moon-gardens/), ideas for the Night Garden Courtyard
+* Concentrate on the **entrance** to the forest garden, make it enticing
 
 ## [Wed 13 Dec 2023](#wed-13-dec-2023)
 
