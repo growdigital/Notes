@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Notes](https://grwd.uk/hope/notes)
 
+## [Mon 01 Jan 2024](#mon-01-jan-2024)
+
+* Reworking website to become simple blog, for now. So rather than adding updates here, I'll add progress to the website [hopegarden.uk](https://hopegarden.uk/)
+* Old theme I used from [GetHugoThemes](https://gethugothemes.com/) was [Vixcon](https://gethugothemes.com/products/vixcon). Might be suitable in future
+* New theme is simple blog theme [Bookworm](https://gethugothemes.com/products/bookworm). Can always copy content over to new, more complex theme if need be
+* Also using [TinaCMS](https://tina.io/), a simple content management system for static websites. This means easy for people to add blog entries.
+
 ## [Tue 28 Nov 2023](#tue-28-nov-2023)
 
 * Met Raphaelle at Naturewise forest garden in Parc Teifi, Cardigan. 
