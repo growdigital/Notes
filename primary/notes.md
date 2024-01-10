@@ -2,6 +2,34 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Wildlife Garden Package [Wed 10 Jan 2024](#wed-10-jan-2024)
+
+[Keep Wales Tidy Wildlife Garden Package](https://keepwalestidy.cymru/our-work/conservation/nature/development-packages/wildlife-garden/)
+
+### Includes
+
+* 20 square metres of wildflower turf
+* Raised beds made of wooden sleepers
+* Native fruit trees
+* 100 wildlife friendly tree pack (small trees with biodegradable spiral tree guards and canes)
+* Potted shrubs
+* Climbing plants
+* Pond liner and sand
+* Aquatic plants and aquatic baskets
+* Wheelbarrow
+* Topsoil and compost
+* Wildflower plug plants
+* Soil membrane
+* Native bulbs
+* Two recycled plastic benches
+* Metal tool store
+* Gloves
+* Watering can
+* Hand tools
+* Compost bin
+* Habitat boxes, and/or bird feeders and seed
+* Information manuals / books
+
 ## Jake email to Megan [Fri 15 Dec 2023](#fri-15-dec-2023)
 
 > Kate has applied for the large pack as sh was advised to when she applied 
