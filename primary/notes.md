@@ -2,7 +2,7 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
-## Horseshoe raised bed seating area, pond & gabions
+## Horseshoe raised bed seating area, pond & gabions [Fri 12 Jan 2024](#fri-12-jan-2024)
 
 [![CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1705071088/primary/240112-cad-raised-bed-horseshoe.png)](https://res.cloudinary.com/growdigital/image/upload/v1705071088/primary/240112-cad-raised-bed-horseshoe.png)  
 _Redesigned seating area, 1m² pond, wildlife gabions. Click for hi-res_
@@ -48,6 +48,15 @@ _Gabion quote for ready made_
 * 1m² as limited space
 * Create tidy sloping drystone wall on 3 sides with local recovered stone - habitat and less weeding
 * On 3rd side, use wildflower turf to provide cover strip for wildlife using pond
+
+## Meeting Megan & Jake [Wed 10 Jan 2024](#wed-10-jan-2024)
+
+Design meeting, on how to incorporate Keep Wales Tidy elements into design.
+
+* Use wooden sleepers for creating "octagon" seating area out of raised beds (rather than using gabions)? Square space is not very comfortable for seating. **Action:** Jake to mockup structure in CAD, to work out sizes and quantities.
+* Costing for gabions, for Town Council. Need simple 2 column design to get idea of materials. **Action:** Jake to create simple design and costing. Also, mark up wildlife habitat for access points (bee logs, hoverfly lagoon, hedgehog hotel, toad hall etc).
+* Pond placement and ideas. Possily echo shape of seating area? And keep entrance to pond open toward hedge? Create mini-stone wall on 3 sides? Habitat & tidy. Small, 1m x 1m. Possibly use gabion as hitching point for trailcam, looking down at pond (which will double as watering hole). **Action:** Jake sketch ideas and profile.
+* **Action:** Jake mark up design on-site with bamboo & string. 
 
 ## Wildlife Garden Package [Wed 10 Jan 2024](#wed-10-jan-2024)
 

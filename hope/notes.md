@@ -13,7 +13,7 @@ All new notes are now on the blog [hopegarden.uk](https://hopegarden.uk/)
 
 ## [Tue 28 Nov 2023](#tue-28-nov-2023)
 
-* Met Raphaelle at Naturewise forest garden in Parc Teifi, Cardigan. 
+* Met Raphaelle at [Naturewise forest garden](https://naturewise.org.uk/forest-garden/) in Parc Teifi, Cardigan. 
 * Discussed possible prototype Hope Garden in one of 2 sites
 * Would like to use one site for dual use ie possibly develop into more permanent covered fire pit area. Possible to incorporate fire pit into assembly space design, with view to build on later
 
