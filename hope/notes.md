@@ -1,6 +1,8 @@
 # Hope Garden notes 📝
 
-[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Notes](https://grwd.uk/hope/notes)
+[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Blog](https://hopegarden.uk/)
+
+All new notes are now on the blog [hopegarden.uk](https://hopegarden.uk/)
 
 ## [Mon 01 Jan 2024](#mon-01-jan-2024)
 
@@ -75,12 +77,11 @@ _How canvas could cover the assembly area_
   * rising temperatures & ecology
   * climate justice & horticulture
 
-
 ## [Thu 3 Aug 2023](#thu-3-aug-2023)
 
 * RHS Hampton Court applications
   * Wave 1 deadline mid-September 2024
-  * Wave 2 deadline late-November 2025
+  * Wave 2 deadline late-November 2024
   * Lead time to organise assemblies November 2024 to July 2025, ie 8 months
 
 ## [Tue 25 Jul 2023](#tue-25-jul-2023)
@@ -130,7 +131,6 @@ _~ Benjamin Vogt, A New Garden Ethic pp158_
 ![Sketch of pipe in the ground](https://res.cloudinary.com/growdigital/image/upload/w_320/v1689682685/hope/rigid-plastic-pipe-self-binding-gravel-sketch.jpg)
 
 Had a good talk with Gary, with whom I'm creating the primary school garden. He suggested a technique for creating a shape in self-binding gravel. Bury rigid yet flexible drainage pipe into the gravel, tamp it down, then lift out the pipe and replace with appropriate aggregate. In the case of the school garden, this is a labyrinth. For the Hope Garden, this could be markers for the moving benches.
-
 
 ![Montage of wild flowers](https://res.cloudinary.com/growdigital/image/upload/w_420/v1689686588/hope/collection-plants-230718.jpg)  
 _Clockwise from top left: Craf y Geifr, Peradyl Garwm, Penigan y Forwyn, Pani Cymreig, Bysedd y Cŵn, Triagog Coch_

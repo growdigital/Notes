@@ -1,6 +1,6 @@
 # Hope Garden management 🛠️
 
-[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Notes](https://grwd.uk/hope/notes)
+[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Blog](https://hopegarden.uk/)
 
 Maintenance & management throughout the year.
 

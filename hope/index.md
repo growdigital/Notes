@@ -1,6 +1,6 @@
 # Hope Garden home 🏡
 
-[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Notes](https://grwd.uk/hope/notes)
+[Home](https://grwd.uk/hope/) • [Schedule](https://grwd.uk/hope/schedule) • [Manage](https://grwd.uk/hope/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/hope) • [Plants↗](https://grwd.cc/hope-plants) • [Blog](https://hopegarden.uk/)
 
 ![Sketch of garden](https://res.cloudinary.com/growdigital/image/upload/w_360/v1689077853/hope/garden-sketch-230711.jpg)  
 

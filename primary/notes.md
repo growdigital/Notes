@@ -2,6 +2,53 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## Horseshoe raised bed seating area, pond & gabions
+
+[![CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1705071088/primary/240112-cad-raised-bed-horseshoe.png)](https://res.cloudinary.com/growdigital/image/upload/v1705071088/primary/240112-cad-raised-bed-horseshoe.png)  
+_Redesigned seating area, 1m² pond, wildlife gabions. Click for hi-res_
+
+* Design meeting between Megan and Jake Wed 10 Jan 2pm. 
+* Wanted to repurpose design using Wildlife Garden Package resources
+* Jake to do:
+  1. Horseshoe raised bed seating area
+  2. Design & costing gabions
+  3. Pond placement ideas 
+
+### 1. Horseshoed raised bed
+
+* Using standard sleepers, can cut create seating area from 1.6m x 0.5m raised beds
+* Six in total
+* Ends cut to fit. Jake can calculate precise measurements. Megan can have wood cut to order.
+* High raised beds, 0.8m high (4 sleepers high). Provide shelter for seating area
+
+### 2. Gabions
+
+![Wildlife upright gabion](https://res.cloudinary.com/growdigital/image/upload/w_320/v1686651005/undergrove/gabion-pillar-fence-230522.jpg)  
+_Wildlife gabion, with slate roof held in place with old bricks_
+
+* 1.5m high, 0.45m square
+* Wildlife habitat
+  * Trail cam (viewing pond) 
+  * Bee logs
+  * Hoverfly lagoons
+  * Hedgehog hotel
+  * Toad hall
+  * Upcycled & graded aggregate
+* Build in gates for habitat
+* Cost ready made £110
+* Barry at Castle Forge would probably do beskpoke for cheaper!
+* Positioned either side of pond
+
+![Screenshot of gabion quote](https://res.cloudinary.com/growdigital/image/upload/w_400/v1705072191/primary/240112-gabion-quote.png)  
+_Gabion quote for ready made_
+
+### 3. Pond placement
+
+* In front of seating area (sunniest spot)
+* 1m² as limited space
+* Create tidy sloping drystone wall on 3 sides with local recovered stone - habitat and less weeding
+* On 3rd side, use wildflower turf to provide cover strip for wildlife using pond
+
 ## Wildlife Garden Package [Wed 10 Jan 2024](#wed-10-jan-2024)
 
 [Keep Wales Tidy Wildlife Garden Package](https://keepwalestidy.cymru/our-work/conservation/nature/development-packages/wildlife-garden/)
