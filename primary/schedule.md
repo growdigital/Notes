@@ -1,6 +1,6 @@
 # Primary schedule 📆
 
-[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
+[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Notes](https://grwd.uk/primary/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
 ## Wed 2 Aug 2023
 

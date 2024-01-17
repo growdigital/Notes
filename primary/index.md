@@ -1,6 +1,6 @@
 # Primary home 🏡
 
-[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://grwd.cc/primary-plants)
+[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Notes](https://grwd.uk/primary/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
 ![Show and tell plants on school table](https://res.cloudinary.com/growdigital/image/upload/w_320/v1655898484/primary/plant-table01-220615.jpg)
 

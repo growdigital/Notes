@@ -1,6 +1,6 @@
 # Primary notes 📝
 
-[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
+[Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Notes](https://grwd.uk/primary/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
 ## Horseshoe raised bed seating area, pond & gabions [Fri 12 Jan 2024](#fri-12-jan-2024)
 
