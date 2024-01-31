@@ -4,9 +4,17 @@
 
 ![Screenshot of satellite photo & CAD](https://res.cloudinary.com/growdigital/image/upload/w_320/v1637764609/clifftop/clifftop-0.6-screenshot.jpg)
 
-* Wk 01 - Mon 3 Jan
-    * Do one thing
-    * Do another thing
-* Wk 02 - Mon 10 Jan
-    * Second week thing
-
+* Wk 06 - Mon 5 Feb
+    * Initial design
+* Wk 07 - Mon 12 Feb
+    * Landscaping paths
+* Wk 08 - Mon 19 Feb
+    * Initial design
+    * Client meeting
+* Wk 09 - Mon 26 Feb
+    * Revised design
+    * Client approval
+* Wk 10 - Mon 4 Mar
+    * Markout design
+* Wk 11 - Mon 11 Mar
+    * Plant trees & hedging in forest garden
