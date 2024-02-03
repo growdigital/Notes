@@ -2,6 +2,13 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Sat 3 Feb 2024](#sat-3-feb-2024)
+
+![Cleft post and rail fencing](https://res.cloudinary.com/growdigital/image/upload/w_440/v1706996235/tir/peak-cleft-chestnut-with-sawn-chestnut-posts.jpg)
+
+* Quote from Kingsley 35m cleft oak post & rail fencing £907 inc VAT exc delivery & installation
+* Cheaper than [Cleftwood](https://www.cleftwood.com/) or [Peak Traditional Fencing](https://www.peaktraditionalfencing.co.uk/products/chestnut-oak-cleft-fencing/)
+
 ## [Wed 31 Jan 2024](#wed-31-jan-2024)
 
 * Great conversation with Jamie Miller from [Ty Pren](https://typren.co.uk/) about the Witches Garden Shed. 
