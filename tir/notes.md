@@ -4,6 +4,17 @@
 
 ## [Tue 6 Feb 2024](#tue-6-feb-2024)
 
+### Patio
+
+[![CAD plan on satellite](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707239592/tir/240206-patio-cad.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707239592/tir/240206-patio-cad.jpg)  
+_Click for hi-res_
+
+Extend the patio back 2-3 metres, remove & reuse the shed. Have the steps at the end of the garage up to the courtyard, and the other entrance a gradually sloping, curving path, extending from the corner of the dining room doors, around and up to the summerhouse.
+
+Remove (& reuse) existing steps in the middle; they would cut the space in half.
+
+Need to check angles, incline and how tight the curve can be. And, how the rising path would work with beds 🤔
+
 ### Courtyard
 
 ![Grass roof on outdoor office](https://res.cloudinary.com/growdigital/image/upload/w_400/v1707230874/tir/grass-roof-outdoor-office-john-little.jpg)
