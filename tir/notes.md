@@ -4,6 +4,25 @@
 
 ## [Tue 6 Feb 2024](#tue-6-feb-2024)
 
+### Courtyard
+
+![Grass roof on outdoor office](https://res.cloudinary.com/growdigital/image/upload/w_400/v1707230874/tir/grass-roof-outdoor-office-john-little.jpg)
+
+One of the sunniest spots on the site, so thinking to make good use of this by using stone and Mediterranean plants. A [grass roof]() on a relatively small summerhouse, which has a verandah. Raised beds with good drainage for herbs and scented plants. The underlying structure is very rectangular, so soften it with curves. 
+
+![](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707231123/tir/180320-pimpinella-anisum.jpg)  
+_Anise (Pimpinella anisum), Mediterranean aniseed_
+
+A stone wall on the neighbours side would block out noise, capture warmth from westerly sun and give a frame for scented climbers. To increase available space, could use narrow gabion wall, supported by posts. 
+
+![Gabion fence in garden with gaps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707231432/tir/gabion-gap-fence-garden.jpg)  
+_A gabion fence; this one has gaps, showing the narrow profile_
+
+If possible, source local reclaimed stone for courtyard surface and/or wall?
+
+![Stone cottage from Google Maps](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707230376/tir/240206-trimsaran-stone-google-maps.jpg)  
+_An example of local stone from the village_
+
 ### Witches hut advice
 
 Advice from a Reiki Master who also has shamanic training:
