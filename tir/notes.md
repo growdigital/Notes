@@ -25,7 +25,7 @@ I have sketched the rough direction of the main p0ath. It is as 11deg (need to d
 2. Perimeter path 260m
 3. Parking area 18m diameter
 
-Also note the position of the polytunnel and potting shed, both facing due south. Potting shed is 5m x 3m -- is this enough Russell? 
+Also note the position of the polytunnel and potting shed, both facing due south. Potting shed is 5m x 3m, area for veg growing is _about_ 185m². Is this enough Russell? 
 
 Really need to mark out the structures, existing flat areas, parking space and main path. Will do this on next visit.
 
