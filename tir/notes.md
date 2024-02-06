@@ -16,7 +16,7 @@ Advice from a Reiki Master who also has shamanic training:
 
 ### Forest garden first draft
 
-[![Screenshot of CAD plan on satellite](https://res.cloudinary.com/growdigital/image/upload/w_320v1707221057/tir/240206-satellite.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707221057/tir/240206-satellite.jpg)  
+[![Screenshot of CAD plan on satellite](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707221057/tir/240206-satellite.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707221057/tir/240206-satellite.jpg)  
 _Click for hi-res_
 
 I have sketched the rough direction of the main p0ath. It is as 11deg (need to double-check), so that it's a gradual slope to walk up. It is approximately 165m. There is also the perimeter path, which is used for maintenance and keeping the Bramble under control. This is about 260m. Landscapers to clear a path, so that can run wheeled brush cutter around it but it will be steep in places. Other job for path landscapers is clearing parking area at top. Also, need to discuss aggregate for paths and parking area.
