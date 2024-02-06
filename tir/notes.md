@@ -2,6 +2,33 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Tue 6 Feb 2024](#tue-6-feb-2024)
+
+### Witches hut advice
+
+Advice from a Reiki Master who also has shamanic training:
+
+> once the directions are marked in the hut, I feel they need to research and then meditate there to see what feels right for them if they just wish to use wiccan teachings.  There will be elements, colours and animals that correspond with the directions. 
+
+> However pyrite (fool's gold) should be popped in any windows/openings to create a positive and general protective glow around the hut and a smoky quarts point should be placed by the door pointing out.  A meditation with the smoky quartz point should be done focusing on firstly and always  -  for the greater good of all - then protectively whatever is sent to them is returned three fold.  
+
+> Of course once the hut is finished a good smudging should be done (burning sage, and allowing/wafting the smoke to envelope the space with the intent to clear, cleanse and protect the space) White sage is best, and it can be brought on Amazon
+
+### Forest garden first draft
+
+[![Screenshot of CAD plan on satellite](https://res.cloudinary.com/growdigital/image/upload/w_320v1707221057/tir/240206-satellite.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707221057/tir/240206-satellite.jpg)  
+_Click for hi-res_
+
+I have sketched the rough direction of the main p0ath. It is as 11deg (need to double-check), so that it's a gradual slope to walk up. It is approximately 165m. There is also the perimeter path, which is used for maintenance and keeping the Bramble under control. This is about 260m. Landscapers to clear a path, so that can run wheeled brush cutter around it but it will be steep in places. Other job for path landscapers is clearing parking area at top. Also, need to discuss aggregate for paths and parking area.
+
+1. Main path 165m 
+2. Perimeter path 260m
+3. Parking area 18m diameter
+
+Also note the position of the polytunnel and potting shed, both facing due south. Potting shed is 5m x 3m -- is this enough Russell? 
+
+Really need to mark out the structures, existing flat areas, parking space and main path. Will do this on next visit.
+
 ## [Mon 5 Feb 2024](#mon-5-feb-2024)
 
 ### Solar panels
