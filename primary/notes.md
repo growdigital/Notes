@@ -2,6 +2,14 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Notes](https://grwd.uk/primary/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## [Tue 6 Feb 2024](#tue-6-feb-2024)
+
+### Trail cam 
+
+![Trail cam and phone and sd card](https://res.cloudinary.com/growdigital/image/upload/w_200/v1707216952/primary/240206-ceymour-trailcam.jpg)
+
+* CEYOMUR Solar Wildlife Camera 4K 30fps, WiFi Bluetooth 46MP Trail Camera, 120° Detection Angle Night Vision Motion Activated IP66 Waterproof for Wildlife Monitoring with U3 32GB Micro SD Card [from Amazon](https://www.amazon.co.uk/CEYOMUR-Bluetooth-Detection-Waterproof-Monitoring/dp/B09Y8V268F/?th=1)
+
 ## Horseshoe raised bed seating area, pond & gabions [Fri 12 Jan 2024](#fri-12-jan-2024)
 
 [![CAD plan](https://res.cloudinary.com/growdigital/image/upload/w_320/v1705071088/primary/240112-cad-raised-bed-horseshoe.png)](https://res.cloudinary.com/growdigital/image/upload/v1705071088/primary/240112-cad-raised-bed-horseshoe.png)  
