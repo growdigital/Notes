@@ -4,6 +4,8 @@
 
 ## [Thu 8 Feb 2024](#thu-8-feb-2024)
 
+### Summerhouse
+
 [![Sketch perspective summer house](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707301805/tir/240207-summerhouse-perspective.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707301805/tir/240207-summerhouse-perspective.jpg)  
 _Click for hi-res_
 
@@ -11,6 +13,8 @@ For the courtyard, thinking of a roundwood summerhouse with a verandah and grass
 
 [![Sketch side view summer house](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707301052/tir/240207-summerhouse-sketch-side.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707301052/tir/240207-summerhouse-sketch-side.jpg)  
 _Click for hi-res_
+
+### Patio beds
 
 Today, working on the patio beds. The tricky thing is the change in level, about 1.8m? Steps by the garage, slowly sloping path at the back of the patio. Two terraced beds, so to speak. Material for retaining wall and beds? Ideally stone, but much cheaper option would be reclaimed stone filled gabions. Can also create curves with gabions. Ditto structure of raised beds. 
 
@@ -24,10 +28,22 @@ _Click for hi-res_
 
 Thinking to have smaller post and rail fence along retaining wall edge, for safety, behind a bed
 
+### Courtyard
+
 Because of narrowness of Courtyard, possibly use continuous “gabion walls” on neighbours boundary. Provide good privacy, and good growing surface for climbers and espalier fruit trees.
 
 ![Gabion wall with gaps](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707231432/tir/gabion-gap-fence-garden.jpg)  
 _This gabion wall has gaps, useful to see construction_
+
+### Fencing 
+
+![Cleft oak post and rail fencing in field](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707400560/tir/cleft-chestnut-with-sawn-chestnut-posts.jpg)  
+_Fencing by Peak Traditional Fencing_
+
+* Had quote from Kingsley on 3rd Feb
+* 35m of cleft oak post and rail fencing 
+* £907 for fencing, £150 delivery, £190 installation (£10 per post)
+* **£1,247 total**
 
 ## [Tue 6 Feb 2024](#tue-6-feb-2024)
 
