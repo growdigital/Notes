@@ -2,6 +2,33 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Thu 8 Feb 2024](#thu-8-feb-2024)
+
+[![Sketch perspective summer house](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707301805/tir/240207-summerhouse-perspective.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707301805/tir/240207-summerhouse-perspective.jpg)  
+_Click for hi-res_
+
+For the courtyard, thinking of a roundwood summerhouse with a verandah and grass roof.
+
+[![Sketch side view summer house](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707301052/tir/240207-summerhouse-sketch-side.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707301052/tir/240207-summerhouse-sketch-side.jpg)  
+_Click for hi-res_
+
+Today, working on the patio beds. The tricky thing is the change in level, about 1.8m? Steps by the garage, slowly sloping path at the back of the patio. Two terraced beds, so to speak. Material for retaining wall and beds? Ideally stone, but much cheaper option would be reclaimed stone filled gabions. Can also create curves with gabions. Ditto structure of raised beds. 
+
+[![Sketch of side of patio beds and path](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707399837/tir/240208-patio-bed-levels-side.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707399837/tir/240208-patio-bed-levels-side.jpg)  
+_Click for hi-res_
+
+The path runs by the side of the retaining wall. Be nice to get a curve in there, will talk to John.
+
+[![CAD plan of patio beds](https://res.cloudinary.com/growdigital/image/upload/w_320/v1707390693/tir/240208-double-patio-beds-outline.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707390693/tir/240208-double-patio-beds-outline.jpg)  
+_Click for hi-res_
+
+Thinking to have smaller post and rail fence along retaining wall edge, for safety, behind a bed
+
+Because of narrowness of Courtyard, possibly use continuous “gabion walls” on neighbours boundary. Provide good privacy, and good growing surface for climbers and espalier fruit trees.
+
+![Gabion wall with gaps](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707231432/tir/gabion-gap-fence-garden.jpg)  
+_This gabion wall has gaps, useful to see construction_
+
 ## [Tue 6 Feb 2024](#tue-6-feb-2024)
 
 ### Patio
