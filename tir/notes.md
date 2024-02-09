@@ -2,6 +2,20 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Fri 9 Feb 2024](#fri-9-feb-2024)
+
+### Courtyard and main walkway
+
+![CAD screenshot](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707512900/tir/240209-cad-whole.jpg)
+
+Working on the layout for the summerhouse. Moved it to the east, by the boundary, then a couple of shrubs (Bay?) on either side of patio path screens path a bit. Tricky entrance to the courtyard from the main crossroads, using 6 rectangular raised beds with a pergola, so breaking up vista but lettting in light. Also, elegant post & rail fence on entrance. 
+
+Main walkway is defined by crossroad: a big feature, seating, raised bed, water, tree?
+
+Enter from parking area, left to courtyard, straight on to forest garden, right to pool and veg area.
+
+![CAD screenshot close-up](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707512900/tir/240209-cad-courtyard.jpg)
+
 ## [Thu 8 Feb 2024](#thu-8-feb-2024)
 
 ### Summerhouse
