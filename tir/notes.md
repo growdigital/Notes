@@ -2,6 +2,38 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Mon 12 Feb 2024](#mon-12-feb-2024)
+
+### Aerial photos
+
+![Aerial photo of whole hillside](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707775281/tir/240212-aerial-whole-crop.jpg)  
+_Whole garden_
+
+![Garden around house](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707775279/tir/240212-aerial-curtilage.jpg)  
+_Curtilage_
+
+
+## UK habitat classification
+
+A little bit nerdy but kind of fun: how much habitat can you create in a garden?
+
+* [UKHab](https://ukhab.org/) website - UK habitat classification
+* [UKHab v2 Documentation](https://ukhab.org/download/35813/?tmstv=1707775442&tc_accepted=1) PDF↗
+
+
+## [Sun 11 Feb 2024](#sun-11-feb-2024)
+
+### Curved courtyard path
+
+[![CAD plan screenshot](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707669545/tir/240211-patio-courtyard.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707669545/tir/240211-patio-courtyard.jpg)  
+_Click for hi-res_
+
+Updated the path, so it mirrors the curve of the patio retaining wall. The crossroads feature will need to moved up slightly.
+
+## [Sat 10 Feb 2024](#sat-10-feb-2024)
+
+* [Here’s how utility-scale solar farms may just help save the bees](https://electrek.co/2024/01/23/utility-scale-solar-farms-bees/) - native plants and wild flowers around large scale solar farms.
+
 ## [Fri 9 Feb 2024](#fri-9-feb-2024)
 
 ### Courtyard and main walkway
