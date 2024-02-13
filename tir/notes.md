@@ -2,6 +2,23 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Tue 13 Feb 2024](#tue-13-feb-2024)
+
+### Forest garden CAD on aerial photo
+
+[![CAD on aerial photo](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707857759/tir/240213-cad-forest-garden-aerial.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1707857759/tir/240213-cad-forest-garden-aerial.jpg)  
+_Click for hi-res_
+
+[![CAD outline of garden](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707857759/tir/240213-cad-forest-garden-outline.png)](https://res.cloudinary.com/growdigital/image/upload/v1707857759/tir/240213-cad-forest-garden-outline.png)  
+_Click for hi-res_
+
+### Paths & areas for Matt
+
+* Main track: 155m long; wide, 11% slope
+* Side track on N boundary: 50m long; not-so-wide, gentle but can be over 11% slope 
+* Boundary track: 300m long; width of wheeled brush cutter; whatever slope
+* Top parking area: 50m²ish
+
 ## [Mon 12 Feb 2024](#mon-12-feb-2024)
 
 ### Aerial photos
