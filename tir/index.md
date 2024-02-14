@@ -14,7 +14,14 @@ Near the house is a courtyard and barbecue area, filled with Mediterranean herbs
 
 A hard standing walkway joins the courtyard and patio to the play area and lawn, and then the entrance to teh forest garden, past the wildlife pond. Further along the path is the hydrotherapy pool and the vegetable and propagation area.
 
-### Download [latest PDF](https://codeberg.org/natureworks/tir/src/branch/main/tir.pdf) & [outline PDF](https://codeberg.org/natureworks/tir/src/branch/main/tir-outline.pdf)
+### Download latest PDFs
+
+* [Forest garden](https://codeberg.org/natureworks/tir/src/branch/main/tir-forestgarden.pdf)
+* [Forest garden outline](https://codeberg.org/natureworks/tir/src/branch/main/tir-forestgarden-outline.pdf)
+* [House garden](https://codeberg.org/natureworks/tir/src/branch/main/tir-house.pdf)
+* [House garden outline](https://codeberg.org/natureworks/tir/src/branch/main/tir-house-outline.pdf)
+* [First draft](https://codeberg.org/natureworks/tir/src/branch/main/tir.pdf)
+* [First draft outline](https://codeberg.org/natureworks/tir/src/branch/main/tir-outline.pdf)
 
 ## Features
 
