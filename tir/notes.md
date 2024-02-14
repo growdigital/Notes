@@ -2,6 +2,30 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Wed 14 Feb 2024](#wed-14-feb-2024)
+
+### Update forest garden paths
+
+[![CAD plan of forest garden with loads of paths](https://res.cloudinary.com/growdigital/image/upload/w_420/v1707913430/tir/240214-cad-forest-garden-extra-paths.png)](https://res.cloudinary.com/growdigital/image/upload/v1707913430/tir/240214-cad-forest-garden-extra-paths.png)  
+_Click for hi-res_
+
+* Main path: 155m long; 1.2m wide; 11% slope
+* Solar panel path: 80m long; 0.9m wide; gentle as possible
+* Boundary path: 300m long; 0.5m wide; whatever slope
+* Connecting path: 70m long; 0.9m wide; gentle as possible
+* Woodland path: 125m long; 0.9m wide; gentle as possible
+* Top parking area: 50m²ish
+
+#### Path widths
+
+![Wheeled flail mower](https://res.cloudinary.com/growdigital/image/upload/w_420/v1678653248/oleo-mac-deb518-brush-mower.jpg)
+
+* Recommend [Oleo Mac WB 51 S6](https://www.oleo-mac.co.uk/en-gb/p/wb-51-s6-18599/) flail mower
+* 51cm cutting width
+* 1 pass: 0.5m wide
+* 2 pass: 0.9m wide
+* 2/3 pass: 1.2m wide
+
 ## [Tue 13 Feb 2024](#tue-13-feb-2024)
 
 ### Forest garden CAD on aerial photo
