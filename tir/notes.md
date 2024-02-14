@@ -12,7 +12,7 @@ _Click for hi-res_
 * Main path: 155m long; 1.2m wide; 11% slope
 * Solar panel path: 80m long; 0.9m wide; gentle as possible
 * Boundary path: 300m long; 0.5m wide; whatever slope
-* Connecting path: 70m long; 0.9m wide; gentle as possible
+* Connecting path: 80m long; 0.9m wide; gentle as possible
 * Woodland path: 125m long; 0.9m wide; gentle as possible
 * Top parking area: 50m²ish
 
