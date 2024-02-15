@@ -12,9 +12,12 @@ A secluded forest garden with a focus on native plants, with a majority of edibl
 
 Near the house is a courtyard and barbecue area, filled with Mediterranean herbs for cooking and scented plants for the night. The dining patio is in a secluded spot by the house, with tiered beds. 
 
-A hard standing walkway joins the courtyard and patio to the play area and lawn, and then the entrance to teh forest garden, past the wildlife pond. Further along the path is the hydrotherapy pool and the vegetable and propagation area.
+A hard standing walkway joins the courtyard and patio to the play area and lawn, and then the entrance to the forest garden, past the wildlife pond. Further along the path is the hydrotherapy pool and the vegetable and propagation area.
 
 ### Download latest PDFs
+
+[![CAD forest garden plan screenshot](https://res.cloudinary.com/growdigital/image/upload/w_320/v1708001674/tir/240215-cad-forest-garden-first-draft.png)](https://res.cloudinary.com/growdigital/image/upload/v1708001674/tir/240215-cad-forest-garden-first-draft.png)  
+_Click for hi-res_
 
 * [Forest garden](https://codeberg.org/natureworks/tir/src/branch/main/tir-forestgarden.pdf)
 * [Forest garden outline](https://codeberg.org/natureworks/tir/src/branch/main/tir-forestgarden-outline.pdf)
@@ -43,7 +46,7 @@ A hard standing walkway joins the courtyard and patio to the play area and lawn,
 
 ## Videos
 
-[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1638362351/clifftop/clifftop-livestream.jpg)](https://grwd.cc/tir-playlist)
+[![Screenshot of livestream](https://res.cloudinary.com/growdigital/image/upload/w_320/v1708001841/tir/240209-youtube-livestream-screenshot-.jpg)
 
 [Tir playlist](https://grwd.cc/tir-playlist)
 
