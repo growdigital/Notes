@@ -2,6 +2,33 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Fri 16 Feb 2024](#fri-16-feb-2024)
+
+### Parking
+
+![Screenshot of CAD car parking](https://res.cloudinary.com/growdigital/image/upload/v1708106934/tir/240216-parking.png)  
+
+* Looks like the Griselenia tree is too big for the parking area :(
+* Outlines are for the Volvo XC90
+
+### Forest garden witchy parking
+
+[![](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708106934/tir/240216-cad-forest-garden-screenshot-parking.png)](https://res.cloudinary.com/growdigital/image/upload/v1708106934/tir/240216-cad-forest-garden-screenshot-parking.png)  
+_Click for hi-res_
+
+* Space for 3 vehicles in parking at top of land
+* Very useful access point for garden supplies
+
+### House garden update
+
+[![CAD screenshot of garden design](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708106934/tir/240216-cad-screenshot-house-garden.png)](https://res.cloudinary.com/growdigital/image/upload/v1708106934/tir/240216-cad-screenshot-house-garden.png)  
+_Click for hi-res_
+
+* Updated the house garden design, to fit in with the aerial photo
+* There is distortion on the photo from the angles
+* Design is robust though
+* Might only be room for 2 raised beds on courtyard entrance
+
 ## [Wed 14 Feb 2024](#wed-14-feb-2024)
 
 ### Update forest garden paths
