@@ -18,6 +18,15 @@ _Click for hi-res_
 * Approx 40
 * Biodegradeable
 
+### Parking area
+
+[![Sketch of parking area](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708439710/tir/240220-parking-sketch.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1708439710/tir/240220-parking-sketch.jpg)  
+_Click for hi-res_
+
+* Much easier for parking if area is levelled, with retaining wall at back
+* Will need to measure drop, might want to put raised beds in front of retaining wall, depending on height
+* Once have heights, work out screening plants between patio and parking
+
 ## [Fri 16 Feb 2024](#fri-16-feb-2024)
 
 ### Parking
