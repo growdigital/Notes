@@ -45,6 +45,13 @@ _Click for hi-res_
 * Design is robust though
 * Might only be room for 2 raised beds on courtyard entrance
 
+### Dead hedges
+
+![close-up split chesntut log](https://res.cloudinary.com/growdigital/image/upload/w_420/v1680700753/rockvalley/closeup-split-chestnut.jpg)
+
+* Approx 140 split Chestnut posts
+* Approx protection for 35 trees
+
 ## [Wed 14 Feb 2024](#wed-14-feb-2024)
 
 ### Update forest garden paths
