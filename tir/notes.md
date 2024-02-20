@@ -2,6 +2,22 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Tue 20 Feb 2024](#tue-20-feb-2024)
+
+### Courtyard raised beds
+
+[![CAD screenshot of garden design](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708291452/tir/240218-cad-screenshot-house-curve-courtyard.png)](https://res.cloudinary.com/growdigital/image/upload/v1708291452/tir/240218-cad-screenshot-house-curve-courtyard.png)  
+_Click for hi-res_
+
+* Have made courtyard entrance raised beds curved, with central point on centre of verandah
+
+### Tree guards
+
+![Tree guards on young trees on barbed wire fence overlooking field](https://res.cloudinary.com/growdigital/image/upload/420/v1708425545/tir/rainbow-treebio-tree-guards-biodegradeable.jpg)
+
+* Approx 40
+* Biodegradeable
+
 ## [Fri 16 Feb 2024](#fri-16-feb-2024)
 
 ### Parking
