@@ -2,6 +2,14 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Tue 27 Feb 2024](#Tue-27-Feb-2024)
+
+[![Sketch of courtyard garden](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708955963/tir/240226-sketch-courtyard.webp)](https://res.cloudinary.com/growdigital/image/upload/v1708955963/tir/240226-sketch-courtyard.webp)  
+_Click for hi-res_
+
+[![Sketch of gabion raised bed](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708958039/tir/240226-sketch-patio-beds.webp)](https://res.cloudinary.com/growdigital/image/upload/v1708958039/tir/240226-sketch-patio-beds.webp)  
+_Click for hi-res_
+
 ## [Mon 26 Feb 2024](#Mon-26-Feb-2024)
 
 Catchup from past week. Mostly been ordering plants and updating spreadsheet [grwd.cc/tir-plants](https://grwd.cc/tir-plants) and site visit Friday 24th February
