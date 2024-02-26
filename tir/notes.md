@@ -2,6 +2,47 @@
 
 [Home](https://grwd.uk/tir/) • [Schedule](https://grwd.uk/tir/schedule) • [Manage](https://grwd.uk/tir/manage) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/tir/) • [Plants↗](https://grwd.cc/tir-plants) • [Notes](https://grwd.uk/tir/notes)
 
+## [Mon 26 Feb 2024](#Mon-26-Feb-2024)
+
+Catchup from past week. Mostly been ordering plants and updating spreadsheet [grwd.cc/tir-plants](https://grwd.cc/tir-plants) and site visit Friday 24th February
+
+### Landscaping
+
+* Matt booked for Monday 4th March. Jake coming that day to discuss placement of paths, possibly markout trees, and take aerial photos for updating plan.
+* Landscaping will take a couple of weeks, to Friday 15th March. Should be able to start planting before then, on the areas that have been finished.
+* Jake to visit at end of landscaping, to take aerial photos for final update of forest garden plan.
+
+### Pinch points
+
+![Aerial plan with red squiggle circle](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708945575/tir/240224-scrub-corner.jpg)  
+_Scrubby corner in Witches Garden_
+
+![Aerial plan with 3 red circles](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708945576/tir/240224-hazel-plan.jpg)  
+_Removal of Hazels in Witches Garden?_
+
+* Raised with Russell via WhatsApp Saturday 25th February:
+  * I'm aware that there's a lot of rubbish on the site. Depending on how much work you have on, it might be an idea to see how much there is before Matt arrives, as it will probably slow them down a lot, and I am very keen to get the plants in ASAP.
+  * There is a lot of brush in the top corner behind where the Witches Hut is marked out (see photo). It would make sense in terms of usable space to clear out that corner. There is also a big pile of earth there too. Matt can do this, just wanted to highlight it for you now.
+  * What is the size and orientation of the solar panels? Planning says 5m from boundary (do double-check) which is what I have marked out with bamboo and string. But really need to know position and size before putting in solar path.
+  * Which hazels to remove from Witches Garden. I've marked these up on the plan but obviously, need to run this past T&J. (attached photo)
+
+Also, there is the remnants of the Box hedge by the play area. Is this in any state to rescue? Or replace with tall Bowles Willow and Privet hedge?
+
+[![Box hedge](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708780746/tir/240223-box.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1708780746/tir/240223-box.jpg)  
+_Click for hi-res_
+
+Re. Blackthorn, there is _plenty_ in the hedge along the southern boundary:
+
+![Blackthorn in a hedge](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708780746/tir/240223-blackthorn.jpg)
+
+Finally, couple of photos that I'll be using to create sketches for Courtyard and Patio.
+
+[![Photo of building site](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708780746/tir/240223-courtyard.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1708780746/tir/240223-courtyard.jpg)  
+_Click for hi-res_
+
+[![Another photo of building site](https://res.cloudinary.com/growdigital/image/upload/w_420/v1708780746/tir/240223-tree-house.jpg)](https://res.cloudinary.com/growdigital/image/upload/v1708780746/tir/240223-tree-house.jpg)  
+_Click for hi-res_
+
 ## [Tue 20 Feb 2024](#tue-20-feb-2024)
 
 ### Courtyard raised beds
