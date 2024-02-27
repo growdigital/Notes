@@ -20,11 +20,7 @@ A hard standing walkway joins the courtyard and patio to the play area and lawn,
 _Click for hi-res_
 
 * [Forest garden](https://codeberg.org/natureworks/tir/src/branch/main/tir-forestgarden.pdf)
-* [Forest garden outline](https://codeberg.org/natureworks/tir/src/branch/main/tir-forestgarden-outline.pdf)
 * [House garden](https://codeberg.org/natureworks/tir/src/branch/main/tir-house.pdf)
-* [House garden outline](https://codeberg.org/natureworks/tir/src/branch/main/tir-house-outline.pdf)
-* [First draft](https://codeberg.org/natureworks/tir/src/branch/main/tir.pdf)
-* [First draft outline](https://codeberg.org/natureworks/tir/src/branch/main/tir-outline.pdf)
 
 ## Features
 
@@ -52,9 +48,8 @@ _Click for hi-res_
 
 ## Files
 
-* [Download latest PDF](https://codeberg.org/natureworks/tir/src/branch/main/tir.pdf)
-* [Download latest CAD file](https://codeberg.org/natureworks/tir/src/branch/main/tir.dxf)
-* [Satellite image](https://codeberg.org/natureworks/tir/src/branch/main/satellite.jpg)
+* [Forest garden](https://codeberg.org/natureworks/tir/src/branch/main/tir-forestgarden.pdf)
+* [House garden](https://codeberg.org/natureworks/tir/src/branch/main/tir-house.pdf)
 * [Codeberg repository](https://codeberg.org/natureworks/tir)
 
 This page online: <https://grwd.uk/tir>
