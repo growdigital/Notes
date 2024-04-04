@@ -2,6 +2,30 @@
 
 [Home](https://grwd.uk/primary) • [Schedule](https://grwd.uk/primary/schedule) • [Notes](https://grwd.uk/primary/notes) • [Pinterest↗](https://pinterest.co.uk/NatureWorksGarden/primary) • [Plants↗](https://bit.ly/primary-plants)
 
+## [Thu 4 Apr 2024](#thu-4-apr-2024)
+
+### Meeting
+
+1. Move bank of grass
+  1. Ask for volunteers in newsletter
+  2. Find suitable location
+  3. Deturf remaining grass
+  4. Remove & level areas to new sizes
+  5. Volunteers move turf/soil (Friday)
+2. Find shale/clay hardcore
+  1. Work out volume required
+  2. Arrange transport
+3. Spread hardcore
+  1. Arrange breaker/tamper
+  2. Volunteers shovel & spread hardcore (Friday)
+  3. Tamp down hardcore, create path surface
+
+Next stage:
+
+* Wildlife lab - magnifying glass, microscope, trailcam, ID books
+* Art materials - sand, clay, weaving, materials
+* New curriculum - statutory requirement for outdoor learning in different subjects. Guidelines available?
+
 ## [Tue 6 Feb 2024](#tue-6-feb-2024)
 
 ### Trail cam 
