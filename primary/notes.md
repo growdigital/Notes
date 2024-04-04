@@ -7,18 +7,18 @@
 ### Meeting
 
 1. Move bank of grass
-  1. Ask for volunteers in newsletter
-  2. Find suitable location
-  3. Deturf remaining grass
-  4. Remove & level areas to new sizes
-  5. Volunteers move turf/soil (Friday)
+    1. Ask for volunteers in newsletter
+    2. Find suitable location
+    3. Deturf remaining grass
+    4. Remove & level areas to new sizes
+    5. Volunteers move turf/soil (Friday)
 2. Find shale/clay hardcore
-  1. Work out volume required
-  2. Arrange transport
+    1. Work out volume required
+    2. Arrange transport
 3. Spread hardcore
-  1. Arrange breaker/tamper
-  2. Volunteers shovel & spread hardcore (Friday)
-  3. Tamp down hardcore, create path surface
+    1. Arrange breaker/tamper
+    2. Volunteers shovel & spread hardcore (Friday)
+    3. Tamp down hardcore, create path surface
 
 Next stage:
 
